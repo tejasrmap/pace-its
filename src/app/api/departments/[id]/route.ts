@@ -78,3 +78,4 @@ export async function PUT(
     return NextResponse.json({ error: 'Failed to update department' }, { status: 500 });
   }
 }
+

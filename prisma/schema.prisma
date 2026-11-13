@@ -381,3 +381,4 @@ model WebsiteSetting {
   group     String   @default("GENERAL") // "GENERAL", "ADMISSIONS", "CONTACT", "SEO"
   updatedAt DateTime @updatedAt
 }
+

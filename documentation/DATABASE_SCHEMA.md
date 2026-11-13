@@ -112,3 +112,4 @@ erDiagram
    - Event photo albums for all 204 event archives.
 5. **`NewsArticle` & `WebsiteSetting`**:
    - Homepage announcements ticker, global contact, and institutional settings.
+

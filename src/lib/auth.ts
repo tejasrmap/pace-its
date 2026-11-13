@@ -76,3 +76,4 @@ export function checkRole(user: AuthUser | null, allowedRoles: string[]): boolea
   if (user.roles.includes('SUPER_ADMIN')) return true;
   return user.roles.some(r => allowedRoles.includes(r));
 }
+

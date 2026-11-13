@@ -125,3 +125,4 @@ export async function DELETE(
     return NextResponse.json({ error: 'Failed to delete page' }, { status: 500 });
   }
 }
+

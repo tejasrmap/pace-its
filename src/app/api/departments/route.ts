@@ -64,3 +64,4 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Failed to create department: ' + error.message }, { status: 500 });
   }
 }
+

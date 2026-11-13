@@ -188,3 +188,4 @@
 - **Endpoint:** `GET /api/audit-logs`
 - **Access:** `SUPER_ADMIN`, `PRINCIPAL`
 - **Query Parameters:** `page`, `limit`, `action`, `entityType`.
+

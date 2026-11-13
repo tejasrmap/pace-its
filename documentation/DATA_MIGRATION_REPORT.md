@@ -51,3 +51,4 @@ Phase 4 successfully migrated all institutional baseline data extracted during P
    - `RolePermission` cascades on `Role` or `Permission` deletion.
    - `PageSection`, `PageDocument`, and `PageImage` cascade on `Page` deletion.
    - `AdmissionApplication.assignedToId` sets null on User deletion to preserve lead records.
+

@@ -106,3 +106,4 @@ For regulatory compliance and institutional governance, all administrative actio
 - Route creation, metadata changes, and page deletions.
 - Admission application status transitions.
 - Each record records the timestamp, user email, action name, target entity ID, IP address, and changed parameters.
+

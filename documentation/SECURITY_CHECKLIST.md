@@ -43,3 +43,4 @@
 
 - [x] **CORS Configuration:** API endpoints restricted to institutional origin.
 - [x] **Environment Secrets Isolation:** Database URLs and JWT signing secrets isolated within `.env` and omitted from public version control.
+

@@ -78,3 +78,4 @@ The platform implements an institutional Role-Based Access Control model reflect
 1. **Password Hashing:** Passwords are encrypted using `bcryptjs` with salt rounds = 10.
 2. **JWT Session:** Auth tokens are signed with HMAC-SHA256 (`pace_its_secure_jwt_secret_gt_innox_2026`) and stored in HTTP-Only, SameSite cookies (`pace_admin_token`) valid for 7 days.
 3. **Auditing:** Every login, login failure, status mutation, page edit, and deletion writes an immutable entry into the `AuditLog` table containing user identity, IP address, timestamp, and payload changes.
+
