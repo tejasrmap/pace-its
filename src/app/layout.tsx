@@ -1,6 +1,13 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import './globals.css';
 import { siteConfig } from '@/data/siteConfig';
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: '#073B60',
+};
 
 export const metadata: Metadata = {
   title: {
@@ -14,8 +21,6 @@ export const metadata: Metadata = {
     "NAAC A Grade College AP", "AI & Data Science Ongole", "Cyber Security Engineering AP"
   ],
   authors: [{ name: "GT InnoX LLP", url: "https://pace.ac.in" }],
-  viewport: "width=device-width, initial-scale=1, maximum-scale=5",
-  themeColor: "#073B60",
   icons: {
     icon: "/favicon.ico",
   },
@@ -34,4 +39,3 @@ export default function RootLayout({
     </html>
   );
 }
-
