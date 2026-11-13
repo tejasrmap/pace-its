@@ -1,0 +1,365 @@
+{
+  "url": "https://pace.ac.in/public/curriculum_syllabus",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Curriculum and Syllabus"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": []
+  },
+  "tabs": [],
+  "tab_panes_count": 0,
+  "tables_count": 2,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Civil Engineering",
+          "Electrical and Electronics Engineering",
+          "Mechanical Engineering",
+          "Electronics and Communication Engineering",
+          "Computer Science & Engineering",
+          "Computer Science & Information Technology",
+          "Information Technology",
+          "Computer Science & Engineering(IOT & CSBT)",
+          "Artificial Intelligence & Data Science",
+          "Artificial Intelligence & Machine Learning",
+          "Electronics Engineering (VLSI Design & Technology)"
+        ],
+        [
+          "CIVIL R23CIVIL R21CIVIL R18",
+          "EEE R23EEE R21EEE R18",
+          "MECH R23MECH R21MECH R18",
+          "ECE R23ECE R21ECE R18",
+          "CSE R23CSE R21CSE R18",
+          "CSIT R23CSIT R21CSIT R18",
+          "IT R23IT R21IT R18",
+          "IoT R23IoT R21IoT R18",
+          "AI & DS R23AI & DS R21AI & DS R18",
+          "AI & ML R23AI & ML R21AI & ML R18",
+          "ECE VLSI R23"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Computer Science & Engineering",
+          "VLSI",
+          "Civil(Structural Engineering)",
+          "Masters of Business Administration"
+        ],
+        [
+          "CSE R25CSE R21CSE R18",
+          "VLSI R25VLSI R21VLSI R18",
+          "CIVIL R21CIVIL R18",
+          "MBA R24MBA R21MBA R18"
+        ]
+      ]
+    }
+  ],
+  "images_count": 3,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 54,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CIVIL R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CIVIL_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CIVIL R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CIVIL_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CIVIL R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CIVIL_R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EEE R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/EEE_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EEE R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/EEE_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EEE R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/EEE_R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MECH R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/MECH_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MECH R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/MECH_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MECH R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/MECH_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ECE R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/ECE_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ECE R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/ECE_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ECE R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/ECE_R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CSE R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CSE_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CSE R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CSE_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CSE R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CSE_R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CSIT R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CSIT_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CSIT R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CSIT_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CSIT R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CSIT_R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IT R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/IT_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IT R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/IT_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IT R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/IT_R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IoT R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/CSE_IOT_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IoT R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/IOT_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IoT R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/IOT_R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AI & DS R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/AIDS_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AI & DS R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/AIDS_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AI & DS R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/AIDS_R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AI & ML R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/AIML_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AI & ML R21",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/AIML_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AI & ML R18",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/AIML_R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ECE VLSI R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/ECE_VLSI_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CSE R25",
+      "url": "https://pace.ac.in/public/public/assets/images/R25 CSE M_TECH SYLLABUS NEW.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CSE R21",
+      "url": "https://pace.ac.in/public/public/assets/images/CSE_MTech_R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CSE R18",
+      "url": "https://pace.ac.in/public/public/assets/images/CSE-Mtech-R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "VLSI R25",
+      "url": "https://pace.ac.in/public/public/assets/images/M_Tech_R25_ECE_VLSI_Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "VLSI R21",
+      "url": "https://pace.ac.in/public/public/assets/images/PG-(M.TECH(VLSI&ES)SYLLABUS R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "VLSI R18",
+      "url": "https://pace.ac.in/public/public/assets/images/M.TECH (VLSI & ES ) Regulation &syallabus (R18).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CIVIL R21",
+      "url": "https://pace.ac.in/public/public/assets/images/R21 M.Tech Civil Structural Engineering Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CIVIL R18",
+      "url": "https://pace.ac.in/public/public/assets/images/R18 M.Tech Civil Structural Engineering Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA R24",
+      "url": "https://pace.ac.in/public/public/assets/images/R24-MBA.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA R21",
+      "url": "https://pace.ac.in/public/public/assets/images/R21-MBA.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA R18",
+      "url": "https://pace.ac.in/public/public/assets/images/R18-MBA.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

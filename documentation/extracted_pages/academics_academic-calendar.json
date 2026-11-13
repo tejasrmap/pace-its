@@ -1,0 +1,564 @@
+{
+  "url": "https://pace.ac.in/academics/academic-calendar",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Academic Calendars"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "B.Tech",
+      "M.Tech",
+      "M.B.A"
+    ]
+  },
+  "tabs": [],
+  "tab_panes_count": 0,
+  "tables_count": 0,
+  "tables": [],
+  "images_count": 4,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/acadcalen.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 102,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IV_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2018_19",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/IV_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2018_19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2018_19",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/III_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2018_19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II_BTECH_I_II SEM_ACADEMIC_CALENDAR_2018_19",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/II_BTECH_I_II SEM_ACADEMIC_CALENDAR_2018_19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I&I-II-BTECH-AC-YEAR-2018-19",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/1.I-I&I-II-BTECH-AC-YEAR-2018-19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IV_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2019_20",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/IV_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2019_20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2019_20",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/III_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2019_20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I,I-II-BTECH-AC-YEAR-2019-20",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/2.I-I-I-II-BTECH-AC-YEAR-2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II-I, II-II-BTECH-AC-YEAR2019-20",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/3.II-I-II-II-BTECH-AC-YEAR2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IV_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2020_21",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/IV_BTECH_I_II_SEM_ACADEMIC_CALENDAR_2020_21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I,I-II-BTECHAC-YEAR-2020-21",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/4.I-I-I-II-BTECHAC-YEAR-2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-II-BTECHAC-YEAR-2020-21-REV",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/5.I-II-BTECHAC-YEAR-2020-21-REV.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II-I,III-I-II-II,III-II-BTECH-AC-YEAR-2020-21",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/6.II-I,III-I-II-II,III-II-BTECH-AC-YEAR-2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I,I-II-BTECHAC-YEAR-2021-22",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/7-I-I-I-II-BTECHAC-YEAR-2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II,III,IV-B.TECH-I-SEM-II-SEM-AC-YEAR-2021-22",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/8.II,III,IV-B.TECH-I-SEM-II-SEM-AC-YEAR-2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I, I-II-BTECH-AC-YEAR-2022-23",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/9.I-I-I-II-BTECH-AC-YEAR-2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II-I&II-II-BTECH-AC-YEAR-2022-23",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/10.II-I&II-II-BTECH-AC-YEAR-2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II-II-BTECH-AC-YEAR-2022-23 MODIFIED",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/11.II-II-BTECH-AC-YEAR-2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III-I, III-II-BTECH-AC-YEAR-2022-23",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/12-III-I-III-II-BTECH-AC-YEAR-2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IV-I, IV-II-BTECH-AC-YEAR-2022-23",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/13.IV-I-IV-II-BTECH-AC-YEAR-2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II BTECH I & II SEM ACADEMIC CALENDER _2023-24",
+      "url": "https://pace.ac.in/public/assets/images/timetabledata/II BTECH I & II SEM ACADEMIC CALENDER _2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III BTECH I & II SEM ACADEMIC CALENDER _2023-24",
+      "url": "https://pace.ac.in/public/assets/images/timetabledata/III BTECH I&II SEM ACADEMIC CALENDER_2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IV BTECH I & II SEM ACADEMIC CALENDER _2023-24",
+      "url": "https://pace.ac.in/public/assets/images/timetabledata/IV BTECH I&II SEM ACADEMIC CALENDER_2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I BTECH I & II SEM ACADEMIC CALENDAR 2023-2024",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/I BTECH I & II SEM ACADEMIC CALENDAR 2023-2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IV_BTECH_II_SEM_ACADEMIC_CALENDAR_2023_2024",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/IV_BTECH_II_SEM_ACADEMIC_CALENDAR_2023_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II_BTECH_II_SEM_ACADEMIC_CALENDAR_2023_2024",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/II_BTECH_II_SEM_ACADEMIC_CALENDAR_2023_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III_BTECH_II_SEM_ACADEMIC_CALENDAR_2023_2024",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/III_BTECH_II_SEM_ACADEMIC_CALENDAR_2023_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I_BTECH_II_SEM_ACADEMIC_CALENDER _2023-2024",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/I_BTECH_II_SEM_ACADEMIC_CALENDER _2023-2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II BTECH I SEM ACADEMIC CALENDER_2024_2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/II BTECH I SEM ACADEMIC CALENDER_2024_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III BTECH I SEM ACADEMIC CALENDER_2024_2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/III BTECH I SEM ACADEMIC CALENDER_2024_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IV BTECH I SEM ACADEMIC CALENDER_2024_2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/IV BTECH I SEM ACADEMIC CALENDER_2024_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I_BTECH_I_SEM_ACADEMIC_CALENDER_AY_2024_2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/I_BTECH_I_SEM_ACADEMIC_CALENDER_AY_2024_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III BTECH II SEM ACADEMIC CALENDER _AY_2024_2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/III BTECH II SEM ACADEMIC CALENDER _AY_2024_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I BTECH II SEM ACADEMIC CALENDER _AY_2024_2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/I BTECH II SEM ACADEMIC CALENDER _AY_2024_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II BTECH II SEM ACADEMIC CALENDER _AY_2024_2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/II BTECH II SEM ACADEMIC CALENDER _AY_2024_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "B_TECH_I_I SEM ACADEMIC CALENDER_2025-2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/B_TECH_I_I SEM ACADEMIC CALENDER_2025-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II B_TECH I and II SEM ACADEMIC CALENDER_2025-2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/II B_TECH I and II SEM ACADEMIC CALENDER_2025-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III B_TECH I and II SEM ACADEMIC CALENDER_2025-2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/III B_TECH I and II SEM ACADEMIC CALENDER_2025-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IV B_TECH I and II SEM ACADEMIC CALENDER_2025-2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/IV B_TECH I and II SEM ACADEMIC CALENDER_2025-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "REVISED_I_B TECH_II_SEM_ACADEMIC CALENDER_AY_2025_2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/REVISED_I_B TECH_II_SEM_ACADEMIC CALENDER_AY_2025_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "REVISED_II_B TECH_II_SEM_ACADEMIC CALENDER_AY_2025_2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/REVISED_II_B TECH_II_SEM_ACADEMIC CALENDER_AY_2025_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "REVISED_III_B TECH_II_SEM_ACADEMIC CALENDER_AY_2025_2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/REVISED_III_B TECH_II_SEM_ACADEMIC CALENDER_AY_2025_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "REVISED_IV_B TECH_II_SEM_ACADEMIC CALENDER_AY_2025_2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/REVISED_IV_B TECH_II_SEM_ACADEMIC CALENDER_AY_2025_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II_BTECH_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/II_BTECH_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III BTECH_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/III BTECH_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IV BTECH_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/btech/IV BTECH_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "M_TECH_III_IV_SEM_ACADEMIC_CALENDAR_2018_19",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/M_TECH_III_IV_SEM_ACADEMIC_CALENDAR_2018_19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I & I-II M.TECH AC YEAR 2018-19",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/14.I-I & I-II M.TECH AC YEAR 2018-19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I & I-II M.TECH AC YEAR 2019-20",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/15.I-I & I-II M.TECH AC YEAR 2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III & IV M.TECH AC YEAR 2019-20",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/16.III & IV M.TECH AC YEAR 2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I & I-II M.TECH AC YEAR 2020-21",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/17.I-I & I-II M.TECH AC YEAR 2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III & IV M.TECH AC YEAR 2020-21",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/18.III & IV M.TECH AC YEAR 2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-II M.TECH AC YEAR 2020-21",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/19.I-II M.TECH AC YEAR 2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I & I-II M.TECH AC YEAR 2021-22",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/19I-I & I-II M.TECH AC YEAR 2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III & IV M.TECH AC YEAR 2021-22",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/20.III & IV M.TECH AC YEAR 2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I & I-II M.TECH AC YEAR 2022-23",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/21.I-I & I-II M.TECH AC YEAR 2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III & IV M.TECH AC YEAR 2022-23",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/22.III & IV M.TECH AC YEAR 2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MTECH III & IV SEM ACADEMIC CALENDAR 2023-2024",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/MTECH III & IV SEM ACADEMIC CALENDAR 2023-2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "M_TECH_I_II_SEMESTERS_ACADEMIC_CALENDER_AY_2023_24",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/M_TECH_I_II_SEMESTERS_ACADEMIC_CALENDER_AY_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "M_TECH I SEM ACADEMIC CALENDER_AY_2024-2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/M_TECH I SEM ACADEMIC CALENDER_AY_2024-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "M_TECH II SEM ACADEMIC CALENDER_AY_2024-2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/M_TECH II SEM ACADEMIC CALENDER_AY_2024-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "M_TECH III _IV_SEM ACADEMIC CALENDER_AY_2024-2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/M_TECH III _IV_SEM ACADEMIC CALENDER_AY_2024-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "M_TECH III_IV SEM ACADEMIC CALENDER_2025-2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/M_TECH_III_IV SEM ACADEMIC CALENDER_2025_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MTECH I_SEM_II_SEM ACADEMIC CALENDER_2025_2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/MTECH I_SEM_II_SEM ACADEMIC CALENDER_2025_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II MTECH_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/II MTECH_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I MTECH I_II_SEM_ACADEMIC CALENDER_2026_2027",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/I MTECH I_II_SEM_ACADEMIC CALENDER_2026_2027.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I & II SEM MBA AC YEAR 2018-19",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/23.I & II SEM MBA AC YEAR 2018-19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I & II SEM MBA AC YEAR 2019-20",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/24.I & II SEM MBA AC YEAR 2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III & IV SEM MBA AC YEAR 2019-20",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/29.III & IV SEM MBA AC YEAR 2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III & IV SEM MBA AC YEAR 2020-21",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/30.III & IV SEM MBA AC YEAR 2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I & II SEM MBA AC YEAR 2020-21",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/25.I & II SEM MBA AC YEAR 2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II SEM MBA AC YEAR 2020-21",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/28.II SEM MBA AC YEAR 2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I & I-II MBA SEM AC YEAR 2021-22",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/27.I-I & I-II MBA SEM AC YEAR 2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III & IV SEM MBA AC YEAR 2021-22",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/31.III & IV SEM MBA AC YEAR 2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I-I & I-II MBA AC YEAR 2022-23",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/26.I-I & I-II MBA AC YEAR 2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III & IV SEM MBA AC YEAR 2022-23",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/32.III & IV SEM MBA AC YEAR 2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I MBA  II SEM ACADEMIC CALENDAR 2022-2023",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/I MBA  II SEM ACADEMIC CALENDAR 2022-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA IV SEM ACADEMIC CALENDAR 2022-2023",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/MBA IV SEM ACADEMIC CALENDAR 2022-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA_III_IV_SEM_ACADEMIC_CALENDAR_AY_2023_24",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/MBA_III_IV_SEM_ACADEMIC_CALENDAR_AY_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA_I_II_SEMESTERS_ACADEMIC_CALENDAR_AY_2023_24",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/MBA_I_II_SEMESTERS_ACADEMIC_CALENDER_AY_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "REVISED_MBA_II_II_SEM_ACADEMIC_CALENDAR_AY_2023-2024",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/REVISED_MBA_II_II_SEM_ACADEMIC_CALENDR_AY_2023-2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "REVISED_MBA_I_II_SEM_ACADEMIC_CALENDAR_AY_2023-2024",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/REVISED_MBA_I_II_SEM_ACADEMIC_CALENDR_AY_2023-2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I_MBA_I_SEM_ACADEMIC_CALENDAR_AY_2024_2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/I_MBA_I_SEM_ACADEMIC_CALENDER_AY_2024_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA_III_SEM_ACADEMIC_CALENDAR_AY_2024_2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/MBA_III_SEM_ACADEMIC_CALENDER_AY_2024_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA IV SEM ACADEMIC CALENDAR_AY_2024-2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/MBA IV SEM ACADEMIC CALENDER_AY_2024-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I MBA II SEM ACADEMIC CALENDAR_AY_2024-2025",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/I MBA II SEM ACADEMIC CALENDER_AY_2024-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA III _IV SEM ACADEMIC CALENDAR_2025-2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/MBA III _IV SEM ACADEMIC CALENDER_2025-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA_I_SEM_II_SEM ACADEMIC CALENDAR_2025_2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/MBA_I_SEM_II_SEM ACADEMIC CALENDER_2025_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MBA_I_II_SEM_ACADEMIC CALENDAR_AY_2025_2026",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/MBA_I_II_SEM_ACADEMIC CALENDER_AY_2025_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II MBA_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mba/II MBA_I_II_SEM_ACADEMIC CALENDER_AY_2026_2027.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I MBA I_II_SEM_ACADEMIC CALENDER_2026_2027",
+      "url": "https://pace.ac.in/public/assets/images/academicdata/mtech/I MBA I_II_SEM_ACADEMIC CALENDER_2026_2027.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

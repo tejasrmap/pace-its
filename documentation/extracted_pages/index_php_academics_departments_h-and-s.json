@@ -1,0 +1,1495 @@
+{
+  "url": "https://pace.ac.in/index.php/academics/departments/h-and-s",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "DEPARTMENT OF Humanities and Basic Sciences"
+    ],
+    "h2": [],
+    "h3": [
+      "ABOUT AME",
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "Labs In AME Dept",
+      "Faculty List",
+      "Syllabus",
+      "CE",
+      "CSE",
+      "ECE",
+      "EEE",
+      "ME",
+      "IT",
+      "CSE (IoT&CSBT)",
+      "CSIT",
+      "AIML",
+      "AIDS",
+      "CSE (Indian Languages)",
+      "Toppers List",
+      "ACHIEVEMENTS",
+      "Innovations",
+      "Students Achivements",
+      "Faculty Achivements",
+      "Facilities",
+      "Applied chemistry lab",
+      "Engineering chemistry lab",
+      "Applied physics lab",
+      "Engineering physics lab",
+      "English Language Communication Skills Lab",
+      "C-Programming for Problem Solving Lab",
+      "Computer Engineering Workshop lab",
+      "Extra Curricular Activities",
+      "Events"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "FACULTY",
+      "target": "#v-pills-faculty"
+    },
+    {
+      "name": "B.Tech Syllabus",
+      "target": "#v-pills-syllabus"
+    },
+    {
+      "name": "Student Achievements",
+      "target": "#v-pills-student"
+    },
+    {
+      "name": "Faculty Achievements",
+      "target": "#v-pills-facultya"
+    },
+    {
+      "name": "Facilities",
+      "target": "#v-pills-facilities"
+    },
+    {
+      "name": "TOPPERS",
+      "target": "#v-pills-toppers"
+    },
+    {
+      "name": "EVENTS",
+      "target": "#v-pills-giri"
+    },
+    {
+      "name": "Extra currcular acivities",
+      "target": "#v-pills-extra"
+    }
+  ],
+  "tab_panes_count": 12,
+  "tables_count": 4,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PO1",
+          "Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization for the solution of complex engineering problems."
+        ],
+        [
+          "PO2",
+          "Problem analysis: Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+        ],
+        [
+          "PO3",
+          "Design/Development of Solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations."
+        ],
+        [
+          "PO4",
+          "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+        ],
+        [
+          "PO5",
+          "Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+        ],
+        [
+          "PO6",
+          "The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+        ],
+        [
+          "PO7",
+          "Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and the need for sustainable development."
+        ],
+        [
+          "PO8",
+          "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+        ],
+        [
+          "PO9",
+          "Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+        ],
+        [
+          "PO10",
+          "Communication: Communicate effectively on complex engineering activities with the engineering community and with the society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+        ],
+        [
+          "PO11",
+          "Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+        ],
+        [
+          "PO12",
+          "Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Sl.no",
+          "Faculty Name",
+          "Faculty Designation",
+          "Qualification"
+        ],
+        [
+          "1",
+          "Sura Rama Mohan",
+          "Professor",
+          "Ph.D"
+        ],
+        [
+          "2",
+          "Baddela Haribabu",
+          "Associate Professor",
+          "Ph.D"
+        ],
+        [
+          "3",
+          "Chinnapureddy Koti Reddy",
+          "Associate Professor",
+          "MSc"
+        ],
+        [
+          "4",
+          "Gorre Muchu Nagamalleswari",
+          "Associate Professor",
+          "MSc"
+        ],
+        [
+          "5",
+          "Kasturi Lakshminarayana",
+          "Associate Professor",
+          "Ph.D"
+        ],
+        [
+          "6",
+          "M. Mallikarjuna Rao",
+          "Associate Professor",
+          "Ph.D"
+        ],
+        [
+          "7",
+          "Madduluri Raveendra",
+          "Associate Professor",
+          "MSc,(Ph.D)"
+        ],
+        [
+          "8",
+          "Midasala Sandhya Rani",
+          "Associate Professor",
+          "MA"
+        ],
+        [
+          "9",
+          "Paleti Gidyonu",
+          "Associate Professor",
+          "Ph.D"
+        ],
+        [
+          "10",
+          "Pasumarthi Brahmam",
+          "Associate Professor",
+          "Ph.D"
+        ],
+        [
+          "11",
+          "Vaddimukkala Madhava Rao",
+          "Associate Professor",
+          "MA"
+        ],
+        [
+          "12",
+          "Yadlapalli Veda Sree",
+          "Associate Professor",
+          "M.Phil"
+        ],
+        [
+          "13",
+          "Anguluri Rambabu",
+          "Assistant Professor",
+          "MLISC"
+        ],
+        [
+          "14",
+          "Annam Suhasini",
+          "Assistant Professor",
+          "MA(Eng)"
+        ],
+        [
+          "15",
+          "Annu Kalyani",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "16",
+          "Balla Ayyappa Jyothi",
+          "Assistant Professor",
+          "MA"
+        ],
+        [
+          "17",
+          "Batchu Kotesh Babu",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "18",
+          "Bathala Eswari",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "19",
+          "Battu Mahalakshmi",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "20",
+          "Battula Usha Kiran",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "21",
+          "Chegudi Ratna Raju",
+          "Assistant Professor",
+          "MA"
+        ],
+        [
+          "22",
+          "Chichula Dhana Venkata Saikumar",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "23",
+          "Chintala Himabindu",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "24",
+          "Davaleswari Madhu",
+          "Assistant Professor",
+          "MA"
+        ],
+        [
+          "25",
+          "Ganji Pavani",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "26",
+          "Gurram Haripriya",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "27",
+          "Gutti Lakshmi",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "28",
+          "Kakarlapudi Sreenivasulu",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "29",
+          "Kapa Narasamma",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "30",
+          "Kartana Sriranjani",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "31",
+          "Kolli China Devi",
+          "Assistant Professor",
+          "MA"
+        ],
+        [
+          "32",
+          "Maddisetty Anupama",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "33",
+          "Madhavi Kavuri",
+          "Assistant Professor",
+          "MA(Eng)"
+        ],
+        [
+          "34",
+          "Mareddy Naga Sudha",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "35",
+          "Mogal Karamattulla Baig",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "36",
+          "Mundluri Jyothi",
+          "Assistant Professor",
+          "MA(Eng)"
+        ],
+        [
+          "37",
+          "Nelaturi Narasimharao",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "38",
+          "Pallem Priscilla",
+          "Assistant Professor",
+          "MA"
+        ],
+        [
+          "39",
+          "Pinni Lokesh Babu",
+          "Assistant Professor",
+          "MA(Eng)"
+        ],
+        [
+          "40",
+          "Pothineni Hemalatha",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "41",
+          "Ramesh Babu Gandam",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "42",
+          "Renamala Kavya",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "43",
+          "Shaik Habeebulla",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "44",
+          "Telagathoti Indu Latha",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "45",
+          "Tirumalasetti Ravindranadh",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "46",
+          "Vayala Srinivasulu",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "47",
+          "Venuthurla Balaguruva Reddy",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "48",
+          "Thanneeru Venkata Sai",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "49",
+          "Palle Anusha",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "50",
+          "Vathsavayi Venkata Srudivya",
+          "Assistant Professor",
+          "MSc"
+        ],
+        [
+          "51",
+          "Dasu Vasant Rao",
+          "Physical Director",
+          "M.P.Ed"
+        ],
+        [
+          "52",
+          "Ijjagiri Madhusudhana Rao",
+          "Physical Director",
+          "M.P.Ed"
+        ],
+        [
+          "53",
+          "Thanneeru Srinivasarao",
+          "Physical Director",
+          "M.P.Ed"
+        ],
+        [
+          "54",
+          "Varikuti Raju",
+          "Physical Director",
+          "M.P.Ed"
+        ],
+        [
+          "55",
+          "Viparla Prem Swarup",
+          "Physical Director",
+          "M.P.Ed"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No",
+          "ROLL NO.",
+          "NAME OF THE STUDENT",
+          "BRANCH",
+          "YEAR OF PASSING",
+          "PERCENTAGE/ CGPA"
+        ],
+        [
+          "1",
+          "23KQ1A0102",
+          "CHALLA DIVYA DURGA",
+          "CIVIL",
+          "2023-24",
+          "7.61"
+        ],
+        [
+          "2",
+          "23KQ1A0205",
+          "DAGGUPATI VARALAKSHMI",
+          "EEE",
+          "2023-24",
+          "8.68"
+        ],
+        [
+          "3",
+          "23KQ1A0316",
+          "MINDALA SRIHARI",
+          "MECH",
+          "2023-24",
+          "7.88"
+        ],
+        [
+          "4",
+          "23KQ1A0455",
+          "PASUPULETI SIVA BHARGAV",
+          "ECE",
+          "2023-24",
+          "9.49"
+        ],
+        [
+          "5",
+          "23KQ1A05E1",
+          "E M ARIFA TABASUM",
+          "CSE",
+          "2023-24",
+          "9.87"
+        ],
+        [
+          "6",
+          "23KQ1A0706",
+          "C SAI KALYANI",
+          "CSIT",
+          "2023-24",
+          "9.15"
+        ],
+        [
+          "7",
+          "23KQ1A1203",
+          "KOREM GAYATHRI",
+          "IT",
+          "2023-24",
+          "8.90"
+        ],
+        [
+          "8",
+          "23KQ1A1204",
+          "MADHIRA DHARANI",
+          "IT",
+          "2023-24",
+          "8.90"
+        ],
+        [
+          "9",
+          "23KQ1A4733",
+          "GUDIBANDI SATWIK REDDY",
+          "IOT",
+          "2023-24",
+          "8.51"
+        ],
+        [
+          "10",
+          "23KQ1A4793",
+          "CHENNAMSETTI GURUPADAM",
+          "IOT",
+          "2023-24",
+          "8.51"
+        ],
+        [
+          "11",
+          "23KQ1A5487",
+          "SHAIK TIJIYA BHANU",
+          "AIDS",
+          "2023-24",
+          "9.41"
+        ],
+        [
+          "12",
+          "23KQ1A6133",
+          "SHAIK UHA SAMEERA",
+          "AIML",
+          "2023-24",
+          "9.10"
+        ],
+        [
+          "13",
+          "23KQ1A6313",
+          "P RAMYA SWETHA SRI",
+          "CSE(RL)",
+          "2023-24",
+          "9.08"
+        ],
+        [
+          "14",
+          "23KQ1A6605",
+          "PALAGIRI SIVA PARVATHI",
+          "EE(VLSI)",
+          "2023-24",
+          "8.80"
+        ],
+        [
+          "15",
+          "22KQ1A0157",
+          "NAMA AKSHAYA",
+          "CIVIL",
+          "2022-23",
+          "8.46"
+        ],
+        [
+          "16",
+          "22KQ1A0201",
+          "BALAM PAVITRA",
+          "EEE",
+          "2022-23",
+          "8.85"
+        ],
+        [
+          "17",
+          "22KQ1A0287",
+          "SHAIK SHAKIRA",
+          "EEE",
+          "2022-23",
+          "8.85"
+        ],
+        [
+          "18",
+          "22KQ1A0403",
+          "CHANDRAGIRI PRATHYUSHA",
+          "ECE",
+          "2022-23",
+          "9.23"
+        ],
+        [
+          "19",
+          "22KQ1A0516",
+          "MURABOINA CHINNA ESWARAMMA",
+          "CSE",
+          "2022-23",
+          "9.5"
+        ],
+        [
+          "20",
+          "22KQ1A0735",
+          "VALLELA SUPRITHA",
+          "CSIT",
+          "2022-23",
+          "9.15"
+        ],
+        [
+          "21",
+          "22KQ1A1225",
+          "SINGOTHU VARALAKSHMI",
+          "IT",
+          "2022-23",
+          "8.92"
+        ],
+        [
+          "22",
+          "22KQ1A4704",
+          "CHINTHAM SIVANAGAJYOTHI",
+          "CIC",
+          "2022-23",
+          "8.85"
+        ],
+        [
+          "23",
+          "22KQ1A54F1",
+          "PONNAGANTI LAHARI",
+          "AIDS",
+          "2022-23",
+          "9.31"
+        ],
+        [
+          "24",
+          "22KQ1A6103",
+          "BASIREDDY MOUNIKA",
+          "AIML",
+          "2022-23",
+          "9.38"
+        ],
+        [
+          "25",
+          "22KQ1A6313",
+          "KETHINENI SRUTHI",
+          "CSE(RL)",
+          "2022-23",
+          "8.92"
+        ],
+        [
+          "26",
+          "22KQ1A0306",
+          "CHANDAVARAPU RINEETH",
+          "MECH",
+          "2022-23",
+          "7.5"
+        ],
+        [
+          "27",
+          "21KQ1A0163",
+          "SHAIK FIRDOUSE",
+          "CIVIL",
+          "2021-22",
+          "9.04"
+        ],
+        [
+          "28",
+          "21KQ1A0263",
+          "DASARI VENNELA",
+          "EEE",
+          "2021-22",
+          "9.15"
+        ],
+        [
+          "29",
+          "21KQ1A0350",
+          "RATHIKRINDA VIVEK VARSHITH",
+          "MECH",
+          "2021-22",
+          "7.62"
+        ],
+        [
+          "30",
+          "21KQ1A0470",
+          "DUDEKULA INTIYAZ BEGUM",
+          "ECE",
+          "2021-22",
+          "9.15"
+        ],
+        [
+          "31",
+          "21KQ1A0535",
+          "SIVARATHRI JYOSTHNA",
+          "CSE",
+          "2021-22",
+          "9.69"
+        ],
+        [
+          "32",
+          "21KQ1A0709",
+          "KARNATI KAVITHA",
+          "CSIT",
+          "2021-22",
+          "9.08"
+        ],
+        [
+          "33",
+          "21KQ1A1224",
+          "THUMU PAVANI",
+          "IT",
+          "2021-22",
+          "9.09"
+        ],
+        [
+          "34",
+          "21KQ1A4702",
+          "BURRA SWETHA",
+          "CIC",
+          "2021-22",
+          "8.92"
+        ],
+        [
+          "35",
+          "21KQ1A5422",
+          "SHAIK KOUSAR",
+          "AIDS",
+          "2021-22",
+          "9.31"
+        ],
+        [
+          "36",
+          "21KQ1A6165",
+          "VELUGURI PAVAN KALYAN",
+          "AIML",
+          "2021-22",
+          "9.23"
+        ],
+        [
+          "37",
+          "20KQ1A0106",
+          "KELAM NANDINI",
+          "CIVIL",
+          "2020-21",
+          "9.3"
+        ],
+        [
+          "38",
+          "20KQ1A0280",
+          "S JAYA LAKSHMI",
+          "EEE",
+          "2020-21",
+          "9.16"
+        ],
+        [
+          "39",
+          "20KQ1A0353",
+          "VULCHI GOPINATH",
+          "MECH",
+          "2020-21",
+          "8.35"
+        ],
+        [
+          "40",
+          "20KQ1A0415",
+          "MEDA KAVYA",
+          "ECE",
+          "2020-21",
+          "9.78"
+        ],
+        [
+          "41",
+          "20KQ1A05E4",
+          "MUMMADISETTY SAI VYSHNAVI",
+          "CSE",
+          "2020-21",
+          "9.85"
+        ],
+        [
+          "42",
+          "20KQ1A0722",
+          "SADHINENI DIVYA SAI",
+          "CSIT",
+          "2020-21",
+          "9.1"
+        ],
+        [
+          "43",
+          "20KQ1A1205",
+          "BHUMA YAMINI SRIBHAVANI",
+          "IT",
+          "2020-21",
+          "9.26"
+        ],
+        [
+          "44",
+          "20KQ1A4711",
+          "P V S SAILAKSHMICHANDRIKA",
+          "CIC",
+          "2020-21",
+          "9.07"
+        ],
+        [
+          "45",
+          "20KQ1A5416",
+          "KONIKI MADHAVI",
+          "AIDS",
+          "2020-21",
+          "9.5"
+        ],
+        [
+          "46",
+          "20KQ1A6116",
+          "R UMASAKUNTHALA",
+          "AIML",
+          "2020-21",
+          "9.51"
+        ],
+        [
+          "47",
+          "19KQ1A0171",
+          "NALLIPOGU SWATHI",
+          "CIVIL",
+          "2019-20",
+          "9.26"
+        ],
+        [
+          "48",
+          "19KQ1A0224",
+          "PASUMAMULA NAGA VARSHINI",
+          "EEE",
+          "2019-20",
+          "9.7"
+        ],
+        [
+          "49",
+          "19KQ1A03A9",
+          "THANGEDUPALLI BRAHMAIAH",
+          "MECH",
+          "2019-20",
+          "8.66"
+        ],
+        [
+          "50",
+          "19KQ1A0450",
+          "M.VEERA VENKATA SIVA KRISHNA",
+          "ECE",
+          "2019-20",
+          "9.7"
+        ],
+        [
+          "51",
+          "19KQ1A0550",
+          "LAKKAKULA LAKSHMI SRI VENKATA SAI",
+          "CSE",
+          "2019-20",
+          "9.65"
+        ],
+        [
+          "52",
+          "19KQ1A0718",
+          "MUPPARAJU DIVYA MADHURI",
+          "CSIT",
+          "2019-20",
+          "9.12"
+        ],
+        [
+          "53",
+          "19KQ1A1218",
+          "POTHURAJU SUSHMA",
+          "IT",
+          "2019-20",
+          "9.33"
+        ],
+        [
+          "54",
+          "19KQ1A2408",
+          "KAPPARAPU KUSHAL KALYAN",
+          "AME",
+          "2019-20",
+          "8.6"
+        ],
+        [
+          "55",
+          "18KQ1A0102",
+          "BADUGU RAJ KUMARI",
+          "CIVIL",
+          "2018-19",
+          "9.6"
+        ],
+        [
+          "56",
+          "18KQ1A0244",
+          "PAYYAVALA VENKATA KANISHK",
+          "EEE",
+          "2018-19",
+          "9.49"
+        ],
+        [
+          "57",
+          "18KQ1A0342",
+          "YANAMALA SREEHARI",
+          "MECH",
+          "2018-19",
+          "9.46"
+        ],
+        [
+          "58",
+          "18KQ1A0491",
+          "RAVILLA AKHILA",
+          "ECE",
+          "2018-19",
+          "9.77"
+        ],
+        [
+          "59",
+          "18KQ1A0511",
+          "BOMMANABOINA SRI CHANDANA",
+          "CSE",
+          "2018-19",
+          "9.77"
+        ],
+        [
+          "60",
+          "18KQ1A1202",
+          "BELLAM VARSHA",
+          "IT",
+          "2018-19",
+          "9.26"
+        ],
+        [
+          "61",
+          "18KQ1A2419",
+          "CHINTHAGUMPALA PAVAN KALYAN",
+          "AME",
+          "2018-19",
+          "9.7"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Academic Year",
+          "I Year",
+          "II Year",
+          "III Year",
+          "IV Year"
+        ],
+        [
+          "2018-2019",
+          "M.VIJAY KUMAR18KQ5A2404",
+          "M.SRIKAR17KQ1A2436",
+          "G.SUPRIYA16KQ1A2401",
+          "B.SIVAKRISHNA15KQ1A2401"
+        ],
+        [
+          "2017-2018",
+          "M SRIKAR17KQ1A2436",
+          "G SUPRIYA16KQ1A2401",
+          "B SIVAKRISHNA15KQ1A2401",
+          "P SUDHEER14KQ1A2438"
+        ],
+        [
+          "2016-2017",
+          "G.Supriya16KQ1A2401",
+          "B.Sivakrishna15KQ1A2401",
+          "K.Srinu14KQ1A2456",
+          "M.V.Gowtham Krishna14KQ5A2401"
+        ],
+        [
+          "2015-2016",
+          "B.Sivakrishna15KQ1A2401",
+          "K.Dinesh14KQ1A2426",
+          "M.Veera Reddy13KQ1A2426",
+          "D.Satyam12KQ1A2405"
+        ],
+        [
+          "2014-2015",
+          "K.Dinesh14KQ1A2426",
+          "M.Veera Reddy13KQ1A2426",
+          "D.Satyam12KQ1A2405",
+          "K.Ragini12KQ5A2404"
+        ],
+        [
+          "2013-2014",
+          "P.Peda Gopi Reddy13KQ1A2451",
+          "D.Satyam12KQ1A2405",
+          "K.Ragini12KQ5A2404",
+          "N.Swapnil Reddy11KQ5A2403"
+        ]
+      ]
+    }
+  ],
+  "images_count": 12,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/chemistry-hs.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/eng-chemistry.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/physics-hs.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/eng-physics1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/eng-physics2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/eng-communication-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/eng-communication-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/c-programme-hs.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/cmg-hs-lab.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 79,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/CIVIL_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21 B.Tech Civil Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/R18 B.Tech Civil Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/assets/images/r16-Civil.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R13",
+      "url": "https://pace.ac.in/public/assets/images/R13 B.Tech Civil Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/CSE_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21cse.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/R18-CSE-Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/assets/images/R16-CSE-Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R13",
+      "url": "https://pace.ac.in/public/assets/images/R13-CSE-Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/ECE_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ECE_VLSID_T_R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/ECE_VLSID_T_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21-ece.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/R18 Syllabus_ECE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/assets/images/r16-ECE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/EEE_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/SYLLABUS EEE B.Tech (R21).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/B.Tech - EEE R18 SYLLABUS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/assets/images/r16-EEE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R13",
+      "url": "https://pace.ac.in/public/assets/images/r13-EEE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/ME_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/MECH R21 SYLLABUS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/Mech R18 Syllabuss book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/assets/images/r16-Mechaniclal.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/IT_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/IT II,III,IV-R18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/assets/images/r16-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R13",
+      "url": "https://pace.ac.in/public/assets/images/r13-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/CSE_IOTCSBT_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21-IOT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/R18-IOT-latest.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/CSIT_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21-CSIT-hs.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/R18-CSIT-latest.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/AIML_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21-AIML-hs.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/R18-AIML-latest.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/AIDS_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21-AIDS-hs.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/hsdata/CSE_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21-CSE-R-hs.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-2024",
+      "url": "https://pace.ac.in/public/assets/images/HS_STUDENT_ACHIEVEMENTS_2023_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/assets/images/HS_STUDENT_ACHIEVEMENTS_2022_2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/assets/images/hs-student-achievements-2021-2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-2021",
+      "url": "https://pace.ac.in/public/assets/images/HS_STUDENT_ACHIEVEMENTS_2020_2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-2020",
+      "url": "https://pace.ac.in/public/assets/images/hs-student-achievements-2019-2020.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-2024",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Conferences_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Conferences_2022_23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Conferences_2021_22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-2021",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Conferences_2020_21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-2020",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Conferences_2019_20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2018-2019",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Conferences _2018_19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-2024",
+      "url": "https://pace.ac.in/public/assets/images/FDPs_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/assets/images/FDPs_2022_23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/assets/images/FDPs_2021_22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-2021",
+      "url": "https://pace.ac.in/public/assets/images/FDPs_2020_21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-2020",
+      "url": "https://pace.ac.in/public/assets/images/FDPs_2019_20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Extra_Curricular_activities_2022_2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Extra_Curricular_activities_2021_2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-2021",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Extra_Curricular_activities_2020_2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-2020",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Extra_curricular_Activities_2019_2020.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2018-2019",
+      "url": "https://pace.ac.in/public/assets/images/Hs_Extra_curricular_Activities_2018_2019.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HS_events_2023_2024",
+      "url": "https://pace.ac.in/public/assets/images/HS_events_2023_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HS_events_2022_2023",
+      "url": "https://pace.ac.in/public/assets/images/HS_events_2022_2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HS_events_2021_2022",
+      "url": "https://pace.ac.in/public/assets/images/HS_events_2021_2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HS_events_2020_2021",
+      "url": "https://pace.ac.in/public/assets/images/HS_events_2020_2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

@@ -1,0 +1,631 @@
+{
+  "url": "https://pace.ac.in/campus/facilities",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Campus Facilities"
+    ],
+    "h2": [],
+    "h3": [
+      "Girls Hostel",
+      "Boys Hostel",
+      "Facilities:",
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "Class Room & Seminar Halls",
+      "RO PLANT",
+      "POWER BACKUP",
+      "Hostel",
+      "CANTEEN",
+      "Gym",
+      "Transport",
+      "Post Office",
+      "Internet & Wifi",
+      "Dispensary",
+      "Salient features in this regard are:-",
+      "Security & Surveillance"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "CLASS ROOMS & SEMINAR HALLS",
+      "target": "#v-pills-profile"
+    },
+    {
+      "name": "RO PLANT",
+      "target": "#v-pills-messages"
+    },
+    {
+      "name": "POWER BACKUP",
+      "target": "#v-pills-power"
+    },
+    {
+      "name": "HOSTEL",
+      "target": "#v-pills-settings"
+    },
+    {
+      "name": "CANTEEN",
+      "target": "#v-pills-hari"
+    },
+    {
+      "name": "GYM",
+      "target": "#v-pills-raki"
+    },
+    {
+      "name": "TRANSPORT",
+      "target": "#v-pills-sai"
+    },
+    {
+      "name": "POST OFFICE",
+      "target": "#v-pills-giri"
+    },
+    {
+      "name": "INTERNET & WIFI",
+      "target": "#v-pills-senu"
+    },
+    {
+      "name": "DISPENSARY",
+      "target": "#v-pills-raju"
+    },
+    {
+      "name": "SECURITY & SURVEILLANCE",
+      "target": "#v-pills-security"
+    }
+  ],
+  "tab_panes_count": 12,
+  "tables_count": 2,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No",
+          "Name of the Faculty",
+          "Designation",
+          "Role in Committee"
+        ],
+        [
+          "1",
+          "Dr. G.V.K. Murthy",
+          "Principal",
+          "Chairman"
+        ],
+        [
+          "2",
+          "Mr.M.V.Ramana Babu",
+          "A.O",
+          "Vice Chairman"
+        ],
+        [
+          "3",
+          "Dr. R. Veeranjineyulu",
+          "Dean of Students Affairs",
+          "Member"
+        ],
+        [
+          "4",
+          "Mr.Y. Srinivasa Reddy",
+          "Assistant Professor",
+          "Transport Coordinator"
+        ],
+        [
+          "5",
+          "Mr.E. Ravindra Babu",
+          "Maintenance Coordinator",
+          "Maintenance Coordinator"
+        ],
+        [
+          "6",
+          "Mr.V.MHINDRA",
+          "Assistant Professor",
+          "Member"
+        ],
+        [
+          "7",
+          "Mr.N.VIJAYA KUMAR",
+          "Assistant Professor",
+          "Member"
+        ],
+        [
+          "8",
+          "Mr.S ANJANEYULU",
+          "Assistant Professor",
+          "Member"
+        ],
+        [
+          "9",
+          "K. Sriranjani",
+          "Assistant Professor",
+          "Member"
+        ],
+        [
+          "10",
+          "Sk. Heena Kauser",
+          "Assistant Professor",
+          "Member"
+        ],
+        [
+          "11",
+          "A. Siva Ram Prasad",
+          "Assistant Professor",
+          "Member"
+        ],
+        [
+          "12",
+          "Mrs D ANNAPURNA",
+          "Assistant Professor",
+          "Member"
+        ],
+        [
+          "13",
+          "Mr. K.SURESHBABU",
+          "Assistant Professor",
+          "Member"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "ROUTENO",
+          "BORDING POINT",
+          "BUS I/C NAME\t\t&\t\tMOBILE NO"
+        ],
+        [
+          "1",
+          "YARRAGUNTA\t\t\t\tPALEM",
+          "Mrs.K SRIRANJANI9618777329"
+        ],
+        [
+          "2",
+          "KANDUKURU",
+          "Ms.KARIMUNISHA6302372752"
+        ],
+        [
+          "3",
+          "MACHAVARAM",
+          "Mr.CH BHAVANI SANKAR RAO9948225921"
+        ],
+        [
+          "4",
+          "NAGIREDDY PALEM",
+          "MrsSK HEENA KAUSER9581456563"
+        ],
+        [
+          "5",
+          "ONGOLE",
+          "Mr.A NAGARAJU9505397497"
+        ],
+        [
+          "6",
+          "ONGOLE VENKATESWASWARA COLONY",
+          "Mrs G S V PADMAVATHI9581456382"
+        ],
+        [
+          "7",
+          "GUNDAYAPALEM",
+          "Mrs B SUJATHA9908876637"
+        ],
+        [
+          "8",
+          "SAMATHA NAGAR OGOLE",
+          "Mr.I.HarichandraReddy9032931524"
+        ],
+        [
+          "9",
+          "PONDURU",
+          "Mrs M KALYANI9291464113"
+        ],
+        [
+          "14",
+          "PADARTHI",
+          "Mrs.L.LAVANYA9347685520"
+        ],
+        [
+          "11",
+          "ONGOLE (BOYS)",
+          "Mr. N. NARASHIMA RAO7702802343"
+        ],
+        [
+          "12",
+          "MANGAMURU",
+          "Mrs J PAVITHRA9642750040"
+        ],
+        [
+          "13",
+          "INAMANAMELLURU",
+          "Mr.P.KIRAN BABU9000628443"
+        ],
+        [
+          "24",
+          "KADAVAKHURU",
+          "Mr,P.nathaniyelu"
+        ],
+        [
+          "15",
+          "NEKUNAMBADU",
+          "MrsP PRAJWALA9912196273"
+        ],
+        [
+          "16",
+          "ANAKARLAPUDI",
+          "Mr.B JASHUVA8886371560"
+        ],
+        [
+          "17",
+          "PAMIDIPADU",
+          "Mrs B.RAJESWARI7675966814"
+        ],
+        [
+          "18",
+          "RAJUPALEEM",
+          "JAHNAVI7993292710"
+        ],
+        [
+          "19",
+          "RUDRAVARAM",
+          "Mrs D. Bhulakshmi964261051"
+        ],
+        [
+          "20",
+          "KANAPARTHI",
+          "Ms.S SUSEELA9666944158"
+        ],
+        [
+          "21",
+          "GANGAVARAM",
+          "Mr.CH RAMAKRISHNA8008049818"
+        ],
+        [
+          "22",
+          "KONDEPI",
+          "Mr. K KOTAIAH9502460210"
+        ],
+        [
+          "23",
+          "PALLAMALLI",
+          "Mr.S ANJANEYULU9966945242"
+        ],
+        [
+          "10",
+          "KAREDU",
+          "Mr.V SRINIVASULU8885577904"
+        ],
+        [
+          "25",
+          "PERNMITTA",
+          "Mr.K HARI BABU9494797880"
+        ],
+        [
+          "26",
+          "CHANDALURU",
+          "Mr.N.VIJAYA KUMAR9542471591"
+        ],
+        [
+          "27",
+          "PAKALA",
+          "Mr.R VINOD KUMAR9652646723"
+        ],
+        [
+          "28",
+          "BALIJAPALEM",
+          "Mrs RAJAKUMARI7358583159"
+        ],
+        [
+          "29",
+          "ONGOLE",
+          "Mrs K.ANURDHA9010816683"
+        ],
+        [
+          "30",
+          "PANDILLAPALLI",
+          "Mr.ABISHIKTH7989893532"
+        ],
+        [
+          "31",
+          "ONGOLE",
+          "Mrs D ANNAPURNA7075752120"
+        ],
+        [
+          "32",
+          "PATCHAVA",
+          "Mr.V.MHINDRA9542365901"
+        ],
+        [
+          "33",
+          "DONDAPADU",
+          "Mrs SRI DEVI8008547244"
+        ],
+        [
+          "34",
+          "PODILI",
+          "Balu srinivasulu9492817614"
+        ],
+        [
+          "35",
+          "ADDANKI",
+          "Mr.K.SURESHBABU7893317096"
+        ],
+        [
+          "36",
+          "ADDANKI",
+          "Mrs K SRILATHA7702692343"
+        ],
+        [
+          "37",
+          "CHIMAKURTHI",
+          "Mrs.K.Naga Sudha8464099787"
+        ],
+        [
+          "38",
+          "INKOLLU",
+          "Mr.S MADHU9010927637"
+        ],
+        [
+          "39",
+          "MARRICHETLA\t\t\t\tPALEM",
+          "Mrs.P.TULASI7601066071"
+        ],
+        [
+          "40",
+          "CHIRALA",
+          "Mr.A SIVA RAM PRASAD9642463105"
+        ]
+      ]
+    }
+  ],
+  "images_count": 43,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/brs1.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/brs2.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/brs3.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/brs4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/brs5.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/brs6.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ro-plant-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ro-plant-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/powerbackup1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/powerbackup2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/powerbackup3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/powerbackup4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/z1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/z2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/z3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/z4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/z5.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/z6.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/c1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/c2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/c3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/c4.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/c5.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/c6.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/u1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/u2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/u3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/u4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/u5.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/u6.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/transport1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/po1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/dispensary1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/dispensary3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/dispensary4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/dispensary7.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/dispensarydtq.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/dispensarydt.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/security_1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/security_2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 12,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

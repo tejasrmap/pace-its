@@ -1,0 +1,383 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// ==========================================
+// 1. AUTHENTICATION & RBAC
+// ==========================================
+
+model User {
+  id            String         @id @default(uuid())
+  email         String         @unique
+  name          String
+  passwordHash  String
+  departmentId  String?
+  isActive      Boolean        @default(true)
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  roles         UserRole[]
+  sessions      Session[]
+  auditLogs     AuditLog[]
+  assignedApps  AdmissionApplication[]
+}
+
+model Role {
+  id          String           @id @default(uuid())
+  name        String           @unique // e.g. "SUPER_ADMIN", "PRINCIPAL", "HOD", "ADMISSION_MANAGER"
+  description String?
+  createdAt   DateTime         @default(now())
+  updatedAt   DateTime         @updatedAt
+  users       UserRole[]
+  permissions RolePermission[]
+}
+
+model Permission {
+  id          String           @id @default(uuid())
+  action      String           // e.g. "page:create", "admission:read", "department:edit"
+  description String?
+  createdAt   DateTime         @default(now())
+  roles       RolePermission[]
+}
+
+model UserRole {
+  id        String   @id @default(uuid())
+  userId    String
+  roleId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  role      Role     @relation(fields: [roleId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, roleId])
+}
+
+model RolePermission {
+  id           String     @id @default(uuid())
+  roleId       String
+  permissionId String
+  role         Role       @relation(fields: [roleId], references: [id], onDelete: Cascade)
+  permission   Permission @relation(fields: [permissionId], references: [id], onDelete: Cascade)
+  createdAt    DateTime   @default(now())
+
+  @@unique([roleId, permissionId])
+}
+
+model Session {
+  id        String   @id @default(uuid())
+  userId    String
+  token     String   @unique
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model AuditLog {
+  id         String   @id @default(uuid())
+  userId     String?
+  action     String   // "CREATE", "UPDATE", "DELETE", "LOGIN", "STATUS_CHANGE"
+  entityType String   // "Page", "AdmissionApplication", "Department", "Faculty"
+  entityId   String?
+  details    String?  // JSON string of changes
+  ipAddress  String?
+  createdAt  DateTime @default(now())
+  user       User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+}
+
+// ==========================================
+// 2. CONTENT MANAGEMENT & PAGES
+// ==========================================
+
+model Page {
+  id            String         @id @default(uuid())
+  canonicalPath String         @unique
+  sourceUrl     String?
+  title         String
+  section       String
+  category      String
+  template      String
+  status        String         @default("PUBLISHED") // "DRAFT", "PUBLISHED", "ARCHIVED"
+  fullText      String?
+  seoTitle      String?
+  seoDesc       String?
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  sections      PageSection[]
+  documents     PageDocument[]
+  images        PageImage[]
+}
+
+model PageSection {
+  id        String   @id @default(uuid())
+  pageId    String
+  tabName   String?
+  title     String
+  content   String?
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  page      Page     @relation(fields: [pageId], references: [id], onDelete: Cascade)
+}
+
+model PageDocument {
+  id        String   @id @default(uuid())
+  pageId    String
+  title     String
+  url       String
+  category  String?
+  academicYear String?
+  page      Page     @relation(fields: [pageId], references: [id], onDelete: Cascade)
+}
+
+model PageImage {
+  id        String   @id @default(uuid())
+  pageId    String
+  src       String
+  alt       String?
+  page      Page     @relation(fields: [pageId], references: [id], onDelete: Cascade)
+}
+
+model Redirect {
+  id        String   @id @default(uuid())
+  fromPath  String   @unique
+  toPath    String
+  isPermanent Boolean @default(true)
+  createdAt DateTime @default(now())
+}
+
+// ==========================================
+// 3. ACADEMICS & DEPARTMENTS
+// ==========================================
+
+model Department {
+  id          String         @id @default(uuid())
+  code        String         @unique // e.g. "CSE", "ECE", "CIVIL"
+  name        String
+  slug        String         @unique
+  type        String         // "UG", "PG", "DIPLOMA"
+  intake      String?
+  vision      String?
+  mission     String?
+  hodName     String?
+  hodEmail    String?
+  hodMessage  String?
+  hodPhotoUrl String?
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+  faculty     Faculty[]
+  courses     Course[]
+  laboratories Laboratory[]
+}
+
+model Course {
+  id           String      @id @default(uuid())
+  departmentId String
+  name         String
+  degree       String      // "B.Tech", "M.Tech", "MBA", "Diploma"
+  duration     String      // "4 Years", "2 Years", "3 Years"
+  intake       Int         @default(60)
+  department   Department  @relation(fields: [departmentId], references: [id], onDelete: Cascade)
+}
+
+model Faculty {
+  id             String      @id @default(uuid())
+  departmentId   String
+  name           String
+  designation    String      // "Professor", "Associate Professor", "Assistant Professor"
+  qualification  String
+  experience     String?
+  specialization String?
+  email          String?
+  photoUrl       String?
+  order          Int         @default(0)
+  createdAt      DateTime    @default(now())
+  updatedAt      DateTime    @updatedAt
+  department     Department  @relation(fields: [departmentId], references: [id], onDelete: Cascade)
+}
+
+model Laboratory {
+  id           String      @id @default(uuid())
+  departmentId String
+  name         String
+  description  String?
+  equipment    String?     // Comma separated or JSON
+  imageUrl     String?
+  department   Department  @relation(fields: [departmentId], references: [id], onDelete: Cascade)
+}
+
+// ==========================================
+// 4. ADMINISTRATION & COMMITTEES
+// ==========================================
+
+model LeadershipProfile {
+  id          String   @id @default(uuid())
+  name        String
+  title       String   // "Chairman", "Principal", "Secretary"
+  designation String
+  photoUrl    String?
+  message     String?
+  order       Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Committee {
+  id          String            @id @default(uuid())
+  name        String
+  slug        String            @unique
+  type        String            // "STATUTORY", "NON_STATUTORY"
+  charter     String?
+  createdAt   DateTime          @default(now())
+  updatedAt   DateTime          @updatedAt
+  members     CommitteeMember[]
+}
+
+model CommitteeMember {
+  id          String    @id @default(uuid())
+  committeeId String
+  name        String
+  designation String
+  role        String    // "Chairperson", "Member Secretary", "External Expert", "Member"
+  order       Int       @default(0)
+  committee   Committee @relation(fields: [committeeId], references: [id], onDelete: Cascade)
+}
+
+// ==========================================
+// 5. ADMISSIONS MANAGEMENT
+// ==========================================
+
+model AdmissionApplication {
+  id            String   @id @default(uuid())
+  applicationNo String   @unique
+  candidateName String
+  fatherName    String
+  dob           String
+  gender        String
+  category      String   // "OC", "BC-A", "SC", "ST", etc.
+  phone         String
+  email         String
+  address       String?
+  marksPercent  String
+  entranceRank  String?
+  programType   String   // "B.Tech", "M.Tech", "MBA"
+  branchPref1   String
+  branchPref2   String?
+  branchPref3   String?
+  status        String   @default("NEW") // "NEW", "CONTACTED", "UNDER_REVIEW", "APPROVED", "REJECTED", "CLOSED"
+  internalNotes String?
+  assignedToId  String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  assignedTo    User?    @relation(fields: [assignedToId], references: [id], onDelete: SetNull)
+}
+
+// ==========================================
+// 6. PLACEMENTS & RECRUITERS
+// ==========================================
+
+model PlacementRecord {
+  id           String   @id @default(uuid())
+  academicYear String   // e.g. "2024-2025"
+  companyName  String
+  branch       String   // "CSE", "ECE", "Overall"
+  selections   Int      @default(0)
+  packageLpa   Float?
+  onCampus     Boolean  @default(true)
+  createdAt    DateTime @default(now())
+}
+
+model Recruiter {
+  id        String   @id @default(uuid())
+  name      String   @unique
+  logoUrl   String?
+  website   String?
+  tier      String?  // "Tier-1", "MNC", "Core"
+  createdAt DateTime @default(now())
+}
+
+// ==========================================
+// 7. RESEARCH & PATENTS
+// ==========================================
+
+model Patent {
+  id            String   @id @default(uuid())
+  title         String
+  inventors     String
+  appNumber     String?
+  status        String   @default("PUBLISHED") // "FILED", "PUBLISHED", "GRANTED"
+  filingDate    String?
+  publishedDate String?
+  pdfUrl        String?
+  createdAt     DateTime @default(now())
+}
+
+model ResearchPublication {
+  id          String   @id @default(uuid())
+  title       String
+  authors     String
+  journal     String
+  impactFactor String?
+  academicYear String?
+  doiLink     String?
+  createdAt   DateTime @default(now())
+}
+
+// ==========================================
+// 8. CAMPUS, MEDIA & GALLERIES
+// ==========================================
+
+model GalleryEvent {
+  id          String         @id @default(uuid())
+  sourceId    String?        // Original numeric ID e.g. "119", "151"
+  title       String
+  category    String         // "FDP", "Annual Day", "Technical Fest", "Sports"
+  date        String?
+  coverUrl    String?
+  createdAt   DateTime       @default(now())
+  images      GalleryImage[]
+}
+
+model GalleryImage {
+  id        String       @id @default(uuid())
+  eventId   String
+  src       String
+  alt       String?
+  order     Int          @default(0)
+  event     GalleryEvent @relation(fields: [eventId], references: [id], onDelete: Cascade)
+}
+
+// ==========================================
+// 9. WEBSITE MANAGEMENT & SETTINGS
+// ==========================================
+
+model NewsArticle {
+  id          String   @id @default(uuid())
+  title       String
+  link        String?
+  isTicker    Boolean  @default(true)
+  isActive    Boolean  @default(true)
+  order       Int      @default(0)
+  createdAt   DateTime @default(now())
+}
+
+model ContactSubmission {
+  id        String   @id @default(uuid())
+  name      String
+  email     String
+  phone     String?
+  subject   String?
+  message   String
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model WebsiteSetting {
+  id        String   @id @default(uuid())
+  key       String   @unique
+  value     String
+  group     String   @default("GENERAL") // "GENERAL", "ADMISSIONS", "CONTACT", "SEO"
+  updatedAt DateTime @updatedAt
+}

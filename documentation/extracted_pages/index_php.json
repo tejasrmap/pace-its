@@ -1,0 +1,401 @@
+{
+  "url": "https://pace.ac.in/index.php",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [],
+    "h2": [
+      "OUR LATEST VIDEOS",
+      "OUR RECRUITERS"
+    ],
+    "h3": [
+      "ADMISSIONS",
+      "ACADEMICS",
+      "IQAC",
+      "RESEARCH & DEVELOPMENT",
+      "TRAINING & PLACEMENT CELL",
+      "ALUMNI ASSOCIATION",
+      "EXAMINATION SECTION",
+      "NSS",
+      "GALLERY",
+      "DOWNLOAD",
+      "QUICK LINKS",
+      "Admissions Open 2025-2026"
+    ],
+    "h4": []
+  },
+  "tabs": [],
+  "tab_panes_count": 0,
+  "tables_count": 0,
+  "tables": [],
+  "images_count": 65,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/sliders/17920581909744.1_Highest Package.jpg",
+      "alt": "Pace Autonomous 1"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/sliders/17920582957779.2_UTeM.jpg",
+      "alt": "Pace Autonomous 2"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/sliders/17920591867918.3_Delloittee.jpg",
+      "alt": "Pace autonomous 3"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/sliders/17920593099005.3_Delloittee_1.jpg",
+      "alt": "Pace autonomous 4"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/sliders/1792059396667.4_Infosys.jpg",
+      "alt": "Pace autonomous 5"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/sliders/17920595201611.5_Gramax.png",
+      "alt": "Pace autonomous 7"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/sliders/1792059565157.6_Mirai.jpg",
+      "alt": "Pace autonomous 8"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/sliders/17920598609954.7_festino.jpg",
+      "alt": "Pace autonomous 9"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/sliders/17920600274000.7_festino.jpg",
+      "alt": "Pace autonomous 10"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/pace_awards1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/graduation1 copy.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/10.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/11.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/12.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/13.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/14.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/15.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/16.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/17.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/18.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/19.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/20.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/21.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/22.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/23.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/24.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/25.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/26.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/27.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/28.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/29.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/30.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/31.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/32.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/33.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/34.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/35.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/36.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/37.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/38.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/39.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/40.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/41.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/42.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/43.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/44.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/45.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/46.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/clients/47.jpg",
+      "alt": ""
+    }
+  ],
+  "documents_count": 13,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Click to download 4th Graduation Souvenir",
+      "url": "https://pace.ac.in/public/assets/images/Souvenir Final Copy_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 1,
+  "forms": [
+    {
+      "action": "https://pace.ac.in/index.php",
+      "method": "GET",
+      "inputs": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "name",
+          "placeholder": "Name"
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "email",
+          "placeholder": "Email"
+        },
+        {
+          "tag": "input",
+          "type": "tel",
+          "name": "contact_number",
+          "placeholder": "Contact Number"
+        },
+        {
+          "tag": "input",
+          "type": "tel",
+          "name": "parent_contact_number",
+          "placeholder": "Parent Contact Number"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "street_village",
+          "placeholder": "Street / Village"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "town_mandal",
+          "placeholder": "Town / Mandal"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "landmark",
+          "placeholder": "Landmark"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "district",
+          "placeholder": "District"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "state",
+          "placeholder": "State"
+        },
+        {
+          "tag": "select",
+          "type": "text",
+          "name": "program",
+          "placeholder": ""
+        },
+        {
+          "tag": "select",
+          "type": "text",
+          "name": "course",
+          "placeholder": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "ssc_marks",
+          "placeholder": "SSC Marks"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "inter_marks",
+          "placeholder": "Inter (10+2) Marks"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "ug_marks",
+          "placeholder": "UG Marks"
+        }
+      ]
+    }
+  ],
+  "internal_links_count": 132,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

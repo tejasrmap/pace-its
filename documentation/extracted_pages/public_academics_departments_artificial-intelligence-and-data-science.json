@@ -1,0 +1,816 @@
+{
+  "url": "https://pace.ac.in/public/academics/departments/artificial-intelligence-and-data-science",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Department of Artificial Intelligence & Data Science"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "TEACHING AND LEARNING PRACTICES",
+      "Previous Question Papers",
+      "Facilities",
+      "Faculty List",
+      "Syllabus",
+      "Toppers List",
+      "STUDENT ACHIEVEMENTS",
+      "FACULTY ACHIEVEMENTS",
+      "RESEARCH GROUPS",
+      "EXTRA CURRICULAR ACTIVITIES",
+      "Innovations",
+      "Events"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "B.Tech SYLLABUS",
+      "target": "#v-pills-messages"
+    },
+    {
+      "name": "TLP",
+      "target": "#v-pills-tlp"
+    },
+    {
+      "name": "FACILITIES",
+      "target": "#v-pills-profile"
+    },
+    {
+      "name": "TOPPERS",
+      "target": "#v-pills-settings"
+    },
+    {
+      "name": "Students Achievements",
+      "target": "#v-pills-hari"
+    },
+    {
+      "name": "Faculty Achievements",
+      "target": "#v-pills-rr"
+    },
+    {
+      "name": "INNOVATIONS",
+      "target": "#v-pills-sai"
+    },
+    {
+      "name": "EXTRA CURRICULAR ACTIVITIES",
+      "target": "#v-pills-hanu"
+    },
+    {
+      "name": "EVENTS",
+      "target": "#v-pills-giri"
+    },
+    {
+      "name": "Previous Question Papers",
+      "target": "#v-pills-question"
+    }
+  ],
+  "tab_panes_count": 13,
+  "tables_count": 6,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "M1",
+          "To excel in teaching-learning process and collaborative research with modern teaching methodologies."
+        ],
+        [
+          "M2",
+          "To establish a centre of excellence to prepare professional technocrats to solve industry problems."
+        ],
+        [
+          "M3",
+          "To motivate students to emerge as entrepreneurs with leadership qualities to fulfil Industry and community needs with ethical standards."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PO1",
+          "Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+        ],
+        [
+          "PO2",
+          "Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+        ],
+        [
+          "PO3",
+          "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+        ],
+        [
+          "PO4",
+          "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+        ],
+        [
+          "PO5",
+          "Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+        ],
+        [
+          "PO6",
+          "The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+        ],
+        [
+          "PO7",
+          "Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+        ],
+        [
+          "PO8",
+          "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+        ],
+        [
+          "PO9",
+          "Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+        ],
+        [
+          "PO10",
+          "Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+        ],
+        [
+          "PO11",
+          "Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+        ],
+        [
+          "PO12",
+          "Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PSO 1",
+          "Implement Artificial Intelligence and Data Science techniques such as search algorithms, neural networks, machine learning and data analytics for solving a problem and designing novel algorithms for successful career and entrepreneurship."
+        ],
+        [
+          "PSO 2",
+          "Apply the skills in the areas of health care, education, agriculture, intelligent transport, environment, smart systems and in the multi-disciplinary area of Artificial Intelligence and Data Science."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PEO1",
+          "The graduates are ready with industrial standards to solve social and environment-related problems for making sustainable ecosystems."
+        ],
+        [
+          "PEO2",
+          "The graduates have professional skills and equipped with advanced technologies to become data scientists and data analysts."
+        ],
+        [
+          "PEO3",
+          "Graduates will have the ability to explore research and produce outstanding contribution in various areas of Artificial Intelligence and Data science."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Sl.no",
+          "Faculty Name",
+          "Faculty Designation",
+          "Qualification"
+        ],
+        [
+          "1",
+          "Sindhe Phani Kumar",
+          "HOD",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "2",
+          "Abburi Aswani",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "3",
+          "Aravapalli Prudhvi Raj",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "4",
+          "Bandaru Venkatasaimounika",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "5",
+          "Bhukya Venkanna",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "6",
+          "Bommineni Venkata Nagaraju",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "7",
+          "Boochepalli Venkata Krishnareddy",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "8",
+          "Botlaguduru Sai Naga Sravani",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "9",
+          "Chintala Ramalingamma",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "10",
+          "Galla China Srinivasarao",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "11",
+          "Garimidi Subba Rao",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "12",
+          "Gudepu Karthik",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "13",
+          "Kalle Sivakrishna",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "14",
+          "Karumanchi Haribabu",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "15",
+          "Koduri Mohan Kumar",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "16",
+          "Kollam Kalpana",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "17",
+          "Kolluri Anusha",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "18",
+          "Madala Sahithya",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "19",
+          "Makala Ranesh Kumar",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "20",
+          "Makkena Brahmaiah",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "21",
+          "Patibandla Aswini",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "22",
+          "Sukanya Sripathi",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "23",
+          "Suragani Amarnadh",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "24",
+          "Venkateswarlu Pynam",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "25",
+          "Vipparla Ramya",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "26",
+          "Rudravarapu Manikanta",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "27",
+          "Kondamudi Siva Parvathi",
+          "Assistant Professor",
+          "M.Tech"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Academic Year",
+          "I Year",
+          "II Year",
+          "III Year",
+          "IV Year"
+        ],
+        [
+          "2024-25",
+          "24KQ1A5420 NVAISHNAVI SRI",
+          "23KQ1A5406 C.H.V.S.S.BHAVYA SRI",
+          "22KQ1A5424 PJAYALAKSHMI",
+          "21KQ1A5422 SHAIKKHOUSAR"
+        ],
+        [
+          "2023-24",
+          "23KQA5406 C.H.V.S.S.BHAVYASRI",
+          "22KQ1A5424  PJAYALAKSHMI",
+          "21KQ1A5422 SHAIKKHOUSAR",
+          "20KQ1A5416 KMADHAVI"
+        ],
+        [
+          "2022-23",
+          "22KQ1A54F1 PONNAGANTI LAHARI",
+          "21KQ1A5495  T BHARGAVI",
+          "20KQ1A5416 K.MADHAVI",
+          "---"
+        ],
+        [
+          "2021-22",
+          "21KQ1A5422 SHAIK KOUSAR",
+          "20KQ1A5416 K.MADHAVI",
+          "---",
+          "---"
+        ],
+        [
+          "2020-21",
+          "20KQ1A5416 K.MADHAVI",
+          "---",
+          "---",
+          "---"
+        ]
+      ]
+    }
+  ],
+  "images_count": 7,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/programming-languages-aiml-aids.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/dbms-lab-aiml-aids.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/networks-lab-aiml-aids.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/algorithms-related-labs-aiml-aids.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 75,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FOR MORE DETAILS CLICK HERE",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS-TLP.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 APPLIED CHEMISTRY",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R18 APPLIED CHEMISTRY.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R18 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 C-PROGRAMMING FOR PROBLEM SOLVING",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R18 C-PROGRAMMING FOR PROBLEM SOLVING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 ENGLISH-I",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R18 ENGLISH-I.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 MATHEMATICS-I",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R18 MATHEMATICS-I.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 APPLIED CHEMISTRY",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R21 APPLIED CHEMISTRY.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 C - PROGRAMMING FOR PROBLEM SOLVING",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R21 C - PROGRAMMING FOR PROBLEM SOLVING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 COMMUNICATIVE ENGLISH",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R21 COMMUNICATIVE ENGLISH.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 COMPUTER ENGINEERING WORKSHOP",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R21 COMPUTER ENGINEERING WORKSHOP.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 LINEAR ALGEBRA & DIFFERENTIAL EQUATIONS",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/R21 LINEAR ALGEBRA & DIFFERENTIAL EQUATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER ORGANIZATION _IT,IOT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/COMPUTER ORGANIZATION _IT,IOT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DATABASE MANAGEMENT SYSTEMS _IOT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/DATABASE MANAGEMENT SYSTEMS _IOT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "JAVA PROGRAMMING _AIDS,AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/JAVA PROGRAMMING _AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOFTWARE ENGINEERING  _IT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/SOFTWARE ENGINEERING  _IT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TRANSFORMATION TECHNIQUES & PARTIAL DIFFERENTIATION",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/TRANSFORMATION TECHNIQUES & PARTIAL DIFFERENTIATION.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER ORGANIZATION _AIDS AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/COMPUTER ORGANIZATION _AIDS AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DATA STRUCTURES _ECE _CSE_CSIT _IT _IOT_AIDS_AIML - Copy (4)",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/DATA STRUCTURES _ECE _CSE_CSIT _IT _IOT_AIDS_AIML - Copy (4).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Java Programming _CSE _AIDS _AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/Java Programming _CSE _AIDS _AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOFTWARE ENGINEERING _IOT_AIDS _AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/SOFTWARE ENGINEERING _IOT_AIDS _AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STATISTICS FOR DATA SCIENCE _AIDS",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/STATISTICS FOR DATA SCIENCE _AIDS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER NETWORKS  _CSE&IT",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/COMPUTER NETWORKS  _CSE&IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MACHINE LEARNING   _ AIDS,AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/MACHINE LEARNING   _ AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OPERATING SYSTEMS   _CSE CSIT, IT, CSE(IOTCSBT)",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/OPERATING SYSTEMS   _CSE CSIT, IT, CSE(IOTCSBT).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "PROFESSIONAL ETHICS _CSIT_IT_IOT_AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/PROFESSIONAL ETHICS _CSIT_IT_IOT_AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOFTWARE TESTING  _AIDS",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/regular/SOFTWARE TESTING  _AIDS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER ORGANIZATION  _IT_IOT_AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/COMPUTER ORGANIZATION  _IT_IOT_AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DATABASE MANAGEMENT SYSTEMS _IOT_AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/DATABASE MANAGEMENT SYSTEMS _IOT_AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "JAVA PROGRAMMING _AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/JAVA PROGRAMMING _AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOFTWARE ENGINEERING  _IT_AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/SOFTWARE ENGINEERING  _IT_AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TTDE _  EEE_ME_ECE_IT_IOT_AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/TTDE _  EEE_ME_ECE_IT_IOT_AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER ORGANIZATION _ (AIDS _AIML)",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/COMPUTER ORGANIZATION _ (AIDS _AIML).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DATA STRUCTURES  _ECE_CSE_CSIT_IT_IOT_AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/DATA STRUCTURES  _ECE_CSE_CSIT_IT_IOT_AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Java Programming _CSE_AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/Java Programming _CSE_AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOFTWARE ENGINEERING  _IOT_AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/SOFTWARE ENGINEERING  _IOT_AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STATISTICS FOR DATA SCIENCE  _AIDS",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/STATISTICS FOR DATA SCIENCE  _AIDS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DATA WARE HOUSING AND DATA MINING  _CSIT_AIDS",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/DATA WARE HOUSING AND DATA MINING  _CSIT_AIDS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MACHINE LEARNING _AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/MACHINE LEARNING _AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "PROFESSIONAL ETHICS  _CSIT_IT_IOT_AIDS_AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/PROFESSIONAL ETHICS  _CSIT_IT_IOT_AIDS_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOFTWARE TESTING  _AIDS",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/aids/supplementary/SOFTWARE TESTING  _AIDS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/public/assets/images/hsdata/AIDS_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/public/assets/images/R21-AIDS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/public/assets/images/R18-AIDS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STUDENT_ACHIVEMENTS_2025_26",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS_STUDENT_ACHIVEMENTS_2025_26.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STUDENT_ACHIVEMENTS_2024_25",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS_STUDENT_ACHIVEMENTS_2024_25.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STUDENT_ACHIVEMENTS_2023_24",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS_STUDENT_ACHIVEMENTS_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STUDENT_ACHIVEMENTS_2022_23",
+      "url": "https://pace.ac.in/public/public/assets/images/STUDENT_ACHIVEMENTS_2022_23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STUDENT_ACHIVEMENTS_2021_22",
+      "url": "https://pace.ac.in/public/public/assets/images/STUDENT_ACHIVEMENTS_2021_22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AIDS_FACULTY_ACHIVEMENTS_2025-26",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS_FACULTY_ACHIVEMENTS_2025-26.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AIDS_FACULTY_ACHIVEMENTS_2024-25",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS_FACULTY_ACHIVEMENTS_2024-25.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AIDS_FACULTY_ACHIVEMENTS_2023-24",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS_FACULTY_ACHIVEMENTS_2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AIDS_FACULTY_ACHIVEMENTS_2022-23",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS_FACULTY_ACHIVEMENTS_2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AIDS_FACULTY_ACHIVEMENTS_2021-22",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS_FACULTY_ACHIVEMENTS_2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTRA_CURRICULAR_ACTIVITIES_2025_26",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTRA_CURRICULAR_ACTIVITIES_2025_26.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTRA_CURRICULAR_ACTIVITIES_2023_24",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTRA_CURRICULAR_ACTIVITIES_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTRA_CURRICULAR_ACTIVITIES_2022_23",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTRA_CURRICULAR_ACTIVITIES_2022_23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTRA_CURRICULAR_ACTIVITIES_2021_22",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTRA_CURRICULAR_ACTIVITIES_2021_22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTRA_CURRICULAR_ACTIVITIES_2020_21",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTRA_CURRICULAR_ACTIVITIES_2020_21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AIDS-INOVATION",
+      "url": "https://pace.ac.in/public/public/assets/images/AIDS-INOVATION.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2024-2025",
+      "url": "https://pace.ac.in/public/public/assets/images/EVENTS-AIDS-24-25.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-2024",
+      "url": "https://pace.ac.in/public/public/assets/images/EVENTS-AIDS-23-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/public/assets/images/EVENTS-AIDS-22-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/public/assets/images/EVENTS-AIDS-21-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

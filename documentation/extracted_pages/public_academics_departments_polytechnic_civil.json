@@ -1,0 +1,270 @@
+{
+  "url": "https://pace.ac.in/public/academics/departments/polytechnic/civil",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "ABOUT CIVIL"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "Facilities",
+      "Syllabus",
+      "Toppers List",
+      "ACHIEVEMENTS"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "FACILITIES",
+      "target": "#v-pills-profile"
+    },
+    {
+      "name": "SYLLABUS",
+      "target": "#v-pills-messages"
+    },
+    {
+      "name": "Achievements",
+      "target": "#v-pills-placements"
+    }
+  ],
+  "tab_panes_count": 5,
+  "tables_count": 5,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "M1",
+          "To provide a competitive learning environment, through a need based curriculum  designed in collaboration with industry, conducive for high quality education emphasizing on transfer of knowledge and skill development essentials or the profession and the society as well."
+        ],
+        [
+          "M2",
+          "To nurture higher order leadership qualities and ethics and values in students to enable them to be leaders in their chosen professions while maintaining the highest level of ethics."
+        ],
+        [
+          "M3",
+          "To encourage the spirit of inquisition to promote innovation and entrepreneurship strengthened with life skills to sustain the stress."
+        ],
+        [
+          "M4",
+          "To foster effective interactions and networking with all the stake holders so as to work towards the growth and sustain ability of the society and environment."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PEO1",
+          "Fundamental knowledge of mathematics, Basic sciences and basic interdisciplinary Engineering to apply day to day challenges in the field of civil engineering."
+        ],
+        [
+          "PEO2",
+          "Knowledge in the principles, concepts, and techniques in civil engineering area to solve contemporary issues."
+        ],
+        [
+          "PEO3",
+          "Applications of the principles, concepts, and techniques in civil engineering area to solve contemporary issues and gain hands on experience."
+        ],
+        [
+          "PEO4",
+          "Effective Communication on activities regarding planning, designing, manufacturing, and servicing functions with engineering community."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Po 1",
+          "Basic and discipline specific knowledge: Apply knowledge of basic mathematics, science and engineering fundamentals and engineering specialization to solve the engineering problems."
+        ],
+        [
+          "Po 2",
+          "Problem analysis: Identify and analyse  well-defined engineering problems using codified standard methods"
+        ],
+        [
+          "Po 3",
+          "Design/Development of solutions: Design solutions for well-defined technical problems and assist with the design of systems components or processes to meet specified needs."
+        ],
+        [
+          "Po 4",
+          "Engineering tools, Experimentation and Testing: Apply modern engineering tools and appropriate techniques to conduct standard tests and measurements"
+        ],
+        [
+          "Po 5",
+          "Engineering practices for society, sustainability and environment: Apply appropriate technology in context of society, sustainability, environment and ethical practices."
+        ],
+        [
+          "Po 6",
+          "Project Management: Use engineering management principles individually, as team member or a leader to manage projects and effectively communicate about well defined engineering activities"
+        ],
+        [
+          "Po 7",
+          "Life-long learning: Ability to analyse individual needs and engage in updating in the context of technological changes."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PSO1",
+          "An ability to apply disciplines - specific knowledge to solve core and/or applied Civil Engineering problems."
+        ],
+        [
+          "PSO2",
+          "An ability to plan and perform experiments and practices and to use the results to solve Civil Engineering problems."
+        ],
+        [
+          "PSO3",
+          "Apply appropriate technologies and tools with an understanding of the limitations."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Years",
+          "I YEAR",
+          "IIND YEAR",
+          "IIIRD YEAR"
+        ],
+        [
+          "2021-2022",
+          "21 BATCH - BALAJI",
+          "20TH BATCH – NIHARIKA",
+          "19TH BATCH – NIHANTH LAKSHMAN"
+        ],
+        [
+          "2020-2021",
+          "20TH BATCH – KORUKONDA SAI NIHARIKA",
+          "19TH BATCH – NIHANTH LAKSHMAN",
+          "18TH BATCH – BHIMAVARAPU HARIKA"
+        ],
+        [
+          "2019-2020",
+          "19TH BATCH -  P. venkatesh",
+          "18TH BATCH – S. HARIKA",
+          "17TH BATCH - DASARI SAI DEEPTHI"
+        ]
+      ]
+    }
+  ],
+  "images_count": 3,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 16,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Facilities",
+      "url": "https://pace.ac.in/public/public/assets/images/facilities-poly-civil.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "C-26 Curriculum",
+      "url": "https://pace.ac.in/public/public/assets/images/Poly_Syllabus/C-26 CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "C-23 Curriculum",
+      "url": "https://pace.ac.in/public/public/assets/images/C23_DCE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "C-20 Curriculum",
+      "url": "https://pace.ac.in/public/public/assets/images/C-20-Civil-Curriculum.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

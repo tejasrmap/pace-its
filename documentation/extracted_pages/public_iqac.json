@@ -1,0 +1,739 @@
+{
+  "url": "https://pace.ac.in/public/iqac",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Internal Quality Assurance Cell"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "Composition of the IQAC",
+      "ACCREDITATIONS",
+      "IIQA",
+      "POLICIES",
+      "MINUTES OF MEETING",
+      "SSR",
+      "Annual Quality Assurance Report (AQAR)",
+      "EXTERNAL PEER TEAM REPORT",
+      "Institutional Strategic Plan",
+      "Student Satisfaction Survey Report",
+      "FEEDBACK ON CURRICULUM AND SYLLABUS",
+      "Best Practice",
+      "UGC-UNDERTAKING",
+      "Contact",
+      "ANNUAL REPORTS",
+      "FEEDBACKS"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "IQAC HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "COMPOSITION",
+      "target": "#v-pills-profile"
+    },
+    {
+      "name": "MINUTES OF MEETING",
+      "target": "#v-pills-meeting"
+    },
+    {
+      "name": "ACCREDITATIONS",
+      "target": "https://pace.ac.in/public/affiliation-and-accreditation"
+    },
+    {
+      "name": "AQAR",
+      "target": "#v-pills-settings"
+    },
+    {
+      "name": "IIQA",
+      "target": "#v-pills-IIQA"
+    },
+    {
+      "name": "BEST PRACTICES",
+      "target": "#v-pills-sai"
+    },
+    {
+      "name": "SSS REPORT",
+      "target": "#v-pills-sri"
+    },
+    {
+      "name": "FEEDBACK ON CURRICULUM AND SYLLABUS",
+      "target": "#v-pills-giri"
+    },
+    {
+      "name": "UGC-UNDERTAKING",
+      "target": "#v-pills-rama"
+    },
+    {
+      "name": "Institutional Strategic Plan",
+      "target": "#v-pills-plan"
+    },
+    {
+      "name": "Policies",
+      "target": "#v-pills-policy"
+    },
+    {
+      "name": "Feedbacks",
+      "target": "#v-pills-feed"
+    },
+    {
+      "name": "Contact",
+      "target": "#v-pills-con"
+    }
+  ],
+  "tab_panes_count": 17,
+  "tables_count": 2,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "M1",
+          "In keeping with its Jesuit heritage and identity, IQAC models and expects excellence in academic and professional pursuits."
+        ],
+        [
+          "M2",
+          "IQAC cultivates the capacity and dispositions for reflective and critical thought, creativity, and innovation in its main stake holders, that is staff and students of PACE."
+        ],
+        [
+          "M3",
+          "IQAC also aims to identify and cultivate extra-curricular talent and potential of both staff and students, which will go towards strengthening the vision of the college."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S. No",
+          "Name of the Member",
+          "Designation",
+          "Status"
+        ],
+        [
+          "1",
+          "Dr. G V K Murthy",
+          "Principal",
+          "Chairman"
+        ],
+        [
+          "2",
+          "Dr. M Sridhar",
+          "Secretary & Correspondent",
+          "Member"
+        ],
+        [
+          "3",
+          "Mr. V.Sivaprasad",
+          "Asst. Professor- MECH",
+          "Coordinator"
+        ],
+        [
+          "4",
+          "Dr. CV. Subbarao",
+          "Dean-Academics",
+          "Member"
+        ],
+        [
+          "5",
+          "Dr. R Veeranjaneyulu",
+          "Dean Student Affairs",
+          "Member"
+        ],
+        [
+          "6",
+          "Dr. D Anil Kumar",
+          "Dean-R&D",
+          "Member"
+        ],
+        [
+          "7",
+          "Dr. G E Babu",
+          "Controller of Examination",
+          "Member"
+        ],
+        [
+          "8",
+          "Mr. M V Ramana Babu",
+          "CAO",
+          "Member"
+        ],
+        [
+          "9",
+          "Mrs. Roopa Akkesh K",
+          "Dean T&P",
+          "Member"
+        ],
+        [
+          "10",
+          "Dr.G. Ganesh Naidu",
+          "HoD- CIVIL",
+          "Member"
+        ],
+        [
+          "11",
+          "Dr.Ch.Jagadeeshwara Reddy",
+          "HoD- EEE",
+          "Member"
+        ],
+        [
+          "12",
+          "Dr. G. Kondaiah",
+          "HoD-Mech",
+          "Member"
+        ],
+        [
+          "13",
+          "Dr.M Apparao",
+          "HoD-ECE",
+          "Member"
+        ],
+        [
+          "14",
+          "Dr.S. Giribabu",
+          "HoD-CSE",
+          "Member"
+        ],
+        [
+          "15",
+          "Dr.A.Seshagiri Rao",
+          "HoD-IT",
+          "Member"
+        ],
+        [
+          "16",
+          "Dr.B.Srikanth",
+          "HoD-CSE(IOT& CSBT)&CSIT",
+          "Member"
+        ],
+        [
+          "17",
+          "Dr.S.Phani Kumar",
+          "HoD-AIDS",
+          "Member"
+        ],
+        [
+          "18",
+          "Dr.SK. Heena Kauser",
+          "HoD-AIML",
+          "Member"
+        ],
+        [
+          "19",
+          "Dr.B. Haribabu",
+          "HoD- H & S Dept",
+          "Member"
+        ],
+        [
+          "20",
+          "Dr.T Mary Jones",
+          "HoD-MBA",
+          "Member"
+        ],
+        [
+          "21",
+          "Dr.K. Vijaya chendra",
+          "Asso. Prof-ECE",
+          "Member"
+        ],
+        [
+          "22",
+          "Mr. B.Nagaraju",
+          "Asst. Prof-EEE",
+          "Member"
+        ],
+        [
+          "23",
+          "G.Vijay Kiran",
+          "Asst. Prof-ECE",
+          "Member"
+        ],
+        [
+          "24",
+          "Mr. B. Vijay Geethik",
+          "Student-EEE",
+          "Member"
+        ],
+        [
+          "25",
+          "Mr. K Prabhudas",
+          "Alumni",
+          "Member"
+        ],
+        [
+          "26",
+          "Dr. P.V.V.Kishore",
+          "Industry",
+          "Member"
+        ]
+      ]
+    }
+  ],
+  "images_count": 4,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Undertaking.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 86,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AICTE Approval Report for 2021-2022 Academic Year",
+      "url": "https://pace.ac.in/public/public/assets/images/AICTE 2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AICTE Approval Report for 2020-2021 Academic Year",
+      "url": "https://pace.ac.in/public/public/assets/images/AICTE 2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ACCREDITED BY NBA(CSE, ECE, EEE) extended UP TO 2023",
+      "url": "https://pace.ac.in/public/public/assets/images/NBA Extension upto 2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ACCREDITED BY NBA(CSE, ECE, EEE).",
+      "url": "https://pace.ac.in/public/public/assets/images/NBA_Accreditation_1st_2017.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ACCREDITED BY NAAC WITH 'A' GRADE extended UP TO 2023",
+      "url": "https://pace.ac.in/public/public/assets/images/NAAC Certificate_04-12-2018_Upto 31-12-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ACCREDITED BY NAAC WITH 'A' GRADE.",
+      "url": "https://pace.ac.in/public/public/assets/images/NAAC Certificate.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AICTE Approval Report for 2019-2020 Academic Year.",
+      "url": "https://pace.ac.in/public/public/assets/images/AICTE Approval_2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AICTE Approval Report for 2018-2019 Academic Year.",
+      "url": "https://pace.ac.in/public/public/assets/images/EOA Report_2018-19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AICTE Approval Report for 2017-2018 Academic Year.",
+      "url": "https://pace.ac.in/public/public/assets/images/AICTE approval_2017-18 with sign.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Permanent Affiliation Approval by JNTUK.",
+      "url": "https://pace.ac.in/public/public/assets/images/JNTUK_Permanent Affiliation_2017-18_B.Tech_M.Tech_MBA.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IIQA",
+      "url": "https://pace.ac.in/public/public/assets/images/IIQA.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Alumni_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Alumni_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CGC_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/CGC_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Diciplane_and_Anti_Ragiing_Polocy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Diciplane_and_Anti_Ragiing_Polocy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ERP_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/ERP_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Green_Campus_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Green_Campus_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Hostel_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Hostel_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Industry_Intractions",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Industry_Intractions.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ISR_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/ISR_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IT_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/IT_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mentorship_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Mentorship_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SC_ST_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/SC_ST_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student_Activity_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Student_Activity_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Training_and_Placements_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Training_and_Placements_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Transport_Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Transport_Policy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Waste_Management",
+      "url": "https://pace.ac.in/public/public/assets/images/policies/Waste_Management.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2025-26",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting Minutes 2025-26.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2024-25",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting_Minutes_2024_25.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2023-24",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting_Minutes_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2022-23",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting Minutes 2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2021-22",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting Minutes 2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2020-21",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting Minutes 2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2019-20",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting Minutes 2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2018-19",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting Minutes 2018-19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2017-18",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting Minutes 2017-18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Meeting Minutes 2016-17",
+      "url": "https://pace.ac.in/public/public/assets/images/Meeting Minutes 2016-17.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SSR-2023-24",
+      "url": "https://pace.ac.in/public/SSR/SSR-2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AQAR-2023-2024-Report",
+      "url": "https://pace.ac.in/public/public/assets/images/AQAR-2023-2024-Report.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AQAR-2022-2023-Report",
+      "url": "https://pace.ac.in/public/public/assets/images/AQAR-2022-2023-Report.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AQAR-2021-2022-Report",
+      "url": "https://pace.ac.in/public/public/assets/images/AQAR-2021-2022-Report.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AQAR-2021-2022-Report",
+      "url": "https://pace.ac.in/public/public/assets/images/AQAR-2021-2022-Report.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AQAR 2020-2021 Report",
+      "url": "https://pace.ac.in/public/public/assets/images/AQAR 2020-2021 Report.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AQAR 2019-2020 Report",
+      "url": "https://pace.ac.in/public/public/assets/images/AQAR(2019-20)_Report.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AQAR 2018-2019 Report",
+      "url": "https://pace.ac.in/public/public/assets/images/AQAR_Report 2018-19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AQAR 2017-2018 Report",
+      "url": "https://pace.ac.in/public/public/assets/images/AQAR(2017-18).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "AQAR 2016-2017 Report",
+      "url": "https://pace.ac.in/public/public/assets/images/AQAR 2016-17- APCOGN 23502- PACE Institute of Technology and Sciences-Ongole-Andhra Pradesh.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTERNAL PEER TEAM REPORT 2024-2025",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTERNAL PEER TEAM REPORT 24-25.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTERNAL PEER TEAM REPORT 2023-2024",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTERNAL PEER TEAM REPORT 23-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTERNAL PEER TEAM REPORT 2022-2023",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTERNAL PEER TEAM REPORT 22-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTERNAL PEER TEAM REPORT 2021-2022",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTERNAL PEER TEAM REPORT 21-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTERNAL PEER TEAM REPORT 2019-2020",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTERNAL PEER TEAM REPORT 19-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EXTERNAL PEER TEAM REPORT 2018-2019",
+      "url": "https://pace.ac.in/public/public/assets/images/EXTERNAL PEER TEAM REPORT 18-19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "INSTITUTIONAL STRATEGIC PLAN",
+      "url": "https://pace.ac.in/public/public/assets/images/Strategic Plan_website_upload.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Satisfaction-Report 2025-26",
+      "url": "https://pace.ac.in/public/public/assets/images/Student Satisfaction-Report 2025-26.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Satisfaction-Report 2024-25",
+      "url": "https://pace.ac.in/public/public/assets/images/Student Satisfaction-Report 2024-25.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student-Satisfaction-Report-2023-24",
+      "url": "https://pace.ac.in/public/public/assets/images/Student Satisfaction-Report-2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student-Satisfaction-Report-2022-23",
+      "url": "https://pace.ac.in/public/public/assets/images/Student-Satisfaction-Report-2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student-Satisfaction-Report-2021-22",
+      "url": "https://pace.ac.in/public/public/assets/images/Student-Satisfaction-Report-2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student-Satisfaction-Report-2020-21",
+      "url": "https://pace.ac.in/public/public/assets/images/Student-Satisfaction-Report-2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student-Satisfaction-Report-2019-20",
+      "url": "https://pace.ac.in/public/public/assets/images/Student-Satisfaction-Report-2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FEEDBACK ON CURRICULUM AND SYLLABUS 2024-2025",
+      "url": "https://pace.ac.in/public/public/assets/images/Feedback on Syllabus and Curriculum 2024-25.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FEEDBACK ON CURRICULUM AND SYLLABUS 2023-2024",
+      "url": "https://pace.ac.in/public/public/assets/images/FEEDBACK ON CURRICULUM AND SYLLABUS-2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FEEDBACK ON CURRICULUM AND SYLAABUS 2022-2023",
+      "url": "https://pace.ac.in/public/public/assets/images/FEEDBACK-ON-CURRICULUM-AND-SYLAABUS-2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FEEDBACK ON CURRICULUM AND SYLLABUS 2021-2022",
+      "url": "https://pace.ac.in/public/public/assets/images/FEEDBACK ON CURRICULUM AND SYLAABUS 2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FEEDBACK ON CURRICULUM AND SYLLABUS 2020-2021",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus-feedback-consolidated.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Best Practices 1",
+      "url": "https://pace.ac.in/public/public/assets/images/Best_Practices.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Best Practices 2",
+      "url": "https://pace.ac.in/public/public/assets/images/Best-Practices-2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Best Practices 3",
+      "url": "https://pace.ac.in/public/public/assets/images/Best-Practices-3.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Best Practices 4",
+      "url": "https://pace.ac.in/public/public/assets/images/Best-Practices-4.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Best Practices 5",
+      "url": "https://pace.ac.in/public/public/assets/images/Best-Practices-5.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Best Practices 6",
+      "url": "https://pace.ac.in/public/public/assets/images/Best-Practices-6.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Annual Report 2024-25",
+      "url": "https://pace.ac.in/public/public/assets/images/Annual Report 2024-25.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Annual Report 2023-24",
+      "url": "https://pace.ac.in/public/public/assets/images/Annual Report 2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Annual Report 2022-23",
+      "url": "https://pace.ac.in/public/public/assets/images/Annual Report 2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 132,
+  "external_links_count": 11,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

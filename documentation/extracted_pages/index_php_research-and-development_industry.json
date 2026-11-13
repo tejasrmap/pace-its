@@ -1,0 +1,668 @@
+{
+  "url": "https://pace.ac.in/index.php/research-and-development/industry",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Industry institution interaction"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "MOU Partners",
+      "List of Industries offering internships to the studets from 2018",
+      "Awards & Scholarships to Students from Industry"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "Industry Institute Interaction Cell",
+      "target": "#v-pills-cell"
+    },
+    {
+      "name": "MOU with Educational Institutions & Industries",
+      "target": "#v-pills-mou"
+    },
+    {
+      "name": "Industries Offering Internships to Students",
+      "target": "#v-pills-offer"
+    },
+    {
+      "name": "Awards & Scholarships to Students from Industry",
+      "target": "#v-pills-awards"
+    }
+  ],
+  "tab_panes_count": 4,
+  "tables_count": 4,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No.",
+          "Name",
+          "Designation/ Department",
+          "Role"
+        ],
+        [
+          "1",
+          "Dr G V K Murthy",
+          "Principal",
+          "Chairman"
+        ],
+        [
+          "2",
+          "Dr Mallikarjunachari G",
+          "Associate Professor",
+          "Convener"
+        ],
+        [
+          "3",
+          "Ms K Roopa Akkesh",
+          "Dean – Training & Placements",
+          "Member"
+        ],
+        [
+          "4",
+          "Dr D. Anil Kumar",
+          "Dean Research and Development",
+          "Member"
+        ],
+        [
+          "5",
+          "Dr Ganesh Naidu G",
+          "HoD, Civil Engineering",
+          "Member"
+        ],
+        [
+          "6",
+          "Dr Kondaiah G",
+          "HoD, Mechanical Engineering",
+          "Member"
+        ],
+        [
+          "7",
+          "Dr Mery Jones",
+          "HoD, MBA",
+          "Member"
+        ],
+        [
+          "8",
+          "Dr P Brahmam",
+          "Associate Professor",
+          "Member"
+        ],
+        [
+          "9",
+          "Dr M Venkateswara Rao",
+          "Associate Professor",
+          "Member"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No.",
+          "Collaborated Agency Name"
+        ],
+        [
+          "1",
+          "The International Monetary Fund"
+        ],
+        [
+          "2",
+          "Sreenivas Old irons"
+        ],
+        [
+          "3",
+          "Hema Computers"
+        ],
+        [
+          "4",
+          "BOSCH"
+        ],
+        [
+          "5",
+          "Pantech Proed Pvt Ltd, Hyderabad"
+        ],
+        [
+          "6",
+          "PIONEER AUTO WORLD"
+        ],
+        [
+          "7",
+          "Sree Arundati"
+        ],
+        [
+          "8",
+          "weberindia infra"
+        ],
+        [
+          "9",
+          "GS ELECTRICALS"
+        ],
+        [
+          "10",
+          "TVL ELECTRICALS"
+        ],
+        [
+          "11",
+          "NHAI"
+        ],
+        [
+          "12",
+          "Bhavya constructions"
+        ],
+        [
+          "13",
+          "SYNXA"
+        ],
+        [
+          "14",
+          "Sri Prasanna Anjaneya Cranes"
+        ],
+        [
+          "15",
+          "Sri Prasnna Anjaneya Agro Agencies"
+        ],
+        [
+          "16",
+          "Sujala Pipes"
+        ],
+        [
+          "17",
+          "PEPL"
+        ],
+        [
+          "18",
+          "Alpha Cadd"
+        ],
+        [
+          "19",
+          "Lakshmi Granites"
+        ],
+        [
+          "20",
+          "SLYLANDRO POWER"
+        ],
+        [
+          "21",
+          "Yucan Technologies"
+        ],
+        [
+          "22",
+          "New Mexico State University"
+        ],
+        [
+          "23",
+          "STE Infra Pvt. Ltd"
+        ],
+        [
+          "24",
+          "ESCI"
+        ],
+        [
+          "25",
+          "HIEE"
+        ],
+        [
+          "26",
+          "VIDAL NDT"
+        ],
+        [
+          "27",
+          "Institute of Management and Foreign Studies(IMFS)"
+        ],
+        [
+          "28",
+          "Edu Skills"
+        ],
+        [
+          "29",
+          "Hexaware"
+        ],
+        [
+          "30",
+          "Xplore Placement Club"
+        ],
+        [
+          "31",
+          "Code Tantra"
+        ],
+        [
+          "32",
+          "APSSDC"
+        ],
+        [
+          "33",
+          "CISCO"
+        ],
+        [
+          "34",
+          "Spoken Tutorials"
+        ],
+        [
+          "35",
+          "National Small Industries Corporation Limited"
+        ],
+        [
+          "36",
+          "Chinmaya Micro Technologies"
+        ],
+        [
+          "37",
+          "Star VLSI Services PVT LTD"
+        ],
+        [
+          "38",
+          "Microlink Information Technologies"
+        ],
+        [
+          "39",
+          "Engineering Staff College of India(ESCI)"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No.",
+          "Name of the Industry"
+        ],
+        [
+          "1",
+          "Advanced Cyber Range Services"
+        ],
+        [
+          "2",
+          "Andhra pradesh State Skill Development Corporation"
+        ],
+        [
+          "3",
+          "AP.Samagra Siksha"
+        ],
+        [
+          "4",
+          "APPSSDC"
+        ],
+        [
+          "5",
+          "Azure Skynet"
+        ],
+        [
+          "6",
+          "Beam Weighing Technologies"
+        ],
+        [
+          "7",
+          "Bismilla Motors Works"
+        ],
+        [
+          "8",
+          "Bolt Iot"
+        ],
+        [
+          "9",
+          "Brain O Vision Solutions(India) Pvt Ltd"
+        ],
+        [
+          "10",
+          "Brain To Vision"
+        ],
+        [
+          "11",
+          "Brainovision"
+        ],
+        [
+          "12",
+          "CDST IT Solutions"
+        ],
+        [
+          "13",
+          "Code Tantra"
+        ],
+        [
+          "14",
+          "E&Ict, IIT Kanpur"
+        ],
+        [
+          "15",
+          "Earthonamic Engineering"
+        ],
+        [
+          "16",
+          "Eduskills"
+        ],
+        [
+          "17",
+          "Eliyaz Automobile Engineering Works"
+        ],
+        [
+          "18",
+          "Engineering Staff College Of India"
+        ],
+        [
+          "19",
+          "Experts Hub"
+        ],
+        [
+          "20",
+          "Farm 360"
+        ],
+        [
+          "21",
+          "Forage"
+        ],
+        [
+          "22",
+          "Global Readymix"
+        ],
+        [
+          "23",
+          "Golkonda Engineering Enterprises Limited"
+        ],
+        [
+          "24",
+          "Hiee"
+        ],
+        [
+          "25",
+          "Honda"
+        ],
+        [
+          "26",
+          "Iiitd & M"
+        ],
+        [
+          "27",
+          "IIT Kanpur"
+        ],
+        [
+          "28",
+          "Indian Metal Works"
+        ],
+        [
+          "29",
+          "Internshala"
+        ],
+        [
+          "30",
+          "Internshala Trainings"
+        ],
+        [
+          "31",
+          "Irrigation & water Resource Department"
+        ],
+        [
+          "32",
+          "ISRO"
+        ],
+        [
+          "33",
+          "BHEL"
+        ],
+        [
+          "34",
+          "BSNL"
+        ],
+        [
+          "35",
+          "BELL"
+        ],
+        [
+          "36",
+          "Janatha Garage"
+        ],
+        [
+          "37",
+          "Jpmorgan Chase & Co"
+        ],
+        [
+          "38",
+          "Kkcc"
+        ],
+        [
+          "39",
+          "Kpmg"
+        ],
+        [
+          "40",
+          "Learning Links Foundation"
+        ],
+        [
+          "41",
+          "Meenakshi Automotives"
+        ],
+        [
+          "42",
+          "Nano polymers India Pvt.Ltd"
+        ],
+        [
+          "43",
+          "Nascomm(Internship On Foundations Of Artificial Intelligence"
+        ],
+        [
+          "44",
+          "National Highway Authority of India"
+        ],
+        [
+          "45",
+          "Nexa Jayalakshmi Automatives Pvt. Ltd."
+        ],
+        [
+          "46",
+          "NIT AP"
+        ],
+        [
+          "47",
+          "NRCNC Traders"
+        ],
+        [
+          "48",
+          "NSIC"
+        ],
+        [
+          "49",
+          "Ongole muncipal corporation"
+        ],
+        [
+          "50",
+          "Panchayathi Raj Department"
+        ],
+        [
+          "51",
+          "Pantec Solutions"
+        ],
+        [
+          "52",
+          "Pantech E Learning"
+        ],
+        [
+          "53",
+          "Pavan Survey and Engineering"
+        ],
+        [
+          "54",
+          "Prakasam Milk Producer Company Limted"
+        ],
+        [
+          "55",
+          "Raaz Motors"
+        ],
+        [
+          "56",
+          "Skill Vertex"
+        ],
+        [
+          "57",
+          "Smart Bridge"
+        ],
+        [
+          "58",
+          "Smart Internz"
+        ],
+        [
+          "59",
+          "Smart Knower Iit Bombay"
+        ],
+        [
+          "60",
+          "Sri Lakshmi Auto Mobiles"
+        ],
+        [
+          "61",
+          "Sri Siddhi vinayaka Bajaj"
+        ],
+        [
+          "62",
+          "Star Aonics Srvice Center"
+        ],
+        [
+          "63",
+          "Sumhitha Meditech Pvt. Ltd."
+        ],
+        [
+          "64",
+          "Suven Consultants & Technology Pvt.Ltd"
+        ],
+        [
+          "65",
+          "Swathisri Plastic Industries Pvt. Ltd."
+        ],
+        [
+          "66",
+          "Techspakes Llp"
+        ],
+        [
+          "67",
+          "Verz"
+        ],
+        [
+          "68",
+          "Village Grama sachivalayam"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No.",
+        "Name Of The Industry",
+        "Type Of Scholarship"
+      ],
+      "rows": [
+        [
+          "1",
+          "ONGC",
+          "Merit Scholarship"
+        ],
+        [
+          "2",
+          "Reliance",
+          "Merit Scholarship"
+        ],
+        [
+          "3",
+          "Santoor",
+          "Merit Scholarship"
+        ],
+        [
+          "4",
+          "Dxe",
+          "Merit Scholarship"
+        ]
+      ]
+    }
+  ],
+  "images_count": 3,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 12,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

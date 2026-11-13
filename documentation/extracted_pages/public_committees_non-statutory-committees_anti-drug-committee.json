@@ -1,0 +1,303 @@
+{
+  "url": "https://pace.ac.in/public/committees/non-statutory-committees/anti-drug-committee",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "ANTI-DRUG CELL"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "ANTI-DRUG CELL MEMBERS",
+      "SQUAD MEMBERS",
+      "EVENTS"
+    ]
+  },
+  "tabs": [],
+  "tab_panes_count": 0,
+  "tables_count": 2,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No",
+          "Name of the Member",
+          "Status",
+          "Category",
+          "Designation & Department"
+        ],
+        [
+          "1.",
+          "Dr. G.V.K.Murthy",
+          "Chairman",
+          "Principal",
+          "Principal"
+        ],
+        [
+          "2.",
+          "Dr. P. Brahmam",
+          "Coordinator",
+          "Faculty",
+          "Associate Professor\r\n\t\t\t\tH&S"
+        ],
+        [
+          "3.",
+          "Dr. P. Gidyonu",
+          "Coordinator",
+          "Faculty",
+          "Assistance Professor\r\n\t\t\t\tH&S"
+        ],
+        [
+          "4.",
+          "Mrs. A. Suhasini",
+          "Member",
+          "Girls hostel warden",
+          "Girls hostel warden"
+        ],
+        [
+          "5.",
+          "Mr. S. Ramaiah",
+          "Member",
+          "Boys hostel warden",
+          "Boys hostel warden"
+        ],
+        [
+          "6.",
+          "Mrs. P. Indira",
+          "Member",
+          "Nurse\r\n\t\t\t\tDispensary",
+          "Head Nurse\r\n\t\t\t\tDispensary"
+        ],
+        [
+          "7.",
+          "Mr. J. Ajay Kiran",
+          "Member",
+          "Student",
+          "ECE(22KQ1A04H0)"
+        ],
+        [
+          "8.",
+          "Mr. Sk. Sahulu",
+          "Member",
+          "Student",
+          "EEE(23KQ1A0256)"
+        ],
+        [
+          "9.",
+          "Mr. V. Durga Prasad",
+          "Member",
+          "Student",
+          "ECE(24KQ1A0466)"
+        ],
+        [
+          "10.",
+          "Mr. Ch. Kishan Babu",
+          "Member",
+          "Student",
+          "CSE(24KQ1A6327)"
+        ],
+        [
+          "11.",
+          "Mrs. M Bhargavi",
+          "Member",
+          "Student",
+          "IOT(22KQ1A4716)"
+        ],
+        [
+          "12.",
+          "Mrs. Sk. Karishma",
+          "Member",
+          "Student",
+          "ECE(23KQ1A04F1)"
+        ],
+        [
+          "13.",
+          "Mrs. S. Sharon",
+          "Member",
+          "Student",
+          "IOT(24KQ1A4785)"
+        ],
+        [
+          "14.",
+          "Mrs. A. Akshya",
+          "Member",
+          "Student",
+          "CSIT(24KQ1A0702)"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No",
+          "Name of the Member",
+          "Status",
+          "Category",
+          "Designation & Department"
+        ],
+        [
+          "1",
+          "Dr. Kondaiah",
+          "Squad Member",
+          "HOD",
+          "HOD –Mech. E"
+        ],
+        [
+          "2",
+          "Dr. G. Ganesh Naidu",
+          "Squad Member",
+          "HOD",
+          "HOD-Civil"
+        ],
+        [
+          "3",
+          "Mr. M. Ravindra",
+          "Squad Member",
+          "HOD",
+          "HOD-H&S"
+        ],
+        [
+          "4",
+          "Mr A. Prudvi Krishna",
+          "Member",
+          "ANO-NCC",
+          "Assistant Professor ME"
+        ]
+      ]
+    }
+  ],
+  "images_count": 11,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/drug1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/drug2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/drug3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/drug4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/drug5.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/drug6.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/drug7.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/drug8.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 14,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ADC_Events_2023-24",
+      "url": "https://pace.ac.in/public/public/assets/images/ADC_2022_23_AND_23_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ADC_Events_2022-23",
+      "url": "https://pace.ac.in/public/public/assets/images/ADC_Events_2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

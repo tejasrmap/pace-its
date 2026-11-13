@@ -1,0 +1,1165 @@
+{
+  "url": "https://pace.ac.in/public/index.php/academics/departments/mech",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "DEPARTMENT OF MECHANICAL ENGINEERING"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "TEACHING AND LEARNING PRACTICES",
+      "Previous Question Papers",
+      "Industry Intraction",
+      "FACULTY LIST",
+      "Labs In Mechanical Dept",
+      "Syllabus",
+      "INNOVATIONS",
+      "Placements",
+      "Syllabus",
+      "Toppers List",
+      "FACULTY ACHIEVEMENTS",
+      "STUDENT ACHIEVEMENTS",
+      "SAR",
+      "Events",
+      "Extra Curricular Activities"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "FACILITIES",
+      "target": "#v-pills-profile"
+    },
+    {
+      "name": "Industry Intraction",
+      "target": "#v-pills-mou"
+    },
+    {
+      "name": "TLP",
+      "target": "#v-pills-tlp"
+    },
+    {
+      "name": "B.Tech SYLLABUS",
+      "target": "#v-pills-messages"
+    },
+    {
+      "name": "TOPPERS",
+      "target": "#v-pills-settings"
+    },
+    {
+      "name": "FACULTY ACHIEVEMENTS",
+      "target": "#v-pills-hari"
+    },
+    {
+      "name": "STUDENT ACHIEVEMENTS",
+      "target": "#v-pills-studentd"
+    },
+    {
+      "name": "INNOVATIONS",
+      "target": "#v-pills-development"
+    },
+    {
+      "name": "EVENTS",
+      "target": "#v-pills-giri"
+    },
+    {
+      "name": "SAR",
+      "target": "#v-pills-sai"
+    },
+    {
+      "name": "Extra Curricular Activities",
+      "target": "#v-pills-curricular"
+    },
+    {
+      "name": "Previous Question Papers",
+      "target": "#v-pills-question"
+    }
+  ],
+  "tab_panes_count": 16,
+  "tables_count": 7,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "M 1",
+          "To impart quality education to the students and enhancing their skills to make them competitive in Mechanical Engineering."
+        ],
+        [
+          "M 2",
+          "To enhance technical skills and knowledge of the students to match with the global needs particularly with higher studies, entrepreneurship and industry."
+        ],
+        [
+          "M 3",
+          "To develop the students as career competitors by utilizing the skill and excellency in the field of design, manufacturing and thermal engineering."
+        ],
+        [
+          "M 4",
+          "To make the students to learn effective technical communication skills to face intellectual and ethical career challenges after graduation."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PO 1",
+          "Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems."
+        ],
+        [
+          "PO 2",
+          "Problem analysis: Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences."
+        ],
+        [
+          "PO 3",
+          "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, cultural, societal and environmental considerations."
+        ],
+        [
+          "PO 4",
+          "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions"
+        ],
+        [
+          "PO 5",
+          "Modern tool usage: Create, select and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+        ],
+        [
+          "PO 6",
+          "The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal, cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+        ],
+        [
+          "PO 7",
+          "Environment\tand\tsustainability:\tUnderstand\tthe\timpact\tof\tthe\tprofessional\r\n\r\nengineering solutions in societal and environmental contexts and demonstrate the knowledge of and need for sustainable development."
+        ],
+        [
+          "PO 8",
+          "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+        ],
+        [
+          "PO 9",
+          "Individual and team work: Function effectively as an individual and as a member or leader in diverse teams and in multidisciplinary settings."
+        ],
+        [
+          "PO 10",
+          "Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations and give and receive clear instructions."
+        ],
+        [
+          "PO 11",
+          "Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+        ],
+        [
+          "PO 12",
+          "Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PEO 1",
+          "To provide students with a foundation in mathematical, Scientific and Engineering\tFundamentals\tnecessary\tto\tformulate,\tsolve\tand\tanalyze\r\n\r\nengineering problems and to prepare them for graduate studies."
+        ],
+        [
+          "PEO 2",
+          "To inculcate students in machine design, product manufacturing and thermal\r\n\r\nengineering by adopting experimental, analytical and numerical techniques."
+        ],
+        [
+          "PEO 3",
+          "To prepare the students for successful careers in higher studies, industry and\r\n\r\nentrepreneurship\tthat\tmeets\tthe\tneeds\tof\tIndian\tand\tMulti-National organizations."
+        ],
+        [
+          "PEO 4",
+          "To provide opportunity for students to work as part of teams on multi- disciplinary projects."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PSO 1",
+          "Promotes the technical knowledge, skills and attitude for the requirement of\r\n\r\nindustry and society towards Mechanical Engineering."
+        ],
+        [
+          "PSO 2",
+          "Facilitates to plan, design, develops and tests an energy efficient manufacturing\r\n\r\nsystem for required engineering applications."
+        ],
+        [
+          "PSO 3",
+          "Nurtures the students towards advanced design and analysis tools for Mechanical system."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No",
+          "Name of the organization",
+          "Duration",
+          "Start Date",
+          "End Date"
+        ],
+        [
+          "1",
+          "Indian Metal Works",
+          "6",
+          "11.01.2018",
+          "10.01.2024"
+        ],
+        [
+          "2",
+          "Yucan Technologies",
+          "5",
+          "23.11.2018",
+          "22.11.2023"
+        ],
+        [
+          "3",
+          "Lakshmi Granites",
+          "5",
+          "07.12.2018",
+          "06.12.2023"
+        ],
+        [
+          "4",
+          "Alpha Cadd",
+          "5",
+          "07.12.2018",
+          "06.12.2023"
+        ],
+        [
+          "5",
+          "Sujala Pipes",
+          "5",
+          "08.12.2018",
+          "07.12.2023"
+        ],
+        [
+          "6",
+          "Sri Prasanna Anjaneya Cranes",
+          "5",
+          "10.12.2018",
+          "09.12.2023"
+        ],
+        [
+          "7",
+          "Sri Prasnna Anjaneya Agro Agencies",
+          "5",
+          "10.12.2018",
+          "09.12.2023"
+        ],
+        [
+          "8",
+          "Sree Arundati",
+          "5",
+          "10.06.2019",
+          "09.06.2024"
+        ],
+        [
+          "9",
+          "HIEE",
+          "3",
+          "14.09.2022",
+          "13.09.2025"
+        ],
+        [
+          "10",
+          "Assistive Infotech Private Limited",
+          "3",
+          "23.09.2023",
+          "22.09.2026"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Sl.no",
+          "Faculty Name",
+          "Faculty Designation",
+          "Qualification"
+        ],
+        [
+          "1",
+          "Kondaiah Gudimetla",
+          "HOD & Associate Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "2",
+          "Chilukuri Venkata Subba Rao",
+          "Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "3",
+          "Raghuram Pradhan",
+          "Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "4",
+          "Shakuntala Ojha",
+          "Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "5",
+          "Ebinezaru Babu Gollamudi",
+          "Associate Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "6",
+          "Gangapuram Mallikarjuna Chari",
+          "Associate Professor",
+          "M.E, Ph.D"
+        ],
+        [
+          "7",
+          "Mohammad Jabihulla Shariff",
+          "Associate Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "8",
+          "Yarram Srinivasa Reddy",
+          "Associate Professor",
+          "M.Tech"
+        ],
+        [
+          "9",
+          "Annangi Sai Prasad",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "10",
+          "B.Srinivasa Reddy",
+          "Assistant Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "11",
+          "Kotikala Rajasekhar",
+          "Assistant Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "12",
+          "Kunchalla Srinivas",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "13",
+          "Kurangi Sreenivasa Rao",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "14",
+          "Mandhadi Anusha",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "15",
+          "Nukathoti Vijaya Kumar",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "16",
+          "Pulipati Kiran Babu",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "17",
+          "Savidiboina Kondal Rao",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "18",
+          "Velpuri Siva Prasad",
+          "Assistant Professor",
+          "M.Tech"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S NO",
+          "ROLL NUMBER",
+          "NAME OF THE STUDENT",
+          "YEAR OF PASSING",
+          "PERCENTAGE / CGPA"
+        ],
+        [
+          "1",
+          "20KQ5A0307",
+          "NIMMALA VENKATA VEERA PAVAN KUMAR",
+          "2023",
+          "8.86 CGPA"
+        ],
+        [
+          "2",
+          "18KQ1A0342",
+          "YANAMALA SREEHARI",
+          "2022",
+          "9.11 CGPA"
+        ],
+        [
+          "3",
+          "18KQ5A0303",
+          "SIVAPURAM RAM PRASAD",
+          "2021",
+          "78.71%"
+        ],
+        [
+          "4",
+          "16KQ1A0326",
+          "KOMMU PAVAN KALYAN",
+          "2020",
+          "69.74%"
+        ],
+        [
+          "5",
+          "15KQ1A0335",
+          "PALETI MALLIKARJUNA",
+          "2019",
+          "79.67%"
+        ],
+        [
+          "6",
+          "14KQ1A0351",
+          "SHAIK RASHEED BASHA",
+          "2018",
+          "83.01%"
+        ],
+        [
+          "7",
+          "13KQ1A0314",
+          "BOREDDY VENKATTA THIRUPATHI REDDY",
+          "2017",
+          "77.25%"
+        ],
+        [
+          "8",
+          "12KQ1A0316",
+          "JALAPATI RAVI CHANDRA",
+          "2016",
+          "75.65%"
+        ],
+        [
+          "9",
+          "11KQ1A0317",
+          "DUMPA MANIKANTA",
+          "2015",
+          "77.68%"
+        ],
+        [
+          "10",
+          "10KQ1A0339",
+          "NALAMOTHU SANDEEP KUMAR",
+          "2014",
+          "76.95%"
+        ]
+      ]
+    }
+  ],
+  "images_count": 29,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Workshop-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Workshop-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/FM-&-HM-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/heat-transfer.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Heat-Transfer-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Machine-Tools-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Machine-Tools-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Machine-Tools-3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Metallurgy-Mech.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Metallurgy-Mech-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Metallurgy-Mech-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Metrology-in-mech.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Metrology-in-mech-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/production-technology.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Simulation-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Simulation-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Thermal-Engineering-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Thermal-Engineering-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Thermal-Engineering-3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/dynamic-machine-mech.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/dynamic-machine-mech-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/Engines-and-Vehicle-Testing-Lab.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/department-library-mech-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/department-library-mech-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/seminar-hall-mech-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/seminar-hall-mech-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 110,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FOR MORE DETAILS CLICK HERE",
+      "url": "https://pace.ac.in/public/public/assets/images/tlp/MECH TEACHING AND LEARNING PROCESS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18_BASIC ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R18_BASIC ELECTRICAL AND ELECTRONICS ENGINEERING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18_C-PROGRAMMING FOR PROBLEM SOLVING",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R18_C-PROGRAMMING FOR PROBLEM SOLVING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18_ENGINEERING CHEMISTRY",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R18_ENGINEERING CHEMISTRY.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18_ENGLISH-I",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R18_ENGLISH-I.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18_MATHEMATICS-I",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R18_MATHEMATICS-I.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_C  PROGRAMMING FOR PROBLEM SOLVING",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R21_C  PROGRAMMING FOR PROBLEM SOLVING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_COMMUNICATIVE ENGLISH",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R21_COMMUNICATIVE ENGLISH.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_ENGINEERING CHEMISTRY",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R21_ENGINEERING CHEMISTRY.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_ENGINEERING GRAPHICS",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R21_ENGINEERING GRAPHICS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_LINEAR ALGEBRA & DIFFERENTIAL EQUATIONS",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/R21_LINEAR ALGEBRA & DIFFERENTIAL EQUATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FLUID MECHANICS & HYDRAULIC MACHINES _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/FLUID MECHANICS & HYDRAULIC MACHINES _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MECHANICS OF SOLIDS _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/MECHANICS OF SOLIDS _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "METALLURGY & MATERIAL SCIENCE _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/METALLURGY & MATERIAL SCIENCE _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THERMODYNAMICS _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/THERMODYNAMICS _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TRANSFORMATION TECHNIQUES & PARTIAL DIFFERENTIATION",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/TRANSFORMATION TECHNIQUES & PARTIAL DIFFERENTIATION.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ENGINEERING MECHANICS _ME _AME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/ENGINEERING MECHANICS _ME _AME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FLUID MECHANICS & HYDRAULIC MACHINES _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/FLUID MECHANICS & HYDRAULIC MACHINES _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MATHEMATICS-III CE_EEE-ME_ECE_CSE_CSIT_IT_AME_IOT",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/MATHEMATICS-III CE_EEE-ME_ECE_CSE_CSIT_IT_AME_IOT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "METALLURGY & MATERIAL SCIENCE  _ME _AME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/METALLURGY & MATERIAL SCIENCE  _ME _AME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THERMODYNAMICS _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/THERMODYNAMICS _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DESIGN OF MACHINE ELEMENTS-I _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/DESIGN OF MACHINE ELEMENTS-I _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "INDUSTRIAL ENGINEERING & MANAGEMENT _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/INDUSTRIAL ENGINEERING & MANAGEMENT _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "METAL CUTTING & MACHINE TOOLS _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/METAL CUTTING & MACHINE TOOLS _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OBJECT ORIENTED PROGRAMMING THROUGH JAVA _EEE,ME,ECE",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/OBJECT ORIENTED PROGRAMMING THROUGH JAVA _EEE,ME,ECE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THEORY OF MACHINES _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/THEORY OF MACHINES _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THERMAL ENGINEERING-II  _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/THERMAL ENGINEERING-II  _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CADCAM _ME &AME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/CADCAM _ME &AME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DESIGN OF HYDRAULICS AND PNEUMATICS  _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/DESIGN OF HYDRAULICS AND PNEUMATICS  _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FINITE ELEMENT METHODS   _ME & AME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/FINITE ELEMENT METHODS   _ME & AME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MECHATRONICS _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/MECHATRONICS _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NON DESTRUCTIVE TESTING & EVALUATION  _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/NON DESTRUCTIVE TESTING & EVALUATION  _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "POWER PLANT ENGINEERING  _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/regular/POWER PLANT ENGINEERING  _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FLUID MECHANICS & HYDRAULIC MACHINES _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/FLUID MECHANICS & HYDRAULIC MACHINES _ME-R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MECHANICS OF SOLIDS _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/MECHANICS OF SOLIDS _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "METALLURGY & MATERIAL SCIENCE _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/METALLURGY & MATERIAL SCIENCE _ME-R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THERMODYNAMICS _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/THERMODYNAMICS _ME-R21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TTDE _EEE,ME,ECE,IT,IOT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/TTDE _EEE,ME,ECE,IT,IOT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ENGINEERING MECHANICS _ME,AME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/ENGINEERING MECHANICS _ME,AME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FLUID MECHANICS & HYDRAULIC MACHINES _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/FLUID MECHANICS & HYDRAULIC MACHINES _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "M-III (Except AIDS AIML)",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/M-III (Except AIDS AIML).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "METALLURGY & MATERIAL SCIENCE _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/METALLURGY & MATERIAL SCIENCE _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THERMODYNAMICS _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/THERMODYNAMICS _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DESIGN OF MACHINE ELEMENTS-I _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/DESIGN OF MACHINE ELEMENTS-I _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "INDUSTRIAL ENGINEERING & MANAGEMENT _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/INDUSTRIAL ENGINEERING & MANAGEMENT _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MAINTENANCE ENGINEERING _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/MAINTENANCE ENGINEERING _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "METAL CUTTING & MACHINE TOOLS  _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/METAL CUTTING & MACHINE TOOLS  _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OBJECT ORIENTED PROGRAMMING THROUGH JAVA _EEE,ME,ECE",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/OBJECT ORIENTED PROGRAMMING THROUGH JAVA _EEE,ME,ECE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OPERATIONS RESEARCH _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/OPERATIONS RESEARCH _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THEORY OF MACHINES _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/THEORY OF MACHINES _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THERMAL ENGINEERING-II _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/mech/supplementary/THERMAL ENGINEERING-II _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CADCAM _ME & AME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/allsupplementary/me/CADCAM _ME & AME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DESIGN OF HYDRAULICS AND PNEUMATICS _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/allsupplementary/me/DESIGN OF HYDRAULICS AND PNEUMATICS _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FINITE ELEMENT METHODS _ME,AME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/allsupplementary/me/FINITE ELEMENT METHODS _ME,AME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mechatronics  _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/allsupplementary/me/Mechatronics  _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NON DESTRUCTIVE TESTING & EVALUATION _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/allsupplementary/me/NON DESTRUCTIVE TESTING & EVALUATION _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "POWER PLANT ENGINEERING _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/allsupplementary/me/POWER PLANT ENGINEERING _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RENEWABLE SOURCES OF ENERGY _ME",
+      "url": "https://pace.ac.in/public/public/assets/images/previous-questions/allsupplementary/me/RENEWABLE SOURCES OF ENERGY _ME.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ME_Consultancy_Details",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Consultancy_Details.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/public/assets/images/MECH R23 SYLLABUS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/public/assets/images/MECH R21 SYLLABUS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/public/assets/images/Mech R18 Syllabuss book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/public/assets/images/r16-Mechaniclal.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Product Development",
+      "url": "https://pace.ac.in/public/public/assets/images/product-development-mech.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/public/assets/images/Placements_MECH_2022_23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/public/assets/images/Placements_MECH_2021_22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-2021",
+      "url": "https://pace.ac.in/public/public/assets/images/PLACEMENTS_MECH_2020_21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-2020",
+      "url": "https://pace.ac.in/public/public/assets/images/PLACEMENTS_MECH_2019_20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2018-2019",
+      "url": "https://pace.ac.in/public/public/assets/images/MECH_PLACEMENTS_AY_2018_19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/public/assets/images/syllabus/ME_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/public/assets/images/MECH R21 SYLLABUS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/public/assets/images/Mech R18 Syllabuss book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/public/assets/images/r16-Mechaniclal.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FACULTY_ACHIEVEMENTS_DETAILS_AY_2023_24",
+      "url": "https://pace.ac.in/public/public/assets/images/FACULTY_ACHIEVEMENTS_DETAILS_AY_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FACULTY_ACHIEVEMENTS_DETAILS_AY_2022_23",
+      "url": "https://pace.ac.in/public/public/assets/images/FACULTY_ACHIEVEMENTS_DETAILS_AY_2022_23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FACULTY_ACHIEVEMENTS_DETAILS_AY_2021_22",
+      "url": "https://pace.ac.in/public/public/assets/images/FACULTY_ACHIEVEMENTS_DETAILS_AY_2021_22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FACULTY_ACHIEVEMENTS_DETAILS_AY_2020_21",
+      "url": "https://pace.ac.in/public/public/assets/images/FACULTY_ACHIEVEMENTS_DETAILS_AY_2020_21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FACULTY_ACHIEVEMENTS_DETAILS_AY_2019_20",
+      "url": "https://pace.ac.in/public/public/assets/images/FACULTY_ACHIEVEMENTS_DETAILS_AY_2019_20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FACULTY_ACHIEVEMENTS_DETAILS_AY_2018_19",
+      "url": "https://pace.ac.in/public/public/assets/images/FACULTY_ACHIEVEMENTS_DETAILS_AY_2018_19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Faculty Book Chapters Publications",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Faculty_Book_Chapters_Publications.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Paper Publications",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Faculty_Paper_Publications.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Patents & Publications",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Faculty_Patents_Publications.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student_Achievements_AY_2023_24",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Student_Achievements_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student_Achievements_AY_2022_23",
+      "url": "https://pace.ac.in/public/public/assets/images/Student_Achievements_AY_2022_23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student_Achievements_AY_2021_22",
+      "url": "https://pace.ac.in/public/public/assets/images/Student_Achievements_AY_2021_22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student_Achievements_AY_2020_21",
+      "url": "https://pace.ac.in/public/public/assets/images/Student_Achievements_AY_2020_21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student_Achievements_AY_2019_20",
+      "url": "https://pace.ac.in/public/public/assets/images/Student_Achievements_AY_2019_20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SAR",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_SAR.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ME_DEPARTMENT_EVENTS_2023-24",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_DEPARTMENT_EVENTS_2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ME_DEPARTMENT_EVENTS_2022-23",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_DEPARTMENT_EVENTS_2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ME_DEPARTMENT_EVENTS_2021-22",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_DEPARTMENT_EVENTS_2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ME_DEPARTMENT_EVENTS_2020-21",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_DEPARTMENT_EVENTS_2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ME_DEPARTMENT_EVENTS_2019-20",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_DEPARTMENT_EVENTS_2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-2024",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Students_Extra_Curricular_AY_2023_24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Students_Extra_Curricular_AY_2022_23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Students_Extra_Curricular_AY_2021_22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-2020",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Students_Extra_Curricular_AY_2019_20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2018-2019",
+      "url": "https://pace.ac.in/public/public/assets/images/ME_Students_Extra_Curricular_AY_ 2018_19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

@@ -1,0 +1,344 @@
+CanonicalPath,Title,Section,Category,Template,TablesCount,DocsCount,ImagesCount,ContentLength,Status
+/,OUR LATEST VIDEOS,Homepage,Home,HomepageTemplate,0,2,61,2234,Fully Populated & Verified
+/0/examinations-cell,Exam Cell,Examinations & Results,Academics,ExaminationArchiveTemplate,1,886,3,52568,Fully Populated & Verified
+/1/examinations-cell,Exam Cell,Examinations & Results,Academics,ExaminationArchiveTemplate,1,886,3,52568,Fully Populated & Verified
+/academics/academic-calendar,Academic Calendars,Academics,Academics,AcademicRegulationsTemplate,0,91,1,3842,Fully Populated & Verified
+/academics/departments/artificial-intelligence-and-data-science,Department of Artificial Intelligence & Data Science,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,6,64,4,5097,Fully Populated & Verified
+/academics/departments/artificial-intelligence-and-machine-learning,Department Of Artificial Intelligence And Machine Learning,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,6,57,4,5265,Fully Populated & Verified
+/academics/departments/civil,DEPARTMENT OF CIVIL ENGINEERING,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,6,170,4,6959,Fully Populated & Verified
+/academics/departments/cse,DEPARTMENT OF Computer Science and Engineering,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,10,83,4,7877,Fully Populated & Verified
+/academics/departments/cser,DEPARTMENT OF Computer Science and Engineering - Regional,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,0,6,3,1385,Fully Populated & Verified
+/academics/departments/csit,DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,7,64,3,5555,Fully Populated & Verified
+/academics/departments/ece,DEPARTMENT OF Electronics and Communication Engineering,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,6,89,10,9457,Fully Populated & Verified
+/academics/departments/eee,DEPARTMENT OF Electrical and Electronics Engineering,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,6,102,17,11718,Fully Populated & Verified
+/academics/departments/h-and-s,DEPARTMENT OF Humanities and Basic Sciences,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,4,67,9,4915,Fully Populated & Verified
+/academics/departments/internet-of-things-cyber-security,DEPARTMENT OF Computer Science & Engineering(IOT and Cyber Security including Blockchain Technology),Engineering & PG Departments,Academics - Departments,DepartmentTemplate,7,49,3,6160,Fully Populated & Verified
+/academics/departments/it,ABOUT DEPARTMENT OF INFORMATION TECHNOLOGY,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,6,74,6,5940,Fully Populated & Verified
+/academics/departments/mba,DEPARTMENT OF MBA,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,6,53,5,3190,Fully Populated & Verified
+/academics/departments/mech,DEPARTMENT OF MECHANICAL ENGINEERING,Engineering & PG Departments,Academics - Departments,DepartmentTemplate,7,94,26,9006,Fully Populated & Verified
+/academics/departments/polytechnic/aimlj,ABOUT AIML,Polytechnic,Academics - Diploma,PolytechnicTemplate,4,2,2,662,Fully Populated & Verified
+/academics/departments/polytechnic/civil,ABOUT CIVIL,Polytechnic,Academics - Diploma,PolytechnicTemplate,5,5,3,664,Fully Populated & Verified
+/academics/departments/polytechnic/cme,ABOUT CME,Polytechnic,Academics - Diploma,PolytechnicTemplate,5,4,2,1144,Fully Populated & Verified
+/academics/departments/polytechnic/ece,ABOUT Electronics & Communication Engineering,Polytechnic,Academics - Diploma,PolytechnicTemplate,7,4,5,3565,Fully Populated & Verified
+/academics/departments/polytechnic/eee,ABOUT EEE,Polytechnic,Academics - Diploma,PolytechnicTemplate,8,13,3,2025,Fully Populated & Verified
+/academics/departments/polytechnic/exams,EXAMS,Polytechnic,Academics - Diploma,PolytechnicTemplate,0,1,3,219,Fully Populated & Verified
+/academics/departments/polytechnic/h&s,ABOUT H&S,Polytechnic,Academics - Diploma,PolytechnicTemplate,0,1,2,3462,Fully Populated & Verified
+/administration/cao,CHIEF ADMINISTRATIVE OFFICER,Administration,Administration,AdminProfileTemplate,0,1,1,650,Fully Populated & Verified
+/administration/chairman-message,CHAIRMAN'S MESSAGE,Administration,Administration,AdminProfileTemplate,0,1,1,669,Fully Populated & Verified
+/administration/deans-and-directors,Deans & Directors,Administration,Administration,AdminProfileTemplate,0,1,7,5762,Fully Populated & Verified
+/administration/hrmanager,HR Manager,Administration,Administration,AdminProfileTemplate,0,1,1,1985,Fully Populated & Verified
+/administration/principal-profile,Principal's Profile,Administration,Administration,AdminProfileTemplate,0,1,1,2361,Fully Populated & Verified
+/administration/secretary-message,Secretary’s Message,Administration,Administration,AdminProfileTemplate,0,1,1,648,Fully Populated & Verified
+/administration/vice-president-message,Vice President's Message,Administration,Administration,AdminProfileTemplate,0,1,1,603,Fully Populated & Verified
+/admissions/admission-procedure,Admission Procedure,Admissions,Admissions,AdmissionsTemplate,0,1,1,2425,Fully Populated & Verified
+/admissions/b-category/applications,Category-B Seats,Admissions,Admissions,AdmissionsTemplate,0,4,3,115,Fully Populated & Verified
+/admissions/b-category/apply-online/btech,Category-B Seats,Admissions,Admissions,AdmissionsTemplate,0,1,3,233,Fully Populated & Verified
+/admissions/b-category/apply-online/mba,Category-B Seats,Admissions,Admissions,AdmissionsTemplate,0,1,3,233,Fully Populated & Verified
+/admissions/b-category/apply-online/mtech,Category-B Seats,Admissions,Admissions,AdmissionsTemplate,0,1,3,233,Fully Populated & Verified
+/admissions/b-category/notifications,Notifications,Admissions,Admissions,AdmissionsTemplate,0,1,2,123,Fully Populated & Verified
+/admissions/courses-offered,courses,Admissions,Admissions,AdmissionsTemplate,4,1,3,1938,Fully Populated & Verified
+/admissions/fee-details,Fee Details,Admissions,Admissions,AdmissionsTemplate,2,1,3,1938,Fully Populated & Verified
+/affiliation-and-accreditation,Affiliation & Accreditation,About Us,About,InstitutionalTemplate,0,1,8,517,Fully Populated & Verified
+/affiliation-and-accreditation/aicte,AICTE Approvals,Accreditations & Disclosures,Institutional,AccreditationTemplate,1,20,1,1019,Fully Populated & Verified
+/affiliation-and-accreditation/aishe,AISHE Survey,Accreditations & Disclosures,Institutional,AccreditationTemplate,1,11,1,309,Fully Populated & Verified
+/affiliation-and-accreditation/iso,ISO Certifications,Accreditations & Disclosures,Institutional,AccreditationTemplate,1,7,1,1938,Fully Populated & Verified
+/affiliation-and-accreditation/jntuk,JNTU(K) Affiliations,Accreditations & Disclosures,Institutional,AccreditationTemplate,1,16,1,1938,Fully Populated & Verified
+/affiliation-and-accreditation/naac,NAAC Accreditations,Accreditations & Disclosures,Institutional,AccreditationTemplate,1,2,1,1938,Fully Populated & Verified
+/affiliation-and-accreditation/nba,NBA Accreditations,Accreditations & Disclosures,Institutional,AccreditationTemplate,1,3,1,1938,Fully Populated & Verified
+/affiliation-and-accreditation/ugc,UGC Approvals,Accreditations & Disclosures,Institutional,AccreditationTemplate,1,3,1,240,Fully Populated & Verified
+/aicte-idea-lab,AICTE IDEA LAB,Institutional & Compliance,Institutional,InstitutionalTemplate,1,1,7,5792,Fully Populated & Verified
+/awards-and-accolades,Awards And Accolades,About Us,About,InstitutionalTemplate,0,1,15,123,Fully Populated & Verified
+/campus/auditorium,Campus — Auditorium,Campus & Student Life,Campus,CampusFacilityTemplate,0,1,6,123,Fully Populated & Verified
+/campus/campus-tour,Campus Tour,Campus & Student Life,Campus,CampusFacilityTemplate,0,1,14,123,Fully Populated & Verified
+/campus/extra-co-curricular-activities,Extra & Cocurricular Activities,Campus & Student Life,Campus,CampusFacilityTemplate,0,10,3,390,Fully Populated & Verified
+/campus/facilities,Campus Facilities,Campus & Student Life,Campus,CampusFacilityTemplate,2,1,40,5405,Fully Populated & Verified
+/campus/gallery,Gallery,Campus & Student Life,Campus,CampusFacilityTemplate,0,1,26,912,Fully Populated & Verified
+/campus/hostel,Hostel,Campus & Student Life,Campus,CampusFacilityTemplate,0,1,7,1327,Fully Populated & Verified
+/campus/national-service-scheme,National Service Scheme(NSS),Campus & Student Life,Campus,CampusFacilityTemplate,0,8,9,1147,Fully Populated & Verified
+/campus/ncc,NCC,Campus & Student Life,Campus,CampusFacilityTemplate,0,7,7,2145,Fully Populated & Verified
+/campus/press-and-media,News &Press Releases,Campus & Student Life,Campus,CampusFacilityTemplate,0,1,177,1938,Fully Populated & Verified
+/campus/sports-and-games,Sports & Games,Campus & Student Life,Campus,CampusFacilityTemplate,0,6,16,983,Fully Populated & Verified
+/career-guidance-cell,CAREER GUIDANCE CELL,Training & Placements,Placements,PlacementTemplate,0,8,3,2055,Fully Populated & Verified
+/careers,Career,Institutional & Compliance,Institutional,InstitutionalTemplate,0,1,3,462,Fully Populated & Verified
+/collaboration,Collaboration,Institutional & Compliance,Institutional,InstitutionalTemplate,0,1,9,123,Fully Populated & Verified
+/college-events,Events and Fests,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,178,7334,Fully Populated & Verified
+/committees/non-statutory-committees/academic-audit-committee,Academic Audit Committee,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,263,Fully Populated & Verified
+/committees/non-statutory-committees/admission-committee,ADMISSION COMMITTEE,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,347,Fully Populated & Verified
+/committees/non-statutory-committees/anti-drug-committee,ANTI-DRUG CELL,Non-Statutory Committees,Committees,CommitteeDetailTemplate,2,3,8,62,Fully Populated & Verified
+/committees/non-statutory-committees/anti-ragging-committee,ANTI-RAGGING CELL,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,28,475,Fully Populated & Verified
+/committees/non-statutory-committees/curricular-activities-committee,Extra-Curricular Activities Committee,Non-Statutory Committees,Committees,CommitteeDetailTemplate,2,1,3,776,Fully Populated & Verified
+/committees/non-statutory-committees/eof-committee,Equal Opportunity Facilitation Committee,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,875,Fully Populated & Verified
+/committees/non-statutory-committees/examination-committee,EXAMINATION COMMITTEE,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,352,Fully Populated & Verified
+/committees/non-statutory-committees/finance-committee,Finance Committee,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,15,1,481,Fully Populated & Verified
+/committees/non-statutory-committees/grievance-redressal-committee,GRIEVANCE REDRESSAL COMMITTEE,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,511,Fully Populated & Verified
+/committees/non-statutory-committees/health-watch-committee,Health Watch Committe,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,9,3,747,Fully Populated & Verified
+/committees/non-statutory-committees/internal-complaints-committee,Internal Complaints Committee (ICC),Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,3,5,1444,Fully Populated & Verified
+/committees/non-statutory-committees/library-committee,Library COMMITTEE,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,335,Fully Populated & Verified
+/committees/non-statutory-committees/minority-cell-committee,MINORITY CELL,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,694,Fully Populated & Verified
+/committees/non-statutory-committees/obc-cell-committee,OBC CELL,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,669,Fully Populated & Verified
+/committees/non-statutory-committees/planning-and-evolution-committee,PLANNING AND EVALUTION COMMITTEE,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,409,Fully Populated & Verified
+/committees/non-statutory-committees/sc-st-committee,SC/ST COMMITTEE,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,680,Fully Populated & Verified
+/committees/non-statutory-committees/student-welfare-committee,STUDENT WELFARE COMMITTEE,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,769,Fully Populated & Verified
+/committees/non-statutory-committees/women-empowerment-committee,Women Empowerment Cell,Non-Statutory Committees,Committees,CommitteeDetailTemplate,1,9,5,1032,Fully Populated & Verified
+/committees/statutory-committees/academic-council,Academic Council,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,1253,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/ai-and-ds,Department of Artificial Intelligence & Data Sciences,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,607,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/ai-and-ml,Department of Artificial Intelligence & Machine Learning,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,900,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/chemistry,Department of CHEMISTRY Home Department of CHEMISTRY,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,584,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/civil,Department of Civil Engineering,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,946,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/cse,Department of Computer Science and Engineering Home Department of Computer Science and Engineering,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,745,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/cse-iot-csbt,Department of Computer Science and Engineering (IoT & CS including Block Chain Technology),Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,815,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/cser,Department of Computer Science and Engineering (Regional Language) Home Department of Computer Science and Engineering (Regional Language),Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,848,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/csit,Department of Computer Science and Information Technology,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,773,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/ece,Department of Electronics and Communication Engineering Home Department of Electronics and Communication Engineering,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,554,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/eee,Department of Electrical and Electronics Engineering Home Department of Electrical and Electronics Engineering,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,821,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/english,ENGLISH Home Department of ENGLISH,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,589,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/it,Department of Information Technology,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,854,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/mathematics,Department of MATHEMATICS Home Department of MATHEMATICS,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,608,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/mba,Department of Masters in  Business Administration,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,859,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/mech,Department of Mechanical Engineering Home Department of Mechanical Engineering,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,883,Fully Populated & Verified
+/committees/statutory-committees/board-of-studies/physics,Department of PHYSICS Home Department of PHYSICS,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,1,626,Fully Populated & Verified
+/committees/statutory-committees/governing-body,GOVERNING BODY MEETING,Statutory Committees,Committees,CommitteeDetailTemplate,1,20,3,1501,Fully Populated & Verified
+/committees/statutory-committees/uhv-committee,Universal Human Values (UHV) Cell Committee,Statutory Committees,Committees,CommitteeDetailTemplate,1,1,3,256,Fully Populated & Verified
+/contact-us,Contact Us,Institutional & Compliance,Institutional,InstitutionalTemplate,0,1,3,129,Fully Populated & Verified
+/curriculum_syllabus,Curriculum and Syllabus,Academics,Academics,AcademicRegulationsTemplate,2,41,3,81,Fully Populated & Verified
+/display-events-gallery/1,Webinar on Electric Vehicles,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,141,Fully Populated & Verified
+/display-events-gallery/10,SRUJANA 2K23 12th NATIONAL LEVEL TECHNICAL SYMPOSIUM AT PACE,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,60,Fully Populated & Verified
+/display-events-gallery/100,Entrepreneurship and innovation as a career opportunity,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,583,Fully Populated & Verified
+/display-events-gallery/101,Employability skills.,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,95,Fully Populated & Verified
+/display-events-gallery/102,Awareness session on exploring career options in civil engineering,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,136,Fully Populated & Verified
+/display-events-gallery/103,Blood Donation Camp,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,86,Fully Populated & Verified
+/display-events-gallery/105,WORKSHOP ON ENTREPRENEURSHIP SKILL ATTITIDE & BEHAVIOUR DEVELOPMENT,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,118,Fully Populated & Verified
+/display-events-gallery/106,Awareness session on Entrepreneurship Training and Education,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,83,Fully Populated & Verified
+/display-events-gallery/107,Awareness On Vermi Compost Preparation,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/108,Awareness on Dairy Industry,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/109,ENTREPRENEURSHIP EDUCATION AND TRAINING,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,63,Fully Populated & Verified
+/display-events-gallery/11,Cancer awareness ralley in Ongole.,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,1938,Fully Populated & Verified
+/display-events-gallery/110,Guest lecture program on Transmission line Design for High frequency Applications,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,146,Fully Populated & Verified
+/display-events-gallery/111,INTERNATIONAL DAY OF WOMEN AND GIRLS IN SCIENCE,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,106,Fully Populated & Verified
+/display-events-gallery/112,Inauguration of Society for Data Science Student chapter,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,11,92,Fully Populated & Verified
+/display-events-gallery/113,Hands-on Generative Al Workshop,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,1938,Fully Populated & Verified
+/display-events-gallery/114,INNOVATIVE SHOWCASE,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,1938,Fully Populated & Verified
+/display-events-gallery/115,Voter awareness camp,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,73,Fully Populated & Verified
+/display-events-gallery/116,Workshop on Design Thinking,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,2,55,Fully Populated & Verified
+/display-events-gallery/117,India Techade chips for Viksit Bharat,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,113,Fully Populated & Verified
+/display-events-gallery/118,Inaugural Ceremony of SRUJANA 2K24,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,18,88,Fully Populated & Verified
+/display-events-gallery/119,16th Annual Day Celebrations,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,20,1938,Fully Populated & Verified
+/display-events-gallery/12,JNTUK- Cyber Security Awareness Programme,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/120,NCC Get together Programme at PITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,1938,Fully Populated & Verified
+/display-events-gallery/121,Workshop on IPRs and IP management for startups organized by IIC.,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,65,Fully Populated & Verified
+/display-events-gallery/122,Alumni Interaction,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/123,AWARENESS PROGRAM ON GENDER JUSTICE&WOMEN'S RIGHTS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,141,Fully Populated & Verified
+/display-events-gallery/124,National Technology Day Organised Department of CSIT,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,52,Fully Populated & Verified
+/display-events-gallery/125,Applications of Mathematics in Engineering and Sciences.,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,73,Fully Populated & Verified
+/display-events-gallery/126,EduSkills- TechCamp,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,66,Fully Populated & Verified
+/display-events-gallery/127,First year inauguration at PACE,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,141,Fully Populated & Verified
+/display-events-gallery/128,National Educational Policy-4th Anniversary,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,1938,Fully Populated & Verified
+/display-events-gallery/129,PACE ITS 700 ft flag rally from Prakasam bhavan to Mini stadium.,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,64,Fully Populated & Verified
+/display-events-gallery/13,Sakshi Premier League Champions PACE-Diploma Team,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/130,National Sports Day at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,1938,Fully Populated & Verified
+/display-events-gallery/131,PACE HACK FEST 2024,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,131,Fully Populated & Verified
+/display-events-gallery/132,78th Independence Day Celebrations.,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,1938,Fully Populated & Verified
+/display-events-gallery/133,FDP-Exploring Codetantra,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/134,Swachhata Hi Seva - 2024,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/135,The Art of Crafting a preliminary Research,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,2,127,Fully Populated & Verified
+/display-events-gallery/136,3- Day Student Enablement Program on Artificial Intelligence,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,60,Fully Populated & Verified
+/display-events-gallery/137,Legal Service Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,131,Fully Populated & Verified
+/display-events-gallery/14,Ethnic day and women's day celebrations,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,1938,Fully Populated & Verified
+/display-events-gallery/141,World Earth Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,70,Fully Populated & Verified
+/display-events-gallery/142,JNTUK Central Zone Inter Collegiate Ball-Badminton Tournament at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,73,Fully Populated & Verified
+/display-events-gallery/143,Technical workshop on The Future of Software Testing,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/144,76th Republic Day Celebrations at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/145,Freshmen Inauguration,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,9,1938,Fully Populated & Verified
+/display-events-gallery/146,AVISHKANDHRA 2025,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,99,Fully Populated & Verified
+/display-events-gallery/147,Celebrations of 79th Independence Day at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,1938,Fully Populated & Verified
+/display-events-gallery/148,Recent Trends in Generative AI,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,9,1938,Fully Populated & Verified
+/display-events-gallery/149,One Day Technical Workshop on MATLAB,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/15,WARTECH - 2023,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,141,Fully Populated & Verified
+/display-events-gallery/150,PACEITS HACKATHON-2025,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,11,62,Fully Populated & Verified
+/display-events-gallery/151,Faculty Development Program - GenAI,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/152,Engineering Skills and Life Skills,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,107,Fully Populated & Verified
+/display-events-gallery/153,Celebrates 150 Years of Vande Mataram,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/154,PACE EAGLE CLUB,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,69,Fully Populated & Verified
+/display-events-gallery/155,PACE Free medical camp,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,128,Fully Populated & Verified
+/display-events-gallery/156,PACE Sankranthi Sambaralu,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,1938,Fully Populated & Verified
+/display-events-gallery/157,77th Republic Day Celebrations at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,1938,Fully Populated & Verified
+/display-events-gallery/158,Freshers Day at PACE,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,1938,Fully Populated & Verified
+/display-events-gallery/159,Vande Mataram CISF Coastal Cyclothon 2026,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,152,Fully Populated & Verified
+/display-events-gallery/16,[24]7.Pool campus drive,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,1,141,Fully Populated & Verified
+/display-events-gallery/161,"CSIT, IT & IOT Farewell 2K26",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/162,CSE Farewell 2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,1938,Fully Populated & Verified
+/display-events-gallery/163,ECE Farewell 2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,1938,Fully Populated & Verified
+/display-events-gallery/165,Winners of QIS Fest,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/166,ME Farewell 2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/167,AIML FAREWELL 2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/168,AI & DS FAREWELL 2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/169,Declamation competition in association with Jana Vignana Vedika,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,166,Fully Populated & Verified
+/display-events-gallery/17,Recent Trends of Mathematics and its Applications,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,141,Fully Populated & Verified
+/display-events-gallery/170,Outstanding achievements of PACE Team,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,160,Fully Populated & Verified
+/display-events-gallery/171,6- Day Add on course on PCB Design,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/172,6- Day workshop on Cyber Security,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,102,Fully Populated & Verified
+/display-events-gallery/173,Guest Lecture for MBA Students,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/174,3-Day workshop on Generative AI,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,93,Fully Populated & Verified
+/display-events-gallery/175,Workshop on 3D Printing,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,2,1938,Fully Populated & Verified
+/display-events-gallery/176,One Week workshop on Quantum Computing,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/177,PACE 18th Annual Sports Meet 2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/18,EMPOWERING GIRLS ON CLOUD TECH (Eduskills TECHCAMP),Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,141,Fully Populated & Verified
+/display-events-gallery/181,PACE Festino2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,19,1938,Fully Populated & Verified
+/display-events-gallery/182,PACER Alumni meet 2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/183,HarGharTiranga Rally,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,136,Fully Populated & Verified
+/display-events-gallery/184,80th Independence Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,1938,Fully Populated & Verified
+/display-events-gallery/185,19th Freshmen batch Inauguration,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,1938,Fully Populated & Verified
+/display-events-gallery/186,National Sports Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/187,Vinayaka Chavithi - 2026,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/188,TARANG 2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,9,153,Fully Populated & Verified
+/display-events-gallery/189,Dasara celebrations,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/19,FPD:Adobe - AICTE Digital Creative Skills Workshop,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/190,VIKSIT BHARAT,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,111,Fully Populated & Verified
+/display-events-gallery/2,Energy Swaraj Yatra,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,148,Fully Populated & Verified
+/display-events-gallery/20,Placement Orientation Session(2020-2024 Batch),Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,1938,Fully Populated & Verified
+/display-events-gallery/21,Girl Child Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,156,Fully Populated & Verified
+/display-events-gallery/22,13th National Voters Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/23,Republic Day Celebrations,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,9,1938,Fully Populated & Verified
+/display-events-gallery/24,Free health checkup program,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/25,15th ANNUAL SPORTS MEET,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,1938,Fully Populated & Verified
+/display-events-gallery/26,Medical health check up camp by Apollo diagnostic.,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/27,PACE Kabaddi and Badminton team got Runner-up by RISE fest in Jntuk central zone,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,2,141,Fully Populated & Verified
+/display-events-gallery/28,Coding Competition PACE CODEATHON - 1,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,1,1938,Fully Populated & Verified
+/display-events-gallery/29,"ISR cell, NCC team and NSS team organized camp at Karumanchi village",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,68,Fully Populated & Verified
+/display-events-gallery/3,Pace Srujana-2K22,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,141,Fully Populated & Verified
+/display-events-gallery/30,NSS & NCC teams at kothapatnam beach cleaning service on the occasion of earth day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,82,Fully Populated & Verified
+/display-events-gallery/33,Awareness program on  Drug  Abuse- Addiction and Disha mobile application,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,141,Fully Populated & Verified
+/display-events-gallery/34,International Dance Day Celebrations,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,1938,Fully Populated & Verified
+/display-events-gallery/35,"""Product Design & Drafting by CATIA"" programme in association with APSSDC.",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,1,141,Fully Populated & Verified
+/display-events-gallery/36,NATIONAL TECHNOLOGY DAY,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/37,World Telecommunication Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,2,141,Fully Populated & Verified
+/display-events-gallery/38,GRADUATION DAY,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,14,141,Fully Populated & Verified
+/display-events-gallery/39,"International ""YOGA"" Day",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,141,Fully Populated & Verified
+/display-events-gallery/4,"CGC organised an Awareness Program on ""Higher Education along with Job in USA with 100 percent Scholarship in association with American IT Systems""",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,141,Fully Populated & Verified
+/display-events-gallery/40,"Mental health awareness programme for students by Dr. Chandrasekhar, M. D, Psychiatrist",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,167,Fully Populated & Verified
+/display-events-gallery/41,Anti Ragging Awareness Program,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,141,Fully Populated & Verified
+/display-events-gallery/42,Recent trends in Java & Web Technologies,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,141,Fully Populated & Verified
+/display-events-gallery/43,Nurturing Dicipline among girls,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,1938,Fully Populated & Verified
+/display-events-gallery/44,PACE NSS unit & ISR cell organised Meri Maati Mera Desh event,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,141,Fully Populated & Verified
+/display-events-gallery/45,Deworming drug (ALBENDAZOLE) distribution,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,2,1938,Fully Populated & Verified
+/display-events-gallery/46,77th Independence Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,15,1938,Fully Populated & Verified
+/display-events-gallery/47,Charms of being an Entrepreneur,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,141,Fully Populated & Verified
+/display-events-gallery/48,PACE NISP cell organised expert Talk on sericulture.,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,141,Fully Populated & Verified
+/display-events-gallery/49,Seminar - Innovation on chip design,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,141,Fully Populated & Verified
+/display-events-gallery/5,8th International yoga Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,1938,Fully Populated & Verified
+/display-events-gallery/50,Awareness programme on Myths and facts about menstrual hygiene for girls,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,141,Fully Populated & Verified
+/display-events-gallery/51,Teachers' Day  Celebration,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,13,141,Fully Populated & Verified
+/display-events-gallery/52,UTTI CELEBRATIONS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,13,141,Fully Populated & Verified
+/display-events-gallery/53,"GUEST LECTURE ON ""ROLE OF DEVOPS IN INDUSTRY""",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,141,Fully Populated & Verified
+/display-events-gallery/54,Yoga and Meditation,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,141,Fully Populated & Verified
+/display-events-gallery/55,ENGINEER'S DAY CELEBRATIONS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,17,141,Fully Populated & Verified
+/display-events-gallery/56,NSS unit & ISR Cell- poster presentation on Chandrayan -III success,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,141,Fully Populated & Verified
+/display-events-gallery/57,"""Matlab and it's applications in Electrical Engineering""",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,150,Fully Populated & Verified
+/display-events-gallery/58,SBI EDUCATIONAL LOANS FOR MASTERS PROGRAM IN ABROAD,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,74,Fully Populated & Verified
+/display-events-gallery/59,GANESH CHATURTHI,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,16,141,Fully Populated & Verified
+/display-events-gallery/6,ICC In Association with ANTI Ragging Committee,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,2,1938,Fully Populated & Verified
+/display-events-gallery/60,Entrepreneurship and innovation as a career opportunity,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,2,175,Fully Populated & Verified
+/display-events-gallery/61,Awareness program on Substance Abuse,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,115,Fully Populated & Verified
+/display-events-gallery/62,Career Opportunities for Electrical and Mechanical students in Core Industries,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,119,Fully Populated & Verified
+/display-events-gallery/63,Innovation & Design Thinking,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,469,Fully Populated & Verified
+/display-events-gallery/64,Guest Lecture On Electric Vehicles,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,62,Fully Populated & Verified
+/display-events-gallery/65,Fit India swachhata 4.0 walk,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,129,Fully Populated & Verified
+/display-events-gallery/66,Guest Lecture on GFS Vs HFS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/67,WEBINAR ON IMPORTANCE OF CLOUD,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,1938,Fully Populated & Verified
+/display-events-gallery/68,Student Enablement Program On Artificial Intelligence,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,83,Fully Populated & Verified
+/display-events-gallery/69,EEE department conducted workshop on PCB design,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,116,Fully Populated & Verified
+/display-events-gallery/7,"Guest Lecturer on ""Brain Computer Interface using Machine Learning""",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,2,141,Fully Populated & Verified
+/display-events-gallery/70,WEC held a debate competition on Women's Reservation Bill,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,57,Fully Populated & Verified
+/display-events-gallery/71,"CSIT Dept. conducted ""Enhance your Employability Skills"" Program",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,95,Fully Populated & Verified
+/display-events-gallery/72,Alumni Meet 2K23,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,1938,Fully Populated & Verified
+/display-events-gallery/73,Dasara Celebrations at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,1938,Fully Populated & Verified
+/display-events-gallery/75,Skill oriented course  Joy of computing using python,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,86,Fully Populated & Verified
+/display-events-gallery/76,Police Commemoration Day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,117,Fully Populated & Verified
+/display-events-gallery/77,National Unity day,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,1938,Fully Populated & Verified
+/display-events-gallery/78,"Dept of CSE-R organized a virtual guest talk on ""Life in Software Cycle""",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,147,Fully Populated & Verified
+/display-events-gallery/79,WEC conducted Awareness on Disha app,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,1938,Fully Populated & Verified
+/display-events-gallery/8,PACE Staff Sankranthi sambaralu - 2023,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,141,Fully Populated & Verified
+/display-events-gallery/80,WEC organized a competition on the occasion of International Day for the Elimination of Violence against Women.,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,141,Fully Populated & Verified
+/display-events-gallery/81,NCC Day Celebrations @PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,141,Fully Populated & Verified
+/display-events-gallery/82,"three days free eye check up camp , organized by health watching committee",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,73,Fully Populated & Verified
+/display-events-gallery/83,"PACE NSS and NCC participated in the AIDS day rally at Prakasam bhavan , Ongole",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,79,Fully Populated & Verified
+/display-events-gallery/84,CHE Movie promotion at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,141,Fully Populated & Verified
+/display-events-gallery/85,A SIX-DAYFDP ON EMERGING RESEARCH AREA IN ADVANCE VLSI SYSTEM DESIGN&CHALENGES,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,120,Fully Populated & Verified
+/display-events-gallery/86,PACE Coders Club organised Codeathon Level - 1,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,11,1938,Fully Populated & Verified
+/display-events-gallery/87,Launch of viksit bharath @2047,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,6,1938,Fully Populated & Verified
+/display-events-gallery/88,26th IPSGM District level,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,13,1938,Fully Populated & Verified
+/display-events-gallery/89,"Awareness programme on Beyond Boundaries Breaking the chains of Ragging, Cybercrime and Harassment.",Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,158,Fully Populated & Verified
+/display-events-gallery/9,polytechnic students hasbeen Bagged Athletics and Games overall Championship in District level 25th Inter polytechnic Sports and Games Meet,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,141,Fully Populated & Verified
+/display-events-gallery/90,5 Days Faculty Development Program On AWS Organized By The Department of AIML & AIDS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,3,84,Fully Populated & Verified
+/display-events-gallery/91,FDP on AWS by Dept of AIML and AIDS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,84,Fully Populated & Verified
+/display-events-gallery/92,IGNITE 6.0 workshop,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,356,Fully Populated & Verified
+/display-events-gallery/93,Awareness on Read Traffic Accidents,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,1938,Fully Populated & Verified
+/display-events-gallery/94,PACE NSS Unit -I and ISR cell organised mega blood donation camp,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,8,62,Fully Populated & Verified
+/display-events-gallery/95,Session on Personality Development and Career Guidance,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,11,128,Fully Populated & Verified
+/display-events-gallery/96,competition event on Plan and Draftin,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,180,Fully Populated & Verified
+/display-events-gallery/97,Awareness Programme on Health Issues,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,10,139,Fully Populated & Verified
+/display-events-gallery/98,Debate and TED talks competition,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,102,Fully Populated & Verified
+/display-events-gallery/99,75th REPUBLIC DAY,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,17,1938,Fully Populated & Verified
+/display-gallery/1,Srujana,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,21,123,Fully Populated & Verified
+/display-gallery/10,NSS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,15,123,Fully Populated & Verified
+/display-gallery/11,Sports,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,20,123,Fully Populated & Verified
+/display-gallery/12,PACE Family Time,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,20,123,Fully Populated & Verified
+/display-gallery/13,Women Empowerment,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,123,Fully Populated & Verified
+/display-gallery/14,Library,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,13,123,Fully Populated & Verified
+/display-gallery/15,GRADUATION  DAY 2K23,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,20,123,Fully Populated & Verified
+/display-gallery/16,MBA FAREWELL FUNCTION,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,9,123,Fully Populated & Verified
+/display-gallery/17,FRESHER'S INAUGURATION CELEBRATIONS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,14,123,Fully Populated & Verified
+/display-gallery/18,Sankranthi Sambaralu at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,123,Fully Populated & Verified
+/display-gallery/19,Graduation Day 2K24 at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,123,Fully Populated & Verified
+/display-gallery/2,Placements,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,16,123,Fully Populated & Verified
+/display-gallery/21,Ganesh Chaturthi pooja at PACE ITS,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,16,123,Fully Populated & Verified
+/display-gallery/22,PACE has MoU with Universiti Teknikal Malaysia Melaka (UTeM),Galleries & Events,Campus Life,GalleryEventTemplate,0,1,7,123,Fully Populated & Verified
+/display-gallery/23,GRADUATION DAY 2K25,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,123,Fully Populated & Verified
+/display-gallery/24,PACE Festino2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,13,123,Fully Populated & Verified
+/display-gallery/25,GRADUATION CEREMONY 2026,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,123,Fully Populated & Verified
+/display-gallery/26,PACER Alumni meet 2K26,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,123,Fully Populated & Verified
+/display-gallery/27,AICTE IDEA LAB INAUGURATION,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,4,123,Fully Populated & Verified
+/display-gallery/3,Project Expo,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,15,123,Fully Populated & Verified
+/display-gallery/4,Workshops & Conferences,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,18,123,Fully Populated & Verified
+/display-gallery/5,Merit Scholarship,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,5,123,Fully Populated & Verified
+/display-gallery/6,Cultural,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,16,123,Fully Populated & Verified
+/display-gallery/7,Alumni meet,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,12,123,Fully Populated & Verified
+/display-gallery/8,Health watch committee,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,14,123,Fully Populated & Verified
+/display-gallery/9,NCC,Galleries & Events,Campus Life,GalleryEventTemplate,0,1,17,123,Fully Populated & Verified
+/elearning,E-LEARNING,Institutional & Compliance,Institutional,InstitutionalTemplate,7,1,3,322,Fully Populated & Verified
+/graduation-day-report-1,1st Graduation Day Report,Graduation Reports,Institutional,GraduationReportTemplate,1,1,3,499,Fully Populated & Verified
+/graduation-day-report-2,2nd Graduation Day Report,Graduation Reports,Institutional,GraduationReportTemplate,1,12,3,419,Fully Populated & Verified
+/graduation-day-report-3,3rd Graduation Day Report,Graduation Reports,Institutional,GraduationReportTemplate,1,11,3,414,Fully Populated & Verified
+/graduation-day-report-4,4th Graduation Day Report,Graduation Reports,Institutional,GraduationReportTemplate,0,10,3,418,Fully Populated & Verified
+/icsr,ICSR (Industrial Consultancy & Sponsored Research),Institutional & Compliance,Institutional,InstitutionalTemplate,5,4,1,2681,Fully Populated & Verified
+/iqac,Internal Quality Assurance Cell,Institutional & Compliance,Institutional,InstitutionalTemplate,2,74,1,4934,Fully Populated & Verified
+/isr,ISR,Institutional & Compliance,Institutional,InstitutionalTemplate,1,8,3,1609,Fully Populated & Verified
+/newsletters,News Letter,About Us,About,InstitutionalTemplate,0,73,3,1879,Fully Populated & Verified
+/organization-chart,Organisation Chart,About Us,About,InstitutionalTemplate,0,1,1,123,Fully Populated & Verified
+/pace-at-glance,Pace At a Glance,About Us,About,InstitutionalTemplate,0,1,1,5492,Fully Populated & Verified
+/placements-records,Placement Records,Training & Placements,Placements,PlacementTemplate,7,1,3,352,Fully Populated & Verified
+/privacypolicy,Privacy Policy for PACE Institute of Technology & Sciences (pace.ac.in),Institutional & Compliance,Institutional,InstitutionalTemplate,0,2,3,11083,Fully Populated & Verified
+/qic,Qic,Institutional & Compliance,Institutional,InstitutionalTemplate,1,1,3,123,Fully Populated & Verified
+/regulations,Curriculum and Syllabus,Academics,Academics,AcademicRegulationsTemplate,3,8,3,1938,Fully Populated & Verified
+/research-and-development/about-research-and-development,About Research & Development,Research & Development,Research,ResearchTemplate,2,1,3,1536,Fully Populated & Verified
+/research-and-development/ariia,ARIIA,Research & Development,Research,ResearchTemplate,0,2,3,1525,Fully Populated & Verified
+/research-and-development/consultancy,Consultancy Works,Research & Development,Research,ResearchTemplate,0,5,3,125,Fully Populated & Verified
+/research-and-development/edc,ABOUT EDC,Research & Development,Research,ResearchTemplate,2,7,21,3389,Fully Populated & Verified
+/research-and-development/iic,Institution Innovation Council (IIC),Research & Development,Research,ResearchTemplate,0,7,3,2151,Fully Populated & Verified
+/research-and-development/industry,Industry institution interaction,Research & Development,Research,ResearchTemplate,4,1,3,1548,Fully Populated & Verified
+/research-and-development/mou-partners,MOUs,Research & Development,Research,ResearchTemplate,1,1,1,2488,Fully Populated & Verified
+/research-and-development/national-innovation-startup-policy,National Innovation Startup Policy (NISP),Research & Development,Research,ResearchTemplate,1,3,1,251,Fully Populated & Verified
+/research-and-development/pace-publishers,PACE Publishers,Research & Development,Research,ResearchTemplate,0,5,3,1938,Fully Populated & Verified
+/research-and-development/patents,Patents,Research & Development,Research,ResearchTemplate,0,9,3,262,Fully Populated & Verified
+/research-and-development/proffessional-bodies,Professional Bodies,Research & Development,Research,ResearchTemplate,0,11,11,1938,Fully Populated & Verified
+/research-and-development/publications-and-patents,Research & Development,Research & Development,Research,ResearchTemplate,2,1,1,1938,Fully Populated & Verified
+/research-and-development/research-centers,Research Centers,Research & Development,Research,ResearchTemplate,1,5,3,572,Fully Populated & Verified
+/research-and-development/scholars,Research Supervisors and Scholars,Research & Development,Research,ResearchTemplate,1,1,3,1938,Fully Populated & Verified
+/research-and-development/sponsored-projects,Sponsored Projects,Research & Development,Research,ResearchTemplate,1,1,1,1938,Fully Populated & Verified
+/skill-development,Resources for Skill Development,Training & Placements,Placements,PlacementTemplate,0,1,9,1143,Fully Populated & Verified
+/termsandconditions,Terms & Conditions,Institutional & Compliance,Institutional,InstitutionalTemplate,0,1,3,8632,Fully Populated & Verified
+/tpo,From The Desk of TPO,Training & Placements,Placements,PlacementTemplate,0,1,1,1523,Fully Populated & Verified
+/trainings-and-placements,Training & Placements,Training & Placements,Placements,PlacementTemplate,3,4,3,6649,Fully Populated & Verified
+/uploads/gallery/17874022949976.pacepoc_1787402292.php,PACE Institute of Technology & Sciences,Other Institutional Pages,General,InstitutionalTemplate,0,0,0,45,Fully Populated & Verified
+/vision-and-mission,Vision & Mission,About Us,About,InstitutionalTemplate,0,1,2,607,Fully Populated & Verified
+/why-pace,WHY PACE,About Us,About,InstitutionalTemplate,0,1,3,2081,Fully Populated & Verified

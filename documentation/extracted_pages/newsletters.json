@@ -1,0 +1,468 @@
+{
+  "url": "https://pace.ac.in/newsletters",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "News Letter"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "PACE CAMPUS Newsletters"
+    ]
+  },
+  "tabs": [],
+  "tab_panes_count": 0,
+  "tables_count": 0,
+  "tables": [],
+  "images_count": 3,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 84,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-January-2026",
+      "url": "https://pace.ac.in/public/assets/images/NS_January_2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-February-2026",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-February-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-March-2026",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-March-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-April-2026",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-April-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-July-2026",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-July-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-August-2026",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-August-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-January-2025",
+      "url": "https://pace.ac.in/public/assets/images/NS_January_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-February-2025",
+      "url": "https://pace.ac.in/public/assets/images/NS_February_2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-March-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-March-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-April-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-April-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-May-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-May-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-June-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-June-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-July-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-July-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-August-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-August-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-September-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-September-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-October-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-October-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-November-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-November-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-December-2025",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-December-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-December-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_Dec_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-November-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_Nov_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-October-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_Oct_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-September-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_Sept_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-August-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_August_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-July-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_July_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-June-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_June_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-May-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_May_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-April-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_April_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-March-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_March_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-February-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_Feb_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-January-2024",
+      "url": "https://pace.ac.in/public/assets/images/NS_January_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-December-2023",
+      "url": "https://pace.ac.in/public/assets/images/NS_December_2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-November-2023",
+      "url": "https://pace.ac.in/public/assets/images/November_Newsletter_2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-October-2023",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter_Oct_23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-September-2023",
+      "url": "https://pace.ac.in/public/assets/images/September_2023_Newsletter.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-August-2023",
+      "url": "https://pace.ac.in/public/assets/images/newsletter-August-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-July-2023",
+      "url": "https://pace.ac.in/public/assets/images/newsletter-july-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-June-2023",
+      "url": "https://pace.ac.in/public/assets/images/June-Newsletter-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-May-2023",
+      "url": "https://pace.ac.in/public/assets/images/may-2023-newsletter.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-April-2023",
+      "url": "https://pace.ac.in/public/assets/images/april-newsletter-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-March-2023",
+      "url": "https://pace.ac.in/public/assets/images/March-2023-Newsletter.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-February-2023",
+      "url": "https://pace.ac.in/public/assets/images/February-Newsletter-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-January-2023",
+      "url": "https://pace.ac.in/public/assets/images/January-Newsletter-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-December-2022",
+      "url": "https://pace.ac.in/public/assets/images/December_Newsletter_2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-November-2022",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter_November-2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-October-2022",
+      "url": "https://pace.ac.in/public/assets/images/October_2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-September-2022",
+      "url": "https://pace.ac.in/public/assets/images/September News Letter 2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-August-2022",
+      "url": "https://pace.ac.in/public/assets/images/August News Letter 2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-July-2022",
+      "url": "https://pace.ac.in/public/assets/images/July News Letter 2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-June-2022",
+      "url": "https://pace.ac.in/public/assets/images/June News Letter 2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-May-2022",
+      "url": "https://pace.ac.in/public/assets/images/May News Letter 2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-April-2022",
+      "url": "https://pace.ac.in/public/assets/images/April-Newsletter-2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-March-2022",
+      "url": "https://pace.ac.in/public/assets/images/MARCH_2022_NEWSLETTER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-February-2022",
+      "url": "https://pace.ac.in/public/assets/images/FEBRUARY_NEWSLETTER_2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-January-2022",
+      "url": "https://pace.ac.in/public/assets/images/January-Newsletter-2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-December-2021",
+      "url": "https://pace.ac.in/public/assets/images/December-2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-November-2021",
+      "url": "https://pace.ac.in/public/assets/images/NOVEMBER_2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-October-2021",
+      "url": "https://pace.ac.in/public/assets/images/October-Newsletter-2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-September-2021",
+      "url": "https://pace.ac.in/public/assets/images/September-Newsletter-2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-August-2021",
+      "url": "https://pace.ac.in/public/assets/images/AUG_2021_NEWSLETTER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-July-2021",
+      "url": "https://pace.ac.in/public/assets/images/July Newsletter - 2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-June-2021",
+      "url": "https://pace.ac.in/public/assets/images/June Newsletter - 2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-May-2021",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter May-2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-April-2021",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter April-2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-March-2021",
+      "url": "https://pace.ac.in/public/assets/images/March_Newsletter_2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-February-2021",
+      "url": "https://pace.ac.in/public/assets/images/FEB-2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-January-2021",
+      "url": "https://pace.ac.in/public/assets/images/JANUARY_2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-December-2020",
+      "url": "https://pace.ac.in/public/assets/images/DECEMBER_2020.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-November-2020",
+      "url": "https://pace.ac.in/public/assets/images/November Newsletter-2020.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Newsletter-October-2020",
+      "url": "https://pace.ac.in/public/assets/images/October Newsletter-2020.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Magazine-2019-2020",
+      "url": "https://pace.ac.in/public/assets/images/Magazine-2019-2020.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Magazine-2018-2019",
+      "url": "https://pace.ac.in/public/assets/images/Magazine-2018-2019.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Magazine-2017-2018",
+      "url": "https://pace.ac.in/public/assets/images/Newsletter-2017-18.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

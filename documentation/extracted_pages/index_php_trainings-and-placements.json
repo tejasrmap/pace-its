@@ -1,0 +1,271 @@
+{
+  "url": "https://pace.ac.in/index.php/trainings-and-placements",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Training & Placements"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "Vision & Mission",
+      "Syllabus",
+      "Syllabus",
+      "Team T&P",
+      "OBJECTIVE OF THE DEPARTMENT"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "About Us",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "Vision & Mission",
+      "target": "#v-pills-profile"
+    },
+    {
+      "name": "Be Industry Ready",
+      "target": "#v-pills-messages"
+    },
+    {
+      "name": "Team T & P",
+      "target": "#v-pills-hari"
+    },
+    {
+      "name": "Objective",
+      "target": "#v-pills-raki"
+    },
+    {
+      "name": "Syllabus",
+      "target": "#v-pills-syl"
+    }
+  ],
+  "tab_panes_count": 6,
+  "tables_count": 3,
+  "tables": [
+    {
+      "headers": [
+        "Dean - Training & Placements",
+        "Ms. K.Roopa Akkesh",
+        "Email",
+        "roopa_k@pace.ac.in",
+        "Contact No",
+        "9581456303"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "Dean - Training & Placements",
+        "Email",
+        "Contact No"
+      ],
+      "rows": [
+        [
+          "Ms. K.Roopa Akkesh"
+        ],
+        [
+          "roopa_k@pace.ac.in"
+        ],
+        [
+          "9581456303"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S No",
+        "TRAINER NAME",
+        "Roll",
+        "01",
+        "Mr. GOVINDA RAO VALLAMSETTY",
+        "02",
+        "Mr. RAJ KIRAN KOLATI",
+        "03",
+        "Ms. MOUNIKA ULICHI",
+        "04",
+        "Ms. SWARNA LATHA KOLLURI",
+        "05",
+        "Mr. KARUMANCHI HARI BABU",
+        "06",
+        "Mr. BALU SRINIVASA REDDY",
+        "07",
+        "Ms. ALEKHYA P",
+        "08",
+        "Mr. ANJANEYULU SUDI",
+        "09",
+        "Mr. VAYALA SRINIVASULU",
+        "10",
+        "Mr. RAMESH BABU KONDAMUDI",
+        "11",
+        "Ms.G. SRUJANA BHARGAVI",
+        "12",
+        "Mr. RATNA RAJU CHEGUDI",
+        "13",
+        "Ms. PRISCILLA PALLEM",
+        "13",
+        "Ms.S. JYOTHI",
+        "14",
+        "Ms.G. MADHAVI",
+        "15",
+        "Ms.K.KRISHNAVENI"
+      ],
+      "rows": [
+        [
+          "TECHNICAL TRAINER"
+        ],
+        [
+          "TECHNICAL TRAINER"
+        ],
+        [
+          "TECHNICAL TRAINER"
+        ],
+        [
+          "TECHNICAL TRAINER"
+        ],
+        [
+          "TECHNICAL TRAINER"
+        ],
+        [
+          "TECHNICAL TRAINER"
+        ],
+        [
+          "TECHNICAL TRAINER"
+        ],
+        [
+          "APTITUDE TRAINER"
+        ],
+        [
+          "APTITUDE TRAINER"
+        ],
+        [
+          "APTITUDE TRAINER"
+        ],
+        [
+          "APTITUDE TRAINER"
+        ],
+        [
+          "VERBAL TRAINER"
+        ],
+        [
+          "VERBAL TRAINER"
+        ],
+        [
+          "VERBAL TRAINER"
+        ],
+        [
+          "VERBAL TRAINER"
+        ],
+        [
+          "Assistant Placement Coordinator"
+        ]
+      ]
+    }
+  ],
+  "images_count": 3,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 15,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "APTITUDE SYLLABUS",
+      "url": "https://pace.ac.in/public/assets/images/APTITUDE-SYLLABUS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TECHNICAL TRAINING SYLLABUS",
+      "url": "https://pace.ac.in/public/assets/images/TECHNICAL-TRAINING-SYLLABUS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "VERBAL SYLLABUS",
+      "url": "https://pace.ac.in/public/assets/images/VERBAL-SULLABUS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

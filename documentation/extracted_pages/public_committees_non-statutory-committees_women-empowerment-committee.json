@@ -1,0 +1,288 @@
+{
+  "url": "https://pace.ac.in/public/committees/non-statutory-committees/women-empowerment-committee",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Women Empowerment Cell"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "Women Empowerment Cell",
+      "Women Empowerment Cell",
+      "EVENTS"
+    ]
+  },
+  "tabs": [],
+  "tab_panes_count": 0,
+  "tables_count": 1,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No",
+          "Members attended",
+          "Designation",
+          "Status",
+          "Contact No.",
+          "Mail ID"
+        ],
+        [
+          "1",
+          "Dr. G.V.K. Murthy",
+          "Principal",
+          "Chairman",
+          "9703020577",
+          "principal@pace.ac.in"
+        ],
+        [
+          "2",
+          "Dr. R. Veeranjaneyelu",
+          "Dean Student Affairs",
+          "Member",
+          "9581456310",
+          "dean_studentaffairs@pace.ac.in"
+        ],
+        [
+          "3",
+          "Mrs. N. Vaishnavi",
+          "Associate Professor, ECE, Convener",
+          "Coordinator",
+          "9677444476",
+          "vaishnavi_n@pace.ac.in"
+        ],
+        [
+          "4",
+          "Mrs. B. Vijaya",
+          "ECE Coordinator",
+          "Member",
+          "8886529329",
+          "vijaya_b@pace.ac.in"
+        ],
+        [
+          "5",
+          "Mrs. Kurapati Devi Naga sri",
+          "CSE Coordinator",
+          "Member",
+          "9494965465",
+          "devinagasri_k@pace.ac.in"
+        ],
+        [
+          "6",
+          "Mrs. K. Jeevana",
+          "EEE Coordinator",
+          "Member",
+          "6309535377",
+          "jeevana_k@pace.ac.in"
+        ],
+        [
+          "7",
+          "Mrs. G. Aruna",
+          "CSIT, IT & IOT Coordinator",
+          "Member",
+          "9515823319",
+          "aruna_g@pace.ac.in"
+        ],
+        [
+          "8",
+          "Mrs. P. Nagavardhani",
+          "AI&ML Coordinator",
+          "Member",
+          "9110368185",
+          "nagavardani_p@pace.ac.in"
+        ],
+        [
+          "9",
+          "Mrs. J. Pavithra",
+          "AI&DS Coordinator",
+          "Member",
+          "9642750040",
+          "j_pavithra@pace.ac.in"
+        ],
+        [
+          "10",
+          "Mrs. Shaik Meharaj",
+          "MBA Coordinator",
+          "Member",
+          "8688755544",
+          "meharaj_d@pace.ac.in"
+        ],
+        [
+          "11",
+          "Ms. G. Padmavathi",
+          "Diploma Coordinator",
+          "Member",
+          "6300530747",
+          "padmavathi_g@pace.ac.in"
+        ],
+        [
+          "12",
+          "Ms. K. Lakshmi Dhanusha",
+          "Student Coordinator",
+          "Member",
+          "9032916501",
+          "22kq1a0514@pace.ac.in"
+        ],
+        [
+          "13",
+          "Ms. M. Jahnavi",
+          "Student Coordinator",
+          "Member",
+          "9652924528",
+          "24kq1a0483@pace.ac.in"
+        ]
+      ]
+    }
+  ],
+  "images_count": 8,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/wec2.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/wec3.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/wec4.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/wec6.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/wec7.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 20,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEC EVENTS 2025-2026",
+      "url": "https://pace.ac.in/public/public/assets/images/WEC EVENTS 2025-2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEC EVENTS 2024-2025",
+      "url": "https://pace.ac.in/public/public/assets/images/WEC_EVENTS_2024-2025.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEC EVENTS 2023-2024",
+      "url": "https://pace.ac.in/public/public/assets/images/WEC_EVENTS_2023-2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEC EVENTS 2022-2023",
+      "url": "https://pace.ac.in/public/public/assets/images/WEC_EVENTS_2022-2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEC EVENTS 2021-2022",
+      "url": "https://pace.ac.in/public/public/assets/images/WEC_EVENTS_2021-2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEC EVENTS 2020-2021",
+      "url": "https://pace.ac.in/public/public/assets/images/WEC_EVENTS_2020-2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEC EVENTS 2019-2020",
+      "url": "https://pace.ac.in/public/public/assets/images/WEC_EVENTS_2019-2020.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEC EVENTS 2018-2019",
+      "url": "https://pace.ac.in/public/public/assets/images/WEC_EVENTS_2018-2019.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

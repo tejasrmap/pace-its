@@ -1,0 +1,210 @@
+{
+  "url": "https://pace.ac.in/campus/gallery",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Gallery"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": []
+  },
+  "tabs": [],
+  "tab_panes_count": 0,
+  "tables_count": 0,
+  "tables": [],
+  "images_count": 29,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/1791794172482.aicte_idea_1.jpeg",
+      "alt": "AICTE IDEA LAB INAUGURATION"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/17821913994294.al0.JPG",
+      "alt": "PACER Alumni meet 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/17816623648673.graduation4_1.jpeg",
+      "alt": "GRADUATION CEREMONY 2026"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/17772820161198.festQR.jpeg",
+      "alt": "PACE Festino2K26"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/17500475406599.BANNER.jpeg",
+      "alt": "GRADUATION DAY 2K25"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/17473036433019.2.jpeg",
+      "alt": "PACE has MoU with Universiti Teknikal Malaysia Melaka (UTeM)"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/17271571563732.1_1.jpeg",
+      "alt": "Ganesh Chaturthi pooja at PACE ITS"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/17152421593199.1.jpeg",
+      "alt": "Graduation Day 2K24 at PACE ITS"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/17062634689444.4.jpeg",
+      "alt": "Sankranthi Sambaralu at PACE ITS"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16944067239750.Cover Photo.jpeg",
+      "alt": "FRESHER'S INAUGURATION CELEBRATIONS"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16918233054356.WhatsApp Image 2023-08-11 at 5.03.50 PM (1).jpeg",
+      "alt": "MBA FAREWELL FUNCTION"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16853320104862.1.jpeg",
+      "alt": "GRADUATION  DAY 2K23"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16805875579572.library9.jpg",
+      "alt": "Library"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801657625920.women6.jpg",
+      "alt": "Women Empowerment"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801656826074.family14.jpg",
+      "alt": "PACE Family Time"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801655775314.sports16.jpg",
+      "alt": "Sports"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801654995893.nss3.jpg",
+      "alt": "NSS"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801654161891.ncc15.jpg",
+      "alt": "NCC"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801653445516.health7.jpg",
+      "alt": "Health watch committee"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801652665179.alumni1.jpg",
+      "alt": "Alumni meet"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801651781649.cultural1.jpg",
+      "alt": "Cultural"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801651102780.scholar5.jpg",
+      "alt": "Merit Scholarship"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801650348384.workshop6.jpg",
+      "alt": "Workshops & Conferences"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801546418752.project2.jpg",
+      "alt": "Project Expo"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801535482248.Placements9.jpg",
+      "alt": "Placements"
+    },
+    {
+      "src": "https://pace.ac.in/public/uploads/16801524262119.Srujana5.jpg",
+      "alt": "Srujana"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 12,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 157,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

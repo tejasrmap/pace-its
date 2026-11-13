@@ -1,0 +1,294 @@
+{
+  "url": "https://pace.ac.in/index.php/college-events",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "Events and Fests"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": []
+  },
+  "tabs": [],
+  "tab_panes_count": 0,
+  "tables_count": 0,
+  "tables": [],
+  "images_count": 181,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17943762972732.Bharat_1.jpeg",
+      "alt": "VIKSIT BHARAT"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17931847958577.dasara_1.jpeg",
+      "alt": "Dasara celebrations"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17917955238458.tarang_2026_1.jpeg",
+      "alt": "TARANG 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17903298446150.1 Vinayaka 2026.jpeg",
+      "alt": "Vinayaka Chavithi - 2026"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17882506165275.WhatsApp Image 2026-08-29 at 9.30.36 AM.jpeg",
+      "alt": "National Sports Day"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17870489577194.f1.jpeg",
+      "alt": "19th Freshmen batch Inauguration"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17868934207484.1.jpeg",
+      "alt": "80th Independence Day"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17866104496202.1.jpeg",
+      "alt": "HarGharTiranga Rally"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17821912793807.al0.JPG",
+      "alt": "PACER Alumni meet 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/1777305048224.festQR.jpeg",
+      "alt": "PACE Festino2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17754612224176.SP0.jpeg",
+      "alt": "PACE 18th Annual Sports Meet 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17744985593752.civil0.jpeg",
+      "alt": "Workshop on 3D Printing"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/1774500564718.q0.jpeg",
+      "alt": "One Week workshop on Quantum Computing"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17733776744610.GAI_0.jpg",
+      "alt": "3-Day workshop on Generative AI"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17730327329776.mba0.jpeg",
+      "alt": "Guest Lecture for MBA Students"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17724246975929.pcb0.jpeg",
+      "alt": "6- Day Add on course on PCB Design"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17727275701421.cyber0.jpeg",
+      "alt": "6- Day workshop on Cyber Security"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17718199718498.Jana0.jpg",
+      "alt": "Declamation competition in association with Jana Vignana Vedika"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/1771821113640.kabbadi1.jpeg",
+      "alt": "Outstanding achievements of PACE Team"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17707823477808.CISFCycling0.jfif",
+      "alt": "Vande Mataram CISF Coastal Cyclothon 2026"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17709655639628.sport1.jpeg",
+      "alt": "Winners of QIS Fest"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17709694555931.AIDS1.JPG",
+      "alt": "AI & DS FAREWELL 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17708788655732.Iotcsit1.JPG",
+      "alt": "CSIT, IT & IOT Farewell 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17709674136715.ME2.jpeg",
+      "alt": "ME Farewell 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17708884711349.cse1.JPG",
+      "alt": "CSE Farewell 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/1770894010800.ECE0.JPG",
+      "alt": "ECE Farewell 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17709681749739.AIML1.jpeg",
+      "alt": "AIML FAREWELL 2K26"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/1769663164532.5.jpeg",
+      "alt": "77th Republic Day Celebrations at PACE ITS"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17696638782720.0.jpeg",
+      "alt": "Freshers Day at PACE"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17690634631269.s1.jpeg",
+      "alt": "PACE Sankranthi Sambaralu"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17678449624600.h1.jpeg",
+      "alt": "PACE Free medical camp"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17660341017100.00.jpeg",
+      "alt": "PACE EAGLE CLUB"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/1762779475893.1.jpeg",
+      "alt": "Celebrates 150 Years of Vande Mataram"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17624136151120.0.jpeg",
+      "alt": "Engineering Skills and Life Skills"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17600038472179.1.jpeg",
+      "alt": "Faculty Development Program - GenAI"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/1758696789412.0.jpeg",
+      "alt": "PACEITS HACKATHON-2025"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17579130093181.poster.jpeg",
+      "alt": "Recent Trends in Generative AI"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17579135728532.m1.jpeg",
+      "alt": "One Day Technical Workshop on MATLAB"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17558514664889.1.jpeg",
+      "alt": "AVISHKANDHRA 2025"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17558588464788.i1.jpeg",
+      "alt": "Celebrations of 79th Independence Day at PACE ITS"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17543913768235.1.1.jpeg",
+      "alt": "Freshmen Inauguration"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17459023141483.1_1.jpeg",
+      "alt": "World Earth Day"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17459039954006.R0.jpeg",
+      "alt": "Technical workshop on The Future of Software Testing"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17459036829073.2.jpeg",
+      "alt": "JNTUK Central Zone Inter Collegiate Ball-Badminton Tournament at PACE ITS"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17459043245268.RD1.jpeg",
+      "alt": "76th Republic Day Celebrations at PACE ITS"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17312993134238.5.jpeg",
+      "alt": "Legal Service Day"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17311359276068.1.jpeg",
+      "alt": "3- Day Student Enablement Program on Artificial Intelligence"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17299196456902.1.jpeg",
+      "alt": "The Art of Crafting a preliminary Research"
+    },
+    {
+      "src": "https://pace.ac.in/index.php/public/uploads/blogs/17279351214313.Nss-swatchta4.jpeg",
+      "alt": "Swachhata Hi Seva - 2024"
+    }
+  ],
+  "documents_count": 12,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 309,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

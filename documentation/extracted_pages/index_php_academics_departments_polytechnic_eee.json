@@ -1,0 +1,767 @@
+{
+  "url": "https://pace.ac.in/index.php/academics/departments/polytechnic/eee",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "ABOUT EEE"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "FACULTY",
+      "Labs In EEE Departments",
+      "Syllabus",
+      "ACADEMIC CALENDARS",
+      "TOPPERS",
+      "Faculty Achievments",
+      "Innovations",
+      "Student Achievements"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "FACILITIES",
+      "target": "#v-pills-facilities"
+    },
+    {
+      "name": "SYLLABUS",
+      "target": "#v-pills-messages"
+    },
+    {
+      "name": "Faculty Achievements",
+      "target": "#v-pills-achievementsdata"
+    },
+    {
+      "name": "Student Achievements",
+      "target": "#v-pills-student"
+    }
+  ],
+  "tab_panes_count": 9,
+  "tables_count": 8,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "M1",
+          "To provide a competitive learning environment, through a need based curriculum designed in collaboration with industry, conducive for high quality education emphasising on transfer of knowledge and skill development essential for the profession and the society as well."
+        ],
+        [
+          "M2",
+          "To nurture higher order leadership qualities and ethics and values in students to enable them to be leaders in their chosen professions while maintaining the highest level of ethics."
+        ],
+        [
+          "M3",
+          "To encourage the spirit of inquisition to promote innovation and entrepreneurship strengthened with life skills to sustain the stress."
+        ],
+        [
+          "M4",
+          "To foster effective interactions and networking with all the stake holders so as to worktowards the growth and sustainability of the society and environment."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PEO1",
+          "An ability to apply knowledge of mathematics, Science , engineering and management principles in solving problems in the field of Electrical and Electronics Engineering."
+        ],
+        [
+          "PEO2",
+          "To be life-long learners with sprit of enquiry and zeal to acquire new knowledge and skills so as to remain contemporary and posses required professional skills"
+        ],
+        [
+          "PEO3",
+          "To enhance entrepreneurial, communication and other soft skills, which will enable them to work globally as leaders, team members and contribute to nation building for the betterment of the society."
+        ],
+        [
+          "PEO4",
+          "To make them strongly committed to the highest levels of professional ethics and focus on ensuring quality, adherence to public policy and law, safety, reliability and environmental sustainability in all their professional activities"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PO 1",
+          "Basic and discipline specific knowledge: Apply knowledge of basic mathematics, science and engineering fundamentals and engineering specialization to solve the engineering problems."
+        ],
+        [
+          "PO 2",
+          "Problem analysis: Identify and analyse well-defined engineering problems using standard methods"
+        ],
+        [
+          "PO 3",
+          "Design/Development of solutions: Design solutions for well-defined technical problems and assist with the design of systems components or processes to meet specified needs"
+        ],
+        [
+          "PO 4",
+          "Engineering tools, Experimentation and Testing: Apply modern engineering tools and appropriate technique to conduct standard tests and measurements."
+        ],
+        [
+          "PO 5",
+          "Engineering practices for society, sustainability and environment: Apply appropriate technology in context of society, sustainability, environment and ethical practices."
+        ],
+        [
+          "PO 6",
+          "Project Management: Use engineering management principles individually, as a team member or a leader to manage projects and effectively communicate about well defined engineering activities."
+        ],
+        [
+          "PO 7",
+          "Life-Long learning: Ability to analyse individual needs and engage in updating in the context of technological changes."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PSO 1",
+          "An ability to understand the basic concepts of Electrical & Electronics Engineering and to apply them to various areas like Wiring Installations, Lighting Schemes , Static & Rotating machinery, drawing layouts , Power System ( Generation, Transmission, Distribution& utilisation), Digital electronics, power control devices, Computer programming ,managerial skills and the use of SMART technologies ."
+        ],
+        [
+          "PSO 2",
+          "An ability to Repair, develop and trouble shoot Various Electrical & Electronics equipments by using suitable tools and techniques, to design Customized applications in Electrical & Electronics Engineering at economic and efficient considerations, to develop software & hardware solutions."
+        ],
+        [
+          "PSO 3",
+          "Wisdom of social and environmental awareness along with ethical responsibility to have a successful career and to sustain passion and zeal in the field of Electrical & Electronics Engineering for real-world applications in the field of Electronics using optimal resources as an Entrepreneur."
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.NO",
+        "NAME OF THE STAFF",
+        "EDUCATIONAL QUALIFICATION",
+        "DESIGNATION",
+        "DEPARTMENT"
+      ],
+      "rows": [
+        [
+          "1",
+          "M.SIREESHA",
+          "M.Tech",
+          "Lecturer",
+          "DEEE"
+        ],
+        [
+          "2",
+          "G.S.V.PADMAVATHI",
+          "M.Tech",
+          "Lecturer",
+          "DEEE"
+        ],
+        [
+          "3",
+          "M.SRAVANI",
+          "M.Tech",
+          "Lecturer",
+          "DEEE"
+        ],
+        [
+          "4",
+          "G.PEDA BABU",
+          "M.Tech",
+          "Lecturer",
+          "DEEE"
+        ],
+        [
+          "5",
+          "SK.KALESHA VALI",
+          "B.Tech",
+          "Lecturer",
+          "DEEE"
+        ],
+        [
+          "6",
+          "G.SOMASEKHAR",
+          "B.Tech",
+          "Lecturer",
+          "DEEE"
+        ],
+        [
+          "7",
+          "G.RAJYA LAKSHMI",
+          "B.Tech",
+          "Lecturer",
+          "DEEE"
+        ],
+        [
+          "8",
+          "G.HARITHA",
+          "B.Tech",
+          "Lecturer",
+          "DEEE"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.NOACADEMIC YEARI ST YEARII ND YEARIII RD YEAR",
+        "ACADEMIC YEAR",
+        "I ST YEAR",
+        "II ND YEAR",
+        "III RD YEAR"
+      ],
+      "rows": [
+        [
+          "1",
+          "2021-2022",
+          "CH.PRANAY SUJITH(21471-EE-007)",
+          "D.POOJITHA(20471-EE-009)",
+          "B.NIRANJAN REDDY(19471-EE-009)"
+        ],
+        [
+          "2",
+          "2020-2021",
+          "R.SRI TULASI(20471-EE-028)",
+          "B.NIRANJAN REDDY(19471-EE-009)",
+          "U.GUNTEIAH(18471-EE-053)"
+        ],
+        [
+          "3",
+          "2019-2020",
+          "B.NIRANJAN REDDY(19471-EE-009)",
+          "K.BALA KISHORE(18471-EE-037)",
+          "R.SIVA(17471-EE-048)"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.NO",
+        "NAME OF THE FACULTY",
+        "FDP/WORKSHOP",
+        "DURATION",
+        "PLATFORM"
+      ],
+      "rows": [
+        [
+          "1",
+          "G.S.V.PADMAVATHI",
+          "AI MASTER CLASS (PYTHON)",
+          "30 DAYS",
+          "PANTECH SOLUTIONS"
+        ],
+        [
+          "2",
+          "G.S.V.PADMAVATHI",
+          "MASTER CLASS ON MATLAB SIMULINK",
+          "30 DAYS",
+          "PANTECH SOLUTIONS"
+        ],
+        [
+          "3.",
+          "G.S.V.PADMAVATHI",
+          "IMAGE PROCESSING USING MATLAB(5 Days)",
+          "5 DAYS",
+          "PANTECH SOLUTIONS"
+        ],
+        [
+          "4.",
+          "G.S.V.PADMAVATHI",
+          "Bio medical electronics and iot in health care",
+          "One week",
+          "NITTTR ,CHENNAI"
+        ],
+        [
+          "5.",
+          "G.S.V.PADMAVATHI",
+          "RENEWABLE ENERGY SOURCES",
+          "One week",
+          "NITTTR ,CHENNAI"
+        ],
+        [
+          "6.",
+          "G.S.V.PADMAVATHI",
+          "ENERGY AND ENVIRONMENT MANAGEMENT",
+          "One week",
+          "NITTTR ,CHENNAI"
+        ],
+        [
+          "7.",
+          "G.S.V.PADMAVATHI",
+          "REFRIGERATION AND AIR CONDITIONING",
+          "One week",
+          "NITTTR ,CHENNAI"
+        ],
+        [
+          "8.",
+          "SK.KALESHA VALI",
+          "ENERGY MANAGEMENT APPLICATIONS AND RESEARCH OPPORTUNITIES",
+          "One week",
+          "NITTTR ,CHENNAI"
+        ],
+        [
+          "9.",
+          "SK.KALESHA VALI",
+          "WIND ENERGY APPLICATIONS AND RESEARCH OPPORTUNITIES",
+          "One week",
+          "NITTTR ,CHENNAI"
+        ],
+        [
+          "10.",
+          "SK.KALESHA VALI",
+          "REFRIGERATION AND AIR CONDITIONING",
+          "One week",
+          "NITTTR ,CHENNAI"
+        ],
+        [
+          "11.",
+          "U.KALYANI",
+          "PYTHON PROGRAMMING",
+          "30 DAYS",
+          "PANTECH SOLTUTIONS"
+        ],
+        [
+          "12.",
+          "U.KALYANI",
+          "WIND ENERGY APPLICATIONS AND RESEARCH OPPORTUNITIES",
+          "One week",
+          "NITTTR ,CHENNAI"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.NO",
+        "DATE",
+        "EVENT DISCRIPTION",
+        "VENUE",
+        "TYPE OF EVENT",
+        "STUDENT NAME",
+        "PIN NO",
+        "AWARD"
+      ],
+      "rows": [
+        [
+          "1",
+          "4-01-2023-06-01-2023",
+          "VOLLEBALL",
+          "DA POLYTECHNIC ONGOLE",
+          "TEAM",
+          "K.SURESH",
+          "21471-EE-026",
+          "1ST  PRIZE"
+        ],
+        [
+          "2",
+          "4-01-2023-06-01-2023",
+          "DISCUSS THROW",
+          "DA POLYTECHNIC ONGOLE",
+          "INDIVIDUAL",
+          "K.SURESH",
+          "21471-EE-026",
+          "1ST  PRIZE"
+        ],
+        [
+          "3",
+          "4-01-2023-06-01-2023",
+          "SHOTPUT",
+          "DA POLYTECHNIC ONGOLE",
+          "INDIVIDUAL",
+          "K.SURESH",
+          "21471-EE-026",
+          "1ST PRIZE"
+        ],
+        [
+          "4",
+          "31-01-2023/03-02-2023",
+          "VOLLEBALL",
+          "GOVT.POLYTECHNIC COLLEGE,VIJAYAWADA",
+          "TEAM",
+          "K.SURESH",
+          "21471-EE-026",
+          "PARTIPATION"
+        ],
+        [
+          "5",
+          "4-01-2023-06-01-2023",
+          "BALL BADMINTON",
+          "DA POLYTECHNIC ONGOLE",
+          "TEAM",
+          "K.LAKSHMI NARAYANA",
+          "21471-EE-027",
+          "1ST PRIZE"
+        ],
+        [
+          "6",
+          "4-01-2023-06-01-2023",
+          "400M",
+          "DA POLYTECHNIC ONGOLE",
+          "INDIVIDUAL",
+          "K.LAKSHMI NARAYANA",
+          "21471-EE-027",
+          "2ND PRIZE"
+        ],
+        [
+          "7",
+          "4-01-2023-06-01-2023",
+          "4*400M",
+          "DA POLYTECHNIC ONGOLE",
+          "TEAM",
+          "K.LAKSHMI NARAYANA",
+          "21471-EE-027",
+          "1ST PRIZE"
+        ],
+        [
+          "8",
+          "31-01-2023/03-02-2023",
+          "BALL BADMINTON",
+          "GOVT.POLYTECHNIC COLLEGE,VIJAYAWADA",
+          "TEAM",
+          "K.LAKSHMI NARAYANA",
+          "21471-EE-027",
+          "PARTIPATION"
+        ],
+        [
+          "9",
+          "4-01-2023-06-01-2023",
+          "KABADDI",
+          "DA POLYTECHNIC ONGOLE",
+          "TEAM",
+          "K.VENKAT",
+          "21471-EE-038",
+          "2ND  PRIZE"
+        ],
+        [
+          "10",
+          "4-01-2023-06-01-2023",
+          "VOLLEBALL",
+          "DA POLYTECHNIC ONGOLE",
+          "TEAM",
+          "G.REVANTH",
+          "21471-EE-015",
+          "1ST  PRIZE"
+        ],
+        [
+          "11",
+          "31-01-2023/03-02-2023",
+          "VOLLEBALL",
+          "GOVT.POLYTECHNIC COLLEGE,VIJAYAWADA",
+          "TEAM",
+          "G.REVANTH",
+          "21471-EE-015",
+          "PARTIPATION"
+        ],
+        [
+          "12",
+          "4-01-2023-06-01-2023",
+          "VOLLEY BALL",
+          "GOVT.POLYTECHNIC  FOR WOMEN COLLEGE,EETHAMUKKALA",
+          "TEAM",
+          "A.NANDINI",
+          "21471-EE-003",
+          "1ST  PRIZE"
+        ],
+        [
+          "13",
+          "4-01-2023-06-01-2023",
+          "VOLLEY BALL",
+          "GOVT.POLYTECHNIC  FOR WOMEN COLLEGE,EETHAMUKKALA",
+          "TEAM",
+          "D.SRI VIDYA",
+          "21471-EE-011",
+          "1ST  PRIZE"
+        ],
+        [
+          "14",
+          "4-01-2023-06-01-2023",
+          "VOLLEY BALL",
+          "GOVT.POLYTECHNIC  FOR WOMEN COLLEGE,EETHAMUKKALA",
+          "TEAM",
+          "R.MEGHANA",
+          "21471-EE-046",
+          "1ST  PRIZE"
+        ],
+        [
+          "15",
+          "4-01-2023-06-01-2023",
+          "VOLLEY BALL",
+          "GOVT.POLYTECHNIC  FOR WOMEN COLLEGE,EETHAMUKKALA",
+          "TEAM",
+          "V.SRIBHANU",
+          "21471-EE-050",
+          "1ST  PRIZE"
+        ],
+        [
+          "16",
+          "31-01-2023/03-02-2023",
+          "VOLLEY BALL",
+          "GOVT.POLYTECHNIC COLLEGE,VIJAYAWADA",
+          "TEAM",
+          "A.NANDINI",
+          "21471-EE-003",
+          "PARTICIPATION"
+        ],
+        [
+          "17",
+          "31-01-2023/03-02-2023",
+          "VOLLEY BALL",
+          "GOVT.POLYTECHNIC COLLEGE,VIJAYAWADA",
+          "TEAM",
+          "D.SRI VIDYA",
+          "21471-EE-011",
+          "PARTICIPATION"
+        ],
+        [
+          "18",
+          "31-01-2023/03-02-2023",
+          "VOLLEY BALL",
+          "GOVT.POLYTECHNIC COLLEGE,VIJAYAWADA",
+          "TEAM",
+          "R.MEGHANA",
+          "21471-EE-046",
+          "PARTICIPATION"
+        ],
+        [
+          "19",
+          "31-01-2023/03-02-2023",
+          "VOLLEY BALL",
+          "GOVT.POLYTECHNIC COLLEGE,VIJAYAWADA",
+          "TEAM",
+          "V.SRIBHANU",
+          "21471-EE-050",
+          "PARTICIPATION"
+        ],
+        [
+          "20",
+          "16-11-2022/17-11-2022",
+          "TECHNICAL PROJECT EXPO",
+          "PACE POLYTECHNIC COLLEGE",
+          "TEAM",
+          "D.GOPINADH",
+          "20471-EE-005",
+          "PARTICIPATION"
+        ],
+        [
+          "21",
+          "16-11-2022/17-11-2022",
+          "TECHNICAL PROJECT EXPO",
+          "PACE POLYTECHNIC COLLEGE",
+          "TEAM",
+          "E.SAI SANDEEP",
+          "20471-EE-010",
+          "PARTICIPATION"
+        ],
+        [
+          "22",
+          "16-11-2022/17-11-2022",
+          "TECHNICAL PROJECT EXPO",
+          "PACE POLYTECHNIC COLLEGE",
+          "TEAM",
+          "K.RUPESH GOUD",
+          "20471-EE-022",
+          "PARTICIPATION"
+        ],
+        [
+          "23",
+          "16-11-2022/17-11-2022",
+          "TECHNICAL PROJECT EXPO",
+          "PACE POLYTECHNIC COLLEGE",
+          "TEAM",
+          "P.DEVA SUDHIR",
+          "20471-EE-026",
+          "PARTICIPATION"
+        ],
+        [
+          "24",
+          "16-11-2022/17-11-2022",
+          "TECHNICAL PROJECT EXPO",
+          "PACE POLYTECHNIC COLLEGE",
+          "TEAM",
+          "D.POOJITHA",
+          "20471-EE-009",
+          "PARTICIPATION"
+        ],
+        [
+          "25",
+          "16-11-2022/17-11-2022",
+          "TECHNICAL PROJECT EXPO",
+          "PACE POLYTECHNIC COLLEGE",
+          "TEAM",
+          "M.RENUKA",
+          "20471-EE-023",
+          "PARTICIPATION"
+        ],
+        [
+          "26",
+          "16-11-2022/17-11-2022",
+          "TECHNICAL PROJECT EXPO",
+          "PACE POLYTECHNIC COLLEGE",
+          "TEAM",
+          "R.SRI TULASI",
+          "20471-EE-028",
+          "PARTICIPATION"
+        ],
+        [
+          "27",
+          "16-11-2022/17-11-2022",
+          "TECHNICAL PROJECT EXPO",
+          "PACE POLYTECHNIC COLLEGE",
+          "TEAM",
+          "SK.THASEEN",
+          "20471-EE-032",
+          "PARTICIPATION"
+        ]
+      ]
+    }
+  ],
+  "images_count": 3,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 24,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "POLYTECHNIC-EEE-E-CAD & PLC LABS",
+      "url": "https://pace.ac.in/public/assets/images/POLYTECHNIC-EEE-E-CAD & PLC LABS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "POLYTECHNIC-EEE-ELECTRICAL MACHINES LAB",
+      "url": "https://pace.ac.in/public/assets/images/POLYTECHNIC-EEE-ELECTRICAL MACHINES LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "POLYTECHNIC-EEE-ELECTRICAL MEASURMENTS LAB",
+      "url": "https://pace.ac.in/public/assets/images/POLYTECHNIC-EEE-ELECTRICAL MEASURMENTS LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "POLYTECHNIC-EEE-ELECTRICAL WIRING AND WORKSHOP PRACTICE LAB",
+      "url": "https://pace.ac.in/public/assets/images/POLYTECHNIC-EEE-ELECTRICAL WIRING AND WORKSHOP PRACTICE LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "POLYTECHNIC-EEE-NETWORK ANALYSIS LAB",
+      "url": "https://pace.ac.in/public/assets/images/POLYTECHNIC-EEE-NETWORK ANALYSIS LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "POLYTECHNIC-EEE-POWER ELECTRONICS LAB",
+      "url": "https://pace.ac.in/public/assets/images/POLYTECHNIC-EEE-POWER ELECTRONICS LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "C26 CURRICULUM",
+      "url": "https://pace.ac.in/public/assets/images/Poly_Syllabus/C-26 ECE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "C23 CURRICULUM",
+      "url": "https://pace.ac.in/public/assets/images/C23_DEEE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "C20 CURRICULUM",
+      "url": "https://pace.ac.in/public/assets/images/C20_DEEE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "I YEAR",
+      "url": "https://pace.ac.in/public/assets/images/B.Tech - EEE R18 SYLLABUS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "II YEAR",
+      "url": "https://pace.ac.in/public/assets/images/r16-EEE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "III YEAR",
+      "url": "https://pace.ac.in/public/assets/images/r13-EEE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

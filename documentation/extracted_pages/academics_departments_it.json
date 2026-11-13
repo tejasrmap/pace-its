@@ -1,0 +1,821 @@
+{
+  "url": "https://pace.ac.in/academics/departments/it",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "ABOUT DEPARTMENT OF INFORMATION TECHNOLOGY"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "FACULTY ACHIEVEMENTS",
+      "TEACHING AND LEARNING PRACTICES",
+      "Previous Question Papers",
+      "Facilities",
+      "Web Technology Lab",
+      "Operating Systems lab",
+      "Object Oriented Programming with JAVA Lab",
+      "Data Base Management Systems Lab",
+      "INFORMATION TECHNOLOGY\r\n\r\nSEMINAR HALL",
+      "FACULTY LIST",
+      "Syllabus",
+      "EXTRA CURRICULAR ACTIVITIES",
+      "Toppers List",
+      "ACHIEVEMENTS",
+      "Placements",
+      "Innovations",
+      "Events"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "FACILITIES",
+      "target": "#v-pills-profile"
+    },
+    {
+      "name": "TLP",
+      "target": "#v-pills-tlp"
+    },
+    {
+      "name": "B.Tech SYLLABUS",
+      "target": "#v-pills-messages"
+    },
+    {
+      "name": "TOPPERS",
+      "target": "#v-pills-settings"
+    },
+    {
+      "name": "STUDENT ACHIEVEMENTS",
+      "target": "#v-pills-hari"
+    },
+    {
+      "name": "FACULTY ACHIEVEMENTS",
+      "target": "#v-pills-raki"
+    },
+    {
+      "name": "INNOVATIONS",
+      "target": "#v-pills-sai"
+    },
+    {
+      "name": "EVENTS",
+      "target": "#v-pills-giri"
+    },
+    {
+      "name": "EXTRA CURRICULAR ACTIVITIES",
+      "target": "#v-pills-extra"
+    },
+    {
+      "name": "Previous Question Papers",
+      "target": "#v-pills-question"
+    }
+  ],
+  "tab_panes_count": 13,
+  "tables_count": 6,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "M1",
+          "To provide interactive environment and technical knowledge through self learning and skill development programs to stand out in the global competitive world."
+        ],
+        [
+          "M2",
+          "To provide hands on experience on emerging technologies and to make them industry ready."
+        ],
+        [
+          "M3",
+          "To imbibe the professional ethics & social values in the students in order to create responsible citizens."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PEO1",
+          "Graduates will have Capability to design and develop new software products as per requirements of the various domains"
+        ],
+        [
+          "PEO",
+          "Graduates should have more enthusiastic to adopt new technologies and to improve existing solutions by reducing complexity to serves the society."
+        ],
+        [
+          "PEO3",
+          "Graduates will be Ability to build and lead the team to achieve organizational goals."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PO1",
+          "Engineering knowledge:Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+        ],
+        [
+          "PO2",
+          "Problem analysis:Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+        ],
+        [
+          "PO3",
+          "Design/development of solutions:Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+        ],
+        [
+          "PO4",
+          "Conduct investigations of complex problems:Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+        ],
+        [
+          "PO5",
+          "Modern tool usage:Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+        ],
+        [
+          "PO6",
+          "The engineer and society:Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+        ],
+        [
+          "PO7",
+          "Environment and sustainability:Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+        ],
+        [
+          "PO8",
+          "Ethics:Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+        ],
+        [
+          "PO9",
+          "Individual and team work:Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+        ],
+        [
+          "PO10",
+          "Communication:Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+        ],
+        [
+          "PO11",
+          "Project management and finance:Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+        ],
+        [
+          "PO12",
+          "Life-long learning:Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PSO1",
+          "The ability to design and develop computer programs for analyzing the data."
+        ],
+        [
+          "PSO2",
+          "To encourage the research in software field that contributes to enhance the standards of human life style and maintain ethical values."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Sl.no",
+          "Faculty Name",
+          "Faculty Designation",
+          "Qualification"
+        ],
+        [
+          "1",
+          "Bhyrapuneni Srikanth",
+          "HOD",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "2",
+          "Angadi Seshagirirao",
+          "Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "3",
+          "Yasam Srinath",
+          "Assistant Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "4",
+          "Inturi Madhava",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "5",
+          "Karanam Manohara Rao",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "6",
+          "Mahamkali Naveen Kumar",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "7",
+          "Naresh Krishna Atmakuri",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "8",
+          "Shaik Khadar Basha",
+          "Assistant Professor",
+          "M.Tech"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.NO",
+          "ROLL NUMBER",
+          "NAME OF THE CANDIDATE",
+          "YEAR OF PASS",
+          "PERCENTAGE/CGPA"
+        ],
+        [
+          "1",
+          "08KQ1A1212",
+          "DARAPUNENI SUHASINI",
+          "2012",
+          "77.69%"
+        ],
+        [
+          "2",
+          "09KQ1A1219",
+          "K. VENKATA BHAVANI",
+          "2013",
+          "72.90%"
+        ],
+        [
+          "3",
+          "10KQ1A1217",
+          "K. DURGA BHAVANI",
+          "2014",
+          "76.87%"
+        ],
+        [
+          "4",
+          "11KQ1A1232",
+          "PANDITI MOUNIKA",
+          "2015",
+          "72.08%"
+        ],
+        [
+          "5",
+          "13KQ1A1204",
+          "BOPPUDI. JAHNAVI",
+          "2017",
+          "83.00%"
+        ],
+        [
+          "6",
+          "14KQ1A1201",
+          "A. ANURADHA",
+          "2018",
+          "82.25%"
+        ],
+        [
+          "7",
+          "15KQ1A1209",
+          "G. NIHARIKA",
+          "2019",
+          "81.45%"
+        ],
+        [
+          "8",
+          "16KQ1A1213",
+          "GUDDET SIRISHA",
+          "2020",
+          "81.40%"
+        ],
+        [
+          "9",
+          "17KQ1A1242",
+          "YARRAMREDDY NAGAMANI",
+          "2021",
+          "81.70%"
+        ],
+        [
+          "10",
+          "18KQ1A1239",
+          "T. LAKSHMI RAMANI",
+          "2022",
+          "9.31CGPA"
+        ],
+        [
+          "11",
+          "19KQ1A1218",
+          "POTHURAJU SUSHMA",
+          "2023",
+          "9.52CGPA"
+        ],
+        [
+          "12",
+          "20KQ1A1209",
+          "CHINTHALA JEEVANA JYOTHI",
+          "2024",
+          "9.09 CGPA"
+        ],
+        [
+          "13",
+          "21KQ1A1201",
+          "BEERALA VENKATA PRASANNA POOJITHA",
+          "2025",
+          "8.86 CGPA"
+        ]
+      ]
+    }
+  ],
+  "images_count": 9,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/web-it.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/op-it.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/oops-it.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/db-it.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/SEMINAR-HALL.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/SEMINAR-HALL-1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 85,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2025-2026",
+      "url": "https://pace.ac.in/public/assets/images/IT-FACULTY-ACHIEVEMENTS-2025-26.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2024-2025",
+      "url": "https://pace.ac.in/public/assets/images/IT-FACULTY-ACHIEVEMENTS-2024-25.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-2024",
+      "url": "https://pace.ac.in/public/assets/images/IT-FACULTY-ACHIEVEMENTS-2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/assets/images/IT-FACULTY-ACHIEVEMENTS-2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FOR MORE DETAILS CLICK HERE",
+      "url": "https://pace.ac.in/public/assets/images/IT-TEACHING-AND-LEARNING-PROCESS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18_APPLIED PHYSICS",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/R18_APPLIED PHYSICS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18_C-PROGRAMMING FOR PROBLEM SOLVING",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/R18_C-PROGRAMMING FOR PROBLEM SOLVING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18_ENGINEERING GRAPHICS",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/R18_ENGINEERING GRAPHICS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18_ENGLISH-I",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/R18_ENGLISH-I.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_APPLIED PHYSICS",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/R21_APPLIED PHYSICS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_C PROGRAMMING FOR PROBLEM SOLVING",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/R21_C PROGRAMMING FOR PROBLEM SOLVING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_COMMUNICATIVE ENGLISH",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/R21_COMMUNICATIVE ENGLISH.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_COMPUTER ENGINEERING WORKSHOP",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/R21_COMPUTER ENGINEERING WORKSHOP.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21_LINEAR ALGEBRA & DIFFERENTIAL EQUATIONS",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/R21_LINEAR ALGEBRA & DIFFERENTIAL EQUATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER ORGANIZATION _IT,IOT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/COMPUTER ORGANIZATION _IT,IOT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OOP THROUGH C++  _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/OOP THROUGH C++  _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOFTWARE ENGINEERING  _IT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/SOFTWARE ENGINEERING  _IT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TRANSFORMATION TECHNIQUES & PARTIAL DIFFERENTIATION",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/TRANSFORMATION TECHNIQUES & PARTIAL DIFFERENTIATION.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DIGITAL ELECTRONICS _CSIT _IT - Copy (2)",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/DIGITAL ELECTRONICS _CSIT _IT - Copy (2).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mathematical Foundation of Computer Science _IT_AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/Mathematical Foundation of Computer Science _IT_AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MATHEMATICS-III CE_EEE-ME_ECE_CSE_CSIT_IT_AME_IOT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/MATHEMATICS-III CE_EEE-ME_ECE_CSE_CSIT_IT_AME_IOT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OBJECT ORIENTED PROGRAMMING THROUGH C++  _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/OBJECT ORIENTED PROGRAMMING THROUGH C++  _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER NETWORKS  _CSE&IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/COMPUTER NETWORKS  _CSE&IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DATA SCIENCE _CSIT _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/DATA SCIENCE _CSIT _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DESIGN AND ANALYSIS OF ALGORITHMS  _ IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/DESIGN AND ANALYSIS OF ALGORITHMS  _ IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OPERATING SYSTEMS   _CSE CSIT, IT, CSE(IOTCSBT)",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/OPERATING SYSTEMS   _CSE CSIT, IT, CSE(IOTCSBT).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "PROFESSIONAL ETHICS _CSIT,IT,IOT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/PROFESSIONAL ETHICS _CSIT,IT,IOT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "BIG DATA TECHNOLOGIES _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/BIG DATA TECHNOLOGIES _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CLOUD COMPUTING _CSE_CSIT_IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/CLOUD COMPUTING _CSE_CSIT_IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "INTRODUCTION TO WIRELESS SENSOR NETWORKS_IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/INTRODUCTION TO WIRELESS SENSOR NETWORKS_IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MULTIMEDIA AND APPLICATION DEVELOPMENT _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/MULTIMEDIA AND APPLICATION DEVELOPMENT _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEB SCRIPTING LANGUAGES  _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/regular/WEB SCRIPTING LANGUAGES  _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER ORGANIZATION _IT,IOT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/COMPUTER ORGANIZATION _IT,IOT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE  IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE  IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OBJECT ORIENTED PROGRAMMING THROUGH C++ _EEE,ME,ECE,IT,IOT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/OBJECT ORIENTED PROGRAMMING THROUGH C++ _EEE,ME,ECE,IT,IOT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OOP THROUGH C++ _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/OOP THROUGH C++ _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOFTWARE ENGINEERING _IT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/SOFTWARE ENGINEERING _IT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DIGITAL ELECTRONICS _CSIT,IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/DIGITAL ELECTRONICS _CSIT,IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "M-III (Except AIDS AIML)",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/M-III (Except AIDS AIML).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mathematical Foundation of Computer Science _IT,AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/Mathematical Foundation of Computer Science _IT,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OBJECT ORIENTED PROGRAMMING THROUGH C++ _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/OBJECT ORIENTED PROGRAMMING THROUGH C++ _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DATA SCIENCE  _CSIT,IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/DATA SCIENCE  _CSIT,IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DESIGN AND ANALYSIS OF ALGORITHMS _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/DESIGN AND ANALYSIS OF ALGORITHMS _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OPERATING SYSTEMS _CSE CSIT, IT, CSE(IOTCSBT)",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/OPERATING SYSTEMS _CSE CSIT, IT, CSE(IOTCSBT).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "PROFESSIONAL ETHICS _CSIT,IT,IOT,AIDS,AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/PROFESSIONAL ETHICS _CSIT,IT,IOT,AIDS,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOFTWARE TESTING _IT,IOT,AIML",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/it/supplementary/SOFTWARE TESTING _IT,IOT,AIML.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "BIG DATA TECHNOLOGIES _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/it/BIG DATA TECHNOLOGIES _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CLOUD COMPUTING _CSE,CSIT,IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/it/CLOUD COMPUTING _CSE,CSIT,IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "INTRODUCTION TO WIRELESS SENSOR NETWORKS _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/it/INTRODUCTION TO WIRELESS SENSOR NETWORKS _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MULTIMEDIA AND APPLICATION DEVELOPMENT _IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/it/MULTIMEDIA AND APPLICATION DEVELOPMENT _IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WEB SCRIPTING LANGUAGES_IT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/it/WEB SCRIPTING LANGUAGES_IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/syllabus/IT_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/R18-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/assets/images/r16-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R13",
+      "url": "https://pace.ac.in/public/assets/images/r13-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/assets/images/2021-2022-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-2020",
+      "url": "https://pace.ac.in/public/assets/images/2019-2020-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2017-2018",
+      "url": "https://pace.ac.in/public/assets/images/2017-2018-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2015-2016",
+      "url": "https://pace.ac.in/public/assets/images/2015-2016-IT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STUDENT ACHIVEMENTS 2022-23",
+      "url": "https://pace.ac.in/public/assets/images/IT_STUDENT_ACHIEVEMENTS_2022_2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STUDENT ACHIVEMENTS 2021-22",
+      "url": "https://pace.ac.in/public/assets/images/IT_STUDENT_ACHIEVEMENTS_2021_2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STUDENT ACHIVEMENTS 2020-21",
+      "url": "https://pace.ac.in/public/assets/images/IT_STUDENT_ACHIEVEMENTS_2020_2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/assets/images/placementsdata/IT-2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/assets/images/placementsdata/IT_2021_2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-2021",
+      "url": "https://pace.ac.in/public/assets/images/placementsdata/IT_2020_2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-2020",
+      "url": "https://pace.ac.in/public/assets/images/placementsdata/IT_2019_2020.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "IT Dept Innovations",
+      "url": "https://pace.ac.in/public/assets/images/itdepartment/IT Dept Innovations.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EVENTS_2023_2024",
+      "url": "https://pace.ac.in/public/assets/images/EVENTS_2023_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EVENTS_2022_2023",
+      "url": "https://pace.ac.in/public/assets/images/EVENTS_2022_2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EVENTS_2021_2022",
+      "url": "https://pace.ac.in/public/assets/images/EVENTS_2021_2022.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EVENTS_2020_2021",
+      "url": "https://pace.ac.in/public/assets/images/EVENTS_2020_2021.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

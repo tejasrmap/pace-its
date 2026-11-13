@@ -1,0 +1,1384 @@
+{
+  "url": "https://pace.ac.in/academics/departments/civil",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "DEPARTMENT OF CIVIL ENGINEERING"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "Placements",
+      "Structural Engineering",
+      "M.Tech Syllabus",
+      "TEACHING AND LEARNING PRACTICES",
+      "Previous Question Papers",
+      "Faculty List",
+      "INTERNSHIPS",
+      "INDUSTRIAL INTERACTIONS",
+      "INDUSTRIAL VISITS",
+      "CONSULTANCY",
+      "FACILITIES",
+      "Labs In CIVIL Dept",
+      "Syllabus",
+      "Toppers List",
+      "FACULTY ACHIEVEMENTS",
+      "ACADEMIC ACHIEVEMENTS",
+      "STUDENT SELF LEARNING CERTIFICATION COURSES",
+      "STUDENT AWARDS",
+      "STUDENT PUBLICATIONS",
+      "STUDENT INTERNSHIPS",
+      "Innovations",
+      "PATENTS",
+      "ACADEMIC EVENTS",
+      "VALUE ADDED COURSES",
+      "STUDENT CHAPTER EVENTS",
+      "Research Publications",
+      "CIVIL NBA",
+      "EXTRA CURRICULAR ACTIVITIES"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "M.Tech",
+      "target": "#v-pills-mtech"
+    },
+    {
+      "name": "FACILITIES",
+      "target": "#v-pills-facilities"
+    },
+    {
+      "name": "TLP",
+      "target": "#v-pills-tlp"
+    },
+    {
+      "name": "INDUSTRY INTERACTION",
+      "target": "#v-pills-mou"
+    },
+    {
+      "name": "B.Tech SYLLABUS",
+      "target": "#v-pills-messages"
+    },
+    {
+      "name": "Placements",
+      "target": "#v-pills-placements"
+    },
+    {
+      "name": "TOPPERS",
+      "target": "#v-pills-settings"
+    },
+    {
+      "name": "FACULTY ACHIEVEMENTS",
+      "target": "#v-pills-hari"
+    },
+    {
+      "name": "STUDENT ACHIEVEMENTS",
+      "target": "#v-pills-student"
+    },
+    {
+      "name": "INNOVATIONS",
+      "target": "#v-pills-sai"
+    },
+    {
+      "name": "EVENTS",
+      "target": "#v-pills-giri"
+    },
+    {
+      "name": "Research Publications",
+      "target": "#v-pills-researchpub"
+    },
+    {
+      "name": "SAR",
+      "target": "#v-pills-SAR"
+    },
+    {
+      "name": "EXTRA CURRICULAR ACTIVITIES",
+      "target": "#v-pills-excuri"
+    },
+    {
+      "name": "Previous Question Papers",
+      "target": "#v-pills-question"
+    }
+  ],
+  "tab_panes_count": 18,
+  "tables_count": 6,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "M1",
+          "To impart quality education in line with quality teaching – learning process."
+        ],
+        [
+          "M2",
+          "To provide a better environment to encourage and support innovative research and development with ethical attitude."
+        ],
+        [
+          "M3",
+          "To develop interface between industry – academia for overall improvement of the students, to serve the industry and society"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PEO1",
+          "Actively engage in problem solving using engineering principles to address the evolving needs of the society."
+        ],
+        [
+          "PEO2",
+          "Able to succeed in positions in civil engineering practice or research, and in other   fields they choose to pursue and enroll in advanced studies."
+        ],
+        [
+          "PEO3",
+          "Make ethical decisions and demonstrate a commitment to service to the profession and society."
+        ],
+        [
+          "PEO4",
+          "Acquire a position or degree that values adaptability and innovation in their work"
+        ],
+        [
+          "PEO5",
+          "Pursue lifelong learning, and to be leaders, both in their chosen profession and in other activities"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PO1",
+          "Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization for the solution of complex engineering problems."
+        ],
+        [
+          "PO2",
+          "Problem analysis: Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+        ],
+        [
+          "PO3",
+          "Design/Development of Solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations."
+        ],
+        [
+          "PO4",
+          "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+        ],
+        [
+          "PO5",
+          "Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+        ],
+        [
+          "PO6",
+          "The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+        ],
+        [
+          "PO7",
+          "Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and the need for sustainable development."
+        ],
+        [
+          "PO8",
+          "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+        ],
+        [
+          "PO9",
+          "Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+        ],
+        [
+          "PO10",
+          "Communication: Communicate effectively on complex engineering activities with the engineering community and with the society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+        ],
+        [
+          "PO11",
+          "Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+        ],
+        [
+          "PO12",
+          "Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "PSO1",
+          "The Graduates of this programme with proficiency in mathematics and physical sciences will excel in the core areas of civil engineering such as structural, environmental, geotechnical, transportation and water resources engineering"
+        ],
+        [
+          "PSO2",
+          "The graduates will plan, produce detailed drawings, write specification, analyze, design and prepare cost estimates."
+        ],
+        [
+          "PSO3",
+          "The graduates will interact with stakeholders effectively and execute quality construction work applying necessary tools"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "Sl.no",
+          "Faculty Name",
+          "Faculty Designation",
+          "Qualification"
+        ],
+        [
+          "1",
+          "Ganesh Naidu Gopu",
+          "HOD",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "2",
+          "Lomada Rama Prasad Reddy",
+          "Professor",
+          "M.Tech, Ph.D"
+        ],
+        [
+          "3",
+          "Channamshetty Srikanth",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "4",
+          "ERLA MANI",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "5",
+          "Gunthoti Sunil Kumar",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "6",
+          "Kota Sai Manohar",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "7",
+          "Kothanuru Ashok Kumar",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "8",
+          "Magathoti Sri Durga Vara Prasad",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "9",
+          "Mupparaju Kranthi Kumar",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "10",
+          "Pappula Ravi Kumar",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "11",
+          "PEMULA KIRAN KUMAR",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "12",
+          "Sane Ankarao",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "13",
+          "Sivapuram Venkata Naga Anil Vamsi",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "14",
+          "Thottempudi Sivakoti",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "15",
+          "Turlapati Udaya Durga",
+          "Assistant Professor",
+          "M.Tech"
+        ],
+        [
+          "16",
+          "Valluri Mahendra",
+          "Assistant Professor",
+          "M.Tech"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No",
+          "ROLL NO.",
+          "NAME OF THE STUDENT",
+          "YEAR OF PASSING",
+          "PERCENTAGE/ CGPA"
+        ],
+        [
+          "1",
+          "21KQ1A0163",
+          "SHAIK FIRDOUSE",
+          "2025",
+          "9.50 CGPA"
+        ],
+        [
+          "2",
+          "20KQ1A0106",
+          "KELAM NANDINI",
+          "2024",
+          "89.13"
+        ],
+        [
+          "3",
+          "20KQ5A0105",
+          "DASARI SAI DEEPTHI",
+          "2023",
+          "9.50 CGPA"
+        ],
+        [
+          "4",
+          "18KQ1A0102",
+          "BADUGU RAJ KUMARI",
+          "2022",
+          "9.57 CGPA"
+        ],
+        [
+          "5",
+          "18KQ5A0112",
+          "MATLAPUDI KOTAIAH",
+          "2021",
+          "8.98  CGPA"
+        ],
+        [
+          "6",
+          "16KQ1A0172",
+          "UPPUTURI LAKSHMI SIRISHA",
+          "2020",
+          "8.68 CGPA"
+        ],
+        [
+          "7",
+          "15KQ1A0198",
+          "RAJARAPU BHUSHAIAH",
+          "2019",
+          "90.15%"
+        ],
+        [
+          "8",
+          "14KQ1A01C1",
+          "ACHAKALA VENKATA SAI PAVANI",
+          "2018",
+          "90.49%"
+        ],
+        [
+          "9",
+          "13KQ1A0165",
+          "IDAMAKANKI SUDHINSHA",
+          "2017",
+          "84.89%"
+        ],
+        [
+          "10",
+          "12KQ1A0107",
+          "DUDDELA MAHESH",
+          "2016",
+          "78.64%"
+        ],
+        [
+          "11",
+          "12KQ5A0107",
+          "MODEPALLI NAGANAJALI",
+          "2015",
+          "86.92%"
+        ],
+        [
+          "12",
+          "10KQ1A0143",
+          "PATHAN SAMEERKHAN",
+          "2014",
+          "84.99%"
+        ],
+        [
+          "13",
+          "09KQ1A0107",
+          "BYPANENI SAI PAVAN KUMAR",
+          "2013",
+          "82.84%"
+        ]
+      ]
+    }
+  ],
+  "images_count": 7,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/Structural_Lab.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/Concrete_Tech_Lab.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/Surveying_Lab.JPG",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/Eng_Geo_Lab1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 181,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-2023",
+      "url": "https://pace.ac.in/public/assets/images/placementsdata/PLACEMENTS_CIVIL_2022_2023.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-2022",
+      "url": "https://pace.ac.in/public/assets/images/placementsdata/2021-2022-civil-placements.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-2021",
+      "url": "https://pace.ac.in/public/assets/images/placementsdata/2020-2021-civil-placements.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-2020",
+      "url": "https://pace.ac.in/public/assets/images/placementsdata/2019-2020-civil-placements.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21 M.Tech Civil Structural Engineering Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/R18 M.Tech Civil Structural Engineering Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FOR MORE DETAILS CLICK HERE",
+      "url": "https://pace.ac.in/public/assets/images/CIVIL_ENGINEERING_TEACHING_AND_LEARNING_PRACTICES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R18 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 C PROGRAMMING FOR PROBLEM SOLVING",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R18 C PROGRAMMING FOR PROBLEM SOLVING.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 ENGINEERING CHEMISTRY",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R18 ENGINEERING CHEMISTRY.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 ENGLISH-I",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R18 ENGLISH-I.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18 MATHEMATICS-I",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R18 MATHEMATICS-I.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 COMMUNICATIVE ENGLISH",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R21 COMMUNICATIVE ENGLISH.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 ENGINEERING GEOLOGY CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R21 ENGINEERING GEOLOGY CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 ENGINEERING GRAPHICS",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R21 ENGINEERING GRAPHICS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 ENGINEERING PHYSICS",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R21 ENGINEERING PHYSICS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21 LINEAR ALGEBRA & DIFFERENTIAL EQUATIONS",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/R21 LINEAR ALGEBRA & DIFFERENTIAL EQUATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FLUID MECHANICS  _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/FLUID MECHANICS  _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HIGHWAY ENGINEERING _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/HIGHWAY ENGINEERING _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "PROBABILITY & STATISTICS  _CE,CSE,CSIT-P&S",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/PROBABILITY & STATISTICS  _CE,CSE,CSIT-P&S.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SOLID MECHANICS _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/SOLID MECHANICS _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SURVEYING AND GEOMETRICS _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/SURVEYING AND GEOMETRICS _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "BUILDING MATERIALS AND CONSTRUCTION _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/BUILDING MATERIALS AND CONSTRUCTION _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FLUID MECHANICS _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/FLUID MECHANICS _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "MATHEMATICS-III CE_EEE-ME_ECE_CSE_CSIT_IT_AME_IOT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/MATHEMATICS-III CE_EEE-ME_ECE_CSE_CSIT_IT_AME_IOT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STRENGTH OF MATERIALS-I _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/STRENGTH OF MATERIALS-I _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SURVEYING _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/SURVEYING _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "BULIDING PLANNING AND  _cE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/BULIDING PLANNING AND  _cE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DESIGN AND DRAWING OF REINFORCED CONCRETE STRUCTURES  _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/DESIGN AND DRAWING OF REINFORCED CONCRETE STRUCTURES  _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STRUCTURAL ANALYSIS - II _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/STRUCTURAL ANALYSIS - II _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TRANSPORTATION ENGINEERING -I  _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/TRANSPORTATION ENGINEERING -I  _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WATER RESOURCE ENGINEERING-II   _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/WATER RESOURCE ENGINEERING-II   _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CONSTRUCTION TECHNOLOGY AND MANAGEMENT _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/CONSTRUCTION TECHNOLOGY AND MANAGEMENT _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ENVIRONMENTAL ENGINEERING _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/ENVIRONMENTAL ENGINEERING _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ESTIMATING, SPECIFICATIONS AND CONTRACTS _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/ESTIMATING, SPECIFICATIONS AND CONTRACTS _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FUNDAMENTALS OF CLOUD COMPUTING  _CE & ECE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/FUNDAMENTALS OF CLOUD COMPUTING  _CE & ECE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "GEOTECHNICAL ENGINEERING-II _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/GEOTECHNICAL ENGINEERING-II _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "INTRODUCTION TO DATABASE MANAGEMENT SYSTEMS _CE (2)",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/INTRODUCTION TO DATABASE MANAGEMENT SYSTEMS _CE (2).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "REMOTE SENSING AND GIS _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/regular/REMOTE SENSING AND GIS _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FLUID MECHANICS  _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/FLUID MECHANICS  _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HIGHWAY ENGINEERING _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/HIGHWAY ENGINEERING _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "OLID MECHANICS _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/OLID MECHANICS _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "PROBABILITY & STATISTICS  _CE_CSE_CSIT",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/PROBABILITY & STATISTICS  _CE_CSE_CSIT.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SURVEYING AND GEOMETRICS CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/SURVEYING AND GEOMETRICS CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CE-BMC",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/CE-BMC.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CE-FM",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/CE-FM.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CE-SOM-I",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/CE-SOM-I.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CE-Survey",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/CE-Survey.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "M-III (Except AIDS AIML)",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/M-III (Except AIDS AIML).pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "BULIDING PLANNING AND DRAWING  _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/BULIDING PLANNING AND DRAWING  _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DDRCS  _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/DDRCS  _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "INTRODUCTION TO PYTHON PROGRAMMING  +CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/INTRODUCTION TO PYTHON PROGRAMMING  +CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STRUCTURAL ANALYSIS - II  _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/STRUCTURAL ANALYSIS - II  _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TRANSPORTATION ENGINEERING -I _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/TRANSPORTATION ENGINEERING -I _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "WATER RESOURCE ENGINEERING-II  _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/civil/supplementary/WATER RESOURCE ENGINEERING-II  _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CONSTRUCTION TECHNOLOGY AND MANAGEMENT _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/civil/CONSTRUCTION TECHNOLOGY AND MANAGEMENT _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ENVIRONMENTAL ENGINEERING _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/civil/ENVIRONMENTAL ENGINEERING _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ESTIMATING, SPECIFICATIONS AND CONTRACTS _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/civil/ESTIMATING, SPECIFICATIONS AND CONTRACTS _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FUNDAMENTALS OF CLOUD COMPUTING _CE & ECE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/civil/FUNDAMENTALS OF CLOUD COMPUTING _CE & ECE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "GEOTECHNICAL ENGINEERING-II _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/civil/GEOTECHNICAL ENGINEERING-II _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "INTRODUCTION TO DATABASE MANAGEMENT SYSTEMS _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/civil/INTRODUCTION TO DATABASE MANAGEMENT SYSTEMS _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "REMOTE SENSING AND GIS _CE",
+      "url": "https://pace.ac.in/public/assets/images/previous-questions/allsupplementary/civil/REMOTE SENSING AND GIS _CE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022-23-INTERNSHIPS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021-22-INTERNSHIPS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020-21-INTERNSHIPS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019-20-INTERNSHIPS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-24",
+      "url": "https://pace.ac.in/public/assets/images/2023_24_INDUSTRIAL_INTERACTIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022-23-INDUSTRIAL-INTERACTIONS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021-22-INDUSTRIAL-INTERACTIONS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020-21-INDUSTRIAL-INTERACTIONS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019-20-INDUSTRIAL-INTERACTIONS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-24",
+      "url": "https://pace.ac.in/public/assets/images/2023_24_INDUSTRIAL_VISITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022-23-INDUSTRIAL-VISITS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021-22-INDUSTRIAL-VISITS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020-21-INDUSTRIAL-VISITS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019-20-INDUSTRIAL-VISITS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022-23-CONSULTANCY-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021-22-CONSULTANCY-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020-21-CONSULTANCY-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019-20-CONSULTANCY-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CONCRETE_TECHNOLOGY_LAB",
+      "url": "https://pace.ac.in/public/assets/images/CONCRETE_TECHNOLOGY_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STRENGTH_OF_MATERIALS_LAB",
+      "url": "https://pace.ac.in/public/assets/images/STRENGTH_OF_MATERIALS_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SURVEYING_FIELD_WORK",
+      "url": "https://pace.ac.in/public/assets/images/SURVEYING_FIELD_WORK.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "GEOTECHNICAL_ENGINEERING_LAB",
+      "url": "https://pace.ac.in/public/assets/images/GEOTECHNICAL_ENGINEERING_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ENVIRONMENTAL_ENGINEERING_LAB",
+      "url": "https://pace.ac.in/public/assets/images/ENVIRONMENTAL_ENGINEERING_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TRANSPORTATION_ENGINEERING_LAB",
+      "url": "https://pace.ac.in/public/assets/images/TRANSPORTATION_ENGINEERING_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STRUCTURAL_ENGINEERING_LAB",
+      "url": "https://pace.ac.in/public/assets/images/STRUCTURAL_ENGINEERING_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER_AIDED_CIVIL_ENGINEERING_DRAWING_LAB",
+      "url": "https://pace.ac.in/public/assets/images/COMPUTER_AIDED_CIVIL_ENGINEERING_DRAWING_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ENGINEERING_GEOLOGY_LAB",
+      "url": "https://pace.ac.in/public/assets/images/ENGINEERING_GEOLOGY_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "PROJECT_LAB",
+      "url": "https://pace.ac.in/public/assets/images/PROJECT_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DEPARTMENT_SEMINAR_HALL_CIVIL",
+      "url": "https://pace.ac.in/public/assets/images/DEPARTMENT_SEMINAR_HALL_CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "DEPARTMENT-LIBRARY-CIVIL",
+      "url": "https://pace.ac.in/public/assets/images/DEPARTMENT-LIBRARY-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "FLUID_MECHANICS_AND_HYDRAULIC_MACHINES_LAB",
+      "url": "https://pace.ac.in/public/assets/images/FLUID_MECHANICS_AND_HYDRAULIC_MACHINES_LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "UTILIZATION, MAINTENANCE & SAFETY MEASURES IN LABORATORIES",
+      "url": "https://pace.ac.in/public/assets/images/UTILIZATION, MAINTENANCE & SAFETY MEASURES IN LABORATORIES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "COMPUTER AIDED CIVIL ENGINEERING DRAWING LAB",
+      "url": "https://pace.ac.in/public/assets/images/COMPUTER AIDED CIVIL ENGINEERING DRAWING LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CONCRETE TECHNOLOGY LAB",
+      "url": "https://pace.ac.in/public/assets/images/CONCRETE TECHNOLOGY LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "ENGINEERING GEOLOGY LAB",
+      "url": "https://pace.ac.in/public/assets/images/ENGINEERING GEOLOGY LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "GEOTECHNICAL ENGINEERING LAB",
+      "url": "https://pace.ac.in/public/assets/images/GEOTECHNICAL ENGINEERING LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STRENGTH OF MATERIALS LAB",
+      "url": "https://pace.ac.in/public/assets/images/STRENGTH OF MATERIALS LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SURVEYING FIELD WORK LAB-II",
+      "url": "https://pace.ac.in/public/assets/images/SURVEYING FIELD WORK LAB-II.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "SURVEYING FIELD WORK-I",
+      "url": "https://pace.ac.in/public/assets/images/SURVEYING FIELD WORK-I.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "TRANSPORTATION ENGINEERING LAB",
+      "url": "https://pace.ac.in/public/assets/images/TRANSPORTATION ENGINEERING LAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Auto CAD Lab.",
+      "url": "https://pace.ac.in/public/assets/images/10CADLAB.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R23",
+      "url": "https://pace.ac.in/public/assets/images/syllabus/CIVIL_R23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R21",
+      "url": "https://pace.ac.in/public/assets/images/R21 B.Tech Civil Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R18",
+      "url": "https://pace.ac.in/public/assets/images/R18 B.Tech Civil Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R16",
+      "url": "https://pace.ac.in/public/assets/images/r16-Civil.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "R13",
+      "url": "https://pace.ac.in/public/assets/images/R13 B.Tech Civil Syllabus.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23_FACULTY_INVITED_AS_RESOURCE_PERSON",
+      "url": "https://pace.ac.in/public/assets/images/2022-23_FACULTY_INVITED_AS_RESOURCE_PERSON.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22_FACULTY_INVITED_AS_RESOURCE_PERSON",
+      "url": "https://pace.ac.in/public/assets/images/2021-22_FACULTY_INVITED_AS_RESOURCE_PERSON.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21_FACULTY_INVITED_AS_RESOURCE_PERSON",
+      "url": "https://pace.ac.in/public/assets/images/2020-21_FACULTY_INVITED_AS_RESOURCE_PERSON.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20_FACULTY_INVITED_AS_RESOURCE_PERSON",
+      "url": "https://pace.ac.in/public/assets/images/2019-20_FACULTY_INVITED_AS_RESOURCE_PERSON.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-24_FACULTY_AS_PARTICIPANTS",
+      "url": "https://pace.ac.in/public/assets/images/2023_24 _FACULTY_AS_PARTICIPANTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23_FACULTY_AS_PARTICIPANTS",
+      "url": "https://pace.ac.in/public/assets/images/2022-23_FACULTY_AS_PARTICIPANTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22_FACULTY_AS_PARTICIPANTS",
+      "url": "https://pace.ac.in/public/assets/images/2021-22 _FACULTY_AS_PARTICIPANTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21_FACULTY_AS_PARTICIPANTS",
+      "url": "https://pace.ac.in/public/assets/images/2020-21_FACULTY_AS_PARTICIPANTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20_FACULTY_AS_PARTICIPANTS",
+      "url": "https://pace.ac.in/public/assets/images/2019-20_FACULTY_AS_PARTICIPANTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-24",
+      "url": "https://pace.ac.in/public/assets/images/2023_24_FACULTY_PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022_23_FACULTY_PUBLICATIONS_CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021_22_FACULTY_PUBLICATIONS_CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020_21_FACULTY_PUBLICATIONS_CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019_20_FACULTY_PUBLICATIONS_CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-24",
+      "url": "https://pace.ac.in/public/assets/images/2023_24_STUDENT_ACADEMIC_ACHIEVEMENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022_23_STUDENT_ACADEMIC_ACHIEVEMENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021_22_STUDENT_ACADEMIC_ACHIEVEMENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020_21_STUDENT_ACADEMIC_ACHIEVEMENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019_20_STUDENT_ACADEMIC_ACHIEVEMENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-24",
+      "url": "https://pace.ac.in/public/assets/images/2023_24_STUDENT_SELF_LEARNING_CERTIFICATION_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022_23_STUDENT_SELF_LEARNING_CERTIFICATION_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021_22_STUDENT_SELF_LEARNING_CERTIFICATION_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020_21_STUDENT_SELF_LEARNING_CERTIFICATION_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019_20_STUDENT_SELF_LEARNING_CERTIFICATION_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "STUDENT AWARDS",
+      "url": "https://pace.ac.in/public/assets/images/STUDENT_AWARDS_CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022_23_CIVIL_ENGINEERING_STUDENT_PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021_22_CIVIL_ENGINEERING_STUDENT_PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020_21_CIVIL_ENGINEERING_STUDENT_PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019_20_CIVIL_ENGINEERING_STUDENT_PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022_23_INTERNSHIPS_CIVIL_ACHIEVEMENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021_22_INTERNSHIPS_CIVIL_ACHIEVEMENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020_21_INTERNSHIPS_CIVIL_ACHIEVEMENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019_20_INTERNSHIPS_CIVIL_ACHIEVEMENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CIVIL ENGINEERING INNOVATIONS",
+      "url": "https://pace.ac.in/public/assets/images/CIVIL-ENGINEERING-INNOVATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "PATENTS",
+      "url": "https://pace.ac.in/public/assets/images/PATENTS-CIVIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023_24_CIVIL_ENGINEERING_EVENTS",
+      "url": "https://pace.ac.in/public/assets/images/2023_24_CIVIL_ENGINEERING_EVENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23 CIVIL ENGINEERING EVENTS",
+      "url": "https://pace.ac.in/public/assets/images/2022-23-CIVIL-ENGINEERING-EVENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22 CIVIL ENGINEERING EVENTS",
+      "url": "https://pace.ac.in/public/assets/images/2021-22-CIVIL-ENGINEERING-EVENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21 CIVIL ENGINEERING EVENTS",
+      "url": "https://pace.ac.in/public/assets/images/2020-21-CIVIL-ENGINEERING-EVENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20 CIVIL ENGINEERING EVENTS",
+      "url": "https://pace.ac.in/public/assets/images/2019-20-CIVIL-ENGINEERING-EVENTS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-24",
+      "url": "https://pace.ac.in/public/assets/images/2023_24_VALUE_ADDED_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23",
+      "url": "https://pace.ac.in/public/assets/images/2022_23_CIVIL_VALUE_ADDED_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22",
+      "url": "https://pace.ac.in/public/assets/images/2021_22_CIVIL_VALUE_ADDED_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21",
+      "url": "https://pace.ac.in/public/assets/images/2020_21_CIVIL_VALUE_ADDED_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20",
+      "url": "https://pace.ac.in/public/assets/images/2019_20_CIVIL_VALUE_ADDED_COURSES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THE_INSTITUTION_OF_ENGINEERS_INDIA",
+      "url": "https://pace.ac.in/public/assets/images/THE_INSTITUTION_OF_ENGINEERS_INDIA.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "THE_INDIAN_GREEN_BUILDING_COUNCIL",
+      "url": "https://pace.ac.in/public/assets/images/THE_INDIAN_GREEN_BUILDING_COUNCIL.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "INDIAN_CONCRETE_INSTITUTE",
+      "url": "https://pace.ac.in/public/assets/images/INDIAN_CONCRETE_INSTITUTE.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2023-24 CIVIL ENGINEERING FACULTY PUBLICATIONS",
+      "url": "https://pace.ac.in/public/assets/images/2023_24_CIVIL_FACULTY_PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23 CIVIL ENGINEERING FACULTY PUBLICATIONS",
+      "url": "https://pace.ac.in/public/assets/images/2022-23-CIVIL-ENGINEERING-FACULTY-PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22 CIVIL ENGINEERING FACULTY PUBLICATIONS",
+      "url": "https://pace.ac.in/public/assets/images/2021-22-CIVIL-ENGINEERING-FACULTY-PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21 CIVIL ENGINEERING FACULTY PUBLICATIONS",
+      "url": "https://pace.ac.in/public/assets/images/2020-21-CIVIL-ENGINEERING-FACULTY-PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20 CIVIL ENGINEERING FACULTY PUBLICATIONS",
+      "url": "https://pace.ac.in/public/assets/images/2019-20-CIVIL-ENGINEERING-FACULTY-PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022-23 CIVIL ENGINEERING STUDENT PUBLICATIONS",
+      "url": "https://pace.ac.in/public/assets/images/2022-23_STUDENT_PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021-22 CIVIL ENGINEERING STUDENT PUBLICATIONS",
+      "url": "https://pace.ac.in/public/assets/images/2021-22-CIVIL-ENGINEERING-STUDENT-PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2020-21 CIVIL ENGINEERING STUDENT PUBLICATIONS",
+      "url": "https://pace.ac.in/public/assets/images/2020-21-CIVIL-ENGINEERING-STUDENT-PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019-20 CIVIL ENGINEERING STUDENT PUBLICATIONS",
+      "url": "https://pace.ac.in/public/assets/images/2019-20-CIVIL-ENGINEERING-STUDENT-PUBLICATIONS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "CIVIL NBA",
+      "url": "https://pace.ac.in/public/assets/images/CIVIL_NBA.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2022_23",
+      "url": "https://pace.ac.in/public/assets/images/2022_23_CIVIL_STUDENT_EXTRA_CURRICULAR_ACTIVITIES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2021_22",
+      "url": "https://pace.ac.in/public/assets/images/2021_22_CIVIL_STUDENT_EXTRA_CURRICULAR_ACTIVITIES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "2019_20",
+      "url": "https://pace.ac.in/public/assets/images/2019_20_CIVIL_STUDENT_EXTRA_CURRICULAR_ACTIVITIES.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 132,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}

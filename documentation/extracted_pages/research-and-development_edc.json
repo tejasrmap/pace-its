@@ -1,0 +1,412 @@
+{
+  "url": "https://pace.ac.in/research-and-development/edc",
+  "title": "Pace",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "breadcrumbs": [],
+  "headings": {
+    "h1": [
+      "ABOUT EDC"
+    ],
+    "h2": [],
+    "h3": [
+      "DOWNLOAD",
+      "QUICK LINKS"
+    ],
+    "h4": [
+      "Sponsored Programs",
+      "EVENTS",
+      "PM Yuva Yojana"
+    ]
+  },
+  "tabs": [
+    {
+      "name": "HOME",
+      "target": "#v-pills-home"
+    },
+    {
+      "name": "EDC COMMITTEE",
+      "target": "#v-pills-edcom"
+    },
+    {
+      "name": "MOUs",
+      "target": "#v-pills-mou"
+    },
+    {
+      "name": "FUNCTIONS",
+      "target": "#v-pills-function"
+    },
+    {
+      "name": "SPONSORED PROGRAMS",
+      "target": "#v-pills-profile"
+    },
+    {
+      "name": "PM YUVA YOJANA",
+      "target": "#v-pills-messages"
+    },
+    {
+      "name": "EVENTS",
+      "target": "#v-pills-edc"
+    }
+  ],
+  "tab_panes_count": 7,
+  "tables_count": 2,
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No",
+          "Name",
+          "Designation",
+          "Status"
+        ],
+        [
+          "1",
+          "Dr. G.V.K. Murthy",
+          "Principal",
+          "Chairman"
+        ],
+        [
+          "2",
+          "Dr.D.Anil Kumar",
+          "Associate Professor-MBA",
+          "Coordinator"
+        ],
+        [
+          "3",
+          "Dr.R.Veeranjaneyulu",
+          "Dean – Student Affairs & Director-Admissions",
+          "Member"
+        ],
+        [
+          "4",
+          "Ms.K.Roopa Akkesh",
+          "Dean – Training & Placements",
+          "Member"
+        ],
+        [
+          "5",
+          "Dr.D.Anil Kumar",
+          "Dean – R&D",
+          "Member"
+        ],
+        [
+          "6",
+          "Dr.M.Appa Rao",
+          "Dean – Academics & HOD ECE",
+          "Member"
+        ],
+        [
+          "7",
+          "Dr.Mallikarjunachari. G",
+          "Dean – ICSR",
+          "Member"
+        ],
+        [
+          "8",
+          "Dr.Sudhir Chakravarthy. K",
+          "Dean - Infrastructure",
+          "Member"
+        ],
+        [
+          "9",
+          "Mr.U.Nagarjuna",
+          "Civil Coordinator",
+          "Member"
+        ],
+        [
+          "10",
+          "Mrs.Ch. Manasa",
+          "IT&IOT Coordinator",
+          "Member"
+        ],
+        [
+          "11",
+          "Ms.B.Mahalakshmi",
+          "H&S Coordinator",
+          "Member"
+        ],
+        [
+          "12",
+          "Mr.S.Arunasri",
+          "ECE Coordinator",
+          "Member"
+        ],
+        [
+          "13",
+          "Mr.P.Kiran Babu",
+          "Mech. Coordinator",
+          "Member"
+        ],
+        [
+          "14",
+          "Mr.Harikrishna Murthy",
+          "AIML&AIDS Coordinator",
+          "Member"
+        ],
+        [
+          "15",
+          "Mr.B.Vamsi Krishna",
+          "CSE Coordinator",
+          "Member"
+        ],
+        [
+          "16",
+          "Mrs.B.Rajeswari",
+          "CSE IT Coordinator",
+          "Member"
+        ],
+        [
+          "17",
+          "Mr.B.Suresh",
+          "EEE Coordinator",
+          "Member"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No.",
+          "Name of the Event",
+          "Resource Person",
+          "Date",
+          "Beneficiary",
+          "Gallary"
+        ],
+        [
+          "1",
+          "EAC",
+          "Dr.KrishnaSastry\r\n\r\nChairman, \r\n\r\nISLE, Hyderabad Chapter,   Hyderabad.",
+          "24th to 26th\r\n\r\nNovember2015",
+          "Students",
+          ""
+        ],
+        [
+          "2",
+          "GSDS1",
+          "Dr.S. SaibabaRtd A.S.P Ongole.",
+          "15th -21st March2016",
+          "Students",
+          ""
+        ],
+        [
+          "3",
+          "FDP",
+          "Dr.A.Viswanadham\r\n\r\nProfessor of C.S.R Sarma Collage , Ongole.",
+          "15th July to  \r\n\r\n8th August 2016",
+          "Faculty",
+          ""
+        ],
+        [
+          "4",
+          "GSDS2",
+          "T.RajaVenkatadriSr.District Civil Judge Ongole",
+          "1st& 2nd \r\n\r\nSeptember 2017",
+          "Students",
+          ""
+        ]
+      ]
+    }
+  ],
+  "images_count": 24,
+  "images": [
+    {
+      "src": "https://pace.ac.in/public/assets/images/p38.png",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc5.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc6.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc7.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc8.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc9.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc10.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc11.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc12.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc13.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc14.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc15.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/edc-events/edc16.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/Atal_Img.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/Pavan_Img.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/f1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/f2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/f3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/f4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/ramana.png",
+      "alt": "Image"
+    },
+    {
+      "src": "https://pace.ac.in/public/assets/images/shape-1.png",
+      "alt": "Image"
+    }
+  ],
+  "documents_count": 18,
+  "documents": [
+    {
+      "title": "AICTE IDEA LAB TENDER",
+      "url": "https://pace.ac.in/public/assets/images/PACE_AICTE_IDEA_TENDER.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Policy",
+      "url": "https://pace.ac.in/public/assets/images/researchpolicy.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Management",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EDC Events AY 2023-24",
+      "url": "https://pace.ac.in/public/assets/images/edc-events/EDC_Events_AY_2023-24.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EDC Events AY 2022-23",
+      "url": "https://pace.ac.in/public/assets/images/edc-events/EDC_Events_AY_2022-23.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EDC Events AY 2021-22",
+      "url": "https://pace.ac.in/public/assets/images/edc-events/EDC_Events_AY_2021-22.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EDC Events AY 2020-21",
+      "url": "https://pace.ac.in/public/assets/images/edc-events/EDC_Events_AY_2020-21.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EDC Events AY 2019-20",
+      "url": "https://pace.ac.in/public/assets/images/edc-events/EDC_Events_AY_2019-20.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "EDC Events AY 2018-19",
+      "url": "https://pace.ac.in/public/assets/images/edc-events/EDC_Events_AY_2018-19.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Student Hand Book",
+      "url": "https://pace.ac.in/public/assets/images/student hand book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "HR Policy Book",
+      "url": "https://pace.ac.in/public/assets/images/HR Policy Book.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "College Brochure",
+      "url": "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Job Application",
+      "url": "https://pace.ac.in/public/assets/images/PACE_Resume.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Mandatory Disclosure",
+      "url": "https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "NIRF",
+      "url": "https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf",
+      "extension": ".pdf"
+    },
+    {
+      "title": "RTI",
+      "url": "https://pace.ac.in/public/assets/images/rti-latest.pdf",
+      "extension": ".pdf"
+    }
+  ],
+  "forms_count": 0,
+  "forms": [],
+  "internal_links_count": 131,
+  "external_links_count": 6,
+  "text_length": 1938,
+  "full_text": "About Us\nPACE At a Glance\nVision & Mission\nAffiliation & Accreditation\nAwards & Accolades\nWhy PACE\nNewsletters\nAdministration\nChairman's Message\nVice President's Message\nSecretary's Message\nPrincipal's Profile\nChief Administrative Officer\nDeans & Directors\nHR Manager\nAdmissions\nAdmission Procedure\nCourses Offered\nFee Details\nCategory-B Seats(Management Quota)\nNotifications\nApplications\nApply Online\nB.Tech\nM.Tech\nMBA\nAcademics\nDepartments\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI & DS\nAI & ML\nCSE(IoT&CSBT)\nMBA\nH&S\nAcademic Calendar\nAcademic Regulations\nCurriculum & Syllabus\n1st Graduation Day\n2nd Graduation Day\n3rd Graduation Day\n4th Graduation Day\nICSR\nExams\nTraining & Placements\nTraining & Placements\nSkill Development\nPlacement Records\nCareer Guidance Cell\nFrom The Desk of TPO\nCommittees\nStatutory Committees\nGoverning body\nAcademic Council\nBoard of Studies\nCIVIL\nEEE\nMECH\nECE\nCSE\nCSE(R)\nCSIT\nIT\nAI&DS\nAI&ML\nCSE(IOT&CSBT)\nMBA\nENGLISH\nMATHEMATICS\nPHYSICS\nCHEMISTRY\nFinance Committee\nNon-Statutory Committees\nUHV Committee\nHealth Watch Committee\nPlanning and Evalution Committee\nGrievance Redressal Committee\nExamination Committee\nAdmission Committee\nLibrary Committee\nStudent Welfare Committee\nExtra Curricular Activites Committee\nAcademic Audit Committee\nWomen Empowerment Cell\nInternal Complaints Committee\nSC/ST Committee\nMinority Cell Committee\nOBC Cell Committee\nAnti-Ragging Committee\nAnti-Drug Committee\nEOF Committee\nR &D\nAbout Research&Development\nPolicy\nPACE Publishers\nPublication and Patents\nPatents\nConsultancy\nResearch Supervisors & Scholars\nSponsored Projects\nResearch Centers\nMOU's\nEDC\nIIC\nNISP\nNIRF\nEngineering\nManagement\nARIIA\nProfessional Bodies\nIndustry Institution Interaction Cell\nIQAC\nCampus\nAuditorium\nCampus Facilities\nHostel\nSports & Games\nNSS\nISR\nNCC\nCampus Tour\nPress & Media\nGallery\nEvents\nExtra & Co-curricular Activities\nCareers\nAlumni\nPolytechnic\nH&S\nAIML\nCME\nEEE\nCIVIL\nECE\nEXAMS\nEVENTS\nPACE- ERP"
+}
