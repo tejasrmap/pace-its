@@ -3,41 +3,43 @@
 import React from 'react';
 import Link from 'next/link';
 import { Building, BookOpen, Music, Home, Trophy, Bus, ArrowRight } from 'lucide-react';
+import { SectionHeading } from '@/components/ui/SectionHeading';
+import { Container } from '@/components/ui/Container';
 
 const facilities = [
   {
     icon: Building,
     title: "60-Acre Eco-Friendly Campus",
-    desc: "Expansive green academic zone situated along NH-16 with cutting-edge academic blocks, solar energy, and rainwater harvesting.",
+    desc: "Expansive green academic zone situated along NH-16 with modern academic blocks, solar energy infrastructure, and landscaped gardens.",
     link: "/campus/facilities"
   },
   {
     icon: BookOpen,
     title: "Air-Conditioned Central Library",
-    desc: "Massive repository of over 45,000 volumes, IEEE digital access, DELNET, National Digital Library (NDL), and e-journals.",
-    link: "/campus/facilities"
+    desc: "Extensive repository of over 60,000 volumes, IEEE digital subscriptions, DELNET, National Digital Library (NDL), and quiet reading zones.",
+    link: "/campus-life/central-library"
   },
   {
     icon: Music,
     title: "Auditorium & Seminar Halls",
-    desc: "Acoustically treated 1,500-seat central auditorium along with multiple departmental seminar halls with multimedia projection.",
+    desc: "Acoustically designed 1,500-seat central auditorium along with multiple departmental air-conditioned seminar halls with digital projection.",
     link: "/campus/auditorium"
   },
   {
     icon: Home,
     title: "Modern Student Hostels",
-    desc: "Separate high-security residential facilities for boys and girls with RO water, Wi-Fi connectivity, medical care, and hygienic mess.",
+    desc: "Separate secure residential hostels for boys and girls with RO purified water, Wi-Fi connectivity, medical care, and hygienic dining halls.",
     link: "/campus/hostel"
   },
   {
     icon: Trophy,
-    title: "Sports & Physical Fitness",
-    desc: "Extensive outdoor grounds for cricket and football, volleyball, basketball, athletics track, and fully equipped gymnasium.",
+    title: "Sports & Physical Fitness Complex",
+    desc: "Outdoor grounds for cricket, football, basketball, and athletics track alongside indoor sports facilities and a fitness gymnasium.",
     link: "/campus/sports-and-games"
   },
   {
     icon: Bus,
-    title: "Comprehensive Transport Fleet",
+    title: "Institutional Transport Fleet",
     desc: "A dedicated fleet of 50+ college buses operating safe routes connecting Ongole, Chirala, Singarayakonda, Addanki, and Kandukur.",
     link: "/campus/facilities"
   }
@@ -45,62 +47,51 @@ const facilities = [
 
 export const FacilitiesShowcase: React.FC = () => {
   return (
-    <section className="py-20 bg-white relative">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
-        {/* Section Header */}
-        <div className="flex flex-col md:flex-row md:items-end justify-between mb-16">
-          <div>
-            <div className="text-xs font-bold uppercase tracking-widest text-[#E9AC21] mb-2 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-[#E9AC21]" />
-              CAMPUS INFRASTRUCTURE
-            </div>
-            <h2 className="font-condensed text-3xl sm:text-4xl lg:text-5xl font-black text-[#052D49] uppercase tracking-tight">
-              WORLD-CLASS CAMPUS LIVING & FACILITIES
-            </h2>
-            <p className="text-gray-600 text-sm sm:text-base max-w-2xl mt-2">
-              Crafted to provide an enriching collegiate ecosystem that seamlessly balances rigorous academic pursuits with holistic personal wellness.
-            </p>
-          </div>
+    <section className="py-20 bg-white font-sans">
+      <Container>
+        <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-4">
+          <SectionHeading
+            eyebrow="Campus Infrastructure"
+            title="World-Class Campus Living & Facilities"
+            description="Purpose-built infrastructure designed to foster academic concentration, student well-being, and vibrant extracurricular pursuits."
+            align="left"
+          />
 
-          <div className="mt-6 md:mt-0">
-            <Link
-              href="/campus/facilities"
-              className="inline-flex items-center gap-2 px-6 py-3 border border-[#073B60] text-[#073B60] hover:bg-[#073B60] hover:text-white font-condensed font-bold text-sm uppercase tracking-wider rounded-xl transition-all"
-            >
-              <span>VIEW ALL FACILITIES</span>
-              <ArrowRight className="w-4 h-4" />
-            </Link>
-          </div>
+          <Link
+            href="/campus/facilities"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 hover:bg-[#123D5A] hover:text-white text-[#123D5A] font-bold text-xs uppercase tracking-wider rounded-xl transition shrink-0"
+          >
+            <span>All Facilities</span>
+            <ArrowRight className="w-4 h-4" />
+          </Link>
         </div>
 
-        {/* 6 Facilities Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {facilities.map((fac, idx) => {
-            const Icon = fac.icon;
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {facilities.map((f, idx) => {
+            const Icon = f.icon;
             return (
               <div
                 key={idx}
-                className="bg-[#F5F7F9] rounded-2xl p-6 border border-[#E4E9EF] hover:border-[#E9AC21] transition-all hover-card-elevation flex flex-col justify-between group"
+                className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-sm hover:border-[#E5AD35] hover:shadow-md transition-all flex flex-col justify-between group"
               >
                 <div>
-                  <div className="w-12 h-12 rounded-xl bg-white text-[#073B60] shadow-sm flex items-center justify-center group-hover:bg-[#E9AC21] group-hover:text-[#052D49] transition-colors mb-5">
+                  <div className="w-12 h-12 rounded-xl bg-slate-100 text-[#123D5A] group-hover:bg-[#E5AD35] group-hover:text-[#0B2C43] flex items-center justify-center transition-colors mb-4">
                     <Icon className="w-6 h-6" />
                   </div>
-                  <h3 className="font-condensed text-xl font-bold text-[#052D49] group-hover:text-[#073B60] transition-colors">
-                    {fac.title}
+                  <h3 className="font-heading font-bold text-lg text-[#123D5A] group-hover:text-[#0B2C43] transition-colors leading-tight">
+                    {f.title}
                   </h3>
-                  <p className="text-xs sm:text-sm text-gray-600 mt-2.5 leading-relaxed">
-                    {fac.desc}
+                  <p className="text-xs text-slate-600 mt-2.5 leading-relaxed">
+                    {f.desc}
                   </p>
                 </div>
 
-                <div className="pt-6 mt-6 border-t border-gray-200">
+                <div className="pt-4 mt-6 border-t border-slate-100">
                   <Link
-                    href={fac.link}
-                    className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-[#073B60] group-hover:text-[#E9AC21] transition-colors"
+                    href={f.link}
+                    className="inline-flex items-center gap-1.5 text-xs font-bold text-[#123D5A] group-hover:text-[#E5AD35] transition-colors"
                   >
-                    <span>Explore Details</span>
+                    <span>View Facility Specifications</span>
                     <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
                   </Link>
                 </div>
@@ -108,9 +99,7 @@ export const FacilitiesShowcase: React.FC = () => {
             );
           })}
         </div>
-
-      </div>
+      </Container>
     </section>
   );
 };
-

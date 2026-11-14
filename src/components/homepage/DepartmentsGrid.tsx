@@ -3,6 +3,8 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { Cpu, Terminal, Shield, Network, Zap, Settings, Building, Briefcase, Atom, Layers, ArrowRight } from 'lucide-react';
+import { SectionHeading } from '@/components/ui/SectionHeading';
+import { Container } from '@/components/ui/Container';
 
 interface Dept {
   code: string;
@@ -21,7 +23,7 @@ const departments: Dept[] = [
     slug: "cse",
     type: "ug",
     icon: Terminal,
-    desc: "Premier department offering industry-ready curriculum in Cloud, Distributed Systems, Software Engineering & Advanced Algorithms.",
+    desc: "Premier department offering industry-ready curriculum in Cloud Computing, Distributed Systems, Software Engineering & Advanced Algorithms.",
     intake: "480 Seats"
   },
   {
@@ -44,20 +46,20 @@ const departments: Dept[] = [
   },
   {
     code: "IoT & CS",
-    name: "CSE (IoT & Cyber Security incl. Blockchain)",
+    name: "CSE (IoT & Cyber Security)",
     slug: "internet-of-things-cyber-security",
     type: "ug",
     icon: Shield,
-    desc: "Next-generation engineering in Smart Sensors, Embedded Systems, Network Forensics, Cryptography, and Smart Contracts.",
+    desc: "Industrial IoT protocols, Cryptography, Blockchain architectures, and Penetration Testing defense frameworks.",
     intake: "60 Seats"
   },
   {
     code: "CSIT",
-    name: "Computer Science & Information Technology",
+    name: "Computer Science & Information Tech",
     slug: "csit",
     type: "ug",
     icon: Network,
-    desc: "Hybrid computing discipline integrating core Computer Science theory with enterprise IT infrastructure and software architecture.",
+    desc: "Cross-disciplinary computing focusing on Full-Stack Enterprise Development, Database Systems, and Cloud Infrastructure.",
     intake: "60 Seats"
   },
   {
@@ -65,26 +67,26 @@ const departments: Dept[] = [
     name: "Information Technology",
     slug: "it",
     type: "ug",
-    icon: Network,
-    desc: "Focused on web technologies, enterprise applications, software quality engineering, and global database systems.",
+    icon: Layers,
+    desc: "Application Development, Web Architecture, Enterprise Networks, and Systems Engineering.",
     intake: "60 Seats"
   },
   {
     code: "ECE",
-    name: "Electronics & Communication Engineering",
+    name: "Electronics & Communication Engg",
     slug: "ece",
     type: "ug",
     icon: Zap,
-    desc: "NBA-accredited program in VLSI design, Embedded Robotics, Wireless Communications, and Signal Processing.",
+    desc: "VLSI Circuit Design, Embedded Systems, Signal Processing, and Modern RF Communication.",
     intake: "180 Seats"
   },
   {
     code: "EEE",
-    name: "Electrical & Electronics Engineering",
+    name: "Electrical & Electronics Engg",
     slug: "eee",
     type: "ug",
     icon: Zap,
-    desc: "Core discipline in Smart Grid Systems, Renewable Energy, Power Electronics, Electric Vehicles, and Industrial Drives.",
+    desc: "Smart Grids, Renewable Solar/Wind Energy Systems, Electric Vehicles, and Industrial Automation.",
     intake: "60 Seats"
   },
   {
@@ -93,7 +95,7 @@ const departments: Dept[] = [
     slug: "mech",
     type: "ug",
     icon: Settings,
-    desc: "Industry 4.0 ready program in Robotics, CAD/CAM/CAE, Thermal Power, Mechatronics, and Advanced Materials.",
+    desc: "Robotics, Thermal Engineering, CAD/CAM/CAE Modeling, Advanced Manufacturing, and Industrial Metallurgy.",
     intake: "60 Seats"
   },
   {
@@ -102,21 +104,21 @@ const departments: Dept[] = [
     slug: "civil",
     type: "ug",
     icon: Building,
-    desc: "Infrastructure development, Structural Engineering, GIS & Remote Sensing, Environmental Studies, and Geotechnical labs.",
+    desc: "Structural Analysis, Geotechnical Engineering, Smart Cities, Transportation, and Environmental Water Resources.",
     intake: "60 Seats"
   },
   {
     code: "MBA",
-    name: "Master of Business Administration",
+    name: "Management Studies (MBA)",
     slug: "mba",
     type: "pg",
     icon: Briefcase,
-    desc: "Postgraduate management education in Finance, Human Resources, Marketing, Business Analytics, and Logistics Management.",
+    desc: "Dual specialization in Financial Management, Marketing Strategy, Human Resource Development, and Business Analytics.",
     intake: "180 Seats"
   },
   {
-    code: "H & S",
-    name: "Humanities & Sciences",
+    code: "H&S",
+    name: "Humanities & Sciences (H&S)",
     slug: "h-and-s",
     type: "ug",
     icon: Atom,
@@ -126,52 +128,46 @@ const departments: Dept[] = [
 ];
 
 export const DepartmentsGrid: React.FC = () => {
-  const [filter, setFilter] = useState<'all' | 'ug' | 'pg' | 'diploma'>('all');
+  const [filter, setFilter] = useState<'all' | 'ug' | 'pg'>('all');
 
   const filteredDepts = filter === 'all' 
     ? departments 
     : departments.filter(d => d.type === filter);
 
   return (
-    <section className="py-20 bg-[#F5F7F9] border-t border-b border-[#E4E9EF]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="py-20 bg-slate-50 border-t border-b border-slate-200 font-sans">
+      <Container>
         {/* Section Header */}
-        <div className="flex flex-col md:flex-row md:items-end justify-between mb-12">
-          <div>
-            <div className="text-xs font-bold uppercase tracking-widest text-[#E9AC21] mb-2 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-[#E9AC21]" />
-              ACADEMIC EXCELLENCE
-            </div>
-            <h2 className="font-condensed text-3xl sm:text-4xl lg:text-5xl font-black text-[#052D49] uppercase tracking-tight">
-              SCHOOLS & ACADEMIC DEPARTMENTS
-            </h2>
-            <p className="text-gray-600 text-sm sm:text-base max-w-2xl mt-2">
-              13 specialized degree programs driven by outcome-based education, modern laboratories, and expert faculty.
-            </p>
-          </div>
+        <div className="flex flex-col md:flex-row md:items-end justify-between mb-10 gap-4">
+          <SectionHeading
+            eyebrow="Academic Excellence"
+            title="Schools & Academic Departments"
+            description="13 specialized degree programs driven by outcome-based education, modern laboratories, and expert faculty."
+            align="left"
+          />
 
           {/* Department Filter Tabs */}
-          <div className="mt-6 md:mt-0 flex items-center space-x-2 bg-white p-1 rounded-xl border border-gray-200 shadow-sm">
+          <div className="flex items-center space-x-1.5 bg-white p-1 rounded-xl border border-slate-200 shadow-sm shrink-0">
             <button
               onClick={() => setFilter('all')}
-              className={`px-4 py-2 rounded-lg text-xs font-bold uppercase tracking-wider font-condensed transition-all ${
-                filter === 'all' ? 'bg-[#073B60] text-white shadow-sm' : 'text-gray-600 hover:text-[#073B60]'
+              className={`px-4 py-2 rounded-lg text-xs font-bold transition-all ${
+                filter === 'all' ? 'bg-[#123D5A] text-white shadow-sm' : 'text-slate-600 hover:text-[#123D5A]'
               }`}
             >
               All Departments
             </button>
             <button
               onClick={() => setFilter('ug')}
-              className={`px-4 py-2 rounded-lg text-xs font-bold uppercase tracking-wider font-condensed transition-all ${
-                filter === 'ug' ? 'bg-[#073B60] text-white shadow-sm' : 'text-gray-600 hover:text-[#073B60]'
+              className={`px-4 py-2 rounded-lg text-xs font-bold transition-all ${
+                filter === 'ug' ? 'bg-[#123D5A] text-white shadow-sm' : 'text-slate-600 hover:text-[#123D5A]'
               }`}
             >
               B.Tech Engineering
             </button>
             <button
               onClick={() => setFilter('pg')}
-              className={`px-4 py-2 rounded-lg text-xs font-bold uppercase tracking-wider font-condensed transition-all ${
-                filter === 'pg' ? 'bg-[#073B60] text-white shadow-sm' : 'text-gray-600 hover:text-[#073B60]'
+              className={`px-4 py-2 rounded-lg text-xs font-bold transition-all ${
+                filter === 'pg' ? 'bg-[#123D5A] text-white shadow-sm' : 'text-slate-600 hover:text-[#123D5A]'
               }`}
             >
               Postgraduate (MBA)
@@ -186,45 +182,45 @@ export const DepartmentsGrid: React.FC = () => {
             return (
               <div
                 key={d.code}
-                className="bg-white rounded-2xl p-6 border border-[#E4E9EF] shadow-sm hover:border-[#E9AC21] hover-card-elevation flex flex-col justify-between group"
+                className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-sm hover:border-[#E5AD35] hover:shadow-md transition-all flex flex-col justify-between group"
               >
                 <div>
                   <div className="flex items-center justify-between mb-4">
-                    <div className="w-12 h-12 rounded-xl bg-[#073B60]/10 text-[#073B60] group-hover:bg-[#E9AC21] group-hover:text-[#052D49] flex items-center justify-center transition-colors">
-                      <Icon className="w-6 h-6" />
+                    <div className="w-11 h-11 rounded-xl bg-slate-100 text-[#123D5A] group-hover:bg-[#E5AD35] group-hover:text-[#0B2C43] flex items-center justify-center transition-colors">
+                      <Icon className="w-5 h-5" />
                     </div>
                     {d.intake && (
-                      <span className="text-[11px] font-bold text-gray-500 bg-gray-100 px-2.5 py-1 rounded-full border border-gray-200">
+                      <span className="text-[11px] font-bold text-slate-500 bg-slate-100 px-2.5 py-1 rounded-full">
                         {d.intake}
                       </span>
                     )}
                   </div>
 
-                  <div className="text-xs font-bold text-[#E9AC21] uppercase tracking-wider mb-1">
+                  <div className="text-[11px] font-bold text-[#E5AD35] uppercase tracking-wider mb-1">
                     {d.code}
                   </div>
-                  <h3 className="font-condensed text-xl font-bold text-[#052D49] group-hover:text-[#073B60] transition-colors leading-tight">
+                  <h3 className="font-heading text-lg font-bold text-[#123D5A] group-hover:text-[#0B2C43] transition-colors leading-tight">
                     {d.name}
                   </h3>
-                  <p className="text-xs text-gray-600 mt-2.5 leading-relaxed line-clamp-3">
+                  <p className="text-xs text-slate-600 mt-2.5 leading-relaxed line-clamp-3">
                     {d.desc}
                   </p>
                 </div>
 
-                <div className="pt-6 mt-6 border-t border-gray-100 flex items-center justify-between">
+                <div className="pt-4 mt-6 border-t border-slate-100 flex items-center justify-between">
                   <Link
                     href={`/academics/departments/${d.slug}`}
-                    className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-[#073B60] group-hover:text-[#E9AC21] transition-colors"
+                    className="inline-flex items-center gap-1.5 text-xs font-bold text-[#123D5A] group-hover:text-[#E5AD35] transition-colors"
                   >
-                    <span>Department Portal</span>
+                    <span>Department Details</span>
                     <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
                   </Link>
 
                   <Link
-                    href={`/committees/statutory-committees/board-of-studies/${d.slug === 'artificial-intelligence-and-data-science' ? 'ai-ds' : d.slug === 'artificial-intelligence-and-machine-learning' ? 'ai-ml' : d.slug}`}
-                    className="text-[11px] text-gray-400 hover:text-[#073B60] transition-colors font-medium"
+                    href={`/academics/departments/${d.slug}`}
+                    className="text-[11px] text-slate-400 hover:text-[#123D5A] transition-colors font-medium"
                   >
-                    BOS
+                    Curriculum ↗
                   </Link>
                 </div>
               </div>
@@ -233,28 +229,27 @@ export const DepartmentsGrid: React.FC = () => {
         </div>
 
         {/* Polytechnic Diploma Banner */}
-        <div className="mt-12 bg-[#073B60] rounded-2xl p-6 sm:p-8 text-white flex flex-col md:flex-row items-center justify-between gap-6 shadow-xl border border-[#0A4A78]">
+        <div className="mt-10 bg-gradient-to-r from-[#0B2C43] to-[#123D5A] rounded-2xl p-6 sm:p-8 text-white flex flex-col md:flex-row items-center justify-between gap-6 shadow-xl border border-white/10">
           <div className="space-y-1">
-            <span className="text-[11px] font-bold text-[#E9AC21] uppercase tracking-widest">
-              POLYTECHNIC WING
+            <span className="text-[10px] font-bold text-[#E5AD35] uppercase tracking-widest">
+              State Board Diploma Wing
             </span>
-            <h3 className="font-condensed text-2xl sm:text-3xl font-bold uppercase tracking-wide">
-              Diploma Engineering Programs (Polytechnic)
+            <h3 className="font-heading text-xl sm:text-2xl font-bold tracking-tight">
+              Polytechnic Diploma Programs
             </h3>
-            <p className="text-xs sm:text-sm text-gray-300 max-w-2xl">
-              Specialized 3-year state-board diploma programs in CME, AIML, ECE, EEE, and Civil Engineering with industry internships.
+            <p className="text-xs sm:text-sm text-slate-300 max-w-2xl leading-relaxed">
+              3-year state-board technical diploma courses in Computer Engineering, AIML, ECE, EEE, and Civil Engineering with specialized laboratory workshops.
             </p>
           </div>
           <Link
             href="/academics/departments/polytechnic/cme"
-            className="px-6 py-3 bg-[#E9AC21] hover:bg-[#F6C54A] text-[#052D49] font-condensed font-bold text-sm uppercase tracking-wider rounded-xl transition-all shadow-md flex-shrink-0"
+            className="px-5 py-3 bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-xs uppercase tracking-wider rounded-xl transition-all shadow-md shrink-0 flex items-center gap-2"
           >
-            EXPLORE DIPLOMA WING →
+            <span>Explore Polytechnic Programs</span>
+            <ArrowRight className="w-4 h-4" />
           </Link>
         </div>
-
-      </div>
+      </Container>
     </section>
   );
 };
-

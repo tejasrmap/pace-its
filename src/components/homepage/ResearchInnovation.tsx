@@ -3,133 +3,109 @@
 import React from 'react';
 import Link from 'next/link';
 import { Lightbulb, FileText, Cpu, Compass, ArrowRight, ShieldCheck, ExternalLink } from 'lucide-react';
+import { Container } from '@/components/ui/Container';
 
 const researchHighlights = [
   {
     icon: Lightbulb,
     title: "Patents Granted & Published",
-    desc: "Faculty and student innovators hold multiple published patents in IoT smart irrigation, AI surveillance, and drone automation.",
+    desc: "32 published patents by faculty and student innovators in IoT precision irrigation, deep learning diagnostics, and advanced renewable systems.",
     link: "/research-and-development/patents",
-    badge: "15+ Patents"
+    badge: "32 Patents"
   },
   {
     icon: Cpu,
-    title: "AICTE IDEA LAB",
-    desc: "Elite sanctioned laboratory equipped with advanced 3D printers, laser cutters, CNC routing, and embedded IoT prototyping rigs.",
+    title: "AICTE IDEA Laboratory",
+    desc: "AICTE-sanctioned central laboratory equipped with high-precision 3D printers, laser cutters, CNC routing, and embedded IoT prototyping stations.",
     link: "/aicte-idea-lab",
     badge: "Sanctioned Lab"
   },
   {
     icon: FileText,
-    title: "PACE Publishers",
-    desc: "Institutional publishing wing promoting peer-reviewed academic journals, research proceedings, and engineering research papers.",
-    link: "/research-and-development/pace-publishers",
-    badge: "Open Access"
+    title: "Indexed Journal Publications",
+    desc: "Over 480+ peer-reviewed scientific contributions published in Scopus and Web of Science (SCI) indexed international journals.",
+    link: "/research-and-development/publications-and-patents",
+    badge: "480+ Papers"
   },
   {
     icon: Compass,
-    title: "Entrepreneurship & IIC",
-    desc: "MoE recognized Institution's Innovation Council (IIC) and EDC providing seed incubation, mentorship, and startup acceleration.",
+    title: "Innovation Council (IIC & EDC)",
+    desc: "Ministry of Education recognized Institution's Innovation Council (IIC) and EDC providing seed incubation and startup acceleration.",
     link: "/research-and-development/iic",
-    badge: "Startup Hub"
+    badge: "Incubation Hub"
   }
 ];
 
 export const ResearchInnovation: React.FC = () => {
   return (
-    <section className="py-20 bg-[#062C46] text-white relative overflow-hidden">
-      {/* Decorative gradient overlay */}
-      <div className="absolute top-0 right-0 w-96 h-96 bg-[#073B60] rounded-full blur-3xl opacity-40 pointer-events-none" />
+    <section className="py-20 bg-gradient-to-br from-[#072438] via-[#0B2C43] to-[#072438] text-white relative overflow-hidden font-sans">
+      <div className="absolute inset-0 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:24px_24px] opacity-10 pointer-events-none" />
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-        <div className="flex flex-col lg:flex-row lg:items-end justify-between mb-16">
+      <Container className="relative z-10">
+        <div className="flex flex-col lg:flex-row lg:items-end justify-between mb-12 gap-4">
           <div>
-            <div className="text-xs font-bold uppercase tracking-widest text-[#E9AC21] mb-2 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-[#E9AC21]" />
-              DISCOVERY & INTELLECTUAL PROPERTY
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#E5AD35]/20 border border-[#E5AD35]/30 text-[#E5AD35] text-xs font-bold uppercase tracking-wider mb-3">
+              Discovery & Intellectual Property
             </div>
-            <h2 className="font-condensed text-3xl sm:text-4xl lg:text-5xl font-black text-white uppercase tracking-tight">
-              RESEARCH, PATENTS & INNOVATION
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-heading font-bold text-white tracking-tight leading-[1.2]">
+              Research, Patents & Innovation Ecosystem
             </h2>
-            <p className="text-gray-300 text-sm sm:text-base max-w-2xl mt-2 font-light">
-              Transforming academic curiosity into impactful technologies through sponsored R&D, patent filings, and multidisciplinary lab experiments.
+            <p className="text-slate-300 text-sm sm:text-base max-w-2xl mt-2 font-normal leading-relaxed">
+              Transforming academic curiosity into impactful technologies through sponsored R&D grants, patent filings, and multidisciplinary lab experiments.
             </p>
           </div>
 
-          <div className="mt-6 lg:mt-0">
+          <div className="shrink-0">
             <Link
               href="/research-and-development/about-research-and-development"
-              className="inline-flex items-center gap-2 px-6 py-3 bg-[#E9AC21] hover:bg-[#F6C54A] text-[#052D49] font-condensed font-bold text-sm uppercase tracking-wider rounded-xl transition-all shadow-md"
+              className="inline-flex items-center gap-2 px-5 py-3 bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-xs sm:text-sm uppercase tracking-wider rounded-xl transition shadow-lg"
             >
-              <span>EXPLORE R&D INITIATIVES</span>
+              <span>Explore Research Cell</span>
               <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
         </div>
 
-        {/* 4 Cards Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {researchHighlights.map((r, i) => {
+          {researchHighlights.map((r, idx) => {
             const Icon = r.icon;
             return (
               <div
-                key={i}
-                className="bg-[#052D49]/90 border border-[#0A4A78] rounded-2xl p-6 flex flex-col justify-between hover:border-[#E9AC21] transition-all hover:-translate-y-1 group"
+                key={idx}
+                className="bg-white/5 border border-white/10 backdrop-blur-md rounded-2xl p-6 hover:border-[#E5AD35] transition-all flex flex-col justify-between group hover:-translate-y-1"
               >
                 <div>
                   <div className="flex items-center justify-between mb-4">
-                    <div className="w-12 h-12 rounded-xl bg-[#073B60] text-[#E9AC21] flex items-center justify-center group-hover:bg-[#E9AC21] group-hover:text-[#052D49] transition-colors">
-                      <Icon className="w-6 h-6" />
+                    <div className="w-11 h-11 rounded-xl bg-[#E5AD35]/20 text-[#E5AD35] flex items-center justify-center">
+                      <Icon className="w-5 h-5" />
                     </div>
-                    <span className="text-[10px] font-bold text-[#E9AC21] bg-[#073B60] px-2.5 py-1 rounded-full border border-[#0A4A78]">
+                    <span className="text-[10px] font-bold text-[#E5AD35] bg-[#E5AD35]/15 border border-[#E5AD35]/30 px-2 py-0.5 rounded-full">
                       {r.badge}
                     </span>
                   </div>
 
-                  <h3 className="font-condensed text-xl font-bold text-white group-hover:text-[#E9AC21] transition-colors">
+                  <h3 className="font-heading font-bold text-lg text-white group-hover:text-[#E5AD35] transition leading-snug">
                     {r.title}
                   </h3>
-                  <p className="text-xs text-gray-300 mt-2.5 leading-relaxed font-light">
+                  <p className="text-xs text-slate-300 mt-2.5 leading-relaxed">
                     {r.desc}
                   </p>
                 </div>
 
-                <div className="pt-6 mt-6 border-t border-[#0A4A78]">
+                <div className="pt-4 mt-6 border-t border-white/10">
                   <Link
                     href={r.link}
-                    className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-[#E9AC21] hover:text-white transition-colors"
+                    className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-300 group-hover:text-white transition"
                   >
                     <span>Learn More</span>
-                    <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
+                    <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35] group-hover:translate-x-1 transition-transform" />
                   </Link>
                 </div>
               </div>
             );
           })}
         </div>
-
-        {/* Research Policy & Consultancy Banner */}
-        <div className="mt-12 bg-gradient-to-r from-[#073B60] to-[#052D49] border border-[#0A4A78] rounded-2xl p-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-3">
-            <FileText className="w-8 h-8 text-[#E9AC21] flex-shrink-0" />
-            <div>
-              <h4 className="font-bold text-sm text-white">PACE Institutional Research Policy & Guidelines</h4>
-              <p className="text-xs text-gray-300">Preserving ethical research practices, faculty publications incentives, and patent support.</p>
-            </div>
-          </div>
-          <a
-            href="https://pace.ac.in/public/assets/images/researchpolicy.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-5 py-2.5 bg-white/10 hover:bg-white/20 text-white border border-white/20 rounded-xl text-xs font-bold uppercase tracking-wider font-condensed flex items-center gap-1.5 transition-all flex-shrink-0"
-          >
-            <span>Download Policy PDF</span>
-            <ExternalLink className="w-3.5 h-3.5 text-[#E9AC21]" />
-          </a>
-        </div>
-
-      </div>
+      </Container>
     </section>
   );
 };
-

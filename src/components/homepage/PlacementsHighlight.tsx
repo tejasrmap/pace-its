@@ -3,6 +3,8 @@
 import React from 'react';
 import Link from 'next/link';
 import { Briefcase, TrendingUp, Users, Award, ArrowRight, Building2, CheckCircle } from 'lucide-react';
+import { SectionHeading } from '@/components/ui/SectionHeading';
+import { Container } from '@/components/ui/Container';
 
 const recruiterNames = [
   "Tata Consultancy Services", "Infosys Technologies", "Wipro Digital", 
@@ -13,88 +15,76 @@ const recruiterNames = [
 
 export const PlacementsHighlight: React.FC = () => {
   return (
-    <section className="py-20 bg-white relative">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
+    <section className="py-20 bg-white relative font-sans">
+      <Container>
         {/* Top Header */}
-        <div className="text-center max-w-3xl mx-auto mb-16 space-y-3">
-          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#E9AC21]/15 text-[#073B60] text-xs font-bold uppercase tracking-wider">
-            <TrendingUp className="w-3.5 h-3.5 text-[#E9AC21]" />
-            CAREER EMPOWERMENT CELL
-          </div>
-          <h2 className="font-condensed text-3xl sm:text-4xl lg:text-5xl font-black text-[#052D49] uppercase tracking-tight">
-            RECORD-SETTING CAMPUS PLACEMENTS
-          </h2>
-          <p className="text-gray-600 text-sm sm:text-base">
-            Equipping PACE graduates with rigorous coding bootcamps, aptitude mastery, mock interviews, and industry-tailored placement tracks.
-          </p>
-        </div>
+        <SectionHeading
+          eyebrow="Training & Placement Cell"
+          title="Record-Setting Campus Placements"
+          description="Equipping PACE graduates with rigorous coding bootcamps, aptitude mastery, mock interviews, and industry-tailored placement tracks."
+          align="center"
+        />
 
         {/* 4 Big Placement Highlights */}
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-12">
-          <div className="bg-[#052D49] text-white p-6 rounded-2xl shadow-xl border-t-4 border-[#E9AC21] space-y-2">
-            <div className="text-xs font-bold uppercase text-[#E9AC21] tracking-wider">Annual Selections</div>
-            <div className="font-condensed text-4xl sm:text-5xl font-black text-white">1,200+</div>
-            <p className="text-xs text-gray-300">Total job offers extended by multinational technology and core leaders.</p>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 my-12">
+          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-all">
+            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Annual Selections</div>
+            <div className="font-heading font-black text-3xl sm:text-4xl text-[#123D5A] mt-2">850+</div>
+            <p className="text-xs text-slate-500 mt-2">Total job offers extended by multinational technology and core leaders.</p>
           </div>
 
-          <div className="bg-[#073B60] text-white p-6 rounded-2xl shadow-xl border-t-4 border-[#F6C54A] space-y-2">
-            <div className="text-xs font-bold uppercase text-[#F6C54A] tracking-wider">Top Global Recruiters</div>
-            <div className="font-condensed text-4xl sm:text-5xl font-black text-white">150+</div>
-            <p className="text-xs text-gray-300">Tier-1 IT services, software enterprises, and engineering recruiters.</p>
+          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-all">
+            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Highest CTC Package</div>
+            <div className="font-heading font-black text-3xl sm:text-4xl text-[#E5AD35] mt-2">₹12.50 LPA</div>
+            <p className="text-xs text-slate-500 mt-2">Top tier product enterprise placement with international engineering firm.</p>
           </div>
 
-          <div className="bg-[#052D49] text-white p-6 rounded-2xl shadow-xl border-t-4 border-[#E9AC21] space-y-2">
-            <div className="text-xs font-bold uppercase text-[#E9AC21] tracking-wider">Career Assistance</div>
-            <div className="font-condensed text-4xl sm:text-5xl font-black text-white">100%</div>
-            <p className="text-xs text-gray-300">Pre-placement grooming, industry internships, and mock assessments.</p>
+          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-all">
+            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Recruiting Partners</div>
+            <div className="font-heading font-black text-3xl sm:text-4xl text-[#123D5A] mt-2">75+ MNCs</div>
+            <p className="text-xs text-slate-500 mt-2">Tier-1 IT services, software enterprises, and core engineering recruiters.</p>
           </div>
 
-          <div className="bg-[#073B60] text-white p-6 rounded-2xl shadow-xl border-t-4 border-[#F6C54A] space-y-2">
-            <div className="text-xs font-bold uppercase text-[#F6C54A] tracking-wider">Training Modules</div>
-            <div className="font-condensed text-4xl sm:text-5xl font-black text-white">400+</div>
-            <p className="text-xs text-gray-300">Hours of corporate readiness, full-stack coding & soft skills training.</p>
+          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-all">
+            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Average CTC Package</div>
+            <div className="font-heading font-black text-3xl sm:text-4xl text-[#123D5A] mt-2">₹4.80 LPA</div>
+            <p className="text-xs text-slate-500 mt-2">Consistent upward trajectory across all engineering branches.</p>
           </div>
         </div>
 
         {/* Recruiter Logos Banner */}
-        <div className="bg-[#F5F7F9] p-8 rounded-2xl border border-[#E4E9EF]">
-          <div className="text-center mb-6">
-            <span className="text-xs font-bold uppercase tracking-widest text-[#073B60]">
-              PROUD RECRUITMENT PARTNERS
-            </span>
+        <div className="bg-slate-50 rounded-2xl p-6 sm:p-8 border border-slate-200 text-center">
+          <div className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-6">
+            Premier Corporate Recruiting Partners
           </div>
-
-          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
-            {recruiterNames.map((name, i) => (
-              <div 
-                key={i} 
-                className="bg-white p-4 rounded-xl border border-gray-200 shadow-sm flex items-center justify-center text-center font-bold text-xs text-[#052D49] hover:border-[#E9AC21] hover:shadow-md transition-all h-20"
+          <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-4">
+            {recruiterNames.map((name, idx) => (
+              <span
+                key={idx}
+                className="px-4 py-2 bg-white rounded-xl text-xs font-semibold text-slate-700 shadow-sm border border-slate-200/70 hover:border-[#E5AD35] hover:text-[#123D5A] transition"
               >
                 {name}
-              </div>
+              </span>
             ))}
           </div>
 
-          <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
+          <div className="mt-8 pt-6 border-t border-slate-200 flex flex-wrap items-center justify-center gap-4">
             <Link
               href="/placements-records"
-              className="px-6 py-3 bg-[#073B60] hover:bg-[#052D49] text-white font-condensed font-bold text-sm uppercase tracking-wider rounded-xl transition-all shadow-md inline-flex items-center gap-2"
+              className="inline-flex items-center gap-2 px-6 py-2.5 bg-[#123D5A] hover:bg-[#0B2C43] text-white font-bold text-xs uppercase tracking-wider rounded-xl transition shadow"
             >
-              <span>VIEW DETAILED PLACEMENT RECORDS</span>
-              <ArrowRight className="w-4 h-4 text-[#E9AC21]" />
+              <span>Explore Verified Placement Records</span>
+              <ArrowRight className="w-4 h-4 text-[#E5AD35]" />
             </Link>
             <Link
-              href="/tpo"
-              className="px-6 py-3 border border-[#073B60] text-[#073B60] hover:bg-[#073B60] hover:text-white font-condensed font-bold text-sm uppercase tracking-wider rounded-xl transition-all"
+              href="/trainings-and-placements"
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-slate-300 hover:border-[#123D5A] text-[#123D5A] font-semibold text-xs uppercase tracking-wider rounded-xl transition"
             >
-              MESSAGE FROM TPO DESK
+              <span>Placement Training Brochure</span>
             </Link>
           </div>
         </div>
-
-      </div>
+      </Container>
     </section>
   );
 };
-

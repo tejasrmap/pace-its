@@ -2,11 +2,13 @@
 
 import React from 'react';
 import { FileText, Download, ExternalLink, ShieldCheck } from 'lucide-react';
+import { SectionHeading } from '@/components/ui/SectionHeading';
+import { Container } from '@/components/ui/Container';
 
 const downloads = [
   {
     title: "Official College Brochure 2026",
-    desc: "Complete overview of departments, campus infrastructure, pedagogy, and student life.",
+    desc: "Comprehensive overview of engineering departments, campus infrastructure, pedagogy, and student life.",
     url: "https://pace.ac.in/public/assets/images/PACE Brochure 2026.pdf",
     category: "Brochure"
   },
@@ -44,64 +46,52 @@ const downloads = [
 
 export const ImportantDownloads: React.FC = () => {
   return (
-    <section className="py-20 bg-[#F5F7F9] border-t border-[#E4E9EF]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
-        <div className="flex flex-col md:flex-row md:items-end justify-between mb-12">
-          <div>
-            <div className="text-xs font-bold uppercase tracking-widest text-[#E9AC21] mb-2 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-[#E9AC21]" />
-              STATUTORY & ACADEMIC REPOSITORY
-            </div>
-            <h2 className="font-condensed text-3xl sm:text-4xl lg:text-5xl font-black text-[#052D49] uppercase tracking-tight">
-              IMPORTANT DOWNLOADS & DISCLOSURES
-            </h2>
-            <p className="text-gray-600 text-sm sm:text-base max-w-2xl mt-2">
-              Instant access to authentic institutional policy manuals, brochures, accreditations, and regulatory documentation.
-            </p>
-          </div>
-        </div>
+    <section className="py-20 bg-slate-50 border-t border-slate-200 font-sans">
+      <Container>
+        <SectionHeading
+          eyebrow="Statutory & Academic Repository"
+          title="Important Institutional Downloads & Disclosures"
+          description="Instant access to verified institutional policy manuals, brochures, accreditations, and regulatory filings."
+          align="left"
+        />
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {downloads.map((item, idx) => (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+          {downloads.map((d, idx) => (
             <div
               key={idx}
-              className="bg-white rounded-2xl p-6 border border-[#E4E9EF] shadow-sm hover:border-[#E9AC21] transition-all hover-card-elevation flex flex-col justify-between group"
+              className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-sm hover:shadow-md transition-all flex flex-col justify-between group hover:border-[#E5AD35]"
             >
               <div>
-                <div className="flex items-center justify-between mb-4">
-                  <span className="text-[10px] font-bold uppercase tracking-wider px-2.5 py-1 rounded bg-[#073B60]/10 text-[#073B60]">
-                    {item.category}
+                <div className="flex items-center justify-between mb-3">
+                  <span className="text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-slate-100 text-slate-700">
+                    {d.category}
                   </span>
-                  <FileText className="w-5 h-5 text-[#E9AC21]" />
+                  <FileText className="w-4 h-4 text-[#E5AD35]" />
                 </div>
-
-                <h3 className="font-condensed text-lg font-bold text-[#052D49] group-hover:text-[#073B60] transition-colors leading-snug">
-                  {item.title}
+                <h3 className="font-heading font-bold text-base text-[#123D5A] group-hover:text-[#0B2C43] transition">
+                  {d.title}
                 </h3>
-                <p className="text-xs text-gray-500 mt-2 leading-relaxed">
-                  {item.desc}
+                <p className="text-xs text-slate-500 mt-2 leading-relaxed">
+                  {d.desc}
                 </p>
               </div>
 
-              <div className="pt-6 mt-6 border-t border-gray-100">
+              <div className="pt-4 mt-4 border-t border-slate-100 flex items-center justify-between">
+                <span className="text-[11px] font-semibold text-slate-400">PDF Document</span>
                 <a
-                  href={item.url}
+                  href={d.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-[#073B60] group-hover:text-[#E9AC21] transition-colors"
+                  className="inline-flex items-center gap-1.5 text-xs font-bold text-[#123D5A] hover:text-[#E5AD35] transition"
                 >
-                  <Download className="w-4 h-4" />
-                  <span>Download Document (PDF)</span>
-                  <ExternalLink className="w-3 h-3 opacity-60" />
+                  <span>Download</span>
+                  <Download className="w-3.5 h-3.5" />
                 </a>
               </div>
             </div>
           ))}
         </div>
-
-      </div>
+      </Container>
     </section>
   );
 };
-

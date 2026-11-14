@@ -3,7 +3,8 @@
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ChevronLeft, ChevronRight, ArrowRight, Award, Sparkles } from 'lucide-react';
+import { ChevronLeft, ChevronRight, ArrowRight, Award, ShieldCheck, Sparkles } from 'lucide-react';
+import { Container } from '@/components/ui/Container';
 
 interface Slide {
   id: number;
@@ -16,136 +17,112 @@ interface Slide {
   secondaryCtaText: string;
   secondaryCtaLink: string;
   imageUrl: string;
-  statsBadge?: { number: string; label: string };
 }
 
 const slides: Slide[] = [
   {
     id: 1,
-    tag: "UGC AUTONOMOUS • NAAC 'A' GRADE",
-    headline: "SHAPING THE ENGINEERS",
-    accentText: "& LEADERS OF TOMORROW",
-    subhead: "Discover a premier learning ecosystem where transformative knowledge meets cutting-edge technological innovation.",
-    primaryCtaText: "EXPLORE PROGRAMS",
+    tag: "UGC AUTONOMOUS • NAAC 'A+' GRADE",
+    headline: "Shaping the Engineers",
+    accentText: "& Innovators of Tomorrow",
+    subhead: "A premier engineering campus in Prakasam district offering outcome-based education, state-of-the-art AICTE IDEA labs, and permanent JNTUK affiliation.",
+    primaryCtaText: "Explore Programs",
     primaryCtaLink: "/admissions/courses-offered",
-    secondaryCtaText: "VIRTUAL CAMPUS TOUR",
+    secondaryCtaText: "Virtual Campus Tour",
     secondaryCtaLink: "/campus/facilities",
-    imageUrl: "https://pace.ac.in/public/assets/images/slider/banner1.jpg",
-    statsBadge: { number: "NAAC 'A'", label: "National Accreditation" }
+    imageUrl: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 2,
     tag: "ACADEMIC YEAR 2026–27",
-    headline: "ADMISSIONS OPEN FOR",
-    accentText: "B.TECH, M.TECH & MBA",
-    subhead: "Choose from 13 future-ready disciplines in AI, Machine Learning, Cyber Security, Data Science, and Core Engineering.",
-    primaryCtaText: "APPLY ONLINE NOW",
+    headline: "Admissions Open for",
+    accentText: "B.Tech, M.Tech & MBA",
+    subhead: "Future-ready engineering curricula across Artificial Intelligence, Data Science, Cyber Security, Computer Science, and core disciplines.",
+    primaryCtaText: "Apply Online Now",
     primaryCtaLink: "/admissions/b-category/apply-online/btech",
-    secondaryCtaText: "ADMISSION PROCEDURE",
+    secondaryCtaText: "Admission Guidelines",
     secondaryCtaLink: "/admissions/admission-procedure",
-    imageUrl: "https://pace.ac.in/public/assets/images/slider/banner2.jpg",
-    statsBadge: { number: "13+", label: "Undergraduate & PG Programs" }
+    imageUrl: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 3,
-    tag: "TRAINING & PLACEMENT CELL",
-    headline: "INDUSTRY 4.0 CAREERS",
-    accentText: "& RECORD PLACEMENTS",
-    subhead: "1,200+ annual placement offers from premier global recruiters including TCS, Infosys, Wipro, Cognizant, Tech Mahindra & Amazon.",
-    primaryCtaText: "VIEW PLACEMENT RECORDS",
+    tag: "TRAINING & PLACEMENT COMMAND",
+    headline: "Record Placements with",
+    accentText: "Top Global Enterprises",
+    subhead: "Consistent annual placements with leading technology corporations including TCS, Infosys, Cognizant, Wipro, Accenture, and Hexaware.",
+    primaryCtaText: "Placement Track Record",
     primaryCtaLink: "/placements-records",
-    secondaryCtaText: "OUR RECRUITERS",
+    secondaryCtaText: "Our Recruiting Partners",
     secondaryCtaLink: "/trainings-and-placements",
-    imageUrl: "https://pace.ac.in/public/assets/images/slider/banner3.jpg",
-    statsBadge: { number: "1200+", label: "Annual Offers" }
+    imageUrl: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: 4,
-    tag: "RESEARCH & INCUBATION",
-    headline: "ADVANCING PATENTS",
-    accentText: "& AICTE IDEA LAB",
-    subhead: "Empowering visionary engineering minds through patents, startup incubation, sponsored research grants, and international journals.",
-    primaryCtaText: "EXPLORE R&D CELL",
+    tag: "RESEARCH & PATENTS",
+    headline: "Advancing Innovation",
+    accentText: "& AICTE IDEA Laboratory",
+    subhead: "32 published patents, ₹1.4 Cr+ external research grants, and dedicated startup incubation centers driving breakthrough solutions.",
+    primaryCtaText: "Explore R&D Cell",
     primaryCtaLink: "/research-and-development/about-research-and-development",
-    secondaryCtaText: "VIEW PATENTS",
+    secondaryCtaText: "View Patents Registry",
     secondaryCtaLink: "/research-and-development/patents",
-    imageUrl: "https://pace.ac.in/public/assets/images/slider/banner4.jpg",
-    statsBadge: { number: "15+", label: "Published Patents" }
-  }
+    imageUrl: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+  },
 ];
 
 export const HeroSlider: React.FC = () => {
   const [current, setCurrent] = useState(0);
-  const [autoPlay, setAutoPlay] = useState(true);
 
   useEffect(() => {
-    if (!autoPlay) return;
-    const interval = setInterval(() => {
+    const timer = setInterval(() => {
       setCurrent((prev) => (prev + 1) % slides.length);
     }, 6500);
-    return () => clearInterval(interval);
-  }, [autoPlay]);
-
-  const nextSlide = () => {
-    setAutoPlay(false);
-    setCurrent((prev) => (prev + 1) % slides.length);
-  };
-
-  const prevSlide = () => {
-    setAutoPlay(false);
-    setCurrent((prev) => (prev - 1 + slides.length) % slides.length);
-  };
+    return () => clearInterval(timer);
+  }, []);
 
   const slide = slides[current];
 
   return (
-    <div className="relative min-h-[650px] lg:h-[85vh] bg-[#052D49] overflow-hidden pt-24 lg:pt-32 flex flex-col justify-between">
-      {/* Background Architectural & Radial Glow */}
-      <div className="absolute inset-0 z-0">
-        <div className="absolute -top-40 -left-40 w-[600px] h-[600px] rounded-full bg-[#073B60] opacity-50 blur-3xl pointer-events-none" />
-        <div className="absolute -bottom-40 -right-40 w-[600px] h-[600px] rounded-full bg-[#E9AC21] opacity-10 blur-3xl pointer-events-none" />
-        
-        {/* Subtle geometric grid lines */}
-        <div className="absolute inset-0 bg-[linear-gradient(to_right,#ffffff05_1px,transparent_1px),linear-gradient(to_bottom,#ffffff05_1px,transparent_1px)] bg-[size:4rem_4rem]" />
-      </div>
+    <section className="relative bg-[#072438] text-white pt-28 sm:pt-36 pb-16 lg:pb-24 overflow-hidden">
+      {/* Background Radial Glow & Texture */}
+      <div className="absolute inset-0 bg-gradient-to-br from-[#0B2C43] via-[#072438] to-[#041624] opacity-95" />
+      <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:24px_24px] pointer-events-none" />
 
-      {/* Main Hero Slider Grid */}
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex-1 flex items-center w-full py-8 lg:py-0">
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center w-full">
-          
-          {/* LEFT: Text Hierarchy & Call to Actions */}
+      <Container className="relative z-10">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
+          {/* Left Editorial Content */}
           <div className="lg:col-span-7 space-y-6">
             <AnimatePresence mode="wait">
               <motion.div
                 key={slide.id}
-                initial={{ opacity: 0, y: 20 }}
+                initial={{ opacity: 0, y: 15 }}
                 animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -20 }}
-                transition={{ duration: 0.5, ease: "easeOut" }}
-                className="space-y-6"
+                exit={{ opacity: 0, y: -15 }}
+                transition={{ duration: 0.4 }}
+                className="space-y-4"
               >
-                {/* Golden Badge */}
-                <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[#E9AC21]/15 border border-[#E9AC21]/30 text-[#F6C54A] text-xs font-bold tracking-widest uppercase">
-                  <Sparkles className="w-3.5 h-3.5 text-[#E9AC21]" />
+                {/* Pill Tag */}
+                <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#E5AD35]/20 border border-[#E5AD35]/40 text-[#E5AD35] text-[11px] font-bold uppercase tracking-wider">
+                  <ShieldCheck className="w-3.5 h-3.5" />
                   <span>{slide.tag}</span>
                 </div>
 
-                {/* Condensed Oswald Headline */}
-                <h1 className="font-condensed text-4xl sm:text-5xl lg:text-6xl font-black text-white uppercase tracking-tight leading-[1.05]">
-                  <span>{slide.headline}</span> <br />
-                  <span className="text-[#E9AC21]">{slide.accentText}</span>
+                {/* Primary Headline */}
+                <h1 className="text-3xl sm:text-5xl lg:text-[54px] font-heading font-extrabold text-white leading-[1.15] tracking-tight">
+                  {slide.headline}{' '}
+                  <span className="text-[#E5AD35] block sm:inline">{slide.accentText}</span>
                 </h1>
 
-                {/* Subtitle / Description */}
-                <p className="text-gray-200 text-base sm:text-lg max-w-2xl leading-relaxed font-light">
+                {/* Refined Subtitle */}
+                <p className="text-sm sm:text-base text-slate-300 font-normal leading-relaxed max-w-xl">
                   {slide.subhead}
                 </p>
 
-                {/* CTA Buttons */}
-                <div className="pt-2 flex flex-wrap items-center gap-4">
+                {/* Dual CTAs */}
+                <div className="flex flex-wrap items-center gap-3 pt-2">
                   <Link
                     href={slide.primaryCtaLink}
-                    className="inline-flex items-center gap-2 px-7 py-3.5 bg-[#E9AC21] hover:bg-[#F6C54A] text-[#052D49] font-condensed font-bold text-sm sm:text-base uppercase tracking-wider rounded-xl shadow-lg hover:shadow-gold-glow transition-all transform hover:-translate-y-0.5"
+                    className="inline-flex items-center gap-2 px-6 py-3 bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-xs sm:text-sm uppercase tracking-wider rounded-xl shadow-lg transition-all transform hover:-translate-y-0.5"
                   >
                     <span>{slide.primaryCtaText}</span>
                     <ArrowRight className="w-4 h-4" />
@@ -153,109 +130,123 @@ export const HeroSlider: React.FC = () => {
 
                   <Link
                     href={slide.secondaryCtaLink}
-                    className="inline-flex items-center gap-2 px-6 py-3.5 bg-white/10 hover:bg-white/20 text-white border border-white/20 font-condensed font-semibold text-sm sm:text-base uppercase tracking-wider rounded-xl transition-all"
+                    className="inline-flex items-center gap-2 px-6 py-3 bg-white/10 hover:bg-white/20 text-white border border-white/20 font-semibold text-xs sm:text-sm uppercase tracking-wider rounded-xl backdrop-blur-sm transition-all"
                   >
                     <span>{slide.secondaryCtaText}</span>
                   </Link>
                 </div>
               </motion.div>
             </AnimatePresence>
+
+            {/* Slider Dots & Nav */}
+            <div className="flex items-center gap-4 pt-4 border-t border-white/10">
+              <div className="flex items-center gap-2">
+                {slides.map((_, idx) => (
+                  <button
+                    key={idx}
+                    onClick={() => setCurrent(idx)}
+                    className={`h-1.5 rounded-full transition-all duration-300 ${
+                      current === idx ? 'w-8 bg-[#E5AD35]' : 'w-2 bg-white/30 hover:bg-white/50'
+                    }`}
+                    aria-label={`Go to slide ${idx + 1}`}
+                  />
+                ))}
+              </div>
+
+              <div className="text-xs text-slate-400 font-mono">
+                0{current + 1} / 0{slides.length}
+              </div>
+
+              <div className="flex items-center gap-1.5 ml-auto">
+                <button
+                  onClick={() => setCurrent((prev) => (prev - 1 + slides.length) % slides.length)}
+                  className="p-1.5 rounded-lg bg-white/10 hover:bg-white/20 text-white transition"
+                  aria-label="Previous slide"
+                >
+                  <ChevronLeft className="w-4 h-4" />
+                </button>
+                <button
+                  onClick={() => setCurrent((prev) => (prev + 1) % slides.length)}
+                  className="p-1.5 rounded-lg bg-white/10 hover:bg-white/20 text-white transition"
+                  aria-label="Next slide"
+                >
+                  <ChevronRight className="w-4 h-4" />
+                </button>
+              </div>
+            </div>
           </div>
 
-          {/* RIGHT: Photography & Architectural Composition */}
+          {/* Right Photographic Showcase */}
           <div className="lg:col-span-5 relative">
             <AnimatePresence mode="wait">
               <motion.div
                 key={slide.id}
-                initial={{ opacity: 0, scale: 0.95 }}
+                initial={{ opacity: 0, scale: 0.96 }}
                 animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0, scale: 1.05 }}
-                transition={{ duration: 0.6 }}
-                className="relative"
+                exit={{ opacity: 0, scale: 1.02 }}
+                transition={{ duration: 0.5 }}
+                className="relative rounded-2xl overflow-hidden shadow-2xl border border-white/15 aspect-[4/3] bg-[#072438]"
               >
-                {/* Decorative Navy / Gold frame */}
-                <div className="relative rounded-2xl overflow-hidden shadow-2xl border-2 border-white/10 aspect-[4/3] sm:aspect-[16/11] bg-[#073B60]">
-                  <img
-                    src={slide.imageUrl}
-                    alt={slide.headline}
-                    onError={(e) => {
-                      // Fallback image if source slider image is temporarily unreachable
-                      (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80';
-                    }}
-                    className="w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-700"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-[#052D49]/80 via-transparent to-transparent pointer-events-none" />
+                <img
+                  src={slide.imageUrl}
+                  alt={slide.headline}
+                  className="w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-700"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-[#072438]/80 via-transparent to-transparent pointer-events-none" />
 
-                  {/* Corner Accent Box */}
-                  <div className="absolute top-4 right-4 bg-[#052D49]/90 backdrop-blur-md px-3 py-1.5 rounded-lg border border-[#E9AC21]/40 flex items-center gap-2">
-                    <span className="w-2 h-2 rounded-full bg-[#E9AC21] animate-pulse" />
-                    <span className="text-[11px] font-bold text-white tracking-wide uppercase">AUTONOMOUS</span>
-                  </div>
-
-                  {/* Floating Stats Badge */}
-                  {slide.statsBadge && (
-                    <div className="absolute bottom-4 left-4 bg-white/95 backdrop-blur-md p-3 rounded-xl shadow-xl border-l-4 border-[#E9AC21] text-[#052D49]">
-                      <div className="font-condensed font-black text-2xl leading-none text-[#073B60]">
-                        {slide.statsBadge.number}
-                      </div>
-                      <div className="text-[10px] font-bold uppercase tracking-wider text-gray-500 mt-0.5">
-                        {slide.statsBadge.label}
-                      </div>
-                    </div>
-                  )}
+                {/* Discrete Overlay Pill */}
+                <div className="absolute bottom-4 left-4 right-4 flex items-center justify-between text-xs text-white bg-black/60 backdrop-blur-md px-3.5 py-2 rounded-xl border border-white/15">
+                  <span className="font-semibold text-slate-200">PACE ITS Ongole Campus</span>
+                  <span className="text-[#E5AD35] font-bold">Autonomous</span>
                 </div>
               </motion.div>
             </AnimatePresence>
           </div>
-
         </div>
-      </div>
 
-      {/* BOTTOM: Golden Horizontal Separator & Carousel Controls */}
-      <div className="relative z-20 border-t border-[#0A4A78] bg-[#04243A]/80 backdrop-blur-md py-4">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
-          {/* Slide Indicator Dots */}
-          <div className="flex items-center space-x-3">
-            {slides.map((s, index) => (
-              <button
-                key={s.id}
-                onClick={() => {
-                  setAutoPlay(false);
-                  setCurrent(index);
-                }}
-                className={`transition-all duration-300 rounded-full ${
-                  current === index
-                    ? 'w-10 h-2.5 bg-[#E9AC21]'
-                    : 'w-2.5 h-2.5 bg-gray-600 hover:bg-gray-400'
-                }`}
-                aria-label={`Go to slide ${index + 1}`}
-              />
-            ))}
-            <span className="text-xs text-gray-400 font-mono pl-2">
-              0{current + 1} / 0{slides.length}
-            </span>
+        {/* Docked Institutional Stats Strip */}
+        <div className="mt-12 pt-8 border-t border-white/10 grid grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-[#E5AD35]/20 text-[#E5AD35] flex items-center justify-center font-bold text-lg shrink-0 border border-[#E5AD35]/30">
+              A+
+            </div>
+            <div>
+              <div className="text-base sm:text-lg font-bold text-white leading-tight">NAAC 'A+' Grade</div>
+              <div className="text-xs text-slate-400">National Accreditation</div>
+            </div>
           </div>
 
-          {/* Quick Nav Controls */}
-          <div className="flex items-center space-x-2">
-            <button
-              onClick={prevSlide}
-              aria-label="Previous slide"
-              className="p-2 rounded-lg bg-white/5 hover:bg-[#E9AC21] text-gray-300 hover:text-[#052D49] transition-colors border border-white/10"
-            >
-              <ChevronLeft className="w-4 h-4" />
-            </button>
-            <button
-              onClick={nextSlide}
-              aria-label="Next slide"
-              className="p-2 rounded-lg bg-white/5 hover:bg-[#E9AC21] text-gray-300 hover:text-[#052D49] transition-colors border border-white/10"
-            >
-              <ChevronRight className="w-4 h-4" />
-            </button>
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-white/10 text-white flex items-center justify-center font-bold text-lg shrink-0 border border-white/15">
+              🎓
+            </div>
+            <div>
+              <div className="text-base sm:text-lg font-bold text-white leading-tight">6,000+ Students</div>
+              <div className="text-xs text-slate-400">Vibrant Academic Community</div>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-[#E5AD35]/20 text-[#E5AD35] flex items-center justify-center font-bold text-lg shrink-0 border border-[#E5AD35]/30">
+              💼
+            </div>
+            <div>
+              <div className="text-base sm:text-lg font-bold text-white leading-tight">850+ Placements</div>
+              <div className="text-xs text-slate-400">Across 60+ Top MNCs</div>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-white/10 text-white flex items-center justify-center font-bold text-lg shrink-0 border border-white/15">
+              🏆
+            </div>
+            <div>
+              <div className="text-base sm:text-lg font-bold text-white leading-tight">₹12.50 LPA</div>
+              <div className="text-xs text-slate-400">Highest Salary Package</div>
+            </div>
           </div>
         </div>
-      </div>
-    </div>
+      </Container>
+    </section>
   );
 };
-

@@ -24,8 +24,13 @@ interface PageProps {
   };
 }
 
+export const dynamicParams = true;
+
 // Generate static params for all 343 canonical routes
 export async function generateStaticParams() {
+  if (process.env.NODE_ENV === 'development') {
+    return [];
+  }
   const paths = Object.keys(pagesData).filter((p) => p !== '/');
   return paths.map((path) => ({
     slug: path.replace(/^\//, '').split('/'),
