@@ -24,7 +24,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
     <div className="fixed inset-0 z-50 xl:hidden font-sans">
       {/* Backdrop */}
       <div
-        className="fixed inset-0 bg-black/70 backdrop-blur-sm transition-opacity"
+        className="fixed inset-0 bg-black/70 transition-opacity"
         onClick={onClose}
         aria-hidden="true"
       />
@@ -34,11 +34,11 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
         {/* Drawer Header */}
         <div className="p-4 flex items-center justify-between border-b border-[#123D5A] bg-[#071E2E]">
           <div className="flex items-center space-x-2.5">
-            <div className="h-10 w-auto bg-white rounded-lg p-1 shrink-0 flex items-center justify-center">
+            <div className="h-10 w-10 bg-white rounded-lg p-1 shrink-0 flex items-center justify-center">
               <img
-                src="/assets/branding/pace-logo.png"
+                src="/assets/branding/pace-crest.png"
                 alt="PACE ITS"
-                className="h-8 w-auto object-contain"
+                className="h-8 w-8 object-contain"
               />
             </div>
             <div>

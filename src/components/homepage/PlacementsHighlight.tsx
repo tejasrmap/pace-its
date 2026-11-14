@@ -25,30 +25,30 @@ export const PlacementsHighlight: React.FC = () => {
           align="center"
         />
 
-        {/* 4 Big Placement Highlights */}
+        {/* 4 Placement Framework Pillars */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 my-12">
-          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-all">
-            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Annual Selections</div>
-            <div className="font-heading font-black text-3xl sm:text-4xl text-[#123D5A] mt-2">850+</div>
-            <p className="text-xs text-slate-500 mt-2">Total job offers extended by multinational technology and core leaders.</p>
+          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-colors">
+            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Campus Recruitment Training</div>
+            <div className="font-heading font-bold text-xl text-[#123D5A] mt-2">Comprehensive CRT</div>
+            <p className="text-xs text-slate-500 mt-2">Structured training covering quantitative aptitude, logical reasoning, verbal ability, and group discussion drills.</p>
           </div>
 
-          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-all">
-            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Highest CTC Package</div>
-            <div className="font-heading font-black text-3xl sm:text-4xl text-[#E5AD35] mt-2">₹12.50 LPA</div>
-            <p className="text-xs text-slate-500 mt-2">Top tier product enterprise placement with international engineering firm.</p>
+          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-colors">
+            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Technical Preparation</div>
+            <div className="font-heading font-bold text-xl text-[#123D5A] mt-2">Coding & Problem Solving</div>
+            <p className="text-xs text-slate-500 mt-2">Hands-on practice in Java, Python, Data Structures, and Database Management Systems mapped to industry hiring standards.</p>
           </div>
 
-          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-all">
-            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Recruiting Partners</div>
-            <div className="font-heading font-black text-3xl sm:text-4xl text-[#123D5A] mt-2">75+ MNCs</div>
-            <p className="text-xs text-slate-500 mt-2">Tier-1 IT services, software enterprises, and core engineering recruiters.</p>
+          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-colors">
+            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Recruitment Drives</div>
+            <div className="font-heading font-bold text-xl text-[#123D5A] mt-2">On & Off Campus Drives</div>
+            <p className="text-xs text-slate-500 mt-2">Active placement partnerships with leading technology organizations and core engineering recruiters across India.</p>
           </div>
 
-          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-all">
-            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Average CTC Package</div>
-            <div className="font-heading font-black text-3xl sm:text-4xl text-[#123D5A] mt-2">₹4.80 LPA</div>
-            <p className="text-xs text-slate-500 mt-2">Consistent upward trajectory across all engineering branches.</p>
+          <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:border-[#E5AD35] transition-colors">
+            <div className="text-xs font-bold uppercase text-[#123D5A] tracking-wider">Higher Education</div>
+            <div className="font-heading font-bold text-xl text-[#123D5A] mt-2">Career Guidance Bureau</div>
+            <p className="text-xs text-slate-500 mt-2">Mentorship and preparatory resources for GATE, competitive government examinations, and international postgraduation.</p>
           </div>
         </div>
 

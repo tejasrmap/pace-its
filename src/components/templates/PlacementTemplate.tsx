@@ -151,15 +151,15 @@ export const PlacementTemplate: React.FC<PlacementTemplateProps> = ({ page }) =>
             </div>
 
             {/* Placement Highlights Callout */}
-            <div className="bg-gradient-to-br from-[#123D5A] to-[#0B2C43] rounded-2xl p-6 text-white shadow-md border border-[#E5AD35]/30 space-y-3">
+            <div className="bg-[#123D5A] rounded-2xl p-6 text-white shadow-sm border border-slate-700 space-y-3">
               <span className="text-[10px] font-bold bg-[#E5AD35] text-[#0B2C43] px-2.5 py-0.5 rounded-full uppercase">
-                Annual Achievements
+                Training & Placements
               </span>
               <h4 className="font-heading font-bold text-lg text-white uppercase">
-                1200+ Offers in 2024–25
+                Corporate Recruitment Drives
               </h4>
               <p className="text-xs text-slate-300 leading-relaxed">
-                Highest Package: <strong className="text-white">₹18.5 LPA</strong>. Prominent recruiters include TCS, Wipro, Infosys, Virtusa, Cognizant, Tech Mahindra, and HCL Technologies.
+                Prominent recruiting partners include TCS, Wipro, Infosys, Virtusa, Cognizant, Tech Mahindra, and HCL Technologies. Batch-wise selection lists are published by the Training & Placement Cell.
               </p>
             </div>
           </div>

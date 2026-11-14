@@ -13,8 +13,8 @@ export const Container: React.FC<ContainerProps> = ({
 }) => {
   const sizeClasses = {
     narrow: 'max-w-5xl',
-    default: 'max-w-7xl',
-    wide: 'max-w-[1400px]',
+    default: 'max-w-7xl xl:max-w-[1360px]',
+    wide: 'max-w-7xl xl:max-w-[1440px]',
   };
 
   return (

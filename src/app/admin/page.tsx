@@ -146,7 +146,7 @@ export default function AdminDashboardPage() {
           </div>
           <div className="mt-4">
             <div className="flex items-center gap-2">
-              <span className="w-3 h-3 bg-emerald-500 rounded-full animate-pulse"></span>
+              <span className="w-2.5 h-2.5 bg-emerald-600 rounded-full inline-block"></span>
               <span className="text-lg font-bold text-slate-800">Operational</span>
             </div>
             <div className="mt-2 text-xs text-slate-500">

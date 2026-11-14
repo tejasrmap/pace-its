@@ -6,10 +6,10 @@ import { Award, Users, BookOpen, Building, CheckCircle2, ArrowRight } from 'luci
 
 const stats = [
   { number: "2008", label: "Established", sub: "Srinivasa Educational Society" },
-  { number: "110+", label: "Acres Campus", sub: "Sprawling campus on NH-16" },
+  { number: "NH-16", label: "Campus Location", sub: "Valluru, Ongole, Prakasam Dist" },
   { number: "13", label: "Academic Depts", sub: "UG, PG & Polytechnic" },
   { number: "PACE", label: "EAPCET Code", sub: "Autonomous institution code" },
-  { number: "NBA", label: "Accredited", sub: "Eligible engineering programs" },
+  { number: "NBA", label: "Accredited", sub: "Programmes in EEE, ECE & CSE" },
   { number: "A", label: "NAAC Grade", sub: "Cycle 1, UGC Autonomous" },
 ];
 

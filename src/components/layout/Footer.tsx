@@ -13,11 +13,11 @@ export const Footer: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-wrap items-center justify-between gap-6">
             <div className="flex items-center space-x-3.5">
-              <div className="h-12 w-auto bg-white rounded-lg p-1 shrink-0 flex items-center justify-center">
+              <div className="h-12 w-12 rounded-lg bg-white p-1 shrink-0 flex items-center justify-center">
                 <img
-                  src="/assets/branding/pace-logo.png"
+                  src="/assets/branding/pace-crest.png"
                   alt="PACE Institute of Technology & Sciences"
-                  className="h-10 w-auto object-contain"
+                  className="h-10 w-10 object-contain"
                 />
               </div>
               <div>

@@ -76,15 +76,14 @@ export const GalleryEventTemplate: React.FC<GalleryEventTemplateProps> = ({ page
               <div
                 key={idx}
                 onClick={() => setSelectedImage(idx)}
-                className="group relative bg-[#123D5A] rounded-2xl overflow-hidden shadow-md cursor-pointer aspect-[4/3] border-2 border-transparent hover:border-[#E5AD35] transition-all hover:-translate-y-1"
+                className="group relative bg-[#123D5A] rounded-xl overflow-hidden shadow-sm cursor-pointer aspect-[4/3] border border-slate-200 hover:border-[#E5AD35] transition-colors"
               >
                 <img
                   src={img.src}
                   alt={img.alt || page.title}
                   loading="lazy"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src =
-                      'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=800&q=80';
+                    (e.target as HTMLImageElement).src = '/assets/campus/auditorium.jpg';
                   }}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
@@ -102,7 +101,7 @@ export const GalleryEventTemplate: React.FC<GalleryEventTemplateProps> = ({ page
 
       {/* Lightbox Modal */}
       {selectedImage !== null && images[selectedImage] && (
-        <div className="fixed inset-0 z-50 bg-black/95 backdrop-blur-md flex items-center justify-center p-4">
+        <div className="fixed inset-0 z-50 bg-black/95 flex items-center justify-center p-4">
           <button
             onClick={() => setSelectedImage(null)}
             className="absolute top-6 right-6 p-2 rounded-full bg-white/10 hover:bg-white/20 text-white transition z-50"

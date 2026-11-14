@@ -38,7 +38,7 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
         { title: 'Vision & Mission', href: '/vision-and-mission', desc: 'Educational objectives and core values' },
         { title: 'Accreditation & Approvals', href: '/affiliation-and-accreditation', desc: 'UGC Autonomous, NAAC A Grade, NBA, AICTE, JNTUK' },
         { title: 'Leadership & Messages', href: '/administration/chairman-message', desc: 'Chairman, Secretary & Principal executive profiles' },
-        { title: 'Principal Profile', href: '/administration/principal-profile', desc: 'Office of the Principal, Dr. C. V. Subba Rao' },
+        { title: 'Principal Profile', href: '/administration/principal-profile', desc: 'Office of the Principal, Dr. G. V. K. Murthy' },
         { title: 'Organization Hierarchy', href: '/organization-chart', desc: 'Administrative and academic governance tree' },
       ],
     },
@@ -63,7 +63,7 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
       href: '/trainings-and-placements',
       children: [
         { title: 'Training & Placements Cell', href: '/trainings-and-placements', desc: 'Corporate readiness and training frameworks' },
-        { title: 'Placement Records & CTC', href: '/placements-records', desc: 'Annual placement statistics and packages' },
+        { title: 'Placement Records & Companies', href: '/placements-records', desc: 'Annual placement statistics and recruited batches' },
         { title: 'Skill Development Hub', href: '/skill-development', desc: 'Industry certifications and coding labs' },
         { title: 'Career Guidance Bureau', href: '/career-guidance-cell', desc: 'Higher education and competitive exam prep' },
       ],
@@ -72,18 +72,18 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
       title: 'Research',
       href: '/research-and-development/about-research-and-development',
       children: [
-        { title: 'R&D Cell & Innovation', href: '/research-and-development/about-research-and-development', desc: 'Institutional discovery and funded grants' },
-        { title: 'Patents Granted & Published', href: '/research-and-development/patents', desc: '32 published patents in IoT and AI' },
+        { title: 'R&D Cell & Innovation', href: '/research-and-development/about-research-and-development', desc: 'Institutional discovery and research initiatives' },
+        { title: 'Patents Granted & Published', href: '/research-and-development/patents', desc: 'Faculty & student patent publications' },
         { title: 'AICTE IDEA Laboratory', href: '/aicte-idea-lab', desc: '3D Printing, Laser CNC & Prototyping' },
-        { title: 'Industry MoUs & Centers', href: '/research-and-development/mou-partners', desc: '28 active corporate collaborative centers' },
+        { title: 'Industry MoUs & Centers', href: '/research-and-development/mou-partners', desc: 'Corporate & industrial collaborative centers' },
       ],
     },
     {
       title: 'Campus Life',
       href: '/campus/facilities',
       children: [
-        { title: 'Campus Facilities Overview', href: '/campus/facilities', desc: '60-acre green residential campus tour' },
-        { title: 'Central Library & Reading Halls', href: '/campus-life/central-library', desc: '60,000+ volumes and IEEE digital subscriptions' },
+        { title: 'Campus Facilities Overview', href: '/campus/facilities', desc: 'Panoramic residential campus along NH-16' },
+        { title: 'Central Library & Reading Halls', href: '/campus-life/central-library', desc: 'Volumes, DELNET, and IEEE digital learning resources' },
         { title: 'Student Hostels & Dining', href: '/campus/hostel', desc: 'Secure residential facilities for men & women' },
         { title: 'Sports & Gymnasium Arena', href: '/campus/sports-and-games', desc: 'Cricket, athletics, indoor sports & fitness' },
         { title: 'Events Photo Archive', href: '/college-events', desc: '204 official institutional photo albums' },
@@ -105,46 +105,47 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
   return (
     <>
       <header
-        className={`fixed top-0 left-0 right-0 z-40 transition-all duration-300 font-sans ${
+        className={`fixed top-0 left-0 right-0 z-40 transition-all duration-200 font-sans ${
           isScrolled
-            ? 'bg-[#071E2E]/98 backdrop-blur-md shadow-xl border-b border-white/10'
-            : 'bg-[#071E2E]/90 backdrop-blur-sm border-b border-white/10'
+            ? 'bg-[#071E2E] shadow-xl border-b border-white/10'
+            : 'bg-[#071E2E] border-b border-white/10'
         }`}
       >
         <TopBar />
 
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl xl:max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-20 sm:h-22">
             {/* Authentic Institutional Brand */}
-            <Link href="/" className="flex items-center space-x-3 group shrink-0">
-              <div className="h-12 w-auto bg-white/95 rounded-lg p-1 shadow-sm shrink-0 flex items-center justify-center">
+            <Link href="/" className="flex items-center space-x-2.5 group shrink-0">
+              <div className="h-11 w-11 rounded-lg bg-white p-1 shadow-sm shrink-0 flex items-center justify-center">
                 <img
-                  src="/assets/branding/pace-logo.png"
+                  src="/assets/branding/pace-crest.png"
                   alt="PACE Institute of Technology & Sciences"
-                  className="h-10 w-auto object-contain"
+                  className="h-9 w-9 object-contain"
                 />
               </div>
               <div className="flex flex-col">
-                <span className="font-heading text-lg sm:text-xl font-bold tracking-tight text-white leading-tight uppercase group-hover:text-[#E5AD35] transition-colors">
+                <span className="font-heading text-base sm:text-lg font-bold tracking-tight text-white leading-tight uppercase group-hover:text-[#E5AD35] transition-colors whitespace-nowrap">
                   PACE ITS
                 </span>
-                <span className="text-[10px] text-amber-200/90 font-medium tracking-wider flex items-center gap-1">
+                <span className="text-[10px] text-amber-200 font-medium tracking-wide flex items-center gap-1 whitespace-nowrap">
                   <span>AUTONOMOUS</span>
                   <span>•</span>
-                  <span>NAAC 'A' GRADE</span>
+                  <span>NAAC 'A'</span>
                   <span>•</span>
                   <span>NBA</span>
                 </span>
-                <span className="text-[9px] text-slate-300 tracking-wider hidden sm:block">
+                <span className="text-[9px] text-slate-300 tracking-wider hidden xl:block whitespace-nowrap">
                   PERMANENTLY AFFILIATED TO JNTUK
                 </span>
               </div>
             </Link>
 
             {/* Desktop Navigation */}
-            <nav className="hidden lg:flex items-center space-x-1 xl:space-x-2">
-              {navItems.map((item) => {
+            <nav className="hidden lg:flex items-center space-x-0.5 xl:space-x-1.5">
+              {navItems.map((item, idx) => {
                 const isAcademics = item.isMega;
+                const isRightSide = idx >= navItems.length - 2;
 
                 return (
                   <div
@@ -155,15 +156,15 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
                   >
                     <Link
                       href={item.href}
-                      className={`flex items-center gap-1 px-3 py-2 text-xs xl:text-sm font-medium rounded-lg transition-colors ${
+                      className={`flex items-center gap-1 px-2.5 xl:px-3 py-2 text-xs xl:text-sm font-medium rounded-lg transition-colors whitespace-nowrap ${
                         activeDropdown === item.title
                           ? 'text-[#E5AD35] bg-white/5 font-semibold'
                           : 'text-slate-100 hover:text-[#E5AD35]'
                       }`}
                     >
-                      <span>{item.title}</span>
+                      <span className="whitespace-nowrap">{item.title}</span>
                       <ChevronDown
-                        className={`w-3.5 h-3.5 opacity-60 transition-transform duration-200 ${
+                        className={`w-3.5 h-3.5 opacity-60 transition-transform duration-200 shrink-0 ${
                           activeDropdown === item.title ? 'rotate-180 text-[#E5AD35]' : ''
                         }`}
                       />
@@ -291,7 +292,7 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
 
                     {/* Standard Dropdown for other menus */}
                     {!isAcademics && item.children && activeDropdown === item.title && (
-                      <div className="absolute top-[calc(100%+6px)] left-0 w-72 bg-white rounded-2xl shadow-2xl border border-slate-200 p-2.5 z-50 animate-in fade-in slide-in-from-top-1 duration-150 text-slate-800">
+                      <div className={`absolute top-[calc(100%+6px)] ${isRightSide ? 'right-0' : 'left-0'} w-72 bg-white rounded-2xl shadow-2xl border border-slate-200 p-2.5 z-50 animate-in fade-in slide-in-from-top-1 duration-150 text-slate-800`}>
                         <div className="space-y-0.5">
                           {item.children.map((sub) => (
                             <Link

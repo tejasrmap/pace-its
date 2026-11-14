@@ -2,7 +2,7 @@
 ## INSTITUTIONAL CONTENT & ACCREDITATION VERIFICATION BASELINE
 **Author:** Institutional Web Audit & Engineering Team  
 **Date:** November 2026  
-**Status:** Verified & Approved  
+**Status:** Engineering verification completed; institutional management approval pending  
 **Reference Baseline:** https://pace.ac.in/ and Statutory Institutional Filings  
 
 ---
@@ -99,3 +99,4 @@ The website directly hosts and links verified regulatory disclosure documents:
 4. `student hand book.pdf` — Student code of conduct, academic policies, and autonomous evaluation rules.
 5. `HR Policy Book.pdf` — Service rules, faculty welfare, research incentives, and code of ethics.
 6. `rti-latest.pdf` — Right to Information Act statutory appointments and disclosures.
+

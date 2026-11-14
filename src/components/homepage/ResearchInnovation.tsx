@@ -8,10 +8,10 @@ import { Container } from '@/components/ui/Container';
 const researchHighlights = [
   {
     icon: Lightbulb,
-    title: "Patents Granted & Published",
-    desc: "32 published patents by faculty and student innovators in IoT precision irrigation, deep learning diagnostics, and advanced renewable systems.",
+    title: "Patents & Intellectual Property",
+    desc: "Intellectual property filings and published patents by faculty and student research teams in agricultural IoT, computer vision, and power systems.",
     link: "/research-and-development/patents",
-    badge: "32 Patents"
+    badge: "IPR Cell"
   },
   {
     icon: Cpu,
@@ -22,10 +22,10 @@ const researchHighlights = [
   },
   {
     icon: FileText,
-    title: "Indexed Journal Publications",
-    desc: "Over 480+ peer-reviewed scientific contributions published in Scopus and Web of Science (SCI) indexed international journals.",
+    title: "Peer-Reviewed Publications",
+    desc: "Faculty scientific contributions published across national and international journals and conference proceedings.",
     link: "/research-and-development/publications-and-patents",
-    badge: "480+ Papers"
+    badge: "Research Cell"
   },
   {
     icon: Compass,

@@ -2,7 +2,7 @@
 ## UI & ASSET INVENTORY STATUS & PENDING ITEMS
 **Author:** Frontend Quality & Asset Management Team  
 **Date:** November 2026  
-**Status:** Core Assets Resolved; High-Res Originals Cataloged  
+**Status:** Engineering verification completed; institutional management approval pending  
 
 ---
 
@@ -10,9 +10,9 @@
 
 The following primary assets have been downloaded from the institutional archives and are now embedded locally:
 
-1. **Official PACE ITS Emblem / Crest:**
-   - **Path:** `/public/assets/branding/pace-logo.png`
-   - **Source:** Extracted from `pace.ac.in/public/assets/images/p38.png`
+1. **Official PACE ITS Insignia & Emblem:**
+   - **Crest Badge:** `/public/assets/branding/pace-crest.png` (High-resolution circular crest extracted from official emblem; utilized in Header brand block, TopBar, and Navigation drawers to preserve optimal horizontal space).
+   - **Full Banner Insignia:** `/public/assets/branding/pace-logo.png` (Official institutional banner extracted from `pace.ac.in/public/assets/images/p38.png`).
    - **Usage:** Global header, topbar, mobile nav drawer, footer, admin sidebar.
    - **Status:** Installed & active.
 

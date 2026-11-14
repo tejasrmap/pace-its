@@ -190,7 +190,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
         {mobileSidebarOpen && (
           <div
             onClick={() => setMobileSidebarOpen(false)}
-            className="fixed inset-0 bg-black/60 z-40 md:hidden backdrop-blur-sm transition-opacity"
+            className="fixed inset-0 bg-black/60 z-40 md:hidden transition-opacity"
           />
         )}
 

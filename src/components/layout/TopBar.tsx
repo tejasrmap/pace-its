@@ -7,7 +7,7 @@ import { Phone, ExternalLink, ShieldCheck } from 'lucide-react';
 export const TopBar: React.FC = () => {
   return (
     <div className="bg-[#072B44] text-slate-300 text-xs py-1.5 px-4 border-b border-white/10 hidden lg:block font-sans">
-      <div className="max-w-7xl mx-auto flex items-center justify-between">
+      <div className="max-w-7xl xl:max-w-[1360px] mx-auto flex items-center justify-between">
         {/* Left: Statutory & Institutional Accreditation */}
         <div className="flex items-center space-x-3">
           <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-bold bg-[#E5AD35] text-[#0B2C43] tracking-wide uppercase">
@@ -21,7 +21,7 @@ export const TopBar: React.FC = () => {
           <span className="text-slate-400">•</span>
           <span className="text-slate-300 text-xs">NAAC 'A' Grade (Cycle-1)</span>
           <span className="text-slate-400">•</span>
-          <span className="text-slate-300 text-xs">NBA Accredited Programs</span>
+          <span className="text-slate-300 text-xs">NBA Accredited (EEE, ECE, CSE)</span>
           <span className="text-slate-400">•</span>
           <span className="text-slate-300 text-xs">Permanent JNTUK Affiliation</span>
         </div>

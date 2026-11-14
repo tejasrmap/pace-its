@@ -245,12 +245,12 @@ export default function AdminGalleryManager() {
                 className="w-full h-full object-cover group-hover:scale-105 transition duration-500 opacity-80"
               />
               <div className="absolute top-3 left-3">
-                <span className="px-2.5 py-1 rounded-md text-[10px] font-bold uppercase tracking-wider bg-black/60 text-amber-300 backdrop-blur-sm">
+                <span className="px-2.5 py-1 rounded-md text-[10px] font-bold uppercase tracking-wider bg-black/80 text-amber-300">
                   {album.category}
                 </span>
               </div>
               <div className="absolute bottom-3 right-3">
-                <span className="px-2 py-0.5 rounded text-[11px] font-bold bg-black/70 text-white backdrop-blur-sm flex items-center gap-1">
+                <span className="px-2 py-0.5 rounded text-[11px] font-bold bg-black/85 text-white flex items-center gap-1">
                   📷 {album.photoCount} Photos
                 </span>
               </div>

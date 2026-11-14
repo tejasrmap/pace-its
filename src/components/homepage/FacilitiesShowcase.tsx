@@ -9,20 +9,20 @@ import { Container } from '@/components/ui/Container';
 const facilities = [
   {
     icon: Building,
-    title: "110+ Acre Green Campus",
-    desc: "Expansive green academic zone situated along NH-16 with modern academic blocks, solar energy infrastructure, and landscaped gardens.",
+    title: "Green Campus on NH-16",
+    desc: "Expansive green academic zone situated along NH-16 at Valluru near Ongole, with modern academic blocks, solar power infrastructure, and landscaped gardens.",
     link: "/campus/facilities"
   },
   {
     icon: BookOpen,
-    title: "Air-Conditioned Central Library",
-    desc: "Extensive repository of over 60,000 volumes, IEEE digital subscriptions, DELNET, National Digital Library (NDL), and quiet reading zones.",
+    title: "Central Library & Digital Resources",
+    desc: "Comprehensive collection of technical volumes, national and international print journals, IEEE digital subscriptions, DELNET, and dedicated reading halls.",
     link: "/campus-life/central-library"
   },
   {
     icon: Music,
     title: "Auditorium & Seminar Halls",
-    desc: "Acoustically designed 1,500-seat central auditorium along with multiple departmental air-conditioned seminar halls with digital projection.",
+    desc: "Acoustically designed central auditorium along with multiple air-conditioned departmental seminar halls equipped with modern audio-visual systems.",
     link: "/campus/auditorium"
   },
   {
@@ -40,7 +40,7 @@ const facilities = [
   {
     icon: Bus,
     title: "Institutional Transport Fleet",
-    desc: "A dedicated fleet of 50+ college buses operating safe routes connecting Ongole, Chirala, Singarayakonda, Addanki, and Kandukur.",
+    desc: "Dedicated institutional bus fleet operating safe routes connecting Ongole, Chirala, Singarayakonda, Addanki, and Kandukur.",
     link: "/campus/facilities"
   }
 ];

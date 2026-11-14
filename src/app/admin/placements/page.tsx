@@ -259,24 +259,28 @@ export default function AdminPlacementsManager() {
       {/* Stats */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
         <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
-          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Annual Job Offers</div>
-          <div className="text-2xl font-bold text-[#123D5A] mt-1">{totalOffers}+</div>
-          <div className="text-[11px] text-emerald-600 font-medium mt-1">Across 60+ On-Campus Recruiters</div>
+          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Placement Drives</div>
+          <div className="text-2xl font-bold text-[#123D5A] mt-1">{drives.length}</div>
+          <div className="text-[11px] text-emerald-600 font-medium mt-1">Drives scheduled & completed</div>
         </div>
         <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
-          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Highest Package</div>
-          <div className="text-2xl font-bold text-[#E5AD35] mt-1">₹12.50 LPA</div>
-          <div className="text-[11px] text-slate-500 font-medium mt-1">Top Tier Product MNC Offer</div>
+          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Offers Recorded</div>
+          <div className="text-2xl font-bold text-[#E5AD35] mt-1">{totalOffers}</div>
+          <div className="text-[11px] text-slate-500 font-medium mt-1">Batch selections listed</div>
         </div>
         <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
-          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Average Package</div>
-          <div className="text-2xl font-bold text-[#123D5A] mt-1">₹4.80 LPA</div>
-          <div className="text-[11px] text-slate-500 font-medium mt-1">Consistent upward trajectory</div>
+          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Completed Drives</div>
+          <div className="text-2xl font-bold text-[#123D5A] mt-1">
+            {drives.filter(d => d.status === 'COMPLETED').length}
+          </div>
+          <div className="text-[11px] text-slate-500 font-medium mt-1">Recruitment rounds completed</div>
         </div>
         <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
-          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Active Recruiting Partners</div>
-          <div className="text-2xl font-bold text-[#123D5A] mt-1">75+</div>
-          <div className="text-[11px] text-slate-500 font-medium mt-1">Tier-1 IT & Core Industries</div>
+          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Scheduled Drives</div>
+          <div className="text-2xl font-bold text-[#123D5A] mt-1">
+            {drives.filter(d => d.status === 'SCHEDULED').length}
+          </div>
+          <div className="text-[11px] text-slate-500 font-medium mt-1">Upcoming campus sessions</div>
         </div>
       </div>
 

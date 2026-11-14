@@ -2,7 +2,7 @@
 ## MEDIA & PHOTOGRAPHIC ASSETS AUDIT REPORT
 **Author:** Frontend Quality & Brand Assurance Team  
 **Date:** November 2026  
-**Status:** Complete & Compliant  
+**Status:** Engineering verification completed; institutional management approval pending  
 
 ---
 
@@ -35,3 +35,4 @@ All generic, promotional, AI-generated, or third-party Unsplash stock imagery ma
 1. **Unoptimized Flag Configuration:** Next.js remote image optimization was causing intermittent 404 failures when upstream institutional PHP servers throttled requests. Configured `images: { unoptimized: true }` in `next.config.mjs` to ensure 100% resilient image delivery without server crashes.
 2. **Local Academic Asset Priority:** Key identity, campus, and leadership assets are hosted locally in `public/assets/`, preventing any external downtime from breaking the primary institutional pages.
 3. **Canonical Event Galleries:** The 204 event gallery albums reference canonical event photos mapped from the official website archive. If an image is unavailable upstream, clean SVG placeholder fallbacks prevent broken visual boxes.
+

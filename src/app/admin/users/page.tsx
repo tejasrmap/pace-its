@@ -27,7 +27,7 @@ const INITIAL_USERS: UserAccount[] = [
   },
   {
     id: 'USR-002',
-    name: 'Dr. C. V. Subba Rao',
+    name: 'Dr. G. V. K. Murthy',
     email: 'principal@pace.ac.in',
     department: 'Principal Office',
     role: 'PRINCIPAL',

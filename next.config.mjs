@@ -11,10 +11,6 @@ const nextConfig = {
       {
         protocol: 'http',
         hostname: 'pace.ac.in',
-      },
-      {
-        protocol: 'https',
-        hostname: 'images.unsplash.com',
       }
     ],
   },

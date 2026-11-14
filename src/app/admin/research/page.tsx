@@ -221,24 +221,30 @@ export default function AdminResearchManager() {
       {/* Stats */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
         <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
-          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Patents Published</div>
-          <div className="text-2xl font-bold text-[#123D5A] mt-1">32</div>
-          <div className="text-[11px] text-emerald-600 font-medium mt-1">4 Granted by Patent Office India</div>
+          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Cataloged Entries</div>
+          <div className="text-2xl font-bold text-[#123D5A] mt-1">{records.length}</div>
+          <div className="text-[11px] text-emerald-600 font-medium mt-1">Active research records</div>
         </div>
         <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
-          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">External Grant Funding</div>
-          <div className="text-2xl font-bold text-[#E5AD35] mt-1">₹1.42 Cr</div>
-          <div className="text-[11px] text-slate-500 font-medium mt-1">AICTE, DST-SERB & MSME</div>
+          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Patents Listed</div>
+          <div className="text-2xl font-bold text-[#E5AD35] mt-1">
+            {records.filter(r => r.type === 'PATENT').length}
+          </div>
+          <div className="text-[11px] text-slate-500 font-medium mt-1">Filed & Published</div>
         </div>
         <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
-          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Indexed Publications</div>
-          <div className="text-2xl font-bold text-[#123D5A] mt-1">480+</div>
-          <div className="text-[11px] text-slate-500 font-medium mt-1">Scopus / Web of Science (SCI)</div>
+          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Funded Projects</div>
+          <div className="text-2xl font-bold text-[#123D5A] mt-1">
+            {records.filter(r => r.type === 'FUNDED_PROJECT').length}
+          </div>
+          <div className="text-[11px] text-slate-500 font-medium mt-1">Agency-sponsored projects</div>
         </div>
         <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
-          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Industry MoUs</div>
-          <div className="text-2xl font-bold text-[#123D5A] mt-1">28</div>
-          <div className="text-[11px] text-slate-500 font-medium mt-1">Active collaborative centers</div>
+          <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Journal Papers</div>
+          <div className="text-2xl font-bold text-[#123D5A] mt-1">
+            {records.filter(r => r.type === 'JOURNAL_PAPER').length}
+          </div>
+          <div className="text-[11px] text-slate-500 font-medium mt-1">Peer-reviewed publications</div>
         </div>
       </div>
 

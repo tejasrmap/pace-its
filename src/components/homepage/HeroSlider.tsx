@@ -11,7 +11,7 @@ export const HeroSlider: React.FC = () => {
       {/* Background Gradient */}
       <div className="absolute inset-0 bg-gradient-to-br from-[#0B2C43] via-[#072438] to-[#041624]" />
 
-      <Container className="relative z-10">
+      <Container size="wide" className="relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
           {/* Left Institutional Headline & CTAs */}
           <div className="lg:col-span-7 space-y-6">
@@ -26,7 +26,7 @@ export const HeroSlider: React.FC = () => {
                 NAAC 'A' Grade (Cycle-1)
               </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 text-white border border-white/20 text-xs font-semibold tracking-wider">
-                NBA Accredited
+                NBA Accredited (EEE, ECE, CSE)
               </span>
             </div>
 
@@ -42,7 +42,7 @@ export const HeroSlider: React.FC = () => {
 
             {/* Institutional Overview */}
             <p className="text-sm sm:text-base text-slate-300 font-normal leading-relaxed max-w-2xl">
-              An autonomous institution permanently affiliated to JNTUK Kakinada and approved by AICTE, New Delhi. Delivering industry-aligned engineering, technology, and management education across 110+ acres of world-class academic infrastructure.
+              An autonomous institution permanently affiliated to JNTUK Kakinada and approved by AICTE, New Delhi. Delivering industry-aligned engineering, technology, and management education with state-of-the-art laboratories and research facilities along NH-16.
             </p>
 
             {/* Dual Action CTAs */}
@@ -127,8 +127,8 @@ export const HeroSlider: React.FC = () => {
               🌲
             </div>
             <div>
-              <div className="text-base sm:text-lg font-bold text-white leading-tight">110+ Acres</div>
-              <div className="text-xs text-slate-400">Campus on NH-16</div>
+              <div className="text-base sm:text-lg font-bold text-white leading-tight">Green Campus</div>
+              <div className="text-xs text-slate-400">Panoramic Campus on NH-16</div>
             </div>
           </div>
         </div>

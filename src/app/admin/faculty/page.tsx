@@ -20,15 +20,15 @@ interface FacultyMember {
 const INITIAL_FACULTY: FacultyMember[] = [
   {
     id: 'FAC-001',
-    name: 'Dr. C. V. Subba Rao',
+    name: 'Dr. G. V. K. Murthy',
     designation: 'Professor & Principal',
-    department: 'Civil Engineering',
-    qualification: 'Ph.D., M.Tech (Structures)',
-    experience: '24 Years',
-    specialization: 'Structural Dynamics & Concrete Technology',
+    department: 'Electrical and Electronics Engineering',
+    qualification: 'B.E., M.E., Ph.D.',
+    experience: '25+ Years',
+    specialization: 'Electrical Distribution Systems & Power Quality',
     email: 'principal@pace.ac.in',
     phone: '+91 95814 56310',
-    publications: 38,
+    publications: 44,
     status: 'ACTIVE',
   },
   {
