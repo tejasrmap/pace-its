@@ -58,3 +58,4 @@ Every single one of the 343 institutional canonical routes discovered during the
 - **Dynamic Metadata Generation:** Every single route dynamically resolves its `title`, `description`, `canonical` link, and OpenGraph tags via `generateMetadata()` in `src/app/[...slug]/page.tsx`.
 - **Breadcrumb Navigation:** High-contrast breadcrumb trail rendered at the top of every inner page for institutional hierarchical navigation.
 - **Back to Top:** Floating interactive smooth-scrolling button with subtle entrance threshold on long institutional pages.
+

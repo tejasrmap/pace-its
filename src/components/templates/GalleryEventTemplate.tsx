@@ -46,7 +46,7 @@ export const GalleryEventTemplate: React.FC<GalleryEventTemplateProps> = ({ page
             <ArrowLeft className="w-3.5 h-3.5" />
             <span>Back to All Event Galleries</span>
           </Link>
-          <h1 className="font-condensed text-3xl sm:text-5xl font-black uppercase tracking-tight text-white">
+          <h1 className="font-heading text-3xl sm:text-5xl font-bold tracking-tight text-white">
             {page.title}
           </h1>
           <div className="flex items-center gap-3 text-xs text-slate-300">

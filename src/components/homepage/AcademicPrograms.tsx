@@ -125,3 +125,4 @@ export const AcademicPrograms: React.FC = () => {
     </section>
   );
 };
+

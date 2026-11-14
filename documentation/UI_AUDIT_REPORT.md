@@ -147,3 +147,4 @@ To ensure consistency across 343 routes, the following components must be create
 5. **Phase F–H:** Polish department, faculty, admission, exam, committee, and gallery experiences.
 6. **Phase I:** Expand Admin CMS with faculty, course, placement, research, document, and user management screens.
 7. **Phase J:** Run automated route validation across all 343 routes, test responsive widths, execute `npm run build`, and compile final delivery reports.
+

@@ -57,3 +57,4 @@ The 4,608 PDF documents represent 18.6 GB of historical institutional records da
 - [x] Vector SVG Monogram and binary multi-resolution `favicon.ico` active.
 - [x] Social media icons linked to verified PACE ITS official channels.
 - [x] Interactive campus location maps embedded with exact Google Maps coordinates.
+

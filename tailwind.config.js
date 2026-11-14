@@ -56,8 +56,10 @@ module.exports = {
         }
       },
       fontFamily: {
-        sans: ['Inter', 'Manrope', 'system-ui', 'sans-serif'],
-        condensed: ['Oswald', 'Impact', 'sans-serif'],
+        sans: ['Inter', 'system-ui', 'sans-serif'],
+        heading: ['Playfair Display', 'Georgia', 'serif'],
+        editorial: ['Playfair Display', 'Georgia', 'serif'],
+        condensed: ['Inter', 'sans-serif'],
         serif: ['Playfair Display', 'Georgia', 'serif'],
       },
       boxShadow: {

@@ -73,3 +73,4 @@ All admin interfaces strictly adhere to the PACE ITS visual token architecture:
   - Admissions Cell: `admissions@pace.ac.in`
   - Content Editor: `editor@pace.ac.in`
 - Safe client-side fallback handling in the event of database offline states, ensuring the UI remains accessible and testable under all deployment conditions.
+

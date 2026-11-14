@@ -4,12 +4,13 @@ import React from 'react';
 import { Header } from '@/components/layout/Header';
 import { HeroSlider } from '@/components/homepage/HeroSlider';
 import { NewsTicker } from '@/components/homepage/NewsTicker';
+import { LeadershipVoice } from '@/components/homepage/LeadershipVoice';
 import { WelcomeSection } from '@/components/homepage/WelcomeSection';
 import { AcademicPrograms } from '@/components/homepage/AcademicPrograms';
 import { DepartmentsGrid } from '@/components/homepage/DepartmentsGrid';
-import { FacilitiesShowcase } from '@/components/homepage/FacilitiesShowcase';
 import { ResearchInnovation } from '@/components/homepage/ResearchInnovation';
 import { PlacementsHighlight } from '@/components/homepage/PlacementsHighlight';
+import { FacilitiesShowcase } from '@/components/homepage/FacilitiesShowcase';
 import { CampusGallery } from '@/components/homepage/CampusGallery';
 import { ImportantDownloads } from '@/components/homepage/ImportantDownloads';
 import { AdmissionCta } from '@/components/homepage/AdmissionCta';
@@ -18,47 +19,50 @@ import { BackToTop } from '@/components/ui/BackToTop';
 
 export default function HomePage() {
   return (
-    <main className="min-h-screen flex flex-col bg-[#F8FAFB] font-sans">
-      {/* Sections A & B: Top Announcement Bar & Header */}
+    <main className="min-h-screen flex flex-col bg-[#F8FAFB] font-sans antialiased text-[#172B3A]">
+      {/* Global Navigation Header with Integrated TopBar */}
       <Header isTransparentDefault={true} />
 
-      {/* Section C: Hero Section (Cinematic Campus Slider) */}
+      {/* Cinematic Hero Slider with Dignified Typography & Metrics */}
       <HeroSlider />
 
-      {/* Section K: Live News & Notification Ticker */}
+      {/* Official Circulars & Announcement Ribbon */}
       <NewsTicker />
 
-      {/* Sections D & E: Institutional Introduction & Verified Statistics */}
+      {/* Executive Leadership & Institutional Visionary Voice */}
+      <LeadershipVoice />
+
+      {/* Institutional Overview & Accreditation Milestones */}
       <WelcomeSection />
 
-      {/* Section F: Academic Programs & Degree Pathways */}
+      {/* Academic Programs & Degree Pathways */}
       <AcademicPrograms />
 
-      {/* Section G: Academic Departments (B.Tech, PG & Polytechnic) */}
+      {/* Schools & Specialized Academic Departments */}
       <DepartmentsGrid />
 
-      {/* Section H: Campus Living & Modern Facilities */}
-      <FacilitiesShowcase />
-
-      {/* Section I: Research, Innovation & AICTE IDEA Lab */}
+      {/* Research, Patents & AICTE IDEA Laboratory */}
       <ResearchInnovation />
 
-      {/* Section J: Training & Placement Records */}
+      {/* Campus Placements & Corporate Eminence */}
       <PlacementsHighlight />
 
-      {/* Section L: Campus Gallery & Student Events */}
+      {/* Campus Living & World-Class Infrastructure */}
+      <FacilitiesShowcase />
+
+      {/* Official Photographic Archives & Student Events */}
       <CampusGallery />
 
-      {/* Section K (Sub): Statutory Downloads & Examination Circulars */}
+      {/* Statutory Disclosures, Handbook & Syllabi Downloads */}
       <ImportantDownloads />
 
-      {/* Section Admissions CTA */}
+      {/* Category-B & Management Quota Admissions Call */}
       <AdmissionCta />
 
-      {/* Section M: Institutional Multi-Column Footer */}
+      {/* Authoritative Multi-Column Institutional Footer */}
       <Footer />
 
-      {/* Smooth Scroll to Top Floating Button */}
+      {/* Floating Smooth Scroll to Top Action */}
       <BackToTop />
     </main>
   );

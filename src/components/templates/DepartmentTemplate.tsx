@@ -39,11 +39,11 @@ export const DepartmentTemplate: React.FC<DepartmentTemplateProps> = ({ page }) 
         <div className="absolute inset-0 bg-[linear-gradient(to_right,#ffffff05_1px,transparent_1px),linear-gradient(to_bottom,#ffffff05_1px,transparent_1px)] bg-[size:3rem_3rem]" />
 
         <Container className="relative z-10 space-y-3">
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider font-condensed">
+          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider">
             <GraduationCap className="w-3.5 h-3.5" />
-            {isPolytechnic ? 'SBTET ACCREDITED DIPLOMA SECTION' : 'UGC AUTONOMOUS & NBA ACCREDITED DEPARTMENT'}
+            {isPolytechnic ? 'SBTET Accredited Diploma Section' : 'UGC Autonomous & NBA Accredited Department'}
           </span>
-          <h1 className="font-condensed text-3xl sm:text-5xl font-black uppercase tracking-tight text-white">
+          <h1 className="font-heading text-3xl sm:text-5xl font-bold tracking-tight text-white">
             {page.title}
           </h1>
           <p className="text-slate-300 text-sm sm:text-base max-w-3xl font-light leading-relaxed">

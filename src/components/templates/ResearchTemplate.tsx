@@ -52,11 +52,11 @@ export const ResearchTemplate: React.FC<ResearchTemplateProps> = ({ page }) => {
       <div className="bg-[#0B2C43] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E5AD35]">
         <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:16px_16px]" />
         <Container className="relative z-10 space-y-3">
-          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider font-condensed">
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider">
             <Microscope className="w-3.5 h-3.5" />
-            RESEARCH & INNOVATION CELL
+            Research & Innovation Cell
           </div>
-          <h1 className="font-condensed text-3xl sm:text-5xl font-black uppercase tracking-tight text-white">
+          <h1 className="font-heading text-3xl sm:text-5xl font-bold tracking-tight text-white">
             {page.title}
           </h1>
           <p className="text-slate-300 text-sm sm:text-base max-w-3xl font-light leading-relaxed">
@@ -188,3 +188,4 @@ export const ResearchTemplate: React.FC<ResearchTemplateProps> = ({ page }) => {
     </div>
   );
 };
+

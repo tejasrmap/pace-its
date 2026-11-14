@@ -33,7 +33,7 @@ export const SectionHeading: React.FC<SectionHeadingProps> = ({
       )}
       <div className={`flex flex-col sm:flex-row items-baseline gap-4 ${align === 'center' ? 'justify-center' : 'justify-between'}`}>
         <h2
-          className={`font-condensed text-2xl sm:text-3xl lg:text-4xl font-extrabold uppercase tracking-tight ${
+          className={`font-heading text-2xl sm:text-3xl lg:text-4xl font-bold tracking-tight ${
             dark ? 'text-white' : 'text-[#123D5A]'
           }`}
         >
@@ -53,3 +53,4 @@ export const SectionHeading: React.FC<SectionHeadingProps> = ({
     </div>
   );
 };
+
