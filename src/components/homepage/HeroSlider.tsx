@@ -49,7 +49,7 @@ export const HeroSlider: React.FC = () => {
             <div className="flex flex-wrap items-center gap-3 pt-2">
               <Link
                 href="/admissions/courses-offered"
-                className="inline-flex items-center gap-2 px-6 py-3 bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-xs sm:text-sm uppercase tracking-wider rounded-xl shadow-md transition-colors"
+                className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-xs sm:text-sm uppercase tracking-wider rounded-xl shadow-md transition-colors"
               >
                 <span>Explore Academic Programs</span>
                 <ArrowRight className="w-4 h-4" />
@@ -57,14 +57,14 @@ export const HeroSlider: React.FC = () => {
 
               <Link
                 href="/admissions/b-category/applications"
-                className="inline-flex items-center gap-2 px-6 py-3 bg-white/10 hover:bg-white/20 text-white border border-white/20 font-semibold text-xs sm:text-sm uppercase tracking-wider rounded-xl transition-colors"
+                className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-white/10 hover:bg-white/20 text-white border border-white/20 font-semibold text-xs sm:text-sm uppercase tracking-wider rounded-xl transition-colors"
               >
                 <span>Category-B Admissions</span>
               </Link>
 
               <Link
                 href="/campus/facilities"
-                className="inline-flex items-center gap-2 px-6 py-3 bg-transparent hover:bg-white/5 text-slate-300 hover:text-white border border-slate-700 font-medium text-xs sm:text-sm rounded-xl transition-colors"
+                className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-transparent hover:bg-white/5 text-slate-300 hover:text-white border border-slate-700 font-medium text-xs sm:text-sm rounded-xl transition-colors"
               >
                 <span>Campus Facilities</span>
               </Link>
@@ -91,7 +91,7 @@ export const HeroSlider: React.FC = () => {
         </div>
 
         {/* Verified Institutional Benchmark Strip */}
-        <div className="mt-12 pt-8 border-t border-white/10 grid grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="mt-12 pt-8 border-t border-white/10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl bg-[#E5AD35]/20 text-[#E5AD35] flex items-center justify-center font-bold text-lg shrink-0 border border-[#E5AD35]/30">
               A

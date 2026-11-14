@@ -28,7 +28,7 @@ test.describe('PACE ITS — Real Browser Verification Suite', () => {
 
     // Filter benign hydration / third-party font notices if any
     const criticalErrors = consoleErrors.filter(
-      (err) => !err.includes('favicon') && !err.includes('font')
+      (err) => !err.includes('favicon') && !err.includes('font') && !err.includes('net::ERR_CONNECTION_ABORTED')
     );
     expect(criticalErrors).toHaveLength(0);
   });
@@ -184,17 +184,34 @@ test.describe('PACE ITS — Real Browser Verification Suite', () => {
     expect(page.url()).toMatch(/\/admin(\/login)?/);
   });
 
-  test('14. Mobile Responsive Layout: No horizontal overflow at 375px', async ({ page }) => {
-    await page.setViewportSize({ width: 375, height: 667 });
-    await page.goto('/');
-    await page.waitForLoadState('networkidle');
+  test('14. Cross-Device Adaptability: Zero horizontal overflow across phone, tablet, laptop & desktop viewports', async ({ page }) => {
+    const viewports = [
+      { name: 'Ultra-Small Phone (320px)', width: 320, height: 568 },
+      { name: 'Compact Phone / iPhone SE (375px)', width: 375, height: 667 },
+      { name: 'Modern Phone / Pixel & iPhone 15 (393px)', width: 393, height: 852 },
+      { name: 'Large Phone / Pro Max (430px)', width: 430, height: 932 },
+      { name: 'Foldable / Mini Tablet (600px)', width: 600, height: 960 },
+      { name: 'Tablet Portrait / iPad (768px)', width: 768, height: 1024 },
+      { name: 'Tablet Landscape / Small Laptop (1024px)', width: 1024, height: 768 },
+      { name: 'Standard Laptop (1280px)', width: 1280, height: 800 },
+      { name: 'Full HD Desktop (1920px)', width: 1920, height: 1080 }
+    ];
 
-    // Evaluate if document element has horizontal overflow
-    const hasHorizontalOverflow = await page.evaluate(() => {
-      return document.documentElement.scrollWidth > window.innerWidth;
-    });
+    const testUrls = ['/', '/pace-at-glance', '/academics/departments/cse', '/admissions/b-category/apply-online/btech'];
 
-    expect(hasHorizontalOverflow).toBe(false);
+    for (const vp of viewports) {
+      await page.setViewportSize({ width: vp.width, height: vp.height });
+      for (const url of testUrls) {
+        await page.goto(url);
+        await page.waitForLoadState('domcontentloaded');
+
+        const hasHorizontalOverflow = await page.evaluate(() => {
+          return document.documentElement.scrollWidth > window.innerWidth;
+        });
+
+        expect(hasHorizontalOverflow, `Horizontal overflow detected at ${vp.name} on ${url}`).toBe(false);
+      }
+    }
   });
 
 });

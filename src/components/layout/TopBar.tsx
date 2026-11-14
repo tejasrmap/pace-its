@@ -9,21 +9,21 @@ export const TopBar: React.FC = () => {
     <div className="bg-[#072B44] text-slate-300 text-xs py-1.5 px-4 border-b border-white/10 hidden lg:block font-sans">
       <div className="max-w-7xl xl:max-w-[1360px] mx-auto flex items-center justify-between">
         {/* Left: Statutory & Institutional Accreditation */}
-        <div className="flex items-center space-x-3">
-          <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-bold bg-[#E5AD35] text-[#0B2C43] tracking-wide uppercase">
+        <div className="flex items-center space-x-2.5 xl:space-x-3">
+          <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-bold bg-[#E5AD35] text-[#0B2C43] tracking-wide uppercase shrink-0">
             <ShieldCheck className="w-3 h-3" />
             UGC Autonomous
           </span>
           <span className="text-slate-400">•</span>
-          <span className="text-slate-200 text-xs font-semibold">
-            EAPCET Code: <span className="text-amber-300 font-bold">PACE</span>
+          <span className="text-slate-200 text-xs font-semibold whitespace-nowrap">
+            EAPCET: <span className="text-amber-300 font-bold">PACE</span>
           </span>
           <span className="text-slate-400">•</span>
-          <span className="text-slate-300 text-xs">NAAC 'A' Grade (Cycle-1)</span>
-          <span className="text-slate-400">•</span>
-          <span className="text-slate-300 text-xs">NBA Accredited (EEE, ECE, CSE)</span>
-          <span className="text-slate-400">•</span>
-          <span className="text-slate-300 text-xs">Permanent JNTUK Affiliation</span>
+          <span className="text-slate-300 text-xs whitespace-nowrap">NAAC 'A' Grade</span>
+          <span className="text-slate-400 hidden xl:inline">•</span>
+          <span className="text-slate-300 text-xs hidden xl:inline whitespace-nowrap">NBA Accredited (EEE, ECE, CSE)</span>
+          <span className="text-slate-400 hidden 2xl:inline">•</span>
+          <span className="text-slate-300 text-xs hidden 2xl:inline whitespace-nowrap">Permanent JNTUK Affiliation</span>
         </div>
 
         {/* Right: Hotline & Quick Access */}

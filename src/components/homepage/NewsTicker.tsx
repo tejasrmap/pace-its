@@ -14,21 +14,21 @@ const newsItems = [
 
 export const NewsTicker: React.FC = () => {
   return (
-    <div className="bg-[#072438] border-y border-white/10 text-white py-2.5 px-4 overflow-hidden relative shadow-sm font-sans">
-      <div className="max-w-7xl mx-auto flex items-center">
+    <div className="bg-[#072438] border-y border-white/10 text-white py-2.5 px-3 sm:px-4 overflow-hidden relative shadow-sm font-sans w-full max-w-full">
+      <div className="max-w-7xl mx-auto flex items-center w-full min-w-0 overflow-hidden">
         {/* Left Ticker Label */}
-        <div className="flex items-center gap-2 pr-4 shrink-0 bg-[#072438] z-10 border-r border-white/15">
+        <div className="flex items-center gap-1.5 sm:gap-2 pr-3 sm:pr-4 shrink-0 bg-[#072438] z-10 border-r border-white/15">
           <span className="p-1 rounded bg-[#E5AD35] text-[#072438]">
             <Bell className="w-3 h-3" />
           </span>
-          <span className="font-heading font-bold text-[11px] uppercase tracking-wider text-[#E5AD35]">
-            Official Circulars:
+          <span className="font-heading font-bold text-[10px] sm:text-[11px] uppercase tracking-wider text-[#E5AD35] whitespace-nowrap">
+            Circulars:
           </span>
         </div>
 
         {/* Animated Scrolling Ticker */}
-        <div className="flex-1 overflow-hidden whitespace-nowrap pl-4">
-          <div className="inline-block animate-[marquee_32s_linear_infinite] hover:[animation-play-state:paused]">
+        <div className="flex-1 min-w-0 overflow-hidden whitespace-nowrap pl-3 sm:pl-4">
+          <div className="inline-block animate-[marquee_32s_linear_infinite] hover:[animation-play-state:paused] max-w-none">
             {newsItems.map((item, idx) => (
               <span key={idx} className="inline-flex items-center mr-10 text-xs text-slate-300 hover:text-white transition-colors">
                 <Link href={item.href} className="flex items-center gap-1.5 hover:underline">

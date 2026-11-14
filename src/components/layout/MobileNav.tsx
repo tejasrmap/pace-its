@@ -14,6 +14,17 @@ interface MobileNavProps {
 export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
   const [expandedSection, setExpandedSection] = useState<string | null>(null);
 
+  React.useEffect(() => {
+    if (isOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+    return () => {
+      document.body.style.overflow = '';
+    };
+  }, [isOpen]);
+
   if (!isOpen) return null;
 
   const toggleSection = (title: string) => {
