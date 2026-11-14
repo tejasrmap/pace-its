@@ -17,3 +17,4 @@ for path, max_res, quality in images_to_optimize:
             img.save(path, 'JPEG', quality=quality, optimize=True)
         new_size = os.path.getsize(path) / (1024 * 1024)
         print(f"Optimized {path}: {old_size:.2f} MB -> {new_size:.2f} MB")
+

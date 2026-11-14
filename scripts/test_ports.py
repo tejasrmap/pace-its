@@ -7,3 +7,4 @@ for port in [3000, 3001]:
             print(f"Port {port}: {resp.getcode()} (Server: {resp.headers.get('Server', '')})")
     except Exception as e:
         print(f"Port {port}: Error {e}")
+

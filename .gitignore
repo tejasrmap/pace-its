@@ -5,4 +5,7 @@ prisma/dev.db-journal
 .DS_Store
 *.log
 *.tsbuildinfo
+test-results/
+playwright-report/
+
 

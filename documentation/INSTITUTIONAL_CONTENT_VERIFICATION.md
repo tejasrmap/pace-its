@@ -23,7 +23,7 @@ Any unverified promotional claims, exaggerated placement figures, or fabricated 
 | **Sponsoring Society** | Srinivasa Educational Society (Estd. 2008) | Society Registration Act Filings |
 | **Year of Establishment** | 2008 | JNTUK Affiliation & AICTE Approval |
 | **Campus Location** | NH-16, Near Valluramma Temple, Valluru, Ongole, Prakasam District, AP - 523272 | Land Deeds & Official AICTE Mandatory Disclosure |
-| **Campus Area** | 110+ Acres contiguous institutional campus | AICTE Mandatory Disclosure PACEITS-KQ |
+| **Campus Area (Statutory)** | 14 Acres 19 Guntas (approx. 14.475 Acres / 58,579 sq. m) | AICTE Mandatory Disclosure (Section 9.1, Land Details, Survey No. 238–241). Public-facing copy maintained neutral pending written management confirmation. |
 | **Autonomous Status** | UGC Autonomous Institution (Conferred under UGC Act) | UGC Autonomous Order / JNTUK Notification |
 | **University Affiliation** | Jawaharlal Nehru Technological University Kakinada (JNTUK) — Permanent Affiliation | JNTUK Registrar Notification |
 | **Approval Body** | All India Council for Technical Education (AICTE), New Delhi | AICTE Approval Letters (2008–2026) |

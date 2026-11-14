@@ -39,3 +39,4 @@ print(f"Total API Routes: {len(api_routes)}")
 print(f"API Routes List: {sorted(api_routes)}")
 print(f"Unique Page Templates: {len(templates)} -> {sorted(list(templates))}")
 print(f"Total React Components: {len(components)}")
+

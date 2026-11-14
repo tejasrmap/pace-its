@@ -29,3 +29,4 @@ with open('src/data/canonicalPages.json', 'w', encoding='utf-8') as f:
     f.write(text)
 
 print("canonicalPages.json document links updated successfully.")
+

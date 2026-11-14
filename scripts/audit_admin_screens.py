@@ -31,3 +31,4 @@ print(f"{'Screen':<30} | {'Banner':<8} | {'Modal':<8} | {'CRUD':<8} | {'Search':
 print("-" * 80)
 for r in report:
     print(f"{r['screen']:<30} | {str(r['has_prototype_banner']):<8} | {str(r['has_modal']):<8} | {str(r['has_crud']):<8} | {str(r['has_search']):<8} | {str(r['has_filter']):<8}")
+
