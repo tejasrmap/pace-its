@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 
 export default function AdminAuditLogsPage() {
   const [logs, setLogs] = useState<any[]>([]);
@@ -13,7 +13,7 @@ export default function AdminAuditLogsPage() {
   const [actionFilter, setActionFilter] = useState('');
   const [entityFilter, setEntityFilter] = useState('');
 
-  const fetchLogs = async () => {
+  const fetchLogs = useCallback(async () => {
     try {
       setLoading(true);
       const query = new URLSearchParams({
@@ -35,11 +35,11 @@ export default function AdminAuditLogsPage() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [currentPage, actionFilter, entityFilter]);
 
   useEffect(() => {
     fetchLogs();
-  }, [currentPage, actionFilter, entityFilter]);
+  }, [fetchLogs]);
 
   const actionBadgeColors: any = {
     LOGIN_SUCCESS: 'bg-emerald-100 text-emerald-800',

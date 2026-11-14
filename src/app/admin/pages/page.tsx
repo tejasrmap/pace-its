@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import Link from 'next/link';
 
 export default function AdminPagesManager() {
@@ -29,7 +29,7 @@ export default function AdminPagesManager() {
   const [newCategory, setNewCategory] = useState('General');
   const [createError, setCreateError] = useState('');
 
-  const fetchPages = async () => {
+  const fetchPages = useCallback(async () => {
     try {
       setLoading(true);
       const query = new URLSearchParams({
@@ -55,11 +55,11 @@ export default function AdminPagesManager() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [currentPage, search, category, status]);
 
   useEffect(() => {
     fetchPages();
-  }, [currentPage, category, status]);
+  }, [fetchPages]);
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();

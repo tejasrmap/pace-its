@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 
 export default function AdminAdmissionsManager() {
   const [applications, setApplications] = useState<any[]>([]);
@@ -20,7 +20,7 @@ export default function AdminAdmissionsManager() {
   const [internalNotes, setInternalNotes] = useState('');
   const [savingNote, setSavingNote] = useState(false);
 
-  const fetchApplications = async () => {
+  const fetchApplications = useCallback(async () => {
     try {
       setLoading(true);
       const query = new URLSearchParams({
@@ -44,11 +44,11 @@ export default function AdminAdmissionsManager() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [currentPage, statusFilter, programFilter, search]);
 
   useEffect(() => {
     fetchApplications();
-  }, [currentPage, statusFilter, programFilter]);
+  }, [fetchApplications]);
 
   const handleStatusChange = async (appId: string, newStatus: string) => {
     try {

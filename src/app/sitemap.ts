@@ -22,3 +22,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...canonicalRoutes.filter((r) => r.url !== baseUrl),
   ];
 }
+

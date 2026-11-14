@@ -139,74 +139,75 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
 
         <div className="max-w-7xl xl:max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-20 sm:h-22">
-            {/* Authentic Institutional Brand */}
-            <Link href="/" className="flex items-center space-x-2.5 group shrink-0">
-              <div className="h-11 w-11 rounded-lg bg-white p-1 shadow-sm shrink-0 flex items-center justify-center">
-                <img
-                  src="/assets/branding/pace-crest.png"
-                  alt="PACE Institute of Technology & Sciences"
-                  className="h-9 w-9 object-contain"
-                />
-              </div>
-              <div className="flex flex-col">
-                <span className="font-heading text-base sm:text-lg font-bold tracking-tight text-white leading-tight uppercase group-hover:text-[#E5AD35] transition-colors whitespace-nowrap">
-                  PACE ITS
-                </span>
-                <span className="text-[10px] text-amber-200 font-medium tracking-wide flex items-center gap-1 whitespace-nowrap">
-                  <span>AUTONOMOUS</span>
-                  <span>•</span>
-                  <span>NAAC 'A'</span>
-                  <span>•</span>
-                  <span>NBA</span>
-                </span>
-                <span className="text-[9px] text-slate-300 tracking-wider hidden xl:block whitespace-nowrap">
-                  PERMANENTLY AFFILIATED TO JNTUK
-                </span>
-              </div>
-            </Link>
+            {/* Left: Brand + Navigation grouped cohesively */}
+            <div className="flex items-center gap-5 xl:gap-8">
+              {/* Authentic Institutional Brand */}
+              <Link href="/" className="flex items-center space-x-2.5 group shrink-0">
+                <div className="h-11 w-11 rounded-lg bg-white p-1 shadow-sm shrink-0 flex items-center justify-center">
+                  <img
+                    src="/assets/branding/pace-crest.png"
+                    alt="PACE Institute of Technology & Sciences"
+                    className="h-9 w-9 object-contain"
+                  />
+                </div>
+                <div className="flex flex-col">
+                  <span className="font-heading text-base sm:text-lg font-bold tracking-tight text-white leading-tight uppercase group-hover:text-[#E5AD35] transition-colors whitespace-nowrap">
+                    PACE ITS
+                  </span>
+                  <span className="text-[10px] text-amber-200 font-medium tracking-wide flex items-center gap-1 whitespace-nowrap">
+                    <span>AUTONOMOUS</span>
+                    <span>•</span>
+                    <span>NAAC 'A'</span>
+                    <span>•</span>
+                    <span>NBA</span>
+                  </span>
+                  <span className="text-[9px] text-slate-300 tracking-wider hidden xl:block whitespace-nowrap">
+                    PERMANENTLY AFFILIATED TO JNTUK
+                  </span>
+                </div>
+              </Link>
 
-            {/* Desktop Navigation */}
-            <nav className="hidden lg:flex items-center space-x-0.5 xl:space-x-1.5">
-              {navItems.map((item, idx) => {
-                const isAcademics = item.isMega;
-                const isRightSide = idx >= navItems.length - 2;
+              {/* Desktop Navigation */}
+              <nav className="hidden lg:flex items-center space-x-0.5 xl:space-x-1.5">
+                {navItems.map((item, idx) => {
+                  const isAcademics = item.isMega;
+                  const isRightSide = idx >= navItems.length - 2;
 
-                return (
-                  <div
-                    key={item.title}
-                    className="relative"
-                    onMouseEnter={() => handleMouseEnter(item.title)}
-                    onMouseLeave={handleMouseLeave}
-                  >
-                    <Link
-                      href={item.href}
-                      onClick={(e) => {
-                        if (item.children) {
-                          // Allow clicking to toggle or stay open
-                          setActiveDropdown(activeDropdown === item.title ? null : item.title);
-                        }
-                      }}
-                      className={`flex items-center gap-1 px-2.5 xl:px-3 py-2 text-xs xl:text-sm font-medium rounded-lg transition-colors whitespace-nowrap ${
-                        activeDropdown === item.title
-                          ? 'text-[#E5AD35] bg-white/5 font-semibold'
-                          : 'text-slate-100 hover:text-[#E5AD35]'
-                      }`}
+                  return (
+                    <div
+                      key={item.title}
+                      className="relative"
+                      onMouseEnter={() => handleMouseEnter(item.title)}
+                      onMouseLeave={handleMouseLeave}
                     >
-                      <span className="whitespace-nowrap">{item.title}</span>
-                      <ChevronDown
-                        className={`w-3.5 h-3.5 opacity-60 transition-transform duration-200 shrink-0 ${
-                          activeDropdown === item.title ? 'rotate-180 text-[#E5AD35]' : ''
+                      <Link
+                        href={item.href}
+                        onClick={(e) => {
+                          if (item.children) {
+                            setActiveDropdown(activeDropdown === item.title ? null : item.title);
+                          }
+                        }}
+                        className={`flex items-center gap-1 px-2.5 xl:px-3 py-2 text-xs xl:text-sm font-medium rounded-lg transition-colors whitespace-nowrap ${
+                          activeDropdown === item.title
+                            ? 'text-[#E5AD35] bg-white/5 font-semibold'
+                            : 'text-slate-100 hover:text-[#E5AD35]'
                         }`}
-                      />
-                    </Link>
-
-                    {/* Elite Light MegaMenu for Academics */}
-                    {isAcademics && activeDropdown === item.title && (
-                      <div
-                        className="absolute top-full left-1/2 -translate-x-1/2 pt-2 z-50 animate-in fade-in slide-in-from-top-1 duration-150"
-                        onMouseEnter={() => handleMouseEnter(item.title)}
-                        onMouseLeave={handleMouseLeave}
                       >
+                        <span className="whitespace-nowrap">{item.title}</span>
+                        <ChevronDown
+                          className={`w-3.5 h-3.5 opacity-60 transition-transform duration-200 shrink-0 ${
+                            activeDropdown === item.title ? 'rotate-180 text-[#E5AD35]' : ''
+                          }`}
+                        />
+                      </Link>
+
+                      {/* Elite Light MegaMenu for Academics */}
+                      {isAcademics && activeDropdown === item.title && (
+                        <div
+                          className="absolute top-full left-0 pt-2 z-50 animate-in fade-in slide-in-from-top-1 duration-150"
+                          onMouseEnter={() => handleMouseEnter(item.title)}
+                          onMouseLeave={handleMouseLeave}
+                        >
                         <div className="w-[820px] bg-white rounded-2xl shadow-2xl border border-slate-200 p-7 text-slate-800 relative before:content-[''] before:absolute before:-top-3 before:left-0 before:right-0 before:h-3">
                         <div className="grid grid-cols-12 gap-7">
                           {/* Left: Undergraduate B.Tech Programs (5 cols) */}
@@ -359,8 +360,9 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
                 );
               })}
             </nav>
+          </div>
 
-            {/* Right: Search + High-Conversion Admission CTA */}
+          {/* Right: Search + High-Conversion Admission CTA */}
             <div className="flex items-center space-x-3">
               <button
                 onClick={() => setIsSearchOpen(true)}

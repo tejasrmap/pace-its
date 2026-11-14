@@ -1,0 +1,2874 @@
+[
+  {
+    "route": "/",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 62.2,
+    "error": ""
+  },
+  {
+    "route": "/academics/academic-calendar",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Academic Calendars | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 198.6,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/cser",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF Computer Science and Engineering - Regional | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 233.1,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/artificial-intelligence-and-data-science",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Artificial Intelligence &amp; Data Science | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 146.6,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/artificial-intelligence-and-machine-learning",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department Of Artificial Intelligence And Machine Learning | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 88.9,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/cse",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF Computer Science and Engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 218.2,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/civil",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF CIVIL ENGINEERING | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 122.7,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/csit",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 164.7,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/ece",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF Electronics and Communication Engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 210.9,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/eee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF Electrical and Electronics Engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 199.3,
+    "error": ""
+  },
+  {
+    "route": "/0/examinations-cell",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Exam Cell | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 232.1,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/internet-of-things-cyber-security",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF Computer Science &amp; Engineering(IOT and Cyber Security including Blockchain Technology) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 185.9,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/mba",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF MBA | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 201.7,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/h-and-s",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF Humanities and Basic Sciences | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 166.4,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/it",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ABOUT DEPARTMENT OF INFORMATION TECHNOLOGY | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 177.2,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/polytechnic/civil",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ABOUT CIVIL | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 174.8,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/polytechnic/aimlj",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ABOUT AIML | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 149.1,
+    "error": ""
+  },
+  {
+    "route": "/1/examinations-cell",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Exam Cell | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 157.0,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/polytechnic/exams",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "EXAMS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 97.9,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/polytechnic/cme",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ABOUT CME | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 77.3,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/polytechnic/eee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ABOUT EEE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 72.4,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/polytechnic/ece",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ABOUT Electronics &amp; Communication Engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 103.3,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/polytechnic/h&s",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ABOUT H&amp;S | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 81.9,
+    "error": ""
+  },
+  {
+    "route": "/administration/cao",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "CHIEF ADMINISTRATIVE OFFICER | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 77.4,
+    "error": ""
+  },
+  {
+    "route": "/administration/chairman-message",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "CHAIRMAN&#x27;S MESSAGE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 91.1,
+    "error": ""
+  },
+  {
+    "route": "/administration/hrmanager",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "HR Manager | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 67.0,
+    "error": ""
+  },
+  {
+    "route": "/administration/deans-and-directors",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Deans &amp; Directors | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 65.9,
+    "error": ""
+  },
+  {
+    "route": "/administration/vice-president-message",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Vice President&#x27;s Message | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 78.8,
+    "error": ""
+  },
+  {
+    "route": "/administration/principal-profile",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Principal&#x27;s Profile | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 63.3,
+    "error": ""
+  },
+  {
+    "route": "/admissions/b-category/applications",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Category-B Seats | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 52.6,
+    "error": ""
+  },
+  {
+    "route": "/admissions/admission-procedure",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Admission Procedure | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.9,
+    "error": ""
+  },
+  {
+    "route": "/admissions/b-category/apply-online/btech",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Category-B Seats | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 52.9,
+    "error": ""
+  },
+  {
+    "route": "/admissions/b-category/apply-online/mtech",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Category-B Seats | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 47.3,
+    "error": ""
+  },
+  {
+    "route": "/admissions/courses-offered",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "courses | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 55.0,
+    "error": ""
+  },
+  {
+    "route": "/admissions/b-category/apply-online/mba",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Category-B Seats | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 38.4,
+    "error": ""
+  },
+  {
+    "route": "/admissions/fee-details",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Fee Details | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 55.4,
+    "error": ""
+  },
+  {
+    "route": "/admissions/b-category/notifications",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Notifications | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 17.0,
+    "error": ""
+  },
+  {
+    "route": "/affiliation-and-accreditation",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Affiliation &amp; Accreditation | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 57.0,
+    "error": ""
+  },
+  {
+    "route": "/affiliation-and-accreditation/aicte",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "AICTE Approvals | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 59.9,
+    "error": ""
+  },
+  {
+    "route": "/affiliation-and-accreditation/iso",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ISO Certifications | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 40.6,
+    "error": ""
+  },
+  {
+    "route": "/affiliation-and-accreditation/aishe",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "AISHE Survey | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.5,
+    "error": ""
+  },
+  {
+    "route": "/affiliation-and-accreditation/jntuk",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "JNTU(K) Affiliations | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 23.3,
+    "error": ""
+  },
+  {
+    "route": "/affiliation-and-accreditation/naac",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NAAC Accreditations | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 45.2,
+    "error": ""
+  },
+  {
+    "route": "/affiliation-and-accreditation/nba",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NBA Accreditations | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 52.4,
+    "error": ""
+  },
+  {
+    "route": "/aicte-idea-lab",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "AICTE IDEA LAB | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 58.3,
+    "error": ""
+  },
+  {
+    "route": "/affiliation-and-accreditation/ugc",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "UGC Approvals | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 39.7,
+    "error": ""
+  },
+  {
+    "route": "/campus/auditorium",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Campus \u2014 Auditorium | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 37.1,
+    "error": ""
+  },
+  {
+    "route": "/awards-and-accolades",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awards And Accolades | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.5,
+    "error": ""
+  },
+  {
+    "route": "/campus/extra-co-curricular-activities",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Extra &amp; Cocurricular Activities | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 57.4,
+    "error": ""
+  },
+  {
+    "route": "/campus/gallery",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Gallery | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 27.7,
+    "error": ""
+  },
+  {
+    "route": "/campus/facilities",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Campus Facilities | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.2,
+    "error": ""
+  },
+  {
+    "route": "/campus/hostel",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Hostel | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 45.7,
+    "error": ""
+  },
+  {
+    "route": "/campus/national-service-scheme",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "National Service Scheme(NSS) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 51.7,
+    "error": ""
+  },
+  {
+    "route": "/campus/ncc",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NCC | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.4,
+    "error": ""
+  },
+  {
+    "route": "/campus/press-and-media",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "News &amp;Press Releases | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 55.5,
+    "error": ""
+  },
+  {
+    "route": "/campus/sports-and-games",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Sports &amp; Games | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 57.4,
+    "error": ""
+  },
+  {
+    "route": "/career-guidance-cell",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "CAREER GUIDANCE CELL | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 37.2,
+    "error": ""
+  },
+  {
+    "route": "/careers",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Career | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 34.7,
+    "error": ""
+  },
+  {
+    "route": "/collaboration",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Collaboration | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 34.6,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/academic-audit-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Academic Audit Committee | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 70.0,
+    "error": ""
+  },
+  {
+    "route": "/college-events",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Events and Fests | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 48.4,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/admission-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ADMISSION COMMITTEE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 65.2,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/anti-drug-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ANTI-DRUG CELL | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.2,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/examination-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "EXAMINATION COMMITTEE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 58.3,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/anti-ragging-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ANTI-RAGGING CELL | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 59.7,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/curricular-activities-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Extra-Curricular Activities Committee | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 68.9,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/finance-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Finance Committee | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 60.0,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/eof-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Equal Opportunity Facilitation Committee | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.0,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/grievance-redressal-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "GRIEVANCE REDRESSAL COMMITTEE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 38.9,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/health-watch-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Health Watch Committe | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 54.1,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/internal-complaints-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Internal Complaints Committee (ICC) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 36.3,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/library-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Library COMMITTEE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 54.0,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/obc-cell-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "OBC CELL | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 60.7,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/minority-cell-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "MINORITY CELL | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 73.6,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/planning-and-evolution-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PLANNING AND EVALUTION COMMITTEE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.4,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/sc-st-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "SC/ST COMMITTEE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 69.3,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/student-welfare-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "STUDENT WELFARE COMMITTEE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 49.3,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/academic-council",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Academic Council | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 65.0,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/ai-and-ds",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Artificial Intelligence &amp; Data Sciences | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 56.3,
+    "error": ""
+  },
+  {
+    "route": "/committees/non-statutory-committees/women-empowerment-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Women Empowerment Cell | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 62.9,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/ai-and-ml",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Artificial Intelligence &amp; Machine Learning | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 76.1,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/chemistry",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of CHEMISTRY Home Department of CHEMISTRY | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 64.1,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/civil",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Civil Engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 48.9,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/cse-iot-csbt",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Computer Science and Engineering (IoT &amp; CS including Block Chain Technology) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 61.1,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/cse",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Computer Science and Engineering Home Department of Computer Science and Engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 49.3,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/cser",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Computer Science and Engineering (Regional Language) Home Department of Computer Science and Engineering (Regional Language) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 42.6,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/csit",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Computer Science and Information Technology | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 56.1,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/eee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Electrical and Electronics Engineering Home Department of Electrical and Electronics Engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 38.7,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/physics",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of PHYSICS Home Department of PHYSICS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 47.5,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/mathematics",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of MATHEMATICS Home Department of MATHEMATICS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 53.2,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/mech",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Mechanical Engineering Home Department of Mechanical Engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 65.1,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/it",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Information Technology | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 39.4,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/governing-body",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "GOVERNING BODY MEETING | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 50.0,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/uhv-committee",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Universal Human Values (UHV) Cell Committee | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 59.3,
+    "error": ""
+  },
+  {
+    "route": "/contact-us",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Contact Us | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 88.0,
+    "error": ""
+  },
+  {
+    "route": "/curriculum_syllabus",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Curriculum and Syllabus | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 64.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/1",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Webinar on Electric Vehicles | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 64.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/100",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Entrepreneurship and innovation as a career opportunity | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 70.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/10",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "SRUJANA 2K23 12th NATIONAL LEVEL TECHNICAL SYMPOSIUM AT PACE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 74.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/103",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Blood Donation Camp | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 72.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/101",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Employability skills. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 80.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/107",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness On Vermi Compost Preparation | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 66.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/106",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness session on Entrepreneurship Training and Education | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 72.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/105",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "WORKSHOP ON ENTREPRENEURSHIP SKILL ATTITIDE &amp; BEHAVIOUR DEVELOPMENT | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 53.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/108",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness on Dairy Industry | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 51.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/102",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness session on exploring career options in civil engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 42.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/109",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ENTREPRENEURSHIP EDUCATION AND TRAINING | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/110",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Guest lecture program on Transmission line Design for High frequency Applications | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/11",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Cancer awareness ralley in Ongole. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 40.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/113",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Hands-on Generative Al Workshop | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/111",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "INTERNATIONAL DAY OF WOMEN AND GIRLS IN SCIENCE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/114",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "INNOVATIVE SHOWCASE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/117",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "India Techade chips for Viksit Bharat | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/115",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Voter awareness camp | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 40.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/116",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Workshop on Design Thinking | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/112",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Inauguration of Society for Data Science Student chapter | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/118",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Inaugural Ceremony of SRUJANA 2K24 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 49.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/12",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "JNTUK- Cyber Security Awareness Programme | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/120",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NCC Get together Programme at PITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 31.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/119",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "16th Annual Day Celebrations | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 54.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/121",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Workshop on IPRs and IP management for startups organized by IIC. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 32.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/122",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Alumni Interaction | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 32.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/123",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "AWARENESS PROGRAM ON GENDER JUSTICE&amp;WOMEN&#x27;S RIGHTS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 35.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/125",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Applications of Mathematics in Engineering and Sciences. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/124",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "National Technology Day Organised Department\u00a0of\u00a0CSIT | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/127",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "First year inauguration at PACE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 39.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/126",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "EduSkills- TechCamp | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 51.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/128",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "National Educational Policy-4th Anniversary | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 37.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/129",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE ITS 700 ft flag rally from Prakasam bhavan to Mini stadium. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 39.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/133",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "FDP-Exploring Codetantra | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/132",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "78th Independence Day Celebrations. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 40.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/13",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Sakshi Premier League Champions PACE-Diploma Team | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 53.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/134",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Swachhata Hi Seva - 2024 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 37.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/142",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "JNTUK Central Zone Inter Collegiate Ball-Badminton Tournament at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/141",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "World Earth Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 32.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/14",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Ethnic day and women&#x27;s day celebrations | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 32.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/145",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Freshmen Inauguration | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/135",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "The Art of Crafting a preliminary Research | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 29.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/143",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Technical workshop on The Future of Software Testing | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/146",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "AVISHKANDHRA 2025 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 42.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/136",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "3- Day Student Enablement Program on Artificial Intelligence | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/144",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "76th Republic Day Celebrations at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 24.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/147",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Celebrations of 79th Independence Day at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/148",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Recent Trends in Generative AI | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 45.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/150",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACEITS HACKATHON-2025 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/153",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Celebrates 150 Years of Vande Mataram | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/152",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Engineering Skills and Life Skills | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 18.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/149",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "One Day Technical Workshop on MATLAB | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 20.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/15",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "WARTECH - 2023 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 20.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/154",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE EAGLE CLUB | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 27.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/155",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Free medical camp | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 34.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/151",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Faculty Development Program - GenAI | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/156",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Sankranthi Sambaralu | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 27.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/157",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "77th Republic Day Celebrations at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/16",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "[24]7.Pool campus drive | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 35.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/159",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Vande Mataram CISF Coastal Cyclothon 2026 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/158",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Freshers Day at PACE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 49.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/161",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "CSIT, IT &amp; IOT Farewell 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 30.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/163",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ECE Farewell 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/162",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "CSE Farewell 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 49.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/167",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "AIML FAREWELL 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/165",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Winners of QIS Fest | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 5.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/166",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ME Farewell 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 27.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/168",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "AI &amp; DS FAREWELL 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/169",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Declamation competition in association with Jana Vignana Vedika | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 18.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/17",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Recent Trends of Mathematics and its Applications | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 32.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/170",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Outstanding achievements of PACE Team | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 47.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/171",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "6- Day Add on course on PCB Design | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 22.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/172",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "6- Day workshop on Cyber Security | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/173",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Guest Lecture for MBA Students | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 30.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/174",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "3-Day workshop on Generative AI | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 25.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/175",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Workshop on 3D Printing | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 39.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/176",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "One Week workshop on Quantum Computing | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 24.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/177",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE 18th Annual Sports Meet 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 22.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/18",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "EMPOWERING GIRLS ON CLOUD TECH (Eduskills TECHCAMP) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 52.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/182",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACER Alumni meet 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 45.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/181",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Festino2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 25.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/183",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "HarGharTiranga Rally | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 25.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/184",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "80th Independence Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 29.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/186",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "National Sports Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 31.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/187",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Vinayaka Chavithi - 2026 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 35.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/185",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "19th Freshmen batch Inauguration | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/188",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "TARANG 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/189",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Dasara celebrations | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 29.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/19",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "FPD:Adobe - AICTE Digital Creative Skills Workshop | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/190",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "VIKSIT BHARAT | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/2",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Energy Swaraj Yatra | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 18.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/20",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Placement Orientation Session(2020-2024 Batch) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 24.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/23",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Republic Day Celebrations | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 38.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/22",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "13th National Voters Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 45.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/24",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Free health checkup program | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/21",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Girl Child Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 35.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/25",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "15th ANNUAL SPORTS MEET | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 24.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/26",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Medical health check up camp by Apollo diagnostic. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 23.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/27",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Kabaddi and Badminton team got Runner-up by RISE fest in Jntuk central zone | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 23.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/29",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ISR cell, NCC team and NSS team organized camp at Karumanchi village | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/3",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Pace Srujana-2K22 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 34.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/30",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NSS &amp; NCC teams at kothapatnam beach cleaning service on the occasion of earth day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/34",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "International Dance Day Celebrations | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 39.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/35",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "&quot;Product Design &amp; Drafting by CATIA&quot; programme in association with APSSDC. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 23.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/36",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NATIONAL TECHNOLOGY DAY | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 50.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/33",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness program on  Drug  Abuse- Addiction and Disha mobile application | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 51.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/37",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "World Telecommunication Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/39",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "International &quot;YOGA&quot; Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 22.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/38",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "GRADUATION DAY | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 22.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/40",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Mental health awareness programme for students by Dr. Chandrasekhar, M. D, Psychiatrist | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/4",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "CGC organised an Awareness Program on &quot;Higher Education along with Job in USA with 100 percent Scholarship in association with American IT Systems&quot; | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/42",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Recent trends in Java &amp; Web Technologies | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 48.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/41",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Anti Ragging Awareness Program | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/44",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE NSS unit &amp; ISR cell organised Meri Maati Mera Desh event | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 27.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/43",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Nurturing Dicipline among girls | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/46",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "77th Independence Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 24.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/49",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Seminar - Innovation on chip design | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/47",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Charms of being an Entrepreneur | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 30.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/48",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE NISP cell organised expert Talk on sericulture. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 40.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/5",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "8th International yoga Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 31.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/50",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness programme on Myths and facts about menstrual hygiene for girls | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 59.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/52",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "UTTI CELEBRATIONS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 42.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/51",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Teachers&#x27; Day  Celebration | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 30.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/54",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Yoga and Meditation | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 14.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/53",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "GUEST LECTURE ON &quot;ROLE OF DEVOPS IN INDUSTRY&quot; | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 50.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/57",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "&quot;Matlab and it&#x27;s applications in Electrical Engineering&quot; | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 32.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/55",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ENGINEER&#x27;S DAY CELEBRATIONS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 21.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/56",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NSS unit &amp; ISR Cell- poster presentation on Chandrayan -III success | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 45.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/6",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ICC In Association with ANTI Ragging Committee | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 50.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/59",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "GANESH CHATURTHI | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/60",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Entrepreneurship and innovation as a career opportunity | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/62",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Career Opportunities for Electrical and Mechanical students in Core Industries | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/63",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Innovation &amp; Design Thinking | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/64",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Guest Lecture On Electric Vehicles | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/65",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Fit India swachhata 4.0 walk | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/66",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Guest Lecture on GFS Vs HFS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/67",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "WEBINAR ON IMPORTANCE OF CLOUD | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/68",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Student Enablement Program On Artificial Intelligence | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 28.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/69",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "EEE department conducted workshop on PCB design | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 24.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/7",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Guest Lecturer on &quot;Brain Computer Interface using Machine Learning&quot; | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 27.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/70",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "WEC held a debate competition on Women&#x27;s Reservation Bill | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 30.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/71",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "CSIT Dept. conducted &quot;Enhance your Employability Skills&quot; Program | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 31.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/73",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Dasara Celebrations at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 30.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/72",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Alumni Meet 2K23 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/76",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Police Commemoration Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 35.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/75",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Skill oriented course  Joy of computing using python | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 25.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/77",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "National Unity day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/78",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Dept of CSE-R organized a virtual guest talk on &quot;Life in Software Cycle&quot; | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 42.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/79",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "WEC conducted Awareness on Disha app | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/8",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Staff Sankranthi sambaralu - 2023 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 24.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/83",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE NSS and NCC participated in the AIDS day rally at Prakasam bhavan , Ongole | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 60.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/84",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "CHE Movie promotion at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 54.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/81",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NCC Day Celebrations @PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 37.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/82",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "three days free eye check up camp , organized by health watching committee | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 27.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/80",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "WEC organized a competition on the occasion of International Day for the Elimination of Violence against Women. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 34.4,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/86",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Coders Club organised Codeathon Level - 1 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/87",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Launch of viksit bharath @2047 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/85",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "A SIX-DAYFDP ON EMERGING RESEARCH AREA IN ADVANCE VLSI SYSTEM DESIGN&amp;CHALENGES | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 48.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/89",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness programme on Beyond Boundaries Breaking the chains of Ragging, Cybercrime and Harassment. | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 64.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/88",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "26th IPSGM District level | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 38.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/90",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "5 Days Faculty Development Program On AWS Organized By The Department of AIML &amp; AIDS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/9",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "polytechnic students hasbeen Bagged Athletics and Games overall Championship in District level 25th Inter polytechnic Sports and Games Meet | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 38.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/91",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "FDP on AWS by Dept of AIML and AIDS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 31.0,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/92",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "IGNITE 6.0 workshop | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 34.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/94",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE NSS Unit -I and ISR cell organised mega blood donation camp | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 48.6,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/93",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness on Read Traffic Accidents | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.1,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/97",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness Programme on Health Issues | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 34.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/95",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Session on Personality Development and Career Guidance | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 53.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/96",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "competition event on Plan and Draftin | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 22.2,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/98",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Debate and TED talks competition | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 50.4,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/1",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Srujana | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/99",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "75th REPUBLIC DAY | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 29.1,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/11",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Sports | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 57.7,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/10",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NSS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 58.9,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/12",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Family Time | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.9,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/15",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "GRADUATION  DAY 2K23 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 30.7,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/17",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "FRESHER&#x27;S INAUGURATION CELEBRATIONS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 31.8,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/14",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Library | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 60.3,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/16",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "MBA FAREWELL FUNCTION | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.9,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/13",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Women Empowerment | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.2,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/19",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Graduation Day 2K24 at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 54.6,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/18",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Sankranthi Sambaralu at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 37.5,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/2",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Placements | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.5,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/22",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE has MoU with Universiti Teknikal Malaysia Melaka (UTeM) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 39.9,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/21",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Ganesh Chaturthi pooja at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 38.7,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/23",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "GRADUATION DAY 2K25 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 53.6,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/25",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "GRADUATION CEREMONY 2026 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.7,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/26",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACER Alumni meet 2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.7,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/27",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "AICTE IDEA LAB INAUGURATION | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.8,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/24",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Festino2K26 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.3,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/4",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Workshops &amp; Conferences | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 45.0,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/5",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Merit Scholarship | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 44.3,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/3",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Project Expo | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 36.5,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/6",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Cultural | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 48.8,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/7",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Alumni meet | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 37.8,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/8",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Health watch committee | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 31.1,
+    "error": ""
+  },
+  {
+    "route": "/display-gallery/9",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "NCC | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 25.0,
+    "error": ""
+  },
+  {
+    "route": "/graduation-day-report-2",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "2nd Graduation Day Report | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 65.5,
+    "error": ""
+  },
+  {
+    "route": "/elearning",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "E-LEARNING | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 92.3,
+    "error": ""
+  },
+  {
+    "route": "/graduation-day-report-1",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "1st Graduation Day Report | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 75.2,
+    "error": ""
+  },
+  {
+    "route": "/graduation-day-report-3",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "3rd Graduation Day Report | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 69.7,
+    "error": ""
+  },
+  {
+    "route": "/graduation-day-report-4",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "4th Graduation Day Report | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 55.1,
+    "error": ""
+  },
+  {
+    "route": "/administration/secretary-message",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Secretary\u2019s Message | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 75.9,
+    "error": ""
+  },
+  {
+    "route": "/",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 18.1,
+    "error": ""
+  },
+  {
+    "route": "/icsr",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ICSR (Industrial Consultancy &amp; Sponsored Research) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 61.3,
+    "error": ""
+  },
+  {
+    "route": "/campus/campus-tour",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Campus Tour | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 55.8,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/ece",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Electronics and Communication Engineering Home Department of Electronics and Communication Engineering | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.6,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/english",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ENGLISH Home Department of ENGLISH | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 48.7,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/130",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "National Sports Day at PACE ITS | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 37.7,
+    "error": ""
+  },
+  {
+    "route": "/committees/statutory-committees/board-of-studies/mba",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Department of Masters in  Business Administration | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/131",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE HACK FEST 2024 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 26.9,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/28",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Coding Competition PACE CODEATHON - 1 | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 50.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/137",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Legal Service Day | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 35.3,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/45",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Deworming drug (ALBENDAZOLE) distribution | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 52.8,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/58",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "SBI EDUCATIONAL LOANS FOR MASTERS PROGRAM IN ABROAD | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 34.7,
+    "error": ""
+  },
+  {
+    "route": "/isr",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ISR | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 27.5,
+    "error": ""
+  },
+  {
+    "route": "/display-events-gallery/61",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Awareness program on Substance Abuse | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 64.6,
+    "error": ""
+  },
+  {
+    "route": "/iqac",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Internal Quality Assurance Cell | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 47.1,
+    "error": ""
+  },
+  {
+    "route": "/organization-chart",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Organisation Chart | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 64.5,
+    "error": ""
+  },
+  {
+    "route": "/regulations",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Curriculum and Syllabus | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 39.5,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/about-research-and-development",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "About Research &amp; Development | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 57.9,
+    "error": ""
+  },
+  {
+    "route": "/pace-at-glance",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Pace At a Glance | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 41.2,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/ariia",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ARIIA | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 45.8,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/consultancy",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Consultancy Works | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 55.9,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/iic",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Institution Innovation Council (IIC) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 35.2,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/edc",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "ABOUT EDC | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 40.9,
+    "error": ""
+  },
+  {
+    "route": "/placements-records",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Placement Records | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 76.5,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/pace-publishers",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Publishers | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 83.6,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/patents",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Patents | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 32.2,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/industry",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Industry institution interaction | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 33.5,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/research-centers",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Research Centers | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 89.6,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/publications-and-patents",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Research &amp; Development | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 75.9,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/sponsored-projects",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Sponsored Projects | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 68.4,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/scholars",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Research Supervisors and Scholars | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 72.2,
+    "error": ""
+  },
+  {
+    "route": "/tpo",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "From The Desk of TPO | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 76.8,
+    "error": ""
+  },
+  {
+    "route": "/skill-development",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Resources for Skill Development | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 66.8,
+    "error": ""
+  },
+  {
+    "route": "/why-pace",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "WHY PACE | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.7,
+    "error": ""
+  },
+  {
+    "route": "/vision-and-mission",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Vision &amp; Mission | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 43.3,
+    "error": ""
+  },
+  {
+    "route": "/trainings-and-placements",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Training &amp; Placements | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 53.3,
+    "error": ""
+  },
+  {
+    "route": "/newsletters",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "News Letter | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 46.1,
+    "error": ""
+  },
+  {
+    "route": "/privacypolicy",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Privacy Policy for PACE Institute of Technology &amp; Sciences (pace.ac.in) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 75.5,
+    "error": ""
+  },
+  {
+    "route": "/academics/departments/mech",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "DEPARTMENT OF MECHANICAL ENGINEERING | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 65.8,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/mou-partners",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "MOUs | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 98.7,
+    "error": ""
+  },
+  {
+    "route": "/uploads/gallery/17874022949976.pacepoc_1787402292.php",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 59.4,
+    "error": ""
+  },
+  {
+    "route": "/qic",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Qic | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 93.6,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/national-innovation-startup-policy",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "National Innovation Startup Policy (NISP) | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 84.0,
+    "error": ""
+  },
+  {
+    "route": "/research-and-development/proffessional-bodies",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Professional Bodies | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 88.7,
+    "error": ""
+  },
+  {
+    "route": "/termsandconditions",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "Terms &amp; Conditions | PACE ITS | PACE Institute of Technology &amp; Sciences",
+    "duration_ms": 72.6,
+    "error": ""
+  },
+  {
+    "route": "/admin",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 86.2,
+    "error": ""
+  },
+  {
+    "route": "/admin/admissions",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 86.2,
+    "error": ""
+  },
+  {
+    "route": "/admin/audit-logs",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 83.0,
+    "error": ""
+  },
+  {
+    "route": "/admin/courses",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 76.0,
+    "error": ""
+  },
+  {
+    "route": "/admin/departments",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 71.4,
+    "error": ""
+  },
+  {
+    "route": "/admin/documents",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 69.6,
+    "error": ""
+  },
+  {
+    "route": "/admin/faculty",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 84.8,
+    "error": ""
+  },
+  {
+    "route": "/admin/gallery",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 90.4,
+    "error": ""
+  },
+  {
+    "route": "/admin/login",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 66.1,
+    "error": ""
+  },
+  {
+    "route": "/admin/news",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 63.7,
+    "error": ""
+  },
+  {
+    "route": "/admin/pages",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 64.9,
+    "error": ""
+  },
+  {
+    "route": "/admin/placements",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 46.6,
+    "error": ""
+  },
+  {
+    "route": "/admin/research",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 44.8,
+    "error": ""
+  },
+  {
+    "route": "/admin/settings",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 45.5,
+    "error": ""
+  },
+  {
+    "route": "/admin/users",
+    "status": "PASS",
+    "http_code": 200,
+    "title": "PACE Institute of Technology &amp; Sciences | Autonomous Institution",
+    "duration_ms": 27.4,
+    "error": ""
+  }
+]
