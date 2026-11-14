@@ -7,11 +7,9 @@ import { siteConfig } from '@/data/siteConfig';
 
 export const AdmissionCta: React.FC = () => {
   return (
-    <section className="py-20 bg-gradient-to-r from-[#072438] via-[#0B2C43] to-[#072438] text-white relative overflow-hidden font-sans">
-      <div className="absolute inset-0 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:24px_24px] opacity-10 pointer-events-none" />
-
+    <section className="py-20 bg-[#072438] text-white relative font-sans border-t border-slate-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-        <div className="bg-white/5 border border-white/10 backdrop-blur-md rounded-3xl p-8 sm:p-12 shadow-2xl">
+        <div className="bg-[#0B2C43] border border-slate-700 rounded-2xl p-8 sm:p-12 shadow-xl">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
             <div className="lg:col-span-8 space-y-4">
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#E5AD35]/20 border border-[#E5AD35]/30 text-[#E5AD35] text-xs font-bold uppercase tracking-wider">
@@ -45,7 +43,7 @@ export const AdmissionCta: React.FC = () => {
             <div className="lg:col-span-4 flex flex-col space-y-3">
               <Link
                 href="/admissions/b-category/apply-online/btech"
-                className="w-full py-3.5 px-6 text-center bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-sm uppercase tracking-wider rounded-xl shadow-lg transition-all transform hover:-translate-y-0.5 flex items-center justify-center gap-2"
+                className="w-full py-3.5 px-6 text-center bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-sm uppercase tracking-wider rounded-xl shadow-md transition-colors flex items-center justify-center gap-2"
               >
                 <span>Apply for B.Tech Online</span>
                 <ArrowRight className="w-4 h-4" />
@@ -53,7 +51,7 @@ export const AdmissionCta: React.FC = () => {
 
               <Link
                 href="/admissions/b-category/apply-online/mba"
-                className="w-full py-3 px-6 text-center bg-white/10 hover:bg-white/20 text-white border border-white/20 font-semibold text-xs sm:text-sm uppercase tracking-wider rounded-xl transition-all"
+                className="w-full py-3 px-6 text-center bg-white/10 hover:bg-white/20 text-white border border-white/20 font-semibold text-xs sm:text-sm uppercase tracking-wider rounded-xl transition-colors"
               >
                 Apply for MBA Program
               </Link>

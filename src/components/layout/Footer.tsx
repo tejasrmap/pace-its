@@ -13,25 +13,29 @@ export const Footer: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-wrap items-center justify-between gap-6">
             <div className="flex items-center space-x-3.5">
-              <div className="w-11 h-11 rounded-xl bg-gradient-to-tr from-[#E5AD35] to-[#F6C54A] text-[#0B2C43] font-heading font-bold text-2xl flex items-center justify-center shadow">
-                P
+              <div className="h-12 w-auto bg-white rounded-lg p-1 shrink-0 flex items-center justify-center">
+                <img
+                  src="/assets/branding/pace-logo.png"
+                  alt="PACE Institute of Technology & Sciences"
+                  className="h-10 w-auto object-contain"
+                />
               </div>
               <div>
                 <h3 className="font-heading text-lg sm:text-xl font-bold text-white tracking-wide uppercase">
                   PACE INSTITUTE OF TECHNOLOGY & SCIENCES (AUTONOMOUS)
                 </h3>
                 <p className="text-xs text-[#E5AD35] font-semibold">
-                  Approved by AICTE, New Delhi • Permanently Affiliated to JNTUK • Accredited by NAAC with 'A+' Grade
+                  Approved by AICTE, New Delhi • Permanently Affiliated to JNTUK • Accredited by NAAC with 'A' Grade (Cycle-1)
                 </p>
               </div>
             </div>
 
             <div className="flex flex-wrap items-center gap-2.5">
-              <span className="px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] shadow">
+              <span className="px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] shadow-sm">
                 UGC AUTONOMOUS
               </span>
               <span className="px-3 py-1 rounded-full text-xs font-bold bg-white/10 text-white border border-white/20">
-                NAAC 'A+' GRADE
+                NAAC 'A' GRADE
               </span>
               <span className="px-3 py-1 rounded-full text-xs font-bold bg-white/10 text-white border border-white/20">
                 NBA ACCREDITED

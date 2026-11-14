@@ -37,7 +37,6 @@ export const InstitutionalTemplate: React.FC<InstitutionalTemplateProps> = ({ pa
     <div className="bg-[#F8FAFB] min-h-screen font-sans">
       {/* Editorial Header */}
       <div className="bg-[#0B2C43] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E5AD35]">
-        <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:16px_16px]" />
         <Container className="relative z-10 space-y-3">
           <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider">
             <Building className="w-3.5 h-3.5" />
@@ -132,15 +131,15 @@ export const InstitutionalTemplate: React.FC<InstitutionalTemplateProps> = ({ pa
             </div>
 
             {/* Accreditation Badge Widget */}
-            <div className="bg-gradient-to-br from-[#123D5A] to-[#0B2C43] rounded-2xl p-6 text-white shadow-md border border-[#E5AD35]/30 space-y-3">
+            <div className="bg-[#123D5A] rounded-2xl p-6 text-white shadow-md border border-[#E5AD35]/30 space-y-3">
               <span className="text-[10px] font-bold bg-[#E5AD35] text-[#0B2C43] px-2.5 py-0.5 rounded-full uppercase">
                 Accreditation
               </span>
               <h4 className="font-heading font-bold text-lg text-white uppercase">
-                NAAC Grade 'A+'
+                NAAC 'A' Grade
               </h4>
               <p className="text-xs text-slate-300 leading-relaxed">
-                PACE Institute of Technology & Sciences is accredited by the National Assessment and Accreditation Council (NAAC) with 'A+' Grade in Cycle-2 with the highest CGPA in Prakasam District.
+                PACE Institute of Technology & Sciences is accredited by the National Assessment and Accreditation Council (NAAC) with 'A' Grade (Cycle-1) and recognized as an Autonomous Institution by UGC.
               </p>
             </div>
           </div>

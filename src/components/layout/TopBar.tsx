@@ -19,7 +19,7 @@ export const TopBar: React.FC = () => {
             EAPCET Code: <span className="text-amber-300 font-bold">PACE</span>
           </span>
           <span className="text-slate-400">•</span>
-          <span className="text-slate-300 text-xs">NAAC 'A+' Grade</span>
+          <span className="text-slate-300 text-xs">NAAC 'A' Grade (Cycle-1)</span>
           <span className="text-slate-400">•</span>
           <span className="text-slate-300 text-xs">NBA Accredited Programs</span>
           <span className="text-slate-400">•</span>

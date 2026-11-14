@@ -15,9 +15,9 @@ module.exports = {
           'gold-light': '#F6C54A',
           bg: '#F8FAFB',
           'bg-alt': '#F1F4F6',
-          text: '#172B3A',
-          'text-muted': '#687783',
-          border: '#E2E8F0',
+          text: '#1D2935',
+          'text-muted': '#66727D',
+          border: '#E1E6EA',
         },
         navy: {
           DEFAULT: '#123D5A',

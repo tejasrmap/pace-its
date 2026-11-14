@@ -20,7 +20,7 @@ export const PlacementsHighlight: React.FC = () => {
         {/* Top Header */}
         <SectionHeading
           eyebrow="Training & Placement Cell"
-          title="Record-Setting Campus Placements"
+          title="Training & Campus Placements"
           description="Equipping PACE graduates with rigorous coding bootcamps, aptitude mastery, mock interviews, and industry-tailored placement tracks."
           align="center"
         />

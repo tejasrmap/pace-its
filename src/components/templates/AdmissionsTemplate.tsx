@@ -78,7 +78,6 @@ export const AdmissionsTemplate: React.FC<AdmissionsTemplateProps> = ({ page }) 
     <div className="bg-[#F8FAFB] min-h-screen font-sans">
       {/* Header Banner */}
       <div className="bg-[#0B2C43] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E5AD35]">
-        <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:16px_16px]" />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 space-y-3">
           <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider">
             <GraduationCap className="w-3.5 h-3.5" />
@@ -88,7 +87,7 @@ export const AdmissionsTemplate: React.FC<AdmissionsTemplateProps> = ({ page }) 
             {page.title}
           </h1>
           <p className="text-slate-300 text-sm sm:text-base max-w-3xl font-light leading-relaxed">
-            PACE Institute of Technology & Sciences — Autonomous Institution accredited with NAAC 'A+' Grade and NBA.
+            PACE Institute of Technology & Sciences — Autonomous Institution accredited with NAAC 'A' Grade (Cycle-1) and NBA.
           </p>
         </div>
       </div>

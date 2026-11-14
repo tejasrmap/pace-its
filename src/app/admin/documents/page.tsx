@@ -40,7 +40,7 @@ const INITIAL_DOCS: InstitutionalDoc[] = [
   },
   {
     id: 'DOC-003',
-    title: 'NAAC Self Study Report (SSR) — Cycle 1 (Grade A+)',
+    title: 'NAAC Self Study Report (SSR) — Cycle 1 (Grade A)',
     category: 'Accreditation & Approvals',
     fileName: 'NAAC_SSR_PACE_ITS_Cycle1.pdf',
     fileSize: '14.2 MB',

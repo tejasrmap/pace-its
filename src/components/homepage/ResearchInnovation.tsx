@@ -38,9 +38,7 @@ const researchHighlights = [
 
 export const ResearchInnovation: React.FC = () => {
   return (
-    <section className="py-20 bg-gradient-to-br from-[#072438] via-[#0B2C43] to-[#072438] text-white relative overflow-hidden font-sans">
-      <div className="absolute inset-0 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:24px_24px] opacity-10 pointer-events-none" />
-
+    <section className="py-20 bg-[#072438] text-white relative font-sans border-t border-slate-800">
       <Container className="relative z-10">
         <div className="flex flex-col lg:flex-row lg:items-end justify-between mb-12 gap-4">
           <div>
@@ -58,7 +56,7 @@ export const ResearchInnovation: React.FC = () => {
           <div className="shrink-0">
             <Link
               href="/research-and-development/about-research-and-development"
-              className="inline-flex items-center gap-2 px-5 py-3 bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-xs sm:text-sm uppercase tracking-wider rounded-xl transition shadow-lg"
+              className="inline-flex items-center gap-2 px-5 py-3 bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-xs sm:text-sm uppercase tracking-wider rounded-xl transition shadow-md"
             >
               <span>Explore Research Cell</span>
               <ArrowRight className="w-4 h-4" />
@@ -72,7 +70,7 @@ export const ResearchInnovation: React.FC = () => {
             return (
               <div
                 key={idx}
-                className="bg-white/5 border border-white/10 backdrop-blur-md rounded-2xl p-6 hover:border-[#E5AD35] transition-all flex flex-col justify-between group hover:-translate-y-1"
+                className="bg-[#0B2C43] border border-slate-700/80 rounded-2xl p-6 hover:border-[#E5AD35] transition-colors flex flex-col justify-between group"
               >
                 <div>
                   <div className="flex items-center justify-between mb-4">
@@ -92,13 +90,13 @@ export const ResearchInnovation: React.FC = () => {
                   </p>
                 </div>
 
-                <div className="pt-4 mt-6 border-t border-white/10">
+                <div className="pt-4 mt-6 border-t border-slate-700">
                   <Link
                     href={r.link}
                     className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-300 group-hover:text-white transition"
                   >
                     <span>Learn More</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35] group-hover:translate-x-1 transition-transform" />
+                    <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35]" />
                   </Link>
                 </div>
               </div>

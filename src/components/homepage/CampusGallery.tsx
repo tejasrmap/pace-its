@@ -3,39 +3,39 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Camera, ArrowRight, Calendar, Sparkles } from 'lucide-react';
+import { Camera, ArrowRight, Calendar } from 'lucide-react';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { Container } from '@/components/ui/Container';
 
 export const CampusGallery: React.FC = () => {
   const galleryItems = [
     {
-      title: 'Annual Day Celebrations & Cultural Fest',
-      category: 'Campus Life',
-      date: 'March 2024',
-      image: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=800&q=80',
-      link: '/display-events-gallery/119',
+      title: 'Institutional Auditorium & Convocations',
+      category: 'Campus Facilities',
+      date: 'Central Auditorium',
+      image: '/assets/campus/auditorium.jpg',
+      link: '/campus/auditorium',
     },
     {
-      title: 'International Conference on Smart Technologies',
-      category: 'Research & Academics',
-      date: 'January 2024',
-      image: 'https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80',
-      link: '/display-events-gallery/130',
+      title: 'Advanced Computer & Programming Labs',
+      category: 'Academic Infrastructure',
+      date: 'CSE Department',
+      image: '/assets/campus/cse_lab.jpg',
+      link: '/academics/departments/cse',
     },
     {
-      title: 'State Level Sports Meet & Athletic Championship',
-      category: 'Sports & Athletics',
-      date: 'February 2024',
-      image: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=800&q=80',
-      link: '/display-events-gallery/151',
+      title: 'Campus Dining & Student Canteen',
+      category: 'Student Amenities',
+      date: 'Student Canteen',
+      image: '/assets/campus/canteen.jpg',
+      link: '/campus/facilities',
     },
     {
-      title: 'AICTE IDEA Lab Hands-on Innovation Workshop',
-      category: 'Innovation',
-      date: 'November 2023',
-      image: 'https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80',
-      link: '/display-events-gallery/165',
+      title: 'Institutional Fleet & Transport Logistics',
+      category: 'Campus Services',
+      date: 'Transport Fleet',
+      image: '/assets/campus/transport.jpg',
+      link: '/campus/facilities',
     },
   ];
 

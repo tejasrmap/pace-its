@@ -91,15 +91,24 @@ export default function AdminResearchManager() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [editingRecord, setEditingRecord] = useState<ResearchRecord | null>(null);
 
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState<{
+    title: string;
+    investigator: string;
+    department: string;
+    type: ResearchRecord['type'];
+    fundingAgencyOrJournal: string;
+    sanctionedAmount: string;
+    year: string;
+    status: ResearchRecord['status'];
+  }>({
     title: '',
     investigator: '',
     department: 'CSE',
-    type: 'PATENT' as const,
+    type: 'PATENT',
     fundingAgencyOrJournal: '',
     sanctionedAmount: 'N/A',
     year: '2024',
-    status: 'PUBLISHED' as const,
+    status: 'PUBLISHED',
   });
 
   const filtered = useMemo(() => {

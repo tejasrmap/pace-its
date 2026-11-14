@@ -38,10 +38,18 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: PageProps) {
-  const currentPath = '/' + params.slug.join('/');
+  const rawPath = '/' + params.slug.join('/');
+  const decodedPath = decodeURIComponent(rawPath);
+  const normalizedPath = decodedPath.replace(/ /g, '-');
+
   const page =
-    pagesData[currentPath] ||
-    Object.values(pagesData).find((p: any) => p.canonicalPath === currentPath);
+    pagesData[decodedPath] ||
+    pagesData[normalizedPath] ||
+    Object.values(pagesData).find(
+      (p: any) =>
+        p.canonicalPath.toLowerCase() === decodedPath.toLowerCase() ||
+        p.canonicalPath.toLowerCase() === normalizedPath.toLowerCase()
+    );
 
   if (!page) {
     return {
@@ -59,16 +67,22 @@ export async function generateMetadata({ params }: PageProps) {
 }
 
 export default function DynamicPage({ params }: PageProps) {
-  const currentPath = '/' + params.slug.join('/');
+  const rawPath = '/' + params.slug.join('/');
+  const decodedPath = decodeURIComponent(rawPath);
+  const normalizedPath = decodedPath.replace(/ /g, '-');
 
   // Exact match or fallback
-  let page = pagesData[currentPath];
+  let page = pagesData[decodedPath] || pagesData[normalizedPath];
   if (!page) {
     // Try finding matching path regardless of slight formatting differences
     page = Object.values(pagesData).find(
-      (p: any) => p.canonicalPath.toLowerCase() === currentPath.toLowerCase()
+      (p: any) =>
+        p.canonicalPath.toLowerCase() === decodedPath.toLowerCase() ||
+        p.canonicalPath.toLowerCase() === normalizedPath.toLowerCase()
     );
   }
+
+  const currentPath = page?.canonicalPath || normalizedPath;
 
   if (!page) {
     // If route is a parent category like /committees/statutory-committees, provide directory

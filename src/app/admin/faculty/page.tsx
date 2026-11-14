@@ -147,7 +147,18 @@ export default function AdminFacultyManager() {
   const [editingMember, setEditingMember] = useState<FacultyMember | null>(null);
 
   // Form State
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState<{
+    name: string;
+    designation: string;
+    department: string;
+    qualification: string;
+    experience: string;
+    specialization: string;
+    email: string;
+    phone: string;
+    publications: number;
+    status: FacultyMember['status'];
+  }>({
     name: '',
     designation: 'Assistant Professor',
     department: 'Computer Science and Engineering',
@@ -157,7 +168,7 @@ export default function AdminFacultyManager() {
     email: '',
     phone: '',
     publications: 0,
-    status: 'ACTIVE' as const,
+    status: 'ACTIVE',
   });
 
   const filtered = useMemo(() => {

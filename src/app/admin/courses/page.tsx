@@ -170,16 +170,26 @@ export default function AdminCoursesManager() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [editingCourse, setEditingCourse] = useState<AcademicCourse | null>(null);
 
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState<{
+    code: string;
+    name: string;
+    degree: AcademicCourse['degree'];
+    department: string;
+    intake: number;
+    duration: string;
+    regulation: string;
+    nbaStatus: AcademicCourse['nbaStatus'];
+    status: AcademicCourse['status'];
+  }>({
     code: '',
     name: '',
-    degree: 'B.Tech' as const,
+    degree: 'B.Tech',
     department: 'CSE',
     intake: 60,
     duration: '4 Years',
     regulation: 'PR-23',
-    nbaStatus: 'Accredited' as const,
-    status: 'ACTIVE' as const,
+    nbaStatus: 'Accredited',
+    status: 'ACTIVE',
   });
 
   const filtered = useMemo(() => {

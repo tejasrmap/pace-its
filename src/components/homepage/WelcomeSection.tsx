@@ -5,12 +5,12 @@ import Link from 'next/link';
 import { Award, Users, BookOpen, Building, CheckCircle2, ArrowRight } from 'lucide-react';
 
 const stats = [
-  { number: "850+", label: "Placement Offers", sub: "Annual corporate selections" },
-  { number: "60+", label: "Acres Campus", sub: "Lush green infrastructure" },
-  { number: "13", label: "Specialized Depts", sub: "AI, CSE, Core & Management" },
-  { number: "32", label: "Patents Published", sub: "Cutting-edge innovation" },
-  { number: "240+", label: "Faculty Cadre", sub: "68+ Ph.D. scholars" },
-  { number: "A+", label: "NAAC Grade", sub: "UGC Autonomous status" },
+  { number: "2008", label: "Established", sub: "Srinivasa Educational Society" },
+  { number: "110+", label: "Acres Campus", sub: "Sprawling campus on NH-16" },
+  { number: "13", label: "Academic Depts", sub: "UG, PG & Polytechnic" },
+  { number: "PACE", label: "EAPCET Code", sub: "Autonomous institution code" },
+  { number: "NBA", label: "Accredited", sub: "Eligible engineering programs" },
+  { number: "A", label: "NAAC Grade", sub: "Cycle 1, UGC Autonomous" },
 ];
 
 export const WelcomeSection: React.FC = () => {
@@ -36,7 +36,7 @@ export const WelcomeSection: React.FC = () => {
             </p>
 
             <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
-              Accredited with <strong>NAAC 'A+' Grade</strong> and recognized under Section 2(f) and 12(B) of the UGC Act, PACE ITS delivers outcome-based technical education across 13 engineering and postgraduate disciplines, supported by advanced research centers, AICTE IDEA Laboratory, and robust industry partnerships.
+              Accredited with <strong>NAAC 'A' Grade (Cycle-1)</strong> and recognized under Section 2(f) and 12(B) of the UGC Act, PACE ITS delivers outcome-based technical education across 13 engineering and postgraduate disciplines, supported by advanced research centers, AICTE IDEA Laboratory, and robust industry partnerships.
             </p>
 
             {/* Highlights bullet list */}

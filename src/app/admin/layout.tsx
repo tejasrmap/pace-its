@@ -216,7 +216,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
                 </div>
                 <div className="flex justify-between">
                   <span>Accreditation:</span>
-                  <span className="font-semibold text-emerald-400">NAAC A+</span>
+                  <span className="font-semibold text-emerald-400">NAAC 'A' Grade</span>
                 </div>
                 <div className="flex justify-between">
                   <span>Affiliation:</span>

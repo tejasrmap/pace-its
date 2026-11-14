@@ -113,15 +113,24 @@ export default function AdminPlacementsManager() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [editingDrive, setEditingDrive] = useState<PlacementDrive | null>(null);
 
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState<{
+    companyName: string;
+    driveDate: string;
+    academicYear: string;
+    ctcOffered: string;
+    offersCount: number;
+    departmentsEligible: string;
+    status: PlacementDrive['status'];
+    tier: PlacementDrive['tier'];
+  }>({
     companyName: '',
     driveDate: '',
     academicYear: '2024-25',
     ctcOffered: '₹4.5 LPA',
     offersCount: 10,
     departmentsEligible: 'CSE, ECE, EEE',
-    status: 'COMPLETED' as const,
-    tier: 'Standard' as const,
+    status: 'COMPLETED',
+    tier: 'Standard',
   });
 
   const filtered = useMemo(() => {

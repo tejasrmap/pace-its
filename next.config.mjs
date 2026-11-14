@@ -18,12 +18,7 @@ const nextConfig = {
       }
     ],
   },
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  typescript: {
-    ignoreBuildErrors: true,
-  }
+  // Strict type checking and linting enabled for production builds
 };
 
 export default nextConfig;

@@ -34,16 +34,20 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose }) => {
         {/* Drawer Header */}
         <div className="p-4 flex items-center justify-between border-b border-[#123D5A] bg-[#071E2E]">
           <div className="flex items-center space-x-2.5">
-            <span className="w-9 h-9 rounded-xl bg-gradient-to-tr from-[#E5AD35] to-[#F6C54A] text-[#0B2C43] font-black text-xl flex items-center justify-center font-condensed">
-              P
-            </span>
+            <div className="h-10 w-auto bg-white rounded-lg p-1 shrink-0 flex items-center justify-center">
+              <img
+                src="/assets/branding/pace-logo.png"
+                alt="PACE ITS"
+                className="h-8 w-auto object-contain"
+              />
+            </div>
             <div>
-              <div className="font-bold text-sm tracking-wide text-white uppercase font-condensed">
+              <div className="font-bold text-sm tracking-wide text-white uppercase font-heading">
                 PACE ITS
               </div>
               <div className="text-[10px] text-[#E5AD35] font-semibold tracking-wider flex items-center gap-1">
                 <ShieldCheck className="w-3 h-3" />
-                <span>UGC AUTONOMOUS • NAAC A+</span>
+                <span>UGC AUTONOMOUS • NAAC 'A' GRADE</span>
               </div>
             </div>
           </div>

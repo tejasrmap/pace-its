@@ -7,7 +7,7 @@ import { Bell, ArrowRight } from 'lucide-react';
 const newsItems = [
   { text: "Admissions Open for Academic Year 2026–27 (B.Tech, M.Tech, MBA & Polytechnic Diploma) — Apply Online", href: "/admissions/b-category/apply-online/btech" },
   { text: "Autonomous B.Tech Academic Regulations PR-23 & Detailed Syllabi Published — View Department Copies", href: "/regulations" },
-  { text: "Campus Placements 2024–2026: 850+ Job Offers Recorded with Top Multinational Corporates", href: "/placements-records" },
+  { text: "Campus Placements: Annual Placement Drives with Top Multinational Corporates — View Records", href: "/placements-records" },
   { text: "Autonomous Examinations Cell: Semester End Time Tables and Hall Tickets Available", href: "/0/examinations-cell" },
   { text: "AICTE IDEA LAB Innovation Workshop & Project Exhibitions Scheduled for Next Month", href: "/aicte-idea-lab" },
 ];

@@ -34,7 +34,6 @@ export const PlacementTemplate: React.FC<PlacementTemplateProps> = ({ page }) =>
     <div className="bg-[#F8FAFB] min-h-screen font-sans">
       {/* Header Banner */}
       <div className="bg-[#0B2C43] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E5AD35]">
-        <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:16px_16px]" />
         <Container className="relative z-10 space-y-3">
           <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider">
             <TrendingUp className="w-3.5 h-3.5" />

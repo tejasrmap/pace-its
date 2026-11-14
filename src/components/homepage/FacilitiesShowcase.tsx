@@ -9,7 +9,7 @@ import { Container } from '@/components/ui/Container';
 const facilities = [
   {
     icon: Building,
-    title: "60-Acre Eco-Friendly Campus",
+    title: "110+ Acre Green Campus",
     desc: "Expansive green academic zone situated along NH-16 with modern academic blocks, solar energy infrastructure, and landscaped gardens.",
     link: "/campus/facilities"
   },
@@ -52,7 +52,7 @@ export const FacilitiesShowcase: React.FC = () => {
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-4">
           <SectionHeading
             eyebrow="Campus Infrastructure"
-            title="World-Class Campus Living & Facilities"
+            title="Campus Living & Academic Facilities"
             description="Purpose-built infrastructure designed to foster academic concentration, student well-being, and vibrant extracurricular pursuits."
             align="left"
           />
