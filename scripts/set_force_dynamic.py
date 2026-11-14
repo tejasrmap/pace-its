@@ -22,3 +22,4 @@ for root, dirs, files in os.walk(api_dir):
 print(f'Modified API routes count: {len(modified)}')
 for m in modified:
     print(f'  {m}')
+
