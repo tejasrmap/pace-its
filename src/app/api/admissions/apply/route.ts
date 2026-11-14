@@ -2,6 +2,8 @@ import { NextRequest, NextResponse } from 'next/server';
 import { z } from 'zod';
 import prisma from '@/lib/db';
 
+export const dynamic = 'force-dynamic';
+
 const applicationSchema = z.object({
   candidateName: z.string().min(2, 'Full name is required'),
   fatherName: z.string().min(2, "Father's name is required"),
