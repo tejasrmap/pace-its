@@ -5,7 +5,8 @@ import Link from 'next/link';
 import { Breadcrumb } from '@/components/ui/Breadcrumb';
 import { DataTable } from '@/components/ui/DataTable';
 import { DocumentList } from '@/components/ui/DocumentList';
-import { Building, ShieldCheck, FileText, ArrowRight } from 'lucide-react';
+import { Building, ShieldCheck, ArrowRight, Award } from 'lucide-react';
+import { Container } from '@/components/ui/Container';
 
 interface InstitutionalTemplateProps {
   page: any;
@@ -17,51 +18,79 @@ export const InstitutionalTemplate: React.FC<InstitutionalTemplateProps> = ({ pa
     { name: page.title }
   ];
 
+  const quickLinks = [
+    { title: "PACE at a Glance", href: "/pace-at-glance" },
+    { title: "Vision & Mission", href: "/vision-and-mission" },
+    { title: "Affiliation & Accreditation", href: "/affiliation-and-accreditation" },
+    { title: "Organization Chart", href: "/organization-chart" },
+    { title: "Awards & Accolades", href: "/awards-and-accolades" },
+    { title: "Why PACE ITS", href: "/why-pace" },
+    { title: "Admissions Procedure", href: "/admissions/admission-procedure" },
+    { title: "Contact Us", href: "/contact-us" },
+  ];
+
+  const paragraphs = page.fullText
+    ? page.fullText.split('\n\n').filter((p: string) => p.trim().length > 15)
+    : [];
+
   return (
-    <div className="bg-[#F5F7F9] min-h-screen">
+    <div className="bg-[#F8FAFB] min-h-screen font-sans">
       {/* Editorial Header */}
-      <div className="bg-[#052D49] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E9AC21]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 space-y-3">
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E9AC21] text-[#052D49] uppercase tracking-wider font-condensed">
+      <div className="bg-[#0B2C43] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E5AD35]">
+        <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:16px_16px]" />
+        <Container className="relative z-10 space-y-3">
+          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider font-condensed">
             <Building className="w-3.5 h-3.5" />
             {page.section || "PACE ITS INSTITUTIONAL"}
           </span>
           <h1 className="font-condensed text-3xl sm:text-5xl font-black uppercase tracking-tight text-white">
             {page.title}
           </h1>
-          <p className="text-gray-300 text-sm sm:text-base max-w-3xl font-light">
+          <p className="text-slate-300 text-sm sm:text-base max-w-3xl font-light leading-relaxed">
             PACE Institute of Technology & Sciences — Autonomous Institution under Srinivasa Educational Society.
           </p>
-        </div>
+        </Container>
       </div>
 
       <Breadcrumb items={breadcrumbs} />
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <Container className="py-12">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
-          
           {/* Main Content Area */}
           <div className="lg:col-span-8 space-y-8">
-            <div className="bg-white rounded-2xl border border-[#E4E9EF] p-6 sm:p-8 shadow-sm">
-              <div className="prose max-w-none text-gray-700 text-sm sm:text-base leading-relaxed space-y-4">
-                {page.fullText ? (
-                  page.fullText.split('\n\n').map((para: string, idx: number) => (
-                    <p key={idx}>{para}</p>
+            <div className="bg-white rounded-2xl border border-[#E2E8F0] p-6 sm:p-8 shadow-sm space-y-6">
+              <div className="border-b border-[#E2E8F0] pb-4">
+                <span className="text-xs font-bold uppercase tracking-wider text-[#E5AD35]">
+                  Official Institutional Document
+                </span>
+                <h2 className="font-condensed text-2xl sm:text-3xl font-extrabold text-[#123D5A] uppercase tracking-tight mt-0.5">
+                  {page.title}
+                </h2>
+              </div>
+
+              <div className="prose max-w-none text-[#172B3A] text-sm sm:text-base leading-relaxed space-y-4">
+                {paragraphs.length > 0 ? (
+                  paragraphs.map((para: string, idx: number) => (
+                    <p key={idx} className="leading-relaxed">
+                      {para}
+                    </p>
                   ))
                 ) : (
-                  <p>Detailed institutional records and disclosures preserved for {page.title}.</p>
+                  <p className="text-[#687783]">
+                    Detailed institutional records, statutory declarations, and governance frameworks of PACE Institute of Technology & Sciences.
+                  </p>
                 )}
               </div>
 
-              {/* Preserved Data Tables */}
+              {/* Data Tables */}
               {page.tables && page.tables.length > 0 && (
-                <div className="mt-8 space-y-6">
+                <div className="mt-8 space-y-6 pt-4 border-t border-[#E2E8F0]">
                   {page.tables.map((table: any, idx: number) => (
                     <DataTable
                       key={idx}
                       headers={table.headers}
                       rows={table.rows}
-                      title={`Institutional Table ${idx + 1}`}
+                      title={`${page.title} — Schedule Table ${idx + 1}`}
                     />
                   ))}
                 </div>
@@ -69,67 +98,54 @@ export const InstitutionalTemplate: React.FC<InstitutionalTemplateProps> = ({ pa
 
               {/* Downloadable Documents */}
               {page.documents && page.documents.length > 0 && (
-                <DocumentList
-                  documents={page.documents}
-                  title="Related Documents & Disclosures"
-                  enableSearch={true}
-                />
+                <div className="mt-8 pt-4 border-t border-[#E2E8F0]">
+                  <DocumentList
+                    documents={page.documents}
+                    title="Related Documents & Disclosures"
+                    enableSearch={true}
+                  />
+                </div>
               )}
             </div>
           </div>
 
           {/* Sidebar */}
           <div className="lg:col-span-4 space-y-6">
-            <div className="bg-white rounded-2xl border border-[#E4E9EF] p-6 shadow-sm space-y-4">
-              <h3 className="font-condensed text-lg font-bold text-[#052D49] uppercase tracking-wider pb-3 border-b border-gray-100">
-                Institutional Quick Links
+            <div className="bg-white rounded-2xl border border-[#E2E8F0] p-6 shadow-sm space-y-4">
+              <h3 className="font-heading font-bold text-base text-[#123D5A] uppercase tracking-wider pb-3 border-b border-[#E2E8F0] flex items-center gap-2">
+                <span className="w-2 h-2 rounded-full bg-[#E5AD35]" />
+                Institutional Links
               </h3>
-              <ul className="space-y-2 text-xs font-semibold text-[#073B60]">
-                <li>
-                  <Link href="/pace-at-glance" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
-                    <span>PACE at a Glance</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/vision-and-mission" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
-                    <span>Vision & Mission</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/affiliation-and-accreditation" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
-                    <span>Accreditations</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/organization-chart" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
-                    <span>Organization Chart</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  </Link>
-                </li>
+              <ul className="space-y-1">
+                {quickLinks.map((item) => (
+                  <li key={item.title}>
+                    <Link
+                      href={item.href}
+                      className="text-xs font-semibold text-[#172B3A] hover:text-[#123D5A] flex items-center justify-between p-2 rounded-lg hover:bg-[#F1F4F6] transition-colors"
+                    >
+                      <span>{item.title}</span>
+                      <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                    </Link>
+                  </li>
+                ))}
               </ul>
             </div>
 
-            <div className="bg-[#073B60] text-white rounded-2xl p-6 shadow-md border border-[#0A4A78] space-y-3">
-              <span className="text-[10px] font-bold text-[#E9AC21] uppercase tracking-wider">
-                ADMISSION DESK
+            {/* Accreditation Badge Widget */}
+            <div className="bg-gradient-to-br from-[#123D5A] to-[#0B2C43] rounded-2xl p-6 text-white shadow-md border border-[#E5AD35]/30 space-y-3">
+              <span className="text-[10px] font-bold bg-[#E5AD35] text-[#0B2C43] px-2.5 py-0.5 rounded-full uppercase">
+                Accreditation
               </span>
-              <h4 className="font-condensed text-xl font-bold uppercase">Enroll for 2026–27</h4>
-              <p className="text-xs text-gray-300">Category-B and Management seats available across top branches.</p>
-              <Link
-                href="/admissions/b-category/apply-online/btech"
-                className="inline-block w-full py-2.5 text-center bg-[#E9AC21] hover:bg-[#F6C54A] text-[#052D49] font-condensed font-bold text-xs uppercase tracking-wider rounded-xl transition-colors shadow-sm"
-              >
-                APPLY ONLINE NOW →
-              </Link>
+              <h4 className="font-heading font-bold text-lg text-white uppercase">
+                NAAC Grade 'A+'
+              </h4>
+              <p className="text-xs text-slate-300 leading-relaxed">
+                PACE Institute of Technology & Sciences is accredited by the National Assessment and Accreditation Council (NAAC) with 'A+' Grade in Cycle-2 with the highest CGPA in Prakasam District.
+              </p>
             </div>
           </div>
-
         </div>
-      </div>
+      </Container>
     </div>
   );
 };
-

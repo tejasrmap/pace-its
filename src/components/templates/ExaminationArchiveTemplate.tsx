@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { Breadcrumb } from '@/components/ui/Breadcrumb';
 import { FileText, Download, Search, Filter, Calendar, ExternalLink } from 'lucide-react';
-import { siteConfig } from '@/data/siteConfig';
+import { Container } from '@/components/ui/Container';
 
 interface ExaminationArchiveTemplateProps {
   page: any;
@@ -19,9 +19,10 @@ export const ExaminationArchiveTemplate: React.FC<ExaminationArchiveTemplateProp
   const filteredDocs = documents.filter((d: any) => {
     const text = ((d.title || '') + ' ' + (d.url || '')).toLowerCase();
     const matchesSearch = text.includes(search.toLowerCase());
-    const matchesReg = regulationFilter === 'all' 
-      ? true 
-      : text.includes(regulationFilter.toLowerCase());
+    const matchesReg =
+      regulationFilter === 'all'
+        ? true
+        : text.includes(regulationFilter.toLowerCase());
     return matchesSearch && matchesReg;
   });
 
@@ -32,35 +33,35 @@ export const ExaminationArchiveTemplate: React.FC<ExaminationArchiveTemplateProp
   ];
 
   return (
-    <div className="bg-[#F5F7F9] min-h-screen">
+    <div className="bg-[#F8FAFB] min-h-screen font-sans">
       {/* Editorial Header */}
-      <div className="bg-[#052D49] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E9AC21]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 space-y-3">
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E9AC21] text-[#052D49] uppercase tracking-wider font-condensed">
+      <div className="bg-[#0B2C43] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E5AD35]">
+        <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:16px_16px]" />
+        <Container className="relative z-10 space-y-3">
+          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider font-condensed">
             <Calendar className="w-3.5 h-3.5" />
             OFFICE OF THE CONTROLLER OF EXAMINATIONS
           </span>
           <h1 className="font-condensed text-3xl sm:text-5xl font-black uppercase tracking-tight text-white">
             {page.title}
           </h1>
-          <p className="text-gray-300 text-sm sm:text-base max-w-3xl font-light">
-            Comprehensive archive of {documents.length} examination circulars, semester schedules, mid-exam notifications, and results.
+          <p className="text-slate-300 text-sm sm:text-base max-w-3xl font-light leading-relaxed">
+            Official repository of {documents.length} autonomous examination circulars, regular & supplementary timetables, mid-exam schedules, and results.
           </p>
-        </div>
+        </Container>
       </div>
 
       <Breadcrumb items={breadcrumbs} />
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="bg-white rounded-2xl border border-[#E4E9EF] p-6 sm:p-8 shadow-sm">
-          
+      <Container className="py-12">
+        <div className="bg-white rounded-2xl border border-[#E2E8F0] p-6 sm:p-8 shadow-sm">
           {/* Controls: Search and Filter */}
-          <div className="flex flex-col md:flex-row items-center justify-between gap-4 mb-8 pb-6 border-b border-gray-100">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-4 mb-8 pb-6 border-b border-[#E2E8F0]">
             <div>
-              <h2 className="font-condensed text-2xl font-bold text-[#052D49] uppercase tracking-wide">
+              <h2 className="font-heading font-extrabold text-2xl text-[#123D5A] uppercase tracking-wide">
                 Examination Documents ({filteredDocs.length} Found)
               </h2>
-              <p className="text-xs text-gray-500">Filter by regulation, program or search by subject keyword.</p>
+              <p className="text-xs text-[#687783] mt-0.5">Filter by regulation, program or search by subject keyword.</p>
             </div>
 
             <div className="flex flex-wrap items-center gap-3 w-full md:w-auto">
@@ -68,7 +69,7 @@ export const ExaminationArchiveTemplate: React.FC<ExaminationArchiveTemplateProp
               <select
                 value={regulationFilter}
                 onChange={(e) => setRegulationFilter(e.target.value)}
-                className="px-3 py-2 text-xs rounded-xl border border-gray-200 outline-none font-semibold text-gray-700 focus:border-[#E9AC21]"
+                className="px-3 py-2 text-xs rounded-xl border border-[#E2E8F0] outline-none font-semibold text-slate-700 focus:border-[#123D5A] bg-white"
               >
                 <option value="all">All Regulations</option>
                 <option value="r23">R23 Regulation</option>
@@ -81,64 +82,83 @@ export const ExaminationArchiveTemplate: React.FC<ExaminationArchiveTemplateProp
 
               {/* Search input */}
               <div className="relative flex-1 sm:w-72">
-                <Search className="w-4 h-4 text-gray-400 absolute left-3 top-1/2 -translate-y-1/2" />
+                <Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
                 <input
                   type="text"
                   value={search}
                   onChange={(e) => setSearch(e.target.value)}
                   placeholder="Search timetable, subject..."
-                  className="w-full pl-9 pr-3 py-2 text-xs rounded-xl border border-gray-200 outline-none focus:border-[#E9AC21]"
+                  className="w-full pl-9 pr-3 py-2 text-xs rounded-xl border border-[#E2E8F0] outline-none focus:border-[#123D5A] text-slate-800"
                 />
               </div>
             </div>
           </div>
 
           {/* Quick ERP Portal Link Box */}
-          <div className="mb-8 p-4 rounded-xl bg-[#073B60] text-white flex flex-col sm:flex-row items-center justify-between gap-4 shadow-sm">
+          <div className="mb-8 p-4 rounded-xl bg-gradient-to-r from-[#123D5A] to-[#0B2C43] text-white flex flex-col sm:flex-row items-center justify-between gap-4 shadow-sm border border-[#E5AD35]/30">
             <div>
-              <div className="text-xs font-bold uppercase text-[#E9AC21]">LIVE RESULT LOOKUP</div>
+              <div className="text-xs font-bold uppercase text-[#E5AD35]">LIVE RESULT LOOKUP</div>
               <div className="text-sm font-semibold">Students can view official grade cards and fee payment on the ECAP Portal</div>
             </div>
             <a
-              href={siteConfig.erpPortal}
+              href="https://ecap.pace.ac.in/default.aspx"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-5 py-2.5 bg-[#E9AC21] text-[#052D49] hover:bg-[#F6C54A] font-condensed font-bold text-xs uppercase tracking-wider rounded-lg transition-colors flex items-center gap-1.5 flex-shrink-0"
+              className="px-4 py-2 bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-xs uppercase tracking-wider rounded-lg transition-colors flex items-center gap-1.5 font-condensed"
             >
-              <span>ACCESS ECAP PORTAL</span>
+              <span>ACCESS ECAP ERP</span>
               <ExternalLink className="w-3.5 h-3.5" />
             </a>
           </div>
 
           {/* Document Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 max-h-[700px] overflow-y-auto pr-2">
-            {filteredDocs.map((doc: any, idx: number) => (
-              <a
-                key={idx}
-                href={doc.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-between p-3.5 rounded-xl border border-gray-100 hover:border-[#E9AC21] bg-[#F9FAFB] hover:bg-white transition-all group shadow-xs"
-              >
-                <div className="flex items-center gap-3 pr-2 min-w-0">
-                  <div className="w-8 h-8 rounded-lg bg-[#073B60]/10 text-[#073B60] group-hover:bg-[#E9AC21] group-hover:text-[#052D49] flex items-center justify-center flex-shrink-0 transition-colors">
-                    <FileText className="w-4 h-4" />
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {filteredDocs.slice(0, 100).map((doc: any, idx: number) => {
+              const isPdf = (doc.url || '').toLowerCase().endsWith('.pdf');
+              return (
+                <div
+                  key={idx}
+                  className="p-4 rounded-xl border border-[#E2E8F0] hover:border-[#123D5A]/40 hover:shadow-md transition-all flex items-start justify-between gap-3 group bg-[#F8FAFB]"
+                >
+                  <div className="flex items-start gap-3">
+                    <div className="p-2 rounded-lg bg-[#123D5A]/10 text-[#123D5A] group-hover:bg-[#123D5A] group-hover:text-white transition-colors flex-shrink-0">
+                      <FileText className="w-5 h-5" />
+                    </div>
+                    <div>
+                      <h4 className="text-xs font-bold text-slate-800 group-hover:text-[#123D5A] transition-colors line-clamp-2">
+                        {doc.title}
+                      </h4>
+                      <div className="flex items-center gap-2 mt-1 text-[11px] text-[#687783]">
+                        {doc.academicYear && <span>Year: {doc.academicYear}</span>}
+                        <span>•</span>
+                        <span className="uppercase text-[10px] font-semibold text-[#E5AD35]">
+                          {isPdf ? 'PDF Circular' : 'Document'}
+                        </span>
+                      </div>
+                    </div>
                   </div>
-                  <span className="text-xs font-medium text-[#052D49] group-hover:text-[#073B60] truncate">
-                    {doc.title || doc.url.split('/').pop()}
-                  </span>
-                </div>
 
-                <div className="flex items-center gap-1 flex-shrink-0 text-gray-400 group-hover:text-[#E9AC21]">
-                  <Download className="w-4 h-4" />
+                  <a
+                    href={doc.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="p-2 rounded-lg bg-white border border-[#E2E8F0] hover:bg-[#123D5A] hover:text-white text-slate-600 transition-colors flex-shrink-0 shadow-sm"
+                    title="Download Official Notification"
+                  >
+                    <Download className="w-4 h-4" />
+                  </a>
                 </div>
-              </a>
-            ))}
+              );
+            })}
           </div>
 
+          {filteredDocs.length > 100 && (
+            <div className="mt-8 text-center text-xs text-[#687783] border-t border-[#E2E8F0] pt-4">
+              Showing top 100 of {filteredDocs.length} matching examination notifications. Use the search box above to narrow down results.
+            </div>
+          )}
         </div>
-      </div>
+      </Container>
     </div>
   );
 };
-

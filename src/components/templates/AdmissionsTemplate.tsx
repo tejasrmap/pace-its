@@ -75,19 +75,20 @@ export const AdmissionsTemplate: React.FC<AdmissionsTemplateProps> = ({ page }) 
   ];
 
   return (
-    <div className="bg-[#F5F7F9] min-h-screen">
+    <div className="bg-[#F8FAFB] min-h-screen font-sans">
       {/* Header Banner */}
-      <div className="bg-[#052D49] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E9AC21]">
+      <div className="bg-[#0B2C43] text-white pt-36 pb-16 relative overflow-hidden border-b-4 border-[#E5AD35]">
+        <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#E5AD35_1px,transparent_1px)] [background-size:16px_16px]" />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 space-y-3">
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E9AC21] text-[#052D49] uppercase tracking-wider font-condensed">
+          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] uppercase tracking-wider font-condensed">
             <GraduationCap className="w-3.5 h-3.5" />
             ADMISSIONS 2026–27
           </span>
           <h1 className="font-condensed text-3xl sm:text-5xl font-black uppercase tracking-tight text-white">
             {page.title}
           </h1>
-          <p className="text-gray-300 text-sm sm:text-base max-w-3xl font-light">
-            PACE Institute of Technology & Sciences — Autonomous Institution accredited with NAAC 'A' Grade.
+          <p className="text-slate-300 text-sm sm:text-base max-w-3xl font-light leading-relaxed">
+            PACE Institute of Technology & Sciences — Autonomous Institution accredited with NAAC 'A+' Grade and NBA.
           </p>
         </div>
       </div>
@@ -372,65 +373,65 @@ export const AdmissionsTemplate: React.FC<AdmissionsTemplateProps> = ({ page }) 
 
           {/* Sidebar */}
           <div className="lg:col-span-4 space-y-6">
-            <div className="bg-white rounded-2xl border border-[#E4E9EF] p-6 shadow-sm space-y-4">
-              <h3 className="font-condensed text-lg font-bold text-[#052D49] uppercase tracking-wider pb-3 border-b border-gray-100">
+            <div className="bg-white rounded-2xl border border-[#E2E8F0] p-6 shadow-sm space-y-4">
+              <h3 className="font-heading font-bold text-base text-[#123D5A] uppercase tracking-wider pb-3 border-b border-[#E2E8F0]">
                 Admissions Navigation
               </h3>
-              <ul className="space-y-1.5 text-xs font-semibold text-[#073B60]">
+              <ul className="space-y-1">
                 <li>
-                  <Link href="/admissions/admission-procedure" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
+                  <Link href="/admissions/admission-procedure" className="hover:text-[#123D5A] flex items-center justify-between p-2 rounded-lg hover:bg-[#F1F4F6] text-xs font-semibold text-[#172B3A] transition-colors">
                     <span>Admission Procedure</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
+                    <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35]" />
                   </Link>
                 </li>
                 <li>
-                  <Link href="/admissions/courses-offered" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
+                  <Link href="/admissions/courses-offered" className="hover:text-[#123D5A] flex items-center justify-between p-2 rounded-lg hover:bg-[#F1F4F6] text-xs font-semibold text-[#172B3A] transition-colors">
                     <span>Courses Offered & Intake</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
+                    <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35]" />
                   </Link>
                 </li>
                 <li>
-                  <Link href="/admissions/fee-details" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
+                  <Link href="/admissions/fee-details" className="hover:text-[#123D5A] flex items-center justify-between p-2 rounded-lg hover:bg-[#F1F4F6] text-xs font-semibold text-[#172B3A] transition-colors">
                     <span>Fee Details</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
+                    <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35]" />
                   </Link>
                 </li>
                 <li>
-                  <Link href="/admissions/b-category/notifications" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
+                  <Link href="/admissions/b-category/notifications" className="hover:text-[#123D5A] flex items-center justify-between p-2 rounded-lg hover:bg-[#F1F4F6] text-xs font-semibold text-[#172B3A] transition-colors">
                     <span>Category-B Notifications</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
+                    <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35]" />
                   </Link>
                 </li>
                 <li>
-                  <Link href="/admissions/b-category/applications" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
+                  <Link href="/admissions/b-category/applications" className="hover:text-[#123D5A] flex items-center justify-between p-2 rounded-lg hover:bg-[#F1F4F6] text-xs font-semibold text-[#172B3A] transition-colors">
                     <span>Download Application Form</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
+                    <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35]" />
                   </Link>
                 </li>
                 <li>
-                  <Link href="/admissions/b-category/apply-online/btech" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-amber-50 text-[#073B60] font-bold transition-colors">
+                  <Link href="/admissions/b-category/apply-online/btech" className="hover:text-[#123D5A] flex items-center justify-between p-2 rounded-lg bg-amber-50 text-[#123D5A] font-bold transition-colors">
                     <span>Apply Online - B.Tech</span>
-                    <span className="text-[10px] bg-[#E9AC21] text-[#052D49] px-2 py-0.5 rounded font-bold">Apply</span>
+                    <span className="text-[10px] bg-[#E5AD35] text-[#0B2C43] px-2 py-0.5 rounded font-bold">Apply</span>
                   </Link>
                 </li>
                 <li>
-                  <Link href="/admissions/b-category/apply-online/mba" className="hover:text-[#E9AC21] flex items-center justify-between p-2 rounded-lg hover:bg-gray-50 transition-colors">
+                  <Link href="/admissions/b-category/apply-online/mba" className="hover:text-[#123D5A] flex items-center justify-between p-2 rounded-lg hover:bg-[#F1F4F6] text-xs font-semibold text-[#172B3A] transition-colors">
                     <span>Apply Online - MBA</span>
-                    <ArrowRight className="w-3.5 h-3.5 text-[#E9AC21]" />
+                    <ArrowRight className="w-3.5 h-3.5 text-[#E5AD35]" />
                   </Link>
                 </li>
               </ul>
             </div>
 
-            <div className="bg-[#052D49] text-white rounded-2xl p-6 shadow-md border border-[#0A4A78] space-y-3">
-              <span className="text-[10px] font-bold text-[#E9AC21] uppercase tracking-wider">
+            <div className="bg-gradient-to-br from-[#123D5A] to-[#0B2C43] text-white rounded-2xl p-6 shadow-md border border-[#E5AD35]/30 space-y-3">
+              <span className="text-[10px] font-bold bg-[#E5AD35] text-[#0B2C43] px-2 py-0.5 rounded-full uppercase">
                 ADMISSION HELPLINE
               </span>
-              <h4 className="font-condensed text-xl font-bold uppercase">{siteConfig.phone}</h4>
-              <p className="text-xs text-gray-300">Office open Mon–Sat 9:00 AM to 5:00 PM for on-campus counseling.</p>
+              <h4 className="font-heading font-bold text-xl uppercase">+91 95814 56310</h4>
+              <p className="text-xs text-slate-300">Office open Mon–Sat 9:00 AM to 5:00 PM for on-campus counseling.</p>
               <a
-                href={`tel:${siteConfig.phone}`}
-                className="inline-block w-full py-2.5 text-center bg-[#E9AC21] hover:bg-[#F6C54A] text-[#052D49] font-condensed font-bold text-xs uppercase tracking-wider rounded-xl transition-colors shadow-sm"
+                href="tel:+919581456310"
+                className="inline-block w-full py-2.5 text-center bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-condensed font-bold text-xs uppercase tracking-wider rounded-xl transition-colors shadow-sm"
               >
                 CALL ADMISSIONS DESK
               </a>

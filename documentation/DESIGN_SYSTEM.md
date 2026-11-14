@@ -1,79 +1,75 @@
-# PACE ITS — Modern Design System Specification
-**Development Organization:** GT InnoX LLP  
-**Reference Domain:** `https://pace.ac.in/`  
-**Design Reference Inspiration:** Flame University Visual Composition  
+# PACE ITS Design System & UI Specification
+
+**Organization:** GT InnoX LLP  
+**Client:** PACE Institute of Technology & Sciences (Autonomous)  
+**Design Reference:** Vikas Institutions Nunna (Structure & Simplicity) + Flame University (Editorial & Photography)  
+**Framework:** Next.js 14, Tailwind CSS, TypeScript  
 
 ---
 
-## 1. Visual Identity & Color Palette
+## 1. Visual Identity & Palette
 
-The design system merges prestigious academic gravitas with contemporary international digital aesthetics:
+The design system establishes a restrained, high-contrast academic identity.
 
-| Color Token | Hex Code | Role & Usage |
-|---|:---:|---|
-| **Primary Navy** | `#073B60` | Main institutional background, primary headings, navbars, cards |
-| **Deep Navy** | `#052D49` | Editorial hero banners, top-tier leadership sections, dark footers |
-| **Dark Background** | `#062C46` | Full-width contrast sections, research showcases |
-| **Golden Accent** | `#E9AC21` | Call-to-action buttons, active badges, highlights, icons |
-| **Secondary Gold** | `#F6C54A` | Hover states, glowing accents, badge text |
-| **Pure White** | `#FFFFFF` | Card surfaces, typography on dark backgrounds |
-| **Light Background** | `#F5F7F9` | Page canvas, alternating section backgrounds |
-| **Body Text** | `#283746` | High-contrast readable body paragraphs |
-| **Muted Text** | `#718096` | Subheadings, dates, metadata labels |
-| **Border Tone** | `#E4E9EF` | Card outlines, dividers, structured table borders |
-
----
-
-## 2. Typography Hierarchy
-
-1. **Oswald (`font-condensed`)**:
-   - Used for bold uppercase hero headlines, section headers, stats counters, and prominent CTA buttons.
-   - Inspired by Flame University's condensed, editorial headline composition.
-2. **Inter (`font-sans`)**:
-   - Primary typeface for body paragraphs, subheadings, table records, and navigation links.
-   - Exceptional legibility across desktop, tablet, and mobile displays.
-3. **Playfair Display (`font-editorial`)**:
-   - Reserved for leadership quotes, executive messages, and academic mission statements.
+| Token Name | Hex Code | Utility Class | Semantic Purpose |
+| :--- | :--- | :--- | :--- |
+| **Primary Navy** | `#123D5A` | `bg-[#123D5A]`, `text-[#123D5A]` | Primary buttons, headers, section titles, card accents |
+| **Deep Navy** | `#0B2C43` | `bg-[#0B2C43]`, `text-[#0B2C43]` | Global top bar, footer, dark hero banners, modal headers |
+| **Accent Gold** | `#E5AD35` | `bg-[#E5AD35]`, `text-[#E5AD35]` | Academic badges, primary CTAs, active tab underlines, borders |
+| **Gold Light** | `#F6C54A` | `bg-[#F6C54A]`, `text-[#F6C54A]` | Hover state for gold buttons, highlights |
+| **Canvas Background** | `#F8FAFB` | `bg-[#F8FAFB]` | Default page background across all 343 canonical routes |
+| **Light Surface** | `#F1F4F6` | `bg-[#F1F4F6]` | Alternating content sections, subtle card wells |
+| **Main Text** | `#172B3A` | `text-[#172B3A]` | Primary headings and readable body text |
+| **Secondary Text** | `#687783` | `text-[#687783]` | Captions, metadata, breadcrumb links, table subtitles |
+| **Border Neutral** | `#E2E8F0` | `border-[#E2E8F0]` | Table borders, card dividers, input borders |
+| **Card White** | `#FFFFFF` | `bg-white` | Information cards, data tables, modal dialogs |
 
 ---
 
-## 3. Header & Navigation Architecture
+## 2. Typography Scale
 
-- **TopBar (`TopBar.tsx`)**:
-  - Displays UGC Autonomous status, NAAC 'A' Grade, NBA accreditations, contact helpline, and quick portal links (ECAP ERP, Alumni, Grievance, Examinations).
-- **Header (`Header.tsx`)**:
-  - Transparent overlay atop the cinematic hero on initial load.
-  - Smoothly transitions to solid `#073B60` with elevation shadow upon scrolling.
-  - Left: Institutional logo, Autonomous crest, and official typography.
-  - Center: Academics, Programs, Faculty, Careers, Visit, Apply dropdowns.
-  - Right: Gold "APPLY NOW" button, search modal trigger, and mobile drawer toggle.
-- **Search Modal (`SearchModal.tsx`)**:
-  - Global search index across all 343 routes, departments, regulations, and circulars with instant keyboard navigation (ESC to close).
-- **Mobile Drawer (`MobileNav.tsx`)**:
-  - Responsive off-canvas drawer with collapsible multi-level accordions and quick admission contact actions.
+- **Font Family Primary:** `Inter`, `Manrope`, system-ui, sans-serif
+- **Font Family Headings:** `Oswald`, `Impact`, sans-serif (Strong uppercase tracking)
+- **Font Family Editorial:** `Playfair Display`, `Georgia`, serif (Leadership messages)
 
----
-
-## 4. Homepage Cinematic Hero System
-
-- Full-viewport (70–85vh, minimum 650px) cinematic carousel.
-- Left-aligned text composition: Golden category badge, massive uppercase Oswald headline, Playfair italic subhead, dual action CTAs.
-- Right-aligned architectural and student photography inside a rounded elevation frame with floating real-time stats badge.
-- Bottom horizontal timeline with golden progress indicators and manual slide controls.
-- 4 verified institutional slides:
-  1. *Shaping the Engineers & Leaders of Tomorrow*
-  2. *Admissions Open for B.Tech, M.Tech & MBA (2026–27)*
-  3. *Industry 4.0 Careers & Record Placements*
-  4. *Advancing Patents & AICTE IDEA Lab*
+| Style | Classes | Example Usage |
+| :--- | :--- | :--- |
+| **Display 1** | `font-condensed text-4xl sm:text-5xl font-black uppercase tracking-tight` | Hero slides, primary page titles |
+| **Display 2** | `font-condensed text-2xl sm:text-3xl font-extrabold uppercase tracking-tight` | Section headings, modal titles |
+| **Section Eyebrow**| `font-sans text-xs font-bold uppercase tracking-wider text-[#E5AD35]` | Pre-headers, badges |
+| **Card Heading** | `font-sans text-base font-bold text-slate-800` | Department cards, faculty names |
+| **Body Large** | `font-sans text-base leading-relaxed text-[#172B3A]` | Introductory paragraphs |
+| **Body Regular** | `font-sans text-sm leading-relaxed text-[#687783]` | Standard content, table cells |
+| **Caption / Meta** | `font-sans text-xs text-[#687783]` | Timestamps, author names, circular IDs |
 
 ---
 
-## 5. UI Component Library
+## 3. Core UI Component Library
 
-- **`DataTable.tsx`**: Mobile-responsive, zebra-striped data table for syllabus, fees, committee rosters, and regulations.
-- **`DocumentList.tsx`**: Filterable, searchable document cards with download triggers and format badges.
-- **`Breadcrumb.tsx`**: Structured breadcrumb navigation with schema.org compliance.
-- **`DepartmentsGrid.tsx`**: Filterable cards for B.Tech, Postgraduate, and Diploma programs.
-- **`PlacementsHighlight.tsx`**: Placement metric callouts (1200+ offers, 100% assistance) and marquee of 150+ recruiters.
-- **`ResearchInnovation.tsx`**: Patent archives, AICTE IDEA Lab spotlight, and open-access PACE Publishers.
+Located in `src/components/ui/`:
 
+1. **`Button`** (`Button.tsx`)
+   - `variant`: `'primary'` (Navy `#123D5A`), `'gold'` (Accent `#E5AD35`), `'outline'`, `'ghost'`, `'danger'`.
+   - `size`: `'sm'`, `'md'`, `'lg'`.
+   - Supports `href` (internal Next.js `Link` or external `<a>`).
+2. **`Badge`** (`Badge.tsx`)
+   - `variant`: `'default'`, `'gold'`, `'success'`, `'warning'`, `'info'`, `'outline'`.
+   - Supports leading icons (e.g., Award, CheckCircle, GraduationCap).
+3. **`Card`** (`Card.tsx`)
+   - Composite structure: `Card`, `CardHeader`, `CardContent`, `CardFooter`.
+   - `hoverEffect`: Subtle lift and border accent transition.
+4. **`SectionHeading`** (`SectionHeading.tsx`)
+   - Eyebrow badge, uppercase bold title, descriptive subtitle, optional action slot.
+   - `align`: `'left'` or `'center'`.
+5. **`Container`** (`Container.tsx`)
+   - Responsive width containment (`default` max-w-7xl, `narrow` max-w-5xl, `wide` max-w-[1400px]).
+6. **`Tabs`** (`Tabs.tsx`)
+   - Interactive tab switcher (`underline` or `pills` variant) with badge counters.
+7. **`Accordion`** (`Accordion.tsx`)
+   - Accessible collapsible drawers for BOS syllabi, examination regulations, and FAQs.
+8. **`Modal`** (`Modal.tsx`)
+   - Dialog overlay with escape key handling, body scroll locking, and accessible close button.
+9. **`Skeleton`** & **`EmptyState`** (`Skeleton.tsx`, `EmptyState.tsx`)
+   - Visual feedback for loading and empty records.
+10. **`BackToTop`** (`BackToTop.tsx`)
+    - Floating smooth-scroll button active after 400px of scrolling.

@@ -9,6 +9,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   const router = useRouter();
   const [user, setUser] = useState<any>(null);
   const [loading, setLoading] = useState(true);
+  const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
 
   const isLoginPage = pathname === '/admin/login';
 
@@ -40,6 +41,11 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       });
   }, [pathname, isLoginPage, router]);
 
+  // Close mobile sidebar on route change
+  useEffect(() => {
+    setMobileSidebarOpen(false);
+  }, [pathname]);
+
   const handleLogout = async () => {
     await fetch('/api/auth/logout', { method: 'POST' });
     if (typeof window !== 'undefined') {
@@ -64,46 +70,102 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
     );
   }
 
-  const navItems = [
-    { label: 'Overview', href: '/admin', icon: '📊' },
-    { label: 'Pages (343)', href: '/admin/pages', icon: '📄' },
+  const coreNavItems = [
+    { label: 'Command Center', href: '/admin', icon: '📊' },
+    { label: 'Canonical Pages (343)', href: '/admin/pages', icon: '📄' },
     { label: 'Admissions Enquiries', href: '/admin/admissions', icon: '🎓' },
     { label: 'Departments', href: '/admin/departments', icon: '🏛️' },
-    { label: 'News & Ticker', href: '/admin/news', icon: '📢' },
+    { label: 'News & Circulars', href: '/admin/news', icon: '📢' },
+  ];
+
+  const prototypeNavItems = [
+    { label: 'Faculty Directory', href: '/admin/faculty', icon: '👨‍🏫', badge: 'Proto' },
+    { label: 'Courses & Curricula', href: '/admin/courses', icon: '📚', badge: 'Proto' },
+    { label: 'Placement Drives', href: '/admin/placements', icon: '💼', badge: 'Proto' },
+    { label: 'R&D & Patents', href: '/admin/research', icon: '🔬', badge: 'Proto' },
+    { label: 'Photo Archive', href: '/admin/gallery', icon: '📸', badge: 'Proto' },
+    { label: 'Document Index', href: '/admin/documents', icon: '📑', badge: 'Proto' },
+  ];
+
+  const systemNavItems = [
+    { label: 'User Governance (RBAC)', href: '/admin/users', icon: '👥', badge: 'Proto' },
     { label: 'Audit Trail', href: '/admin/audit-logs', icon: '🛡️' },
     { label: 'System Settings', href: '/admin/settings', icon: '⚙️' },
   ];
 
+  const renderNavGroup = (title: string, items: any[]) => (
+    <div>
+      <div className="text-[10px] font-bold text-slate-500 uppercase tracking-wider px-3 mb-1.5">
+        {title}
+      </div>
+      <nav className="space-y-0.5">
+        {items.map((item) => {
+          const active = pathname === item.href;
+          return (
+            <Link
+              key={item.href}
+              href={item.href}
+              className={`flex items-center justify-between px-3 py-2 rounded-lg text-xs font-medium transition ${
+                active
+                  ? 'bg-[#E9AC21] text-[#073B60] font-bold shadow'
+                  : 'hover:bg-slate-800 hover:text-white text-slate-300'
+              }`}
+            >
+              <div className="flex items-center gap-2.5">
+                <span className="text-sm shrink-0">{item.icon}</span>
+                <span className="truncate">{item.label}</span>
+              </div>
+              {item.badge && (
+                <span className="text-[9px] font-bold px-1.5 py-0.5 rounded bg-amber-400/20 text-amber-300 shrink-0">
+                  {item.badge}
+                </span>
+              )}
+            </Link>
+          );
+        })}
+      </nav>
+    </div>
+  );
+
   return (
     <div className="min-h-screen bg-slate-100 flex flex-col font-sans">
       {/* Top Header */}
-      <header className="bg-[#073B60] text-white h-16 flex items-center justify-between px-6 border-b border-[#052D49] shadow-md sticky top-0 z-50">
+      <header className="bg-[#073B60] text-white h-16 flex items-center justify-between px-4 sm:px-6 border-b border-[#052D49] shadow-md sticky top-0 z-50">
         <div className="flex items-center gap-3">
+          <button
+            onClick={() => setMobileSidebarOpen(!mobileSidebarOpen)}
+            className="md:hidden p-1.5 rounded-lg text-slate-300 hover:text-white hover:bg-slate-800 focus:outline-none"
+            aria-label="Toggle navigation menu"
+          >
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d={mobileSidebarOpen ? 'M6 18L18 6M6 6l12 12' : 'M4 6h16M4 12h16M4 18h16'} />
+            </svg>
+          </button>
           <Link href="/admin" className="flex items-center gap-3">
             <div className="w-9 h-9 bg-[#E9AC21] text-[#073B60] rounded-lg flex items-center justify-center font-bold text-lg font-serif shadow">
               P
             </div>
             <div>
               <span className="font-heading text-lg font-bold tracking-wide uppercase">PACE ITS</span>
-              <span className="ml-2 text-xs bg-white/10 px-2 py-0.5 rounded text-amber-300 font-medium tracking-normal">ADMIN CMS</span>
+              <span className="ml-2 text-xs bg-white/10 px-2 py-0.5 rounded text-amber-300 font-medium tracking-normal hidden sm:inline-block">ADMIN CMS</span>
             </div>
           </Link>
         </div>
 
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-3 sm:gap-4">
           <Link
             href="/"
             target="_blank"
             className="text-xs bg-white/10 hover:bg-white/20 text-white px-3 py-1.5 rounded transition flex items-center gap-1.5 font-medium border border-white/20"
           >
-            <span>🌐 View Public Site</span>
+            <span>🌐 View Site</span>
             <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
             </svg>
           </Link>
 
           {user && (
-            <div className="flex items-center gap-3 pl-3 border-l border-white/20">
+            <div className="flex items-center gap-2 sm:gap-3 pl-2 sm:pl-3 border-l border-white/20">
               <div className="text-right hidden sm:block">
                 <div className="text-xs font-bold leading-tight">{user.name}</div>
                 <div className="text-[10px] text-amber-300 font-medium">
@@ -123,40 +185,31 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       </header>
 
       {/* Main Container with Sidebar */}
-      <div className="flex flex-1">
-        {/* Sidebar */}
-        <aside className="w-64 bg-slate-900 text-slate-300 p-4 flex flex-col justify-between hidden md:flex shrink-0 border-r border-slate-800">
-          <div className="space-y-6">
-            <div>
-              <div className="text-[11px] font-bold text-slate-500 uppercase tracking-wider px-3 mb-2">
-                Administration
-              </div>
-              <nav className="space-y-1">
-                {navItems.map((item) => {
-                  const active = pathname === item.href;
-                  return (
-                    <Link
-                      key={item.href}
-                      href={item.href}
-                      className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition ${
-                        active
-                          ? 'bg-[#E9AC21] text-[#073B60] font-bold shadow'
-                          : 'hover:bg-slate-800 hover:text-white'
-                      }`}
-                    >
-                      <span className="text-base">{item.icon}</span>
-                      <span>{item.label}</span>
-                    </Link>
-                  );
-                })}
-              </nav>
-            </div>
+      <div className="flex flex-1 relative">
+        {/* Mobile Backdrop */}
+        {mobileSidebarOpen && (
+          <div
+            onClick={() => setMobileSidebarOpen(false)}
+            className="fixed inset-0 bg-black/60 z-40 md:hidden backdrop-blur-sm transition-opacity"
+          />
+        )}
 
-            <div className="border-t border-slate-800 pt-4">
-              <div className="text-[11px] font-bold text-slate-500 uppercase tracking-wider px-3 mb-2">
+        {/* Sidebar */}
+        <aside
+          className={`fixed md:sticky top-16 z-40 h-[calc(100vh-4rem)] w-64 bg-slate-900 text-slate-300 p-3.5 flex flex-col justify-between shrink-0 border-r border-slate-800 overflow-y-auto transition-transform duration-300 md:translate-x-0 ${
+            mobileSidebarOpen ? 'translate-x-0 shadow-2xl' : '-translate-x-full md:translate-x-0'
+          }`}
+        >
+          <div className="space-y-4">
+            {renderNavGroup('Content Management', coreNavItems)}
+            {renderNavGroup('Academic Modules', prototypeNavItems)}
+            {renderNavGroup('Governance & System', systemNavItems)}
+
+            <div className="border-t border-slate-800 pt-3">
+              <div className="text-[10px] font-bold text-slate-500 uppercase tracking-wider px-3 mb-1.5">
                 Institutional Context
               </div>
-              <div className="bg-slate-800/60 rounded-lg p-3 text-xs text-slate-400 space-y-1.5 border border-slate-800">
+              <div className="bg-slate-800/60 rounded-lg p-2.5 text-[11px] text-slate-400 space-y-1 border border-slate-800">
                 <div className="flex justify-between">
                   <span>Autonomous Code:</span>
                   <span className="font-semibold text-slate-200">PACE</span>
@@ -177,7 +230,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
             </div>
           </div>
 
-          <div className="text-[11px] text-slate-600 text-center border-t border-slate-800 pt-3">
+          <div className="text-[10px] text-slate-600 text-center border-t border-slate-800 pt-3 mt-4">
             GT InnoX LLP © 2026<br />Institutional Platform v4.0
           </div>
         </aside>

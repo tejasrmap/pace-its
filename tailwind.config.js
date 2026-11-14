@@ -8,53 +8,65 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        pace: {
+          navy: '#123D5A',
+          'navy-deep': '#0B2C43',
+          gold: '#E5AD35',
+          'gold-light': '#F6C54A',
+          bg: '#F8FAFB',
+          'bg-alt': '#F1F4F6',
+          text: '#172B3A',
+          'text-muted': '#687783',
+          border: '#E2E8F0',
+        },
         navy: {
-          DEFAULT: '#073B60',
-          50: '#EBF3F8',
-          100: '#D6E5F1',
-          200: '#ADCBE3',
-          300: '#85B0D5',
-          400: '#5C96C7',
-          500: '#347CB9',
-          600: '#226095',
-          700: '#174771',
-          800: '#073B60', // Primary Navy
-          900: '#052D49', // Deep Navy
-          950: '#062C46', // Dark Background
+          DEFAULT: '#123D5A',
+          50: '#F0F5F9',
+          100: '#E1EBF2',
+          200: '#C2D7E6',
+          300: '#A4C3DA',
+          400: '#679BBE',
+          500: '#2A72A3',
+          600: '#1D5A83',
+          700: '#154769',
+          800: '#123D5A', // Primary Navy
+          900: '#0B2C43', // Deep Navy
+          950: '#071E2E',
         },
         gold: {
-          DEFAULT: '#E9AC21',
+          DEFAULT: '#E5AD35',
           light: '#F6C54A',
-          hover: '#D39815',
-          dark: '#B27D0B',
-          50: '#FEF9EC',
-          100: '#FDF1D0',
-          200: '#FBE2A1',
-          300: '#F8D372',
-          400: '#F6C54A',
-          500: '#E9AC21',
-          600: '#CA8E12',
-          700: '#9C6C0A',
+          hover: '#CF9B2D',
+          dark: '#B08221',
+          50: '#FEFBF3',
+          100: '#FDF6E2',
+          200: '#FAECC1',
+          300: '#F6E1A0',
+          400: '#EFCB5F',
+          500: '#E5AD35',
+          600: '#CF9B2D',
+          700: '#A8791F',
         },
         surface: {
-          light: '#F5F7F9',
-          border: '#E4E9EF',
-          muted: '#718096',
-          body: '#283746',
+          light: '#F8FAFB',
+          alt: '#F1F4F6',
+          border: '#E2E8F0',
+          muted: '#687783',
+          body: '#172B3A',
         }
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', 'sans-serif'],
+        sans: ['Inter', 'Manrope', 'system-ui', 'sans-serif'],
         condensed: ['Oswald', 'Impact', 'sans-serif'],
         serif: ['Playfair Display', 'Georgia', 'serif'],
       },
       boxShadow: {
-        'premium': '0 20px 40px -15px rgba(7, 59, 96, 0.15)',
-        'premium-hover': '0 30px 60px -15px rgba(7, 59, 96, 0.25)',
-        'gold-glow': '0 0 30px rgba(233, 172, 33, 0.35)',
+        'subtle': '0 1px 3px 0 rgba(18, 61, 90, 0.05), 0 1px 2px 0 rgba(18, 61, 90, 0.03)',
+        'premium': '0 10px 25px -5px rgba(18, 61, 90, 0.08), 0 8px 10px -6px rgba(18, 61, 90, 0.05)',
+        'premium-hover': '0 20px 30px -10px rgba(18, 61, 90, 0.15)',
+        'gold-glow': '0 0 25px rgba(229, 173, 53, 0.3)',
       }
     },
   },
   plugins: [],
 };
-

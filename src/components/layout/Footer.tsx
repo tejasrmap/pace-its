@@ -7,164 +7,157 @@ import { siteConfig } from '@/data/siteConfig';
 
 export const Footer: React.FC = () => {
   return (
-    <footer className="bg-[#052D49] text-gray-300 border-t-4 border-[#E9AC21]">
-      {/* Top Accreditation Banner */}
-      <div className="bg-[#04243A] py-8 border-b border-[#0A4A78]">
+    <footer className="bg-[#0B2C43] text-slate-300 border-t-4 border-[#E5AD35] font-sans">
+      {/* Top Institutional Accreditation Banner */}
+      <div className="bg-[#071E2E] py-8 border-b border-[#123D5A]/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-wrap items-center justify-between gap-6">
-            <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 rounded-lg bg-[#E9AC21] text-[#052D49] font-condensed font-black text-2xl flex items-center justify-center">
+            <div className="flex items-center space-x-3.5">
+              <div className="w-11 h-11 rounded-xl bg-gradient-to-tr from-[#E5AD35] to-[#F6C54A] text-[#0B2C43] font-condensed font-black text-2xl flex items-center justify-center shadow">
                 P
               </div>
               <div>
                 <h3 className="font-condensed text-xl font-bold text-white tracking-wide uppercase">
-                  PACE INSTITUTE OF TECHNOLOGY & SCIENCES
+                  PACE INSTITUTE OF TECHNOLOGY & SCIENCES (AUTONOMOUS)
                 </h3>
-                <p className="text-xs text-[#E9AC21] font-semibold">
-                  An Autonomous Institution • Approved by AICTE, New Delhi • Permanently Affiliated to JNTUK
+                <p className="text-xs text-[#E5AD35] font-semibold">
+                  Approved by AICTE, New Delhi • Permanently Affiliated to JNTUK • Accredited by NAAC with 'A+' Grade
                 </p>
               </div>
             </div>
 
-            <div className="flex flex-wrap items-center gap-3">
-              <span className="px-3 py-1 rounded-full text-xs font-bold bg-white/10 text-white border border-white/20">
-                NAAC 'A' GRADE
-              </span>
-              <span className="px-3 py-1 rounded-full text-xs font-bold bg-[#E9AC21] text-[#052D49]">
+            <div className="flex flex-wrap items-center gap-2.5">
+              <span className="px-3 py-1 rounded-full text-xs font-bold bg-[#E5AD35] text-[#0B2C43] shadow">
                 UGC AUTONOMOUS
+              </span>
+              <span className="px-3 py-1 rounded-full text-xs font-bold bg-white/10 text-white border border-white/20">
+                NAAC 'A+' GRADE
               </span>
               <span className="px-3 py-1 rounded-full text-xs font-bold bg-white/10 text-white border border-white/20">
                 NBA ACCREDITED
               </span>
               <span className="px-3 py-1 rounded-full text-xs font-bold bg-white/10 text-white border border-white/20">
-                ISO 9001:2015
+                EAPCET CODE: PACE
               </span>
             </div>
           </div>
         </div>
       </div>
 
-      {/* Main Footer Links */}
+      {/* Main Footer Columns */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
-          {/* Column 1: Institutional Info & Contact */}
+          {/* Column 1: Institutional Identity & Campus */}
           <div className="space-y-4">
-            <h4 className="font-condensed text-lg font-bold text-white uppercase tracking-wider border-b border-[#0A4A78] pb-2 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-[#E9AC21]" />
+            <h4 className="font-condensed text-lg font-bold text-white uppercase tracking-wider border-b border-[#123D5A] pb-2 flex items-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-[#E5AD35]" />
               Campus Location
             </h4>
-            <p className="text-sm leading-relaxed text-gray-300">
-              NH-16, Near Valluramma Temple, Ongole, Prakasam District, Andhra Pradesh, India - 523272.
+            <p className="text-sm leading-relaxed text-slate-300">
+              NH-16, Near Valluramma Temple, Valluru, Ongole, Prakasam District, Andhra Pradesh, India - 523272.
             </p>
-            <div className="space-y-2 pt-2 text-sm">
+            <div className="space-y-2 pt-1 text-sm">
               <div className="flex items-center gap-2">
-                <Phone className="w-4 h-4 text-[#E9AC21]" />
-                <a href={`tel:${siteConfig.phone}`} className="hover:text-white transition-colors">
-                  {siteConfig.phone}
+                <Phone className="w-4 h-4 text-[#E5AD35]" />
+                <a href="tel:+919581456310" className="hover:text-white transition-colors">
+                  +91 95814 56310 / 56311
                 </a>
               </div>
               <div className="flex items-center gap-2">
-                <Mail className="w-4 h-4 text-[#E9AC21]" />
-                <a href={`mailto:${siteConfig.email}`} className="hover:text-white transition-colors">
-                  {siteConfig.email}
+                <Mail className="w-4 h-4 text-[#E5AD35]" />
+                <a href="mailto:principal@pace.ac.in" className="hover:text-white transition-colors">
+                  principal@pace.ac.in
                 </a>
               </div>
             </div>
 
-            {/* Social icons */}
-            <div className="pt-4 flex items-center space-x-3">
-              {Object.entries(siteConfig.social).map(([key, url]) => (
+            {/* Social Channels */}
+            <div className="pt-3 flex items-center space-x-2.5">
+              {[
+                { name: 'FB', url: 'https://www.facebook.com/PACEITS' },
+                { name: 'IN', url: 'https://www.linkedin.com/school/pace-institute-of-technology-and-sciences' },
+                { name: 'YT', url: 'https://www.youtube.com/@PACEITS' },
+                { name: 'IG', url: 'https://www.instagram.com/paceits' },
+              ].map((s) => (
                 <a
-                  key={key}
-                  href={url}
+                  key={s.name}
+                  href={s.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-8 h-8 rounded-lg bg-[#073B60] hover:bg-[#E9AC21] text-gray-300 hover:text-[#052D49] flex items-center justify-center transition-colors text-xs font-bold uppercase"
-                  aria-label={key}
+                  className="w-8 h-8 rounded-lg bg-[#123D5A] hover:bg-[#E5AD35] text-slate-200 hover:text-[#0B2C43] flex items-center justify-center transition-colors text-xs font-bold uppercase"
+                  aria-label={s.name}
                 >
-                  {key[0]}
+                  {s.name}
                 </a>
               ))}
             </div>
           </div>
 
-          {/* Column 2: Mandatory Disclosures & Downloads */}
+          {/* Column 2: Statutory Disclosures & Policies */}
           <div className="space-y-4">
-            <h4 className="font-condensed text-lg font-bold text-white uppercase tracking-wider border-b border-[#0A4A78] pb-2 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-[#E9AC21]" />
-              Statutory Disclosures
+            <h4 className="font-condensed text-lg font-bold text-white uppercase tracking-wider border-b border-[#123D5A] pb-2 flex items-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-[#E5AD35]" />
+              Mandatory Disclosures
             </h4>
-            <ul className="space-y-2 text-sm">
+            <ul className="space-y-2 text-xs">
               <li>
-                <a 
-                  href="https://pace.ac.in/public/assets/images/Mandatory Disclosure PACEITS-KQ.pdf" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors"
+                <a
+                  href="https://pace.ac.in/public/assets/images/Mandatory%20Disclosure%20PACEITS-KQ.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
                 >
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Mandatory Disclosure</span>
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>AICTE Mandatory Disclosure</span>
                 </a>
               </li>
               <li>
-                <a 
-                  href="https://pace.ac.in/public/assets/images/rti-latest.pdf" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors"
+                <a
+                  href="https://pace.ac.in/public/assets/images/rti-latest.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
                 >
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
                   <span>RTI Act Disclosures</span>
                 </a>
               </li>
               <li>
-                <a 
-                  href="https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors"
+                <a
+                  href="https://pace.ac.in/public/assets/images/proffessional-bodies/National_Institutional_Ranking_Framework_2024.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
                 >
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>NIRF 2024 Ranking</span>
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>NIRF 2024 Institutional Report</span>
                 </a>
               </li>
               <li>
-                <a 
-                  href="https://pace.ac.in/public/assets/images/student hand book.pdf" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors"
+                <Link
+                  href="/affiliation-and-accreditation"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
                 >
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Student Hand Book</span>
-                </a>
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Affiliation & Accreditations</span>
+                </Link>
               </li>
               <li>
-                <a 
-                  href="https://pace.ac.in/public/assets/images/HR Policy Book.pdf" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors"
+                <Link
+                  href="/organization-chart"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
                 >
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>HR Policy Book</span>
-                </a>
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Organization & Governance Chart</span>
+                </Link>
               </li>
               <li>
-                <a 
-                  href="https://pace.ac.in/public/assets/images/Institutional Development Plan_PACEITS.pdf" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors"
+                <Link
+                  href="/iqac"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
                 >
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Institutional Development Plan</span>
-                </a>
-              </li>
-              <li>
-                <Link href="/organization-chart" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Organization Chart</span>
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Internal Quality Assurance Cell (IQAC)</span>
                 </Link>
               </li>
             </ul>
@@ -172,120 +165,127 @@ export const Footer: React.FC = () => {
 
           {/* Column 3: Academics & Admissions */}
           <div className="space-y-4">
-            <h4 className="font-condensed text-lg font-bold text-white uppercase tracking-wider border-b border-[#0A4A78] pb-2 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-[#E9AC21]" />
-              Academics & Exams
+            <h4 className="font-condensed text-lg font-bold text-white uppercase tracking-wider border-b border-[#123D5A] pb-2 flex items-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-[#E5AD35]" />
+              Academics & Admissions
             </h4>
-            <ul className="space-y-2 text-sm">
+            <ul className="space-y-2 text-xs">
               <li>
-                <Link href="/admissions/admission-procedure" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Admission Procedure</span>
+                <Link
+                  href="/admissions/admission-procedure"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
+                >
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Admission Procedure & Eligibility</span>
                 </Link>
               </li>
               <li>
-                <Link href="/admissions/courses-offered" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Courses Offered & Intake</span>
+                <Link
+                  href="/admissions/courses-offered"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
+                >
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Approved Courses & Intake Capacities</span>
                 </Link>
               </li>
               <li>
-                <Link href="/admissions/fee-details" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Fee Structure</span>
+                <Link
+                  href="/academics/academic-calendar"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
+                >
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Academic Calendar (Autonomous)</span>
                 </Link>
               </li>
               <li>
-                <Link href="/academics/academic-calendar" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Academic Calendar</span>
+                <Link
+                  href="/regulations"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
+                >
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Academic Regulations & Syllabi</span>
                 </Link>
               </li>
               <li>
-                <Link href="/regulations" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Academic Regulations</span>
+                <Link
+                  href="/0/examinations-cell"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
+                >
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Autonomous Examinations Cell</span>
                 </Link>
               </li>
               <li>
-                <Link href="/0/examinations-cell" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Examinations Cell</span>
-                </Link>
-              </li>
-              <li>
-                <Link href="/1/examinations-cell" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Exam Results Archive</span>
+                <Link
+                  href="/1/examinations-cell"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
+                >
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Examination Results Portal</span>
                 </Link>
               </li>
             </ul>
           </div>
 
-          {/* Column 4: Portals & Online Services */}
+          {/* Column 4: Quick Portals & Application */}
           <div className="space-y-4">
-            <h4 className="font-condensed text-lg font-bold text-white uppercase tracking-wider border-b border-[#0A4A78] pb-2 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-[#E9AC21]" />
-              Portals & Services
+            <h4 className="font-condensed text-lg font-bold text-white uppercase tracking-wider border-b border-[#123D5A] pb-2 flex items-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-[#E5AD35]" />
+              Online Services
             </h4>
-            <ul className="space-y-2 text-sm">
+            <ul className="space-y-2 text-xs">
               <li>
-                <a 
-                  href={siteConfig.erpPortal} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:text-[#E9AC21] flex items-center justify-between text-amber-200 transition-colors"
+                <a
+                  href="https://ecap.pace.ac.in/default.aspx"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#E5AD35] flex items-center justify-between text-amber-300 transition-colors font-medium"
                 >
                   <span className="flex items-center gap-1.5">
-                    <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                    <span>ECAP ERP / Fee Payment</span>
+                    <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                    <span>ECAP Student / Fee ERP</span>
                   </span>
-                  <ExternalLink className="w-3.5 h-3.5 opacity-80" />
+                  <ExternalLink className="w-3 h-3 opacity-80" />
                 </a>
               </li>
               <li>
-                <a 
-                  href={siteConfig.alumniPortal} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:text-[#E9AC21] flex items-center justify-between transition-colors"
+                <a
+                  href="https://alumni.pace.ac.in/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#E5AD35] flex items-center justify-between transition-colors"
                 >
                   <span className="flex items-center gap-1.5">
-                    <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                    <span>PACE Alumni Portal</span>
+                    <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                    <span>PACE Alumni Network</span>
                   </span>
-                  <ExternalLink className="w-3.5 h-3.5 opacity-80" />
+                  <ExternalLink className="w-3 h-3 opacity-80" />
                 </a>
               </li>
               <li>
-                <a 
-                  href={siteConfig.grievanceUrl} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:text-[#E9AC21] flex items-center justify-between text-yellow-300 transition-colors"
+                <Link
+                  href="/trainings-and-placements"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
                 >
-                  <span className="flex items-center gap-1.5">
-                    <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                    <span>Online Grievance Submission</span>
-                  </span>
-                  <ExternalLink className="w-3.5 h-3.5 opacity-80" />
-                </a>
-              </li>
-              <li>
-                <Link href="/trainings-and-placements" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
                   <span>Training & Placement Cell</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact-us" className="hover:text-[#E9AC21] flex items-center gap-1.5 transition-colors">
-                  <ChevronRight className="w-3.5 h-3.5 text-[#E9AC21]" />
-                  <span>Contact Administration</span>
+                <Link
+                  href="/contact-us"
+                  className="hover:text-[#E5AD35] flex items-center gap-1.5 transition-colors"
+                >
+                  <ChevronRight className="w-3.5 h-3.5 text-[#E5AD35]" />
+                  <span>Contact Institutional Desk</span>
                 </Link>
               </li>
-              <li>
-                <Link href="/admissions/b-category/apply-online/btech" className="inline-block mt-3 px-4 py-2 bg-[#E9AC21] text-[#052D49] font-bold rounded-lg hover:bg-[#F6C54A] transition-colors text-xs uppercase tracking-wider font-condensed">
-                  Apply for Admission →
+              <li className="pt-2">
+                <Link
+                  href="/admissions/b-category/apply-online/btech"
+                  className="inline-block w-full py-2.5 text-center bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold rounded-lg transition-colors text-xs uppercase tracking-wider font-condensed shadow"
+                >
+                  Apply Online (Category-B) →
                 </Link>
               </li>
             </ul>
@@ -294,21 +294,21 @@ export const Footer: React.FC = () => {
       </div>
 
       {/* Bottom Attribution Bar */}
-      <div className="bg-[#031B2C] py-6 border-t border-[#073B60] text-xs text-gray-400">
+      <div className="bg-[#051622] py-6 border-t border-[#123D5A]/40 text-xs text-slate-400">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <div>
-            © {new Date().getFullYear()} PACE Institute of Technology & Sciences. All rights reserved.
+            © {new Date().getFullYear()} PACE Institute of Technology & Sciences (Autonomous). All rights reserved.
           </div>
-          <div className="flex items-center space-x-6">
-            <Link href="/privacypolicy" className="hover:text-[#E9AC21] transition-colors">
+          <div className="flex items-center space-x-6 text-xs">
+            <Link href="/privacypolicy" className="hover:text-[#E5AD35] transition-colors">
               Privacy Policy
             </Link>
-            <Link href="/termsandconditions" className="hover:text-[#E9AC21] transition-colors">
+            <Link href="/termsandconditions" className="hover:text-[#E5AD35] transition-colors">
               Terms & Conditions
             </Link>
-            <span className="text-gray-500">•</span>
-            <span className="text-gray-300 font-medium">
-              Developed & Modernized by <span className="text-[#E9AC21] font-bold">GT InnoX LLP</span>
+            <span className="text-slate-600">•</span>
+            <span className="text-slate-300 font-medium">
+              Reconstructed & Modernized by <span className="text-[#E5AD35] font-bold">GT InnoX LLP</span>
             </span>
           </div>
         </div>
@@ -316,4 +316,3 @@ export const Footer: React.FC = () => {
     </footer>
   );
 };
-
