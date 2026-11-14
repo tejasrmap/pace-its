@@ -16,6 +16,30 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
+  const closeTimeoutRef = React.useRef<NodeJS.Timeout | null>(null);
+
+  const handleMouseEnter = (title: string) => {
+    if (closeTimeoutRef.current) {
+      clearTimeout(closeTimeoutRef.current);
+      closeTimeoutRef.current = null;
+    }
+    setActiveDropdown(title);
+  };
+
+  const handleMouseLeave = () => {
+    if (closeTimeoutRef.current) {
+      clearTimeout(closeTimeoutRef.current);
+    }
+    closeTimeoutRef.current = setTimeout(() => {
+      setActiveDropdown(null);
+    }, 220);
+  };
+
+  useEffect(() => {
+    return () => {
+      if (closeTimeoutRef.current) clearTimeout(closeTimeoutRef.current);
+    };
+  }, []);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -54,7 +78,7 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
         { title: 'Admission Procedure 2026–27', href: '/admissions/admission-procedure', desc: 'Step-by-step enrollment process and quotas' },
         { title: 'Degree Programs & Intake', href: '/admissions/courses-offered', desc: 'Sanctioned intake capacity across UG & PG' },
         { title: 'Fee Structure & Scholarships', href: '/admissions/fee-details', desc: 'Institutional fee details and merit awards' },
-        { title: 'Category-B (Management Quota)', href: '/admissions/b-category', desc: 'Merit-based direct admission guidelines' },
+        { title: 'Category-B (Management Quota)', href: '/admissions/b-category/applications', desc: 'Merit-based direct admission guidelines' },
         { title: 'Apply Online for B.Tech', href: '/admissions/b-category/apply-online/btech', desc: 'Immediate online prospective application' },
       ],
     },
@@ -83,7 +107,7 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
       href: '/campus/facilities',
       children: [
         { title: 'Campus Facilities Overview', href: '/campus/facilities', desc: 'Panoramic residential campus along NH-16' },
-        { title: 'Central Library & Reading Halls', href: '/campus-life/central-library', desc: 'Volumes, DELNET, and IEEE digital learning resources' },
+        { title: 'Central Library & Reading Halls', href: '/campus/facilities', desc: 'Volumes, DELNET, and IEEE digital learning resources' },
         { title: 'Student Hostels & Dining', href: '/campus/hostel', desc: 'Secure residential facilities for men & women' },
         { title: 'Sports & Gymnasium Arena', href: '/campus/sports-and-games', desc: 'Cricket, athletics, indoor sports & fitness' },
         { title: 'Events Photo Archive', href: '/college-events', desc: '204 official institutional photo albums' },
@@ -151,11 +175,17 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
                   <div
                     key={item.title}
                     className="relative"
-                    onMouseEnter={() => setActiveDropdown(item.title)}
-                    onMouseLeave={() => setActiveDropdown(null)}
+                    onMouseEnter={() => handleMouseEnter(item.title)}
+                    onMouseLeave={handleMouseLeave}
                   >
                     <Link
                       href={item.href}
+                      onClick={(e) => {
+                        if (item.children) {
+                          // Allow clicking to toggle or stay open
+                          setActiveDropdown(activeDropdown === item.title ? null : item.title);
+                        }
+                      }}
                       className={`flex items-center gap-1 px-2.5 xl:px-3 py-2 text-xs xl:text-sm font-medium rounded-lg transition-colors whitespace-nowrap ${
                         activeDropdown === item.title
                           ? 'text-[#E5AD35] bg-white/5 font-semibold'
@@ -172,7 +202,12 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
 
                     {/* Elite Light MegaMenu for Academics */}
                     {isAcademics && activeDropdown === item.title && (
-                      <div className="absolute top-[calc(100%+6px)] left-1/2 -translate-x-1/2 w-[820px] bg-white rounded-2xl shadow-2xl border border-slate-200 p-7 z-50 animate-in fade-in slide-in-from-top-1 duration-150 text-slate-800">
+                      <div
+                        className="absolute top-full left-1/2 -translate-x-1/2 pt-2 z-50 animate-in fade-in slide-in-from-top-1 duration-150"
+                        onMouseEnter={() => handleMouseEnter(item.title)}
+                        onMouseLeave={handleMouseLeave}
+                      >
+                        <div className="w-[820px] bg-white rounded-2xl shadow-2xl border border-slate-200 p-7 text-slate-800 relative before:content-[''] before:absolute before:-top-3 before:left-0 before:right-0 before:h-3">
                         <div className="grid grid-cols-12 gap-7">
                           {/* Left: Undergraduate B.Tech Programs (5 cols) */}
                           <div className="col-span-5 space-y-2 border-r border-slate-100 pr-5">
@@ -287,29 +322,36 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
                             </div>
                           </div>
                         </div>
+                        </div>
                       </div>
                     )}
 
                     {/* Standard Dropdown for other menus */}
                     {!isAcademics && item.children && activeDropdown === item.title && (
-                      <div className={`absolute top-[calc(100%+6px)] ${isRightSide ? 'right-0' : 'left-0'} w-72 bg-white rounded-2xl shadow-2xl border border-slate-200 p-2.5 z-50 animate-in fade-in slide-in-from-top-1 duration-150 text-slate-800`}>
-                        <div className="space-y-0.5">
-                          {item.children.map((sub) => (
-                            <Link
-                              key={sub.title}
-                              href={sub.href}
-                              className="block px-3 py-2 rounded-xl hover:bg-slate-50 transition group"
-                            >
-                              <div className="text-xs font-semibold text-slate-800 group-hover:text-[#123D5A]">
-                                {sub.title}
-                              </div>
-                              {sub.desc && (
-                                <div className="text-[10px] text-slate-400 line-clamp-1 mt-0.5">
-                                  {sub.desc}
+                      <div
+                        className={`absolute top-full ${isRightSide ? 'right-0' : 'left-0'} pt-2 z-50 animate-in fade-in slide-in-from-top-1 duration-150`}
+                        onMouseEnter={() => handleMouseEnter(item.title)}
+                        onMouseLeave={handleMouseLeave}
+                      >
+                        <div className="w-72 bg-white rounded-2xl shadow-2xl border border-slate-200 p-2.5 text-slate-800 relative before:content-[''] before:absolute before:-top-3 before:left-0 before:right-0 before:h-3">
+                          <div className="space-y-0.5">
+                            {item.children.map((sub) => (
+                              <Link
+                                key={sub.title}
+                                href={sub.href}
+                                className="block px-3 py-2 rounded-xl hover:bg-slate-50 transition group"
+                              >
+                                <div className="text-xs font-semibold text-slate-800 group-hover:text-[#123D5A]">
+                                  {sub.title}
                                 </div>
-                              )}
-                            </Link>
-                          ))}
+                                {sub.desc && (
+                                  <div className="text-[10px] text-slate-400 line-clamp-1 mt-0.5">
+                                    {sub.desc}
+                                  </div>
+                                )}
+                              </Link>
+                            ))}
+                          </div>
                         </div>
                       </div>
                     )}

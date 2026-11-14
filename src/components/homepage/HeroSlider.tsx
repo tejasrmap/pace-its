@@ -56,7 +56,7 @@ export const HeroSlider: React.FC = () => {
               </Link>
 
               <Link
-                href="/admissions/b-category"
+                href="/admissions/b-category/applications"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-white/10 hover:bg-white/20 text-white border border-white/20 font-semibold text-xs sm:text-sm uppercase tracking-wider rounded-xl transition-colors"
               >
                 <span>Category-B Admissions</span>

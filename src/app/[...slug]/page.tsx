@@ -18,6 +18,13 @@ import pagesDataRaw from '@/data/canonicalPages.json';
 
 const pagesData = pagesDataRaw as Record<string, any>;
 
+const ROUTE_ALIASES: Record<string, string> = {
+  '/admissions/b-category': '/admissions/b-category/applications',
+  '/campus/isr': '/isr',
+  '/campus-life/central-library': '/campus/facilities',
+  '/committees/non-statutory-committees/obc-committee': '/committees/non-statutory-committees/obc-cell-committee',
+};
+
 interface PageProps {
   params: {
     slug: string[];
@@ -41,12 +48,15 @@ export async function generateMetadata({ params }: PageProps) {
   const rawPath = '/' + params.slug.join('/');
   const decodedPath = decodeURIComponent(rawPath);
   const normalizedPath = decodedPath.replace(/ /g, '-');
+  const aliasedPath = ROUTE_ALIASES[decodedPath] || ROUTE_ALIASES[normalizedPath] || decodedPath;
 
   const page =
+    pagesData[aliasedPath] ||
     pagesData[decodedPath] ||
     pagesData[normalizedPath] ||
     Object.values(pagesData).find(
       (p: any) =>
+        p.canonicalPath.toLowerCase() === aliasedPath.toLowerCase() ||
         p.canonicalPath.toLowerCase() === decodedPath.toLowerCase() ||
         p.canonicalPath.toLowerCase() === normalizedPath.toLowerCase()
     );
@@ -70,19 +80,21 @@ export default function DynamicPage({ params }: PageProps) {
   const rawPath = '/' + params.slug.join('/');
   const decodedPath = decodeURIComponent(rawPath);
   const normalizedPath = decodedPath.replace(/ /g, '-');
+  const aliasedPath = ROUTE_ALIASES[decodedPath] || ROUTE_ALIASES[normalizedPath] || decodedPath;
 
   // Exact match or fallback
-  let page = pagesData[decodedPath] || pagesData[normalizedPath];
+  let page = pagesData[aliasedPath] || pagesData[decodedPath] || pagesData[normalizedPath];
   if (!page) {
     // Try finding matching path regardless of slight formatting differences
     page = Object.values(pagesData).find(
       (p: any) =>
+        p.canonicalPath.toLowerCase() === aliasedPath.toLowerCase() ||
         p.canonicalPath.toLowerCase() === decodedPath.toLowerCase() ||
         p.canonicalPath.toLowerCase() === normalizedPath.toLowerCase()
     );
   }
 
-  const currentPath = page?.canonicalPath || normalizedPath;
+  const currentPath = page?.canonicalPath || aliasedPath || normalizedPath;
 
   if (!page) {
     // If route is a parent category like /committees/statutory-committees, provide directory
@@ -172,6 +184,8 @@ export default function DynamicPage({ params }: PageProps) {
         return <GalleryEventTemplate page={page} />;
       case 'PlacementTemplate':
         return <PlacementTemplate page={page} />;
+      case 'AccreditationTemplate':
+      case 'GraduationReportTemplate':
       case 'InstitutionalTemplate':
       default:
         return <InstitutionalTemplate page={page} />;

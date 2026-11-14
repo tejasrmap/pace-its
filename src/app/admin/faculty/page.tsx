@@ -145,6 +145,8 @@ export default function AdminFacultyManager() {
   const [statusFilter, setStatusFilter] = useState('ALL');
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [editingMember, setEditingMember] = useState<FacultyMember | null>(null);
+  const [currentPage, setCurrentPage] = useState(1);
+  const pageSize = 5;
 
   // Form State
   const [formData, setFormData] = useState<{
@@ -183,6 +185,9 @@ export default function AdminFacultyManager() {
       return matchSearch && matchDept && matchStatus;
     });
   }, [faculty, search, deptFilter, statusFilter]);
+
+  const totalPages = Math.ceil(filtered.length / pageSize) || 1;
+  const paginated = filtered.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
   const handleOpenAdd = () => {
     setEditingMember(null);
@@ -387,7 +392,7 @@ export default function AdminFacultyManager() {
                   </td>
                 </tr>
               ) : (
-                filtered.map((f) => (
+                paginated.map((f) => (
                   <tr key={f.id} className="hover:bg-slate-50/80 transition">
                     <td className="py-3 px-4">
                       <div className="flex items-center gap-3">
@@ -456,14 +461,44 @@ export default function AdminFacultyManager() {
           </table>
         </div>
         <div className="p-3 bg-slate-50 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
-          <div>Showing {filtered.length} of {faculty.length} faculty members</div>
+          <div>
+            Showing {filtered.length === 0 ? 0 : (currentPage - 1) * pageSize + 1} to{' '}
+            {Math.min(filtered.length, currentPage * pageSize)} of {filtered.length} faculty members
+          </div>
           <div className="flex gap-1">
-            <button disabled className="px-2.5 py-1 bg-white border border-slate-200 rounded text-slate-400 cursor-not-allowed">
+            <button
+              onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+              disabled={currentPage === 1}
+              className={`px-2.5 py-1 rounded text-xs transition ${
+                currentPage === 1
+                  ? 'bg-slate-100 text-slate-400 cursor-not-allowed border border-slate-200'
+                  : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-100'
+              }`}
+            >
               Previous
             </button>
-            <button className="px-2.5 py-1 bg-[#123D5A] text-white rounded font-bold">1</button>
-            <button className="px-2.5 py-1 bg-white border border-slate-200 rounded hover:bg-slate-100 text-slate-700">2</button>
-            <button className="px-2.5 py-1 bg-white border border-slate-200 rounded hover:bg-slate-100 text-slate-700">
+            {Array.from({ length: totalPages }).map((_, idx) => (
+              <button
+                key={idx + 1}
+                onClick={() => setCurrentPage(idx + 1)}
+                className={`px-2.5 py-1 rounded text-xs font-bold transition ${
+                  currentPage === idx + 1
+                    ? 'bg-[#123D5A] text-white'
+                    : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-100'
+                }`}
+              >
+                {idx + 1}
+              </button>
+            ))}
+            <button
+              onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+              disabled={currentPage === totalPages}
+              className={`px-2.5 py-1 rounded text-xs transition ${
+                currentPage === totalPages
+                  ? 'bg-slate-100 text-slate-400 cursor-not-allowed border border-slate-200'
+                  : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-100'
+              }`}
+            >
               Next
             </button>
           </div>

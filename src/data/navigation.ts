@@ -40,7 +40,7 @@ export const mainNavigation: NavItem[] = [
       { title: "Admission Procedure", href: "/admissions/admission-procedure" },
       { title: "Courses Offered", href: "/admissions/courses-offered" },
       { title: "Fee Details", href: "/admissions/fee-details" },
-      { title: "Category-B (Management Quota)", href: "/admissions/b-category" },
+      { title: "Category-B (Management Quota)", href: "/admissions/b-category/applications" },
       { title: "Management Notifications", href: "/admissions/b-category/notifications" },
       { title: "Application Forms", href: "/admissions/b-category/applications" },
       { title: "Apply Online - B.Tech", href: "/admissions/b-category/apply-online/btech", badge: "Apply Now" },
@@ -126,7 +126,7 @@ export const mainNavigation: NavItem[] = [
           { title: "Grievance Redressal Committee", href: "/committees/non-statutory-committees/grievance-redressal-committee" },
           { title: "SC/ST Committee", href: "/committees/non-statutory-committees/sc-st-committee" },
           { title: "Minority Cell", href: "/committees/non-statutory-committees/minority-cell-committee" },
-          { title: "OBC Cell", href: "/committees/non-statutory-committees/obc-committee" },
+          { title: "OBC Cell", href: "/committees/non-statutory-committees/obc-cell-committee" },
           { title: "Health Watch Committee", href: "/committees/non-statutory-committees/health-watch-committee" },
           { title: "Student Welfare Committee", href: "/committees/non-statutory-committees/student-welfare-committee" }
         ]
@@ -162,7 +162,7 @@ export const mainNavigation: NavItem[] = [
       { title: "Sports & Games", href: "/campus/sports-and-games" },
       { title: "National Service Scheme (NSS)", href: "/campus/national-service-scheme" },
       { title: "National Cadet Corps (NCC)", href: "/campus/ncc" },
-      { title: "Institutional Social Responsibility", href: "/campus/isr" },
+      { title: "Institutional Social Responsibility", href: "/isr" },
       { title: "Press & Media Coverage", href: "/campus/press-and-media" },
       { title: "Campus Photo Gallery", href: "/campus/gallery" },
       { title: "Institutional Careers", href: "/careers" }

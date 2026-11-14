@@ -10,6 +10,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://pace.ac.in'),
   title: {
     default: `${siteConfig.name} | Autonomous Institution`,
     template: `%s | ${siteConfig.name}`,
@@ -21,6 +22,28 @@ export const metadata: Metadata = {
     "NAAC A Grade College AP", "AI & Data Science Ongole", "Cyber Security Engineering AP"
   ],
   authors: [{ name: "GT InnoX LLP", url: "https://pace.ac.in" }],
+  openGraph: {
+    type: 'website',
+    locale: 'en_IN',
+    url: 'https://pace.ac.in',
+    siteName: 'PACE Institute of Technology & Sciences',
+    title: `${siteConfig.name} | Autonomous Institution`,
+    description: "PACE Institute of Technology & Sciences is an Autonomous Engineering College in Ongole, AP. Accredited by NAAC with 'A' Grade, NBA accredited, approved by AICTE, permanently affiliated to JNTUK.",
+    images: [
+      {
+        url: '/assets/branding/pace-crest.png',
+        width: 1098,
+        height: 1072,
+        alt: 'PACE ITS Institutional Crest',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary',
+    title: `${siteConfig.name} | Autonomous Institution`,
+    description: "PACE Institute of Technology & Sciences is an Autonomous Engineering College in Ongole, AP.",
+    images: ['/assets/branding/pace-crest.png'],
+  },
   icons: {
     icon: "/favicon.ico",
   },

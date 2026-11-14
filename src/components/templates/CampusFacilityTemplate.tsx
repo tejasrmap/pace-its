@@ -35,7 +35,7 @@ export const CampusFacilityTemplate: React.FC<CampusFacilityTemplateProps> = ({ 
     { title: "Sports, Games & Gymnasium", href: "/campus/sports-and-games" },
     { title: "National Service Scheme (NSS)", href: "/campus/national-service-scheme" },
     { title: "National Cadet Corps (NCC)", href: "/campus/ncc" },
-    { title: "Social Responsibility (ISR)", href: "/campus/isr" },
+    { title: "Social Responsibility (ISR)", href: "/isr" },
     { title: "Press & Media Coverage", href: "/campus/press-and-media" },
     { title: "Campus Photo Gallery", href: "/campus/gallery" },
     { title: "Institutional Careers", href: "/careers" },
@@ -58,7 +58,7 @@ export const CampusFacilityTemplate: React.FC<CampusFacilityTemplateProps> = ({ 
             {page.title}
           </h1>
           <p className="text-slate-300 text-sm sm:text-base max-w-3xl font-light leading-relaxed">
-            Spanning over 110+ acres along NH-16 Ongole, PACE ITS offers a world-class academic environment, digital classrooms, advanced laboratories, and vibrant student amenities.
+            Situated along NH-16 near Ongole, PACE ITS offers a world-class academic environment, digital classrooms, advanced laboratories, and vibrant student amenities across an expansive institutional campus.
           </p>
         </Container>
       </div>
