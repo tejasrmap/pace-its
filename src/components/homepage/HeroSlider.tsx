@@ -31,17 +31,17 @@ export const HeroSlider: React.FC = () => {
             </div>
 
             {/* Primary Headline */}
-            <div className="mb-4 sm:mb-5">
-              <span className="text-xs sm:text-sm font-semibold text-[#E5AD35] tracking-widest uppercase block mb-2 sm:mb-2.5">
+            <div className="mb-5 sm:mb-6">
+              <span className="text-xs sm:text-sm font-semibold text-[#E5AD35] tracking-widest uppercase block mb-2 sm:mb-3">
                 PACE Institute of Technology & Sciences
               </span>
-              <h1 className="text-3xl sm:text-4xl lg:text-[46px] xl:text-[50px] font-heading font-bold text-white leading-[1.16] tracking-tight">
+              <h1 className="text-3xl sm:text-4xl lg:text-[46px] xl:text-[50px] font-heading font-bold text-white leading-[1.28] xl:leading-[1.3] tracking-tight">
                 Empowering Next-Generation Engineers & Global Leaders
               </h1>
             </div>
 
             {/* Institutional Overview */}
-            <p className="text-sm sm:text-base lg:text-[17px] text-slate-200/90 font-normal leading-[1.65] max-w-2xl mb-7 sm:mb-8">
+            <p className="text-sm sm:text-base lg:text-[17px] text-slate-200/90 font-normal leading-[1.65] max-w-xl lg:max-w-[620px] mb-7 sm:mb-8 text-pretty">
               An autonomous institution permanently affiliated to JNTUK Kakinada and approved by AICTE, New Delhi. Delivering industry-aligned engineering, technology, and management education with state-of-the-art laboratories and research facilities along NH-16.
             </p>
 
