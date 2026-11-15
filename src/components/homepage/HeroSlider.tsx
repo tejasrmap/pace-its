@@ -14,9 +14,9 @@ export const HeroSlider: React.FC = () => {
       <Container size="wide" className="relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
           {/* Left Institutional Headline & CTAs */}
-          <div className="lg:col-span-7 space-y-6">
+          <div className="lg:col-span-7 flex flex-col justify-center">
             {/* Accreditation Badges */}
-            <div className="flex flex-wrap items-center gap-2">
+            <div className="flex flex-wrap items-center gap-2 mb-4 sm:mb-5">
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#E5AD35] text-[#0B2C43] text-xs font-bold uppercase tracking-wider shadow-sm">
                 <ShieldCheck className="w-3.5 h-3.5" />
                 UGC Autonomous
@@ -31,22 +31,22 @@ export const HeroSlider: React.FC = () => {
             </div>
 
             {/* Primary Headline */}
-            <div className="space-y-2">
-              <span className="text-xs sm:text-sm font-semibold text-[#E5AD35] tracking-widest uppercase block">
+            <div className="mb-4 sm:mb-5">
+              <span className="text-xs sm:text-sm font-semibold text-[#E5AD35] tracking-widest uppercase block mb-2 sm:mb-2.5">
                 PACE Institute of Technology & Sciences
               </span>
-              <h1 className="text-3xl sm:text-4xl lg:text-[48px] font-heading font-bold text-white leading-[1.18] tracking-tight">
+              <h1 className="text-3xl sm:text-4xl lg:text-[46px] xl:text-[50px] font-heading font-bold text-white leading-[1.16] tracking-tight">
                 Empowering Next-Generation Engineers & Global Leaders
               </h1>
             </div>
 
             {/* Institutional Overview */}
-            <p className="text-sm sm:text-base text-slate-300 font-normal leading-relaxed max-w-2xl">
+            <p className="text-sm sm:text-base lg:text-[17px] text-slate-200/90 font-normal leading-[1.65] max-w-2xl mb-7 sm:mb-8">
               An autonomous institution permanently affiliated to JNTUK Kakinada and approved by AICTE, New Delhi. Delivering industry-aligned engineering, technology, and management education with state-of-the-art laboratories and research facilities along NH-16.
             </p>
 
             {/* Dual Action CTAs */}
-            <div className="flex flex-wrap items-center gap-3 pt-2">
+            <div className="flex flex-wrap items-center gap-3 sm:gap-4">
               <Link
                 href="/admissions/courses-offered"
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-[#E5AD35] hover:bg-[#CF9B2D] text-[#0B2C43] font-bold text-xs sm:text-sm uppercase tracking-wider rounded-xl shadow-md transition-colors"
@@ -91,10 +91,10 @@ export const HeroSlider: React.FC = () => {
         </div>
 
         {/* Verified Institutional Benchmark Strip */}
-        <div className="mt-12 pt-8 border-t border-white/10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-[#E5AD35]/20 text-[#E5AD35] flex items-center justify-center font-bold text-lg shrink-0 border border-[#E5AD35]/30">
-              A
+        <div className="mt-12 lg:mt-16 pt-8 border-t border-white/10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
+          <div className="flex items-center gap-3.5">
+            <div className="w-11 h-11 rounded-xl bg-[#E5AD35]/20 text-[#E5AD35] flex items-center justify-center font-bold text-lg shrink-0 border border-[#E5AD35]/30">
+              <Award className="w-5 h-5 text-[#E5AD35]" />
             </div>
             <div>
               <div className="text-base sm:text-lg font-bold text-white leading-tight">NAAC 'A' Grade</div>
@@ -102,9 +102,9 @@ export const HeroSlider: React.FC = () => {
             </div>
           </div>
 
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-white/10 text-white flex items-center justify-center font-bold text-lg shrink-0 border border-white/15">
-              🏛️
+          <div className="flex items-center gap-3.5">
+            <div className="w-11 h-11 rounded-xl bg-white/10 text-white flex items-center justify-center font-bold text-lg shrink-0 border border-white/15">
+              <Building className="w-5 h-5 text-[#E5AD35]" />
             </div>
             <div>
               <div className="text-base sm:text-lg font-bold text-white leading-tight">Estd. 2008</div>
@@ -112,9 +112,9 @@ export const HeroSlider: React.FC = () => {
             </div>
           </div>
 
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-[#E5AD35]/20 text-[#E5AD35] flex items-center justify-center font-bold text-lg shrink-0 border border-[#E5AD35]/30">
-              📚
+          <div className="flex items-center gap-3.5">
+            <div className="w-11 h-11 rounded-xl bg-[#E5AD35]/20 text-[#E5AD35] flex items-center justify-center font-bold text-lg shrink-0 border border-[#E5AD35]/30">
+              <GraduationCap className="w-5 h-5 text-[#E5AD35]" />
             </div>
             <div>
               <div className="text-base sm:text-lg font-bold text-white leading-tight">13 Departments</div>
@@ -122,9 +122,9 @@ export const HeroSlider: React.FC = () => {
             </div>
           </div>
 
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-white/10 text-white flex items-center justify-center font-bold text-lg shrink-0 border border-white/15">
-              🌲
+          <div className="flex items-center gap-3.5">
+            <div className="w-11 h-11 rounded-xl bg-white/10 text-white flex items-center justify-center font-bold text-lg shrink-0 border border-white/15">
+              <BookOpen className="w-5 h-5 text-[#E5AD35]" />
             </div>
             <div>
               <div className="text-base sm:text-lg font-bold text-white leading-tight">Green Campus</div>

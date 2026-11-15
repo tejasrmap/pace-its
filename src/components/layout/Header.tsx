@@ -139,75 +139,73 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
 
         <div className="max-w-7xl xl:max-w-[1360px] 2xl:max-w-[1536px] mx-auto px-3 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-18 sm:h-20 lg:h-22">
-            {/* Left: Brand + Navigation grouped cohesively */}
-            <div className="flex items-center gap-3 sm:gap-4 xl:gap-5 2xl:gap-8 min-w-0">
-              {/* Authentic Institutional Brand */}
-              <Link href="/" className="flex items-center space-x-2 sm:space-x-2.5 group shrink-0 min-w-0">
-                <div className="h-9 w-9 sm:h-11 sm:w-11 rounded-lg bg-white p-1 shadow-sm shrink-0 flex items-center justify-center">
-                  <img
-                    src="/assets/branding/pace-crest.png"
-                    alt="PACE Institute of Technology & Sciences"
-                    className="h-7 w-7 sm:h-9 sm:w-9 object-contain"
-                  />
-                </div>
-                <div className="flex flex-col min-w-0">
-                  <span className="font-heading text-sm sm:text-base lg:text-lg font-bold tracking-tight text-white leading-tight uppercase group-hover:text-[#E5AD35] transition-colors truncate">
-                    PACE ITS
-                  </span>
-                  <span className="text-[9px] sm:text-[10px] text-amber-200 font-medium tracking-wide flex items-center gap-1 whitespace-nowrap">
-                    <span>AUTONOMOUS</span>
-                    <span>•</span>
-                    <span>NAAC 'A'</span>
-                    <span className="hidden sm:inline">•</span>
-                    <span className="hidden sm:inline">NBA</span>
-                  </span>
-                  <span className="text-[9px] text-slate-300 tracking-wider hidden 2xl:block whitespace-nowrap">
-                    PERMANENTLY AFFILIATED TO JNTUK
-                  </span>
-                </div>
-              </Link>
+            {/* Zone 1 (Left): Authentic Institutional Brand */}
+            <Link href="/" className="flex items-center space-x-2 sm:space-x-2.5 group shrink-0 min-w-0">
+              <div className="h-9 w-9 sm:h-11 sm:w-11 rounded-lg bg-white p-1 shadow-sm shrink-0 flex items-center justify-center">
+                <img
+                  src="/assets/branding/pace-crest.png"
+                  alt="PACE Institute of Technology & Sciences"
+                  className="h-7 w-7 sm:h-9 sm:w-9 object-contain"
+                />
+              </div>
+              <div className="flex flex-col min-w-0">
+                <span className="font-heading text-sm sm:text-base lg:text-lg font-bold tracking-tight text-white leading-tight uppercase group-hover:text-[#E5AD35] transition-colors truncate">
+                  PACE ITS
+                </span>
+                <span className="text-[9px] sm:text-[10px] text-amber-200 font-medium tracking-wide flex items-center gap-1 whitespace-nowrap">
+                  <span>AUTONOMOUS</span>
+                  <span>•</span>
+                  <span>NAAC 'A'</span>
+                  <span className="hidden sm:inline">•</span>
+                  <span className="hidden sm:inline">NBA</span>
+                </span>
+                <span className="text-[9px] text-slate-300 tracking-wider hidden 2xl:block whitespace-nowrap">
+                  PERMANENTLY AFFILIATED TO JNTUK
+                </span>
+              </div>
+            </Link>
 
-              {/* Desktop Navigation */}
-              <nav className="hidden lg:flex items-center space-x-0.5 xl:space-x-1 2xl:space-x-1.5">
-                {navItems.map((item, idx) => {
-                  const isAcademics = item.isMega;
-                  const isRightSide = idx >= navItems.length - 2;
+            {/* Zone 2 (Center): Desktop Navigation */}
+            <nav className="hidden lg:flex items-center space-x-0.5 xl:space-x-1.5 2xl:space-x-3">
+              {navItems.map((item, idx) => {
+                const isAcademics = item.isMega;
+                const isRightSide = idx >= navItems.length - 2;
 
-                  return (
-                    <div
-                      key={item.title}
-                      className="relative"
-                      onMouseEnter={() => handleMouseEnter(item.title)}
-                      onMouseLeave={handleMouseLeave}
+                return (
+                  <div
+                    key={item.title}
+                    className="relative"
+                    onMouseEnter={() => handleMouseEnter(item.title)}
+                    onMouseLeave={handleMouseLeave}
+                  >
+                    <Link
+                      href={item.href}
+                      onClick={(e) => {
+                        if (item.children) {
+                          setActiveDropdown(activeDropdown === item.title ? null : item.title);
+                        }
+                      }}
+                      className={`flex items-center gap-1 px-2 xl:px-2.5 2xl:px-3 py-2 text-xs xl:text-xs 2xl:text-sm font-medium rounded-lg transition-colors whitespace-nowrap ${
+                        activeDropdown === item.title
+                          ? 'text-[#E5AD35] bg-white/5 font-semibold'
+                          : 'text-slate-100 hover:text-[#E5AD35]'
+                      }`}
                     >
-                      <Link
-                        href={item.href}
-                        onClick={(e) => {
-                          if (item.children) {
-                            setActiveDropdown(activeDropdown === item.title ? null : item.title);
-                          }
-                        }}
-                        className={`flex items-center gap-1 px-2 xl:px-2.5 2xl:px-3 py-2 text-xs xl:text-xs 2xl:text-sm font-medium rounded-lg transition-colors whitespace-nowrap ${
-                          activeDropdown === item.title
-                            ? 'text-[#E5AD35] bg-white/5 font-semibold'
-                            : 'text-slate-100 hover:text-[#E5AD35]'
+                      <span className="whitespace-nowrap">{item.title}</span>
+                      <ChevronDown
+                        className={`w-3.5 h-3.5 opacity-60 transition-transform duration-200 shrink-0 ${
+                          activeDropdown === item.title ? 'rotate-180 text-[#E5AD35]' : ''
                         }`}
-                      >
-                        <span className="whitespace-nowrap">{item.title}</span>
-                        <ChevronDown
-                          className={`w-3.5 h-3.5 opacity-60 transition-transform duration-200 shrink-0 ${
-                            activeDropdown === item.title ? 'rotate-180 text-[#E5AD35]' : ''
-                          }`}
-                        />
-                      </Link>
+                      />
+                    </Link>
 
-                      {/* Elite Light MegaMenu for Academics */}
-                      {isAcademics && activeDropdown === item.title && (
-                        <div
-                          className="absolute top-full left-0 lg:left-[-80px] xl:left-0 pt-2 z-50 animate-in fade-in slide-in-from-top-1 duration-150"
-                          onMouseEnter={() => handleMouseEnter(item.title)}
-                          onMouseLeave={handleMouseLeave}
-                        >
+                    {/* Elite Light MegaMenu for Academics */}
+                    {isAcademics && activeDropdown === item.title && (
+                      <div
+                        className="absolute top-full left-0 lg:left-[-120px] xl:left-[-80px] 2xl:left-[-40px] pt-2 z-50 animate-in fade-in slide-in-from-top-1 duration-150"
+                        onMouseEnter={() => handleMouseEnter(item.title)}
+                        onMouseLeave={handleMouseLeave}
+                      >
                         <div className="w-[min(820px,calc(100vw-32px))] max-w-[820px] bg-white rounded-2xl shadow-2xl border border-slate-200 p-6 xl:p-7 text-slate-800 relative before:content-[''] before:absolute before:-top-3 before:left-0 before:right-0 before:h-3">
                         <div className="grid grid-cols-12 gap-7">
                           {/* Left: Undergraduate B.Tech Programs (5 cols) */}
@@ -360,10 +358,9 @@ export const Header: React.FC<HeaderProps> = ({ isTransparentDefault = true }) =
                 );
               })}
             </nav>
-          </div>
 
-          {/* Right: Search + High-Conversion Admission CTA */}
-          <div className="relative z-20 flex items-center space-x-1 sm:space-x-2.5 shrink-0">
+            {/* Zone 3 (Right): Search + High-Conversion Admission CTA */}
+            <div className="relative z-20 flex items-center space-x-1 sm:space-x-2.5 shrink-0">
             <button
               onClick={() => setIsSearchOpen(true)}
               className="p-2 sm:p-2.5 text-slate-200 hover:text-white hover:bg-white/10 rounded-xl transition cursor-pointer"
